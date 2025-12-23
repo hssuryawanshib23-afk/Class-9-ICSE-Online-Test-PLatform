@@ -1,0 +1,1426 @@
+
+
+--- Page 1 ---
+PROPAGATION OF SOUND WAVES
+
+"@:inedium for sound waves to travel; propagation and speed in
+
+i , y . wavelength (A), velocity (V), relation V = fA, (simple
+on the speed of sound; comparison of speed of sound with speed
+fees speeds i in air, thunder and lightning.
+
+(A) PRODUCTION AND PROPAGATION OF SOUND WAVE
+
+8.1 SOUND AND ITS PRODUCTION
+FROM VIBRATIONS
+
+Everyday we hear sounds from various
+sources. For example, we hear sound of morning
+alarm, church bell, school bell, horn of a car (or
+bus), barking of dog, music from different
+instruments, etc. Although we do not see sound
+coming to us, but sound reaches our ears in the
+form of waves formed due to the vibrations of
+particles of the medium. The waves carry the
+mechanical energy of the vibrating particles with
+them so as to produce a sensation of hearing in
+our ears. Thus
+
+Sound is a form of energy that adh rs js
+sensation of hearing in our ears.
+Sound is produced by vibrations
+
+Sound is produced when a body vibrates.
+Following experiments demonstrate this fact.
+
+Experiment (1) : Stretch a string by holding one end in
+mouth between the teeth and the other end in one hand as
+shown in Fig. 8.1. Pluck it by the other hand near the middle.
+
+It is noticed that the string starts vibrating
+and simultaneously a sound is heard. After some
+
+RUBBER STRING
+
+Fig. 8.1 A vibrating rubber string produces sound
+
+time when the string stops vibrating, no sound is
+heard.
+
+Experiment (2) : Take a thin wire and stretch it between
+the two nails about a metre apart. Place a small bit of paper
+as rider near the middle of the wire and pluck the wire near
+the rider as shown in Fig. 8.2.
+
+It is observed that the rider flies off as the
+wire starts vibrating and a sound is heard. After
+some time when the wire stops vibrating (i.e.,
+when the paper rider placed on the wire, does
+not fly off), no sound is heard.
+
+Fig. 8.2 A vibrating wire produces sound
+
+Experiment (3): Take a
+tuning fork which is a
+rectangular rod of steel (or
+aluminium) bent in the U
+
+i THE BALL |TABLE TENNIS
+shape, with a metallic stem “woyes _/ ih
+at the bend. Strike its one AWAY »*
+
+arm on a rubber pad and
+bring it near a table tennis
+ball suspended by a thread
+as shown in Fig. 8.3.
+
+It is noticed that
+as the arm of vibrating
+tuning fork is brought close to the ball, it jumps to
+and fro and sound of the vibrating tuning fork is.
+heard. When its arms stop vibrating, the ball
+becomes stationary and no sound is heard.
+
+FORK
+
+Fig. 8.3 A vibrating tuning —
+fork producing sound
+
+167
+
+
+--- Page 2 ---
+Experiment (4) : Take a drum and beat it. The membrane
+vibrates which can be felt by touching it and the sound of
+drum is heard. As the membrane stops vibrating, no sound
+is heard. This shows that the vibrating drum produces
+sound.
+
+Experiment (5) : If the string of a sitar (or guitar) is
+plucked, the string starts vibrating and its sound is heard.
+
+Similarly on blowing a whistle, the air in whistle starts
+vibrating and a sound is heard.
+
+From the above experiments, it is concluded
+that sound is produced when a body vibrates. As it
+stops vibrating, the sound produced by it ceases.
+Thus
+
+A vibrating body is a source of sound.
+
+Sound is a form of energy : Mechanical
+energy is required to start vibrations in a body
+producing sound. The vibrations of body are
+transmitted in medium in form of waves from that
+point to the next and so on. These waves on reaching
+our ears, produce vibrations in the ear drum which
+are perceived as sound by us. Thus, sound is a form
+of energy.
+
+8.2. SOUND PROPAGATION REQUIRES A
+MATERIAL MEDIUM
+
+Sound produced by a vibrating body travels
+from one place to other through the mechanical
+vibrations of the medium particles in form of
+waves. Thus a material medium is required for
+the propagation of sound. This can easily be
+demonstrated by the following experiment.
+
+Experiment (Bell jar experiment) : Take an electric bell
+and an air tight glass bell jar. The electric bell is
+suspended inside the bell jar. The bell jar is connected
+to a vacuum pump as shown in Fig. 8.4. As the circuit
+of electric bell is completed by pressing the key, the
+
+BATTERY KEY
+
+BELL JAR
+ELECTRIC BELL
+
+—* TO VACUUM PUMP
+Fig.8.4 Sound requires medium
+(bell jar experiment)
+
+hammer of the electric bell is seen to strike the gong
+repeatedly and the sound of bell is heard.
+
+Now keeping the key pressed, air is gradually
+withdrawn from the jar by starting the vacuum
+pump. It is noticed that the loudness of sound goes
+on decreasing as the air is taken out from the bell
+jar and finally no sound is heard when the entire
+air from the jar has been drawn out. The hammer
+of electric bell is still seen striking the gong
+repeatedly which means that the gong is still
+vibrating to produce sound (as hammer strikes the
+gong), but it is not heard.
+
+Explanation : When hammer of the bell hits
+the gong, sound is produced due to the vibrations
+of gong which travels through air to the wall of
+jar. This causes the wall of jar to vibrate due to
+which the air outside the jar is also set in vibration.
+Thus sound is heard by us. But when air has been
+removed from the jar, sound produced due to
+vibrations of gong could not travel to the wall of
+jar, so wall could not vibrate and no sound is
+heard. This clearly demonstrates that sound
+requires a material medium for its transmission
+and it cannot travel through vacuum. Thus,
+
+A material medium is necessary for the
+propagation of sound from one place to another.
+
+Requisites of the medium
+
+The medium required for propagation of
+sound must possess the following three properties :
+(i) The medium must be elastic so that its particles
+may come back to their initial positions after
+displacement on either side.
+
+(ii) The medium must have inertia so that its
+particles may store mechanical energy.
+
+(iii) The medium should be frictionless so that
+there is no loss of energy in propagation of
+sound through it.
+
+Sound can propagate not only in gases, but
+also in solids and liquids. Some materials such as
+air, water, iron etc., can easily transmit sound
+through them from one place to another. On the
+other hand, blanket, thick curtains etc., absorb
+most of the sound incident on them and transmit
+or reflect only a small fraction of it.
+
+Sound cannot travel in vacuum. On moon,
+there is no medium, therefore on moon, one can
+not hear the sound produced by the others.
+
+Note : The light does not require any material
+medium for its propagation and it can
+therefore propagate through vacuum as well.
+
+168
+
+
+--- Page 3 ---
+8.3 PROPAGATION OF SOUND IN A
+MEDIUM
+When a source of sound vibrates, it creates a
+periodic disturbance in the medium near it (.e., the state
+of particles of medium changes). The distrubance then
+travels in the medium in form of waves. This can
+be understood by the following examples.
+Example 1 : Take a thin metal strip. Keeping
+it vertical, fix its lower end. Push its upper end to
+one side and then release it. As it vibrates (i.e. moves
+alternately to the right and left) sound is heard.
+Metal strip
+
+& |
+
+aoc
+|
+
+QUIT TT TTT T EEE
+SHAWL
+
+(3)
+R Cc
+PET ET oP TPT
+(e)
+
+Fig.8.5 Propagation of disturbance in air
+
+Fig. 8.5(a) shows the undisturbed or normal
+position of the metal strip and the air layers on the
+right side near the strip in their undisturbed (or
+normal) position.
+
+As the strip moves to the right from a to b in
+Fig. 8.5(b), it pushes the particles of air in layers
+in front of it. So the particles of air in these layer
+get closer to each other i.e., air of these layers gets
+compressed (or compression is formed at C). The
+particles of these layers while moving towards right,
+push and compress the layers next to them, which
+then compress the next layers and so on. Thus the
+disturbance moves forward in form of compression.
+The particles of the medium get displaced, but they
+do not move along with the compression.
+
+As the metal strip starts returning from b to a
+in Fig. 8.5(c) after pushing the particles in front,
+the particles of air near the strip starts returning
+back to their mean positions due to the elasticity
+of the medium.
+
+When the strip moves to the left from a to c
+in Fig. 8.5(d), it pushes back the layers of air near
+it towards its left and thus produces a space of
+very low pressure on its right side. The air layers
+
+Air layers
+
+PEPE LI TEE
+
+(a) Normal condition
+
+ax
+
+oo)
+[=a
+
+Ba "st
+
+on the right side of the strip expand in this region
+thus forming the rarefied air layers. This region of
+low pressure is called the rarefaction R.
+
+When the strip returns from c to its normal
+position a in Fig. 8.5(e), it pushes the rarefaction
+R forward and the air layers near the strip again
+pass through their mean positions due to the
+elasticity of the medium.
+
+In this manner, as strip moves to the
+right and left repeatedly, the compression and
+rarefaction regions are produced one after the
+other which carry the disturbance with it with a
+definite speed depending on the nature of the
+medium. Gradually due to friction, the strip loses its
+energy to the medium and the disturbance dies out.
+
+One complete to and fro motion of the strip
+forms one compression and one rarefaction
+which together constitute one wave. This wave in
+which the particles of medium vibrate about their
+mean positions, in the direction of propogation of
+sound is called the longitudinal wave. Thus sound
+travels in air in form of longitudinal waves.
+Actually the longitudinal waves can be produced
+in solids, liquids as well as gases. At compressions,
+the density and pressure of the medium is
+maximum, while at rarefaction the density and
+pressure of the medium is minimum.
+
+Example 2 : In the above example,
+formation of waves in air could not be seen. The
+formation of waves can easily be seen on the
+surface of water. If we drop a piece of stone in
+the still water of a pond, we hear the sound of
+stone striking the water surface. Actually a
+disturbance is produced in water at the point
+where the stone strikes it. This disturbance
+spreads in all directions radially outwards in
+form of circular waves (or ripples) on the surface
+of water as shown in Fig. 8.6.
+
+PIECE OF STONE
+
+Fig.8.6 Ripples (or waves) formed on the surface of
+water on dropping a piece of stone in it
+
+Now if we place a piece of cork on the water
+surface at some distance away from the point where
+the stone strikes the water, we notice that the cork
+does not move ahead, but it moves up and down,
+while the wave moves ahead. The reason is that
+the particles of water (or medium) start vibrating
+
+169
+
+
+--- Page 4 ---
+up and down at the point where the stone strikes.
+These particles then transfer their energy to the
+other neighbouring particles and they themselves
+come back to their mean positions. This process
+continues and thus the disturbance moves ahead
+on the water surface in form of waves as shown in
+Fig. 8.7. The waves die out as soon as the energy
+imparted by stone gets dissipated. However, it is
+possible to obtain a continuously travelling wave
+if a periodic disturbance is produced at the point
+of striking the stone on the water surface.
+
+Direction of motion of
+
+Cork # Crest Crest qturbance
+
+===! Trough:== Trough == Pisce of stone: =
+
+Fig. 8.7 Propagation of disturbance on the
+surface of water.
+
+The wave in which the particles of medium
+vibrate about their mean positions, in a direction
+perpendicular to the direction of propagation of
+the wave, is called the transverse wave. A
+transverse wave is composed of crest and trough.
+The position of maximum upward displacement
+is called crest, while the position of maximum
+downward displacement is called trough. The
+transverse waves can only be produced in solids
+and on the surface of liquids. They can not be
+produced inside liquids and in gases.
+
+Characteristics of wave motion : (1) A
+wave is produced by the periodic disturbance
+at a point in the medium.
+
+(2) Due to propagation of wave in a medium,
+the particles of medium vibrate about their mean
+positions (without leaving their positions) and
+energy is transferred with a constant speed from
+one place of medium to the other place.
+
+8.4 SOME TERMS RELATED TO WAVE
+MOTION
+
+(i) Amplitude : When a wave passes through
+a medium, the maximum displacement of the
+particle of medium on either side of its mean
+position, is called the amplitude of wave. It is
+denoted by the letter a. Its S.I. unit is metre (m).
+(ii) Time period : The time taken by a
+particle of medium to complete its one vibration
+is called the time period of wave. It is denoted
+by the letter 7. Its S.I. unit is second (s).
+
+(iii) Frequency : The number of vibrations
+made by a particle of medium in one second is
+called the frequency of wave. It is same as the
+number of waves passing through a point in one
+
+second. It is denoted by the letter f/ n or v (neu).
+Its S.J. unit is second-! (symbol s~') or hertz
+(symbol Hz).
+
+The frequency f and time period T are
+related as
+
+f=
+
+The frequency of a wave is equal to the
+frequency of vibration of its source. It is the
+characterstic of its source which produces the
+disturbance. It does not depend on the amplitude
+of vibration or on the nature of medium in which
+the wave propagates.
+
+(iv) Wavelength : The distance travelled
+by the wave in one time period of vibration of
+particle of the medium, is called its wavelength.
+It is denoted by the letter A (lambda). Its S.I.
+unit is metre (m). It depends on the medium in
+which the wave travels.
+
+In a longitudinal wave, the distance
+between two consecutive compressions or
+between two consecutive rarefactions is equal
+to one wavelength, while in a transverse wave,
+the distance between two consecutive crests or
+between two consecutive troughs is equal to one
+wavelength.
+
+(v) Wave velocity : The distance travelled
+by a wave in one second is called its wave velocity
+or wave speed. It is the speed with which energy
+is transferred from one place to the other place
+by wave motion. It is not the velocity of an
+individual particle vibrating about its mean
+position. It is denoted by the letter V. Its S.I. unit
+is metre per second (m s~').
+
+It may be noted that the wave velocity is
+constant for a given medium. It depends on the
+elasticity and the density of the medium. It
+changes when the wave passes from one medium
+to the other medium.
+
+Displacement-time graph : Fig. 8.8 shows
+the variation of displacement with time for a
+particle of the medium at a given position, when a
+wave propagates through the medium. It is called
+displacement-time graph. In Fig. 8.8, the
+amplitude is represented by the letter a and time
+period is represented by the letter 7. Note that
+each particle of the medium goes through such
+motion, not simultaneously, but one after another
+as the wave moves in the medium.
+
+mJ |
+
+* In time 7 s, number of vibrations = 1
+“. In 1s, number of vibrations = 1/T =f
+
+170
+
+
+--- Page 5 ---
+T ——_—_-5
+
+ZS
+
+Time t>
+
+JN
+WD
+
+«———_ T ———
+Fig.8.8 Displacement - time graph of a
+particle of a wave
+
+Displacement
+
+Displacement-distance graph : Fig. 8.9
+shows the displacement-distance graph of a
+transverse wave at an instant. Here amplitude
+of particles of wave is shown by the letter a and
+wavelength is shown by the letter A. The curve
+shows the displaced positions of particles of
+medium from their mean positions at an instant
+when wave propagates through the medium. It
+is also called snap-shot of a wave.
+
+Distance x >
+
+Displacement
+
+kK—— 14 ——
+Fig.8.9 Displacement - distance graph of a wave
+8.5 RELATIONSHIP BETWEEN THE
+WAVELENGTH, WAVE VELOCITY
+AND FREQUENCY
+
+Let velocity of a wave be V, time period 7,
+
+frequency f and wavelength A. By the definition of
+wavelength,
+
+Wavelength A = Distance travelled by the
+wave in one time period i.e.,
+
+in T second
+= Wave velocity x Time period
+=VxT
+or Wr=iX (8.2)
+1
+.. From eqn. (8.2),
+Vx (+) =A
+or (8.3)
+Therefore,
+8.6 SPEED OF SOUND IN DIFFERENT
+MEDIA
+
+It is our common experience while standing
+at some distance from a blacksmith that when a
+
+blacksmith strikes his hammer on an iron piece,
+the sound produced on striking the hammer is
+heard a short-while after the hammer is seen
+striking. Similarly the sound of a cracker is heard
+only a little later than it has exploded (i.e., when
+flash is seen). This indicates that the sound does
+not reach us instantaneously but it travels in a
+medium with a finite speed and it takes some time
+to reach us from the place where it is produced.
+The speed of sound in a medium depends
+on the following two factors: _
+(i) the elasticity E of the medium, and
+(ii) the density p of the medium.
+The speed of sound in a medium is given
+by the relation
+
+.. (8.4)
+
+where E is the modulus of elasticity (Young's
+modulus in case of solids or bulk modulus in case
+of fluids*) and p is the density of the medium.
+
+Newton assumed that when sound travels in a gas,
+the temperature of gas does not change (i.e., the
+propagation of sound is an isothermal change). For
+isothermal change, modulus of elasticity is equal to the
+pressure ie, E = P. Thus from eqn. (8.4), speed of
+sound in a gas is given as
+
+.. (8.5)
+
+For air at normal temperature and pressure (N.T.P.),
+P=1-01 x 10° Nm, p= 1-293 kg m™, so Vcomes out to
+be 279-5 m s“'. But experimentally the speed of sound in
+air is found to be nearly 330 m s™!. Thus speed of sound
+calculated by using eqn. (8.5) is found to be lower than the
+experimental value.
+
+Later on, the scientist Laplace applied a correction
+to the above relation. According to Laplace, when sound
+travels in a gas, during the formation of compression and
+rarefaction, there is no exchange of heat in the medium
+i.e., the propagation of sound is an adiabatic change. For
+an adiabatic change, modulus of elasticity E = y P where
+Y is the ratio of the specific heat at constant pressure to
+the specific heat at constant volume (y = C, /C,) and P
+is the pressure of the gas.
+
+Hence from eqn. (8.4), the speed of sound in a gas is
+given as
+
+...(8.6)
+
+The value of y depends on the nature of the
+medium. For air, y is 1-4.
+
+* Fluids include liquids and gases.
+
+171
+
+
+--- Page 6 ---
+This modified formula (eqn. 8.6) gave the correct
+value of the speed of sound. At N.T-P. in air, taking
+y= 1-4, P= 1-01 x 10° N m? and p = 1-293 kg m°.
+V comes out to be nearly 330-7 m s-' which agrees
+with the experimental value.
+
+The speed of sound is different in differént media.
+The speed of sound is more in solids, less in
+liquids and least in gases ( since solids ate niuch
+
+more elastic than the liquids atid’ pases).
+The speed of sound is nearly 5100:m:8 ih steel,
+1450 m s~ in water and 330 m s in Gir'at °C.
+Table below gives the speed of sound in
+different media at 0°C.
+Speed of sound in some media
+
+Examples showing that the speed of sound in
+steel is more than that in air
+
+(1) If sound is produced at one end of a
+very long steel bar, two sounds are heard at the
+other end. One which reaches first, is propagated
+through steel and the other which is heard later,
+is through air.
+
+(2) A person living near the railway track
+often presses his ear against the steel rail to
+guess whether a train is coming or not. The
+reason is that the vibrations produced by the
+moving wheels of train, travel much faster
+through the steel rail than through air. So sound
+is heard through track much before it is heard
+through air. Thus the person by hearing sound
+through the steel rail gets an indication of
+coming of train well before its sound is heard..
+
+8.7. FACTORS AFFECTING THE SPEED
+OF SOUND IN A GAS
+
+The speed of sound in a gas is affected
+
+by the change in (i) density, (ii) temperature,
+
+(iii) humidity, and (iv) direction of wind.
+(i) Effect of density :
+
+P 1
+V= he , it is clear that V « \p ie., the
+Y p p
+
+speed of sound is inversely proportional to the
+square root of density of the gas. The density of
+oxygen is 16 times the density of hydrogen,
+therefore the speed of sound in hydrogen is four
+times the speed of sound in oxygen*.
+
+(ii) Effect of temperature : The speed of
+sound in a gas increases with the increase in
+temperature of the gas. The reason is that with
+the increase in temperature, the density of gas
+decreases and consequently the speed of sound
+increases. In fact, the speed of sound is directly
+proportional to the square root of temperature
+of the medium i.e., V < 7 where T is the
+temperature of the gas on the Kelvin scale.
+
+The speed of sound in air increases by
+about 0-61 ms”! (or 61 cm per second) for each
+degree celsius rise in temperature (provided that
+the rise in temperature is not very large). i.e.,
+
+V,=Vy +061 t (8.7)
+
+Example : The speed of sound in the dry
+still air at O°C is 330 m s“'. At 25°C, the speed
+of sound in this air will be
+Vos = Vo + 0-61 t= 330 + 0-61 x 25 = 345-25 ms.
+
+(iii) Effect of humidity : The speed of sound
+in air increases with the increase in humidity in
+
+From relation
+
+air. The density of water vapour is about th times
+the density of dry air at ordinary temperature,
+therefore the increase of moisture in air tends to
+decrease the density of air. Hence the speed of
+sound in the humid air is greater than the speed
+of sound in dry air. In other words, the sound
+travels faster in humid air than in dry air.
+
+(iv) Effect of direction of wind : The speed
+of sound increases or decreases according to the
+direction of travel of wind. If wind is blowing
+in the direction of propagation of sound, the
+speed of sound increases, while if it is blowing
+
+Density of oxygen
+Velocity of soundin oxygen \ Density of hydrogen
+Vu 2 16
+or Vo, = 7 =4
+
+* Velocity of soundin hydrogen
+
+172
+
+
+--- Page 7 ---
+in a direction opposite to that of sound, the speed
+of sound decreases.
+
+If V is the speed of sound in still air and W
+is the speed of wind, the speed of sound becomes
+V + W when wind blows in the direction of travel
+of sound and the speed of sound becomes
+V — W when wind blows in the direction opposite
+to the direction of travel of sound.
+
+Example : The sound of a distant music is
+quickly and loudly heard if it is coming with the
+wind. On the other hand, it is difficult to hear if
+the wind blows in opposite direction.
+
+8.8 FACTORS NOT AFFECTING THE
+SPEED OF SOUND IN A GAS
+
+The speed of sound in a gas is not affected
+by the change in (i) pressure, (ii) amplitude of
+wave, and (iii) wavelength or frequency of wave.
+
+(i) Effect of pressure : The speed of sound in
+a gas is independent of pressure. In the formula
+
+YP the ratio —
+5° the ratio ©
+
+the change in pressure. When pressure increases,
+volume decreases, but mass remains unchanged,
+so density increases, such that the ratio P/p remains
+constant. For example, if pressure P of a gas is
+doubled, volume becomes half, so density p gets
+doubled (mass is constant). As a result, the ratio
+P/p does not change. Thus, the speed of sound in a
+gas is independent of pressure.
+
+(ii) Effect of amplitude of wave : The speed
+of sound does not depend on the amplitude of
+sound wave.
+
+V= remains unchanged with
+
+(iii) Effect of wavelength (or frequency)
+of wave : The speed of sound does not depend
+on the wavelength (or frequency) of sound wave.
+
+8.9 COMPARISON OF SPEED OF SOUND
+WITH SPEED OF LIGHT
+
+There are the following four points of
+distinction between the propagation of sound and
+light waves.
+
+(1) The light waves can travel in vacuum, but
+the sound waves can not travel in vacuum.
+
+(2) Ths speed of light waves is 3 x 108 ms“!
+in air which is about a million times greater than
+the speed of sound waves in air (i.e., 330 ms"! at
+orc).
+
+(3) The speed of light waves decreases in an
+
+optically denser medium (speed of light in water is
+2:25 x 108 ms“, in glass is 2 x 108 ms“), while
+the speed of sound waves is more in solids, less in
+liquids and still less in gases (speed of sound in steel
+is nearly 5100 m s~!, in water is nearly 1450 m s"!
+and in air is nearly 330 m s~').
+
+(4) The light waves are transverse
+electromagnetic waves while the sound waves in
+air are the longitudinal mechanical waves.
+
+Consequences of the large difference in the
+speed of sound and that of light
+
+(1) Thunder and lightning : In thunder,
+light is seen much earlier than the sound of
+thunder is heard, although they are produced
+simultaneously. The reason is that light takes
+almost negligible time in comparison to sound
+in reaching us from the place of thunder because
+speed of light is much more (= 3 x 108 m s"!)
+than the speed of sound (= 330 m s!).
+
+When the starter in an athletic event fires a
+gun, a spectator sitting at a distance hears
+the sound of fire a little later while the smoke
+iS instantaneously seen. The reason is that
+Viight >> Vsound:
+
+The spectators watching the cricket game
+hear the sound of stroke a little later than
+the batsman is seen actually making it. The
+reason is that Vigne >> Vsound-
+
+8.10 EXPERIMENTAL DETERMINATION
+OF SPEED OF SOUND IN AIR
+
+The fact that light travels in air about a
+million times faster than sound, can be used to
+determine the speed of sound in air.
+
+Experiment : Choose two places A and B at
+high altitudes facing each other, at a known
+distance d apart (say, about 1 km), in still air. The
+distance d is noted. At each place, there is an
+observer with a gun and a stop watch. First the
+observer at place A fires the gun, while the observer
+at place B starts his stop watch immidiately on
+seeing the flash of fire at A and stops it when he
+hears the sound of fire. The observer at B by his
+watch thus finds the time interval t, taken by the
+sound to travel from A to B.
+
+Now the observer at place B fires the gun.
+The observer at place A starts his stop watch when
+he sees the flash of fire at B and stops it when he
+hears the sound of fire. Thus the observer A by his
+
+(2)
+
+173
+
+
+--- Page 8 ---
+watch finds the time interval t, taken by sound to
+travel from B to A.
+The average of the two time intervals is
+t +t,
+t=
+
+. This is the time taken by sound to
+
+travel the distance d between the places A and
+B. The speed of sound is then calculated by using
+the formula
+
+Note : In this experiment, we measure the
+time interval two times, first for sound to travel
+from place A to place B and then from place B
+to place A so as to eliminate the error arising
+due to flow of wind. However, the speed of
+sound so determined is not still very accurate
+because of the personal error of the two
+observers and the variation in temperature and
+humidity of air in between the places A and B.
+
+1. A bat can hear sound of frequencies up to
+120 kHz. Determine the minimum wavelength
+of sound which it can hear. Take speed of
+sound in air to be 344 ms".
+
+Given, f = 120 kHz = 120 x 10° Hz, V=344 ms".
+From relation V = fA,
+
+Waveleneth = © = —te
+avelength 4 =F = 150x103
+
+= 2:87 x 10° m (or 2:87 mm)
+i.e., the bat can hear sound of minimum
+wavelength 2-87 mm.
+
+2. Ocean waves of time period 10 s have wave
+velocity 15 m s"'. Find : (i) the wavelength of
+these waves, (ii) the horizontal distance
+between a wave crest and its adjoining wave
+trough.
+
+Given, T= 10s, V=15ms"!
+
+X
+(i) From relation V = T’
+
+Wavelength of wave A = Vx T
+or X= 15x 10= 150m
+
+(ii) The distance between a wave crest and its
+
+adjoining wave trough
+
+x 1
+
+372 x 150 m= 75 m.
+
+3. A wave pulse of frequency 200 Hz, on a string
+moves a distance 8 m in 0-05 s. Calculate :
+(a) the velocity of pulse, and (b) the
+wavelength of wave on string.
+
+Given, d = 8 m, t = 0-05 s, f = 200 Hz
+
+Distance moved d
+
+Time takent °
+
+(a) The velocity of pulse V =
+
+8m
+
+- — = -I
+= 9.055 = 10oms
+
+or V
+
+(b) Wave velocity on string V
+= velocity of wave pulse on it = 160 ms?
+
+From relation V = fA,
+Vv 160
+
+Wavelength of wave A = f= 2007 0-8 m.
+4. Compare approximately the speed of sound
+
+in air and steel.
+
+The speed of sound in air is nearly 330 m s"!
+
+and in steel is nearly 5100 m s“'. Thus, the ratio
+
+of speed of sound in air and steel is
+
+Speed of soundinair _330ms"'__ 1
+
+- = ——_—— = — nearly.
+Speed of soundinsteel 5100ms~! 15
+
+5. The smoke from the gun barrel is seen
+2 second before the explosion is heard. If the
+speed of sound in air is 340 m s“ , calculate
+the distance of observer from gun. State the
+approximation used.
+
+Given : Speed of sound = 340 m s“!, time = 2 s
+distance travelled
+
+Speed = time taken
+.. Distance= speed x time
+= 340 x 2 = 680 m.
+
+Approximation :
+
+The speed of light (= 3 x 108 m s~!) is much larger
+in comparison to the speed of sound (= 340 m s“),
+therefore we can assume that the light takes
+negligible time and sound takes 2 s to reach the
+observer.
+
+6. The speed of sound in air is 330 m s“! and in
+water is 1650 m s“!. It takes 2 s for sound to
+
+174
+
+
+--- Page 9 ---
+reach a certain distance from the source
+placed in air. (a) Find the distance. (b) How
+much time will it take for sound to reach
+the same distance when the source is in
+water ?
+
+(a) Given, in air V = 330ms"',t = 25
+
+From relation V = q
+
+Distance travelled by sound in air,
+d =Vxt=330x2=660m
+(b) In water, V= 1650 ms"!, d = 660m
+
+“. Time taken by sound to travel the distance
+d in water will be
+
+|. What causes sound ?
+
+Ans. Sound is caused due to vibrations of a body.
+2. What is sound ? How is it produced ?
+3. Complete the following sentence :
+
+Sound is produced by a ............. body.
+Ans. Vibrating
+
+4. Describe a simple experiment which demonstrates
+that the sound produced by a tuning fork is due
+to vibrations of its arms.
+
+5. Describe in brief, with the aid of a labelled diagram,
+an experiment to demonstrate that a material
+medium is necessary for the propagation of sound.
+
+6. There is no atmosphere on moon. Can you hear
+each other on the moon's surface ? Ans. No.
+
+7. State three characteristics of the medium required
+for propagation of sound ?
+
+8. Explain with an example, the propagation of
+sound in a medium.
+
+9. Choose the correct word/words to complete the
+following sentence :
+
+When sound travels in a medium ...... (the
+particles of the medium, the source, the
+disturbance, the medium) travels in form of a
+wave. Ans. the disturbance
+
+10. Name the two kinds of waves in form of which
+sound travels in a medium.
+
+11. What is a longitudinal wave ? In which medium:
+solid, liquid or gas, can it be produced ?
+
+12. What is a transverse wave ? In which medium:
+solid, liquid or gas, can it be produced ?
+
+13. Explain meaning of the terms compression and
+
+rarefaction in relation to a longitudnal wave.
+
+14. Explain the terms crest and trough in relation to
+a transverse wave.
+
+15. Describe an experiment to show that in wave
+motion, only energy is transferred, but particles
+of medium do not leave their position.
+
+16. Define the term amplitude of a wave. Write its
+S.I. unit.
+
+ee
+
+17. What do you mean by the term frequency of a
+wave ? State its S.I. unit.
+18. How is the frequency of a wave related to its
+time period ? Ans. Frequency = I/time period
+19. Define the term wave velocity. Write its S.I. unit.
+20. Draw displacement-time graph of a wave and
+show on it the amplitude and time period of wave.
+21. Draw a displacement-distance graph of a wave
+and mark on it, the amplitude of wave by the
+letter a and wavelength of wave by the letter 2.
+22. How are the wave velocity V, frequency f and
+wavelength A of a wave related ? Derive the
+relationship.
+23. State two properties of medium on which the
+speed of sound in it depends.
+Ans. (i) Elasticity (ii) density.
+24. Arrange the speed of sound in gases V, , solids
+V, and liquids V, in an ascending order.
+Ans. V, < V,< V,
+25. State the speed of (i) light and (ii) sound in air ?
+Ans. (i) Speed of light = 3 x 108 ms”
+(ii) Speed of sound = 330 m s“!.
+26. Compare approximately the speed of sound in
+air, water and steel. Ans. 1: 4:15
+27. Answer the following :
+(i) Can sound travel in vacuum ?
+(ii) How does the speed of sound differ in different
+media ?
+Ans. (i) No (ii) Speed of sound is maximum in
+solids, less in liquids and least in gases.
+28. Flash of lightning reaches us earlier than the
+sound of thunder. Explain the reason.
+Ans. Light travels much faster than sound
+29. If you place your ear close to an iron railing
+which is tapped some distance away, you hear
+the sound twice. Explain why ?
+Ans. Sound travels in iron faster than in air, so first
+the sound through iron rail is heard and then
+the sound through air is heard.
+
+175
+
+
+--- Page 10 ---
+30. The sound of an explosion on the surface of a
+lake is heard by a boat man 100 m away and by
+a diver 100 m below the point of explosion.
+(i) Who would hear the sound first : boat man or
+diver ?
+
+(li) Give a reason for your answer in part (i).
+
+(iii) If sound takes time f to reach the boat man,
+how much time approximately does it take to
+reach the diver ?
+
+Ans. (i) diver (ii) sound travels faster in water
+than in air (iii) 0-25 ¢.
+31. How do the following factors affect, if at all,
+the speed of sound in air :
+(i) frequency of sound, (il) temperature of air,
+
+(iii) pressure of air, (iv) moisture in air ?
+
+Ans. (i) No effect (ii) Speed of sound increases
+with the increase in temperature (iii) No
+
+effect (iv) Speed of sound increases with the
+increase of moisture in air.
+
+32. How does the speed of sound change with change
+in (i) amplitude and (ii) wavelength, of sound
+wave ? Ans. (i) No change (ii) No change.
+
+33. In which medium the speed of sound is more :
+humid air or dry air ? Give a reason to your answer.
+
+Ans. In humid air. Reason : Density of air decreases
+with the increase of moisture and V « vp °
+34. How does the speed of sound in air vary with
+temperature ?
+Ans. The speed of sound increases by 0-61 m s7!
+for each 1°C rise in temperature.
+35. Describe a simple experiment to determine the
+speed of sound in air. What approximation is
+made in the method described by you ?
+36. Complete the following sentences :
+(a) Sound can not travel through .............. but it
+TEQUITES @ oo. eceeeeeseecensessecenseneees
+(b) When sound travels in a medium, the particles
+of medium .......... but the disturbance
+(c) A longitudinal wave is composed of
+compression and .............:s
+(d) A transverse wave is composed of crest and
+(e) Wave velocity = «0... eee x wavelength.
+Ans. (a) vacuum, medium (b) do not move, moves
+(c) rarefaction (d) trough (e) frequency.
+Multiple choice type :
+1. The correct statement is :
+(a) Sound and light both require medium for
+propagation
+
+(b) Sound can travel in vacuum, but light can
+not
+
+(c) Sound needs medium, but light does not
+need medium for its propogation
+(d) Sound and light both can travel in vacuum.
+Ans. (c) Sound needs medium, but light does
+not need medium for its propogation.
+2. Sound in air propagates in form of :
+(a) longitudinal wave
+(b) transverse wave
+(c) both longitudinal and transverse waves
+(d) neither longitudinal nor transverse wave.
+Ans. (a) longitudinal wave
+
+3. The speed of sound in air at 0°C is nearly :
+
+(a) 1450 ms"! (b) 450 ms"!
+(c) 5100ms! (d) 330 ms"!
+Ans. (d) 330 m s7!
+
+4. The speed of light in air is :
+(a) 3x10®ms" (b) 330ms"!
+(c) 5100 ms"! (d) 3x10! mst
+Ans. (a) 3 x 108 m s7!
+
+Numericals :
+1. The heart of a man beats 75 times a minute.
+What is its (a) frequency and (b) time period ?
+Ans, (a) 1-25 s"!, (b) 0:8 s
+2. The time period of a simple pendulum is 2 s.
+Find its frequency. Ans. 0-5 Hz
+3. The separation between two consecutive crests
+in a transverse wave is 100 m. If wave velocity
+is 20 m s"!, find the frequency of wave.
+Ans, 0:2 Hz
+4. A longitudinal wave travels at a speed of 0-3 m s“!
+and the frequency of wave is 20 Hz. Find
+the separation between the two consecutive
+compressions.
+Ans, 1-5 x 10°? m (or 1-5 cm)
+5. A source of wave produces 40 crests and
+40 troughs in 0-4 s. What is the frequency of the
+wave ? Ans. 100 Hz
+6. An observer A fires a gun and antoher observer B
+at a distance 1650 m away from A hears its sound.
+If the speed of sound is 330 m s“, find the time
+when B will hear the sound after firing by A.
+Ans. 5 s
+
+7. The time interval between a lightning flash and
+the first sound of thunder is 5 s. If the speed of
+sound in air is 330 m s”!, find the distance of
+flash from the observer. Ans, 1650 m
+
+176
+
+
+--- Page 11 ---
+8. A boy fires a gun and another boy at a distance
+hears the sound of fire 2-5 s after seeing the flash.
+If speed of sound in air is 340 m s“!, find
+distance between the boys. Ans. 850 m
+
+9. An observer sitting in line of two tanks, watches
+the flashes of two tanks firing at each other at
+the same time, but he hears the sounds of two
+shots 2 s and 3-5 s after seeing the flashes. If
+distance between the two tanks is 510 m, find the
+speed of sound. Ans. 340 ms"!
+
+10. How long will sound take to travel in (a) an iron
+rail and (b) air, both 3-3 km in length ? Take
+speed of sound in air to be 330 m s7 and in
+iron to be 5280 m st.
+
+Ans. (a) 0-625 s, (b) 10 s
+
+11. Assuming the speed of sound in air equal to
+340 m s"! and in water equal to 1360 m s“!,
+find the time taken to travel a distance 1700 m by
+sound in (i) air and (ii) water.
+
+Ans, (i) 5 s Gi) 1-25 s
+
+(B) INFRASONIC, SONIC AND ULTRASONIC FREQUENCIES
+
+8.11 INFRASONIC, SONIC
+
+ULTRASONIC FREQUENCES
+The human ear is able to hear sound in a
+frequency range of about 20 Hz to 20,000 Hz (or
+20 kHz) i.e., the audible range of frequency is
+20 Hz to 20 kHz. We can not hear sounds of
+frequencies less than 20 Hz or more than 20 kHz.
+Actually the audible range of frequency varies from
+person to person and it also varies with the age of
+the person. The audible range of frequency of a
+person decreases as he gets older since his ears lose
+the hearing sensitivity to the high frequencies.
+Children can hear sounds of some what higher
+frequencies say up to 30 kHz, while an old person
+can hear sound only up to frequencies 12 kHz.
+Hence the audible range of frequency for an average
+person is considered to be from 20 Hz to 20 kHz.
+Even in the audible range, the human ear is not
+equally sensitive to all frequencies. The human ear
+is most sensitive in the range 2000 Hz to 3000 Hz,
+where it can hear even a very feeble sound.
+
+The sound of frequencies in the range 20 Hz to
+20 kHz is called the sonic ot audible sound: the
+sound of frequency less than 20 Hz is known
+as infrasonic sound (or simply infrasonic), while
+the sound of frequency greater than 20 kHz is
+known as ultrasound (or ultrasonic).
+Animals can produce and hear sounds of
+frequencies below 20 Hz as well as above 20 kHz.
+Different animals have different ranges of audible
+frequencies. Elephants and whales can produce
+infrasonic sounds of frequencies less than 20 Hz.
+Some fishes can hear sounds of frequencies in the
+range of 1 Hz to 25 Hz. Some animals can produce
+ultrasonic sounds and communicate in them. A dog
+can hear sounds of frequencies up to nearly 50 kHz,
+a bat up to about 100 kHz, while Dolphins can hear
+sounds of even higher frequencies up to 150 kHz.
+
+AND
+
+Frequency ranges for hearing and speaking
+by human and animals
+
+10 Hz — 100 kHz
+80 Hz — 60 kHz
+
+20 Hz — 50 kHz
+200 Hz — 150 kHz
+90 Hz — 1-0 kHz
+20 Hz - 20 kHz
+
+8.12 ULTRASOUND AND ITS APPLICATIONS
+
+We have read that the sound of frequencies
+above 20,000 Hz, is called the ultrasound. Ultrasound
+can travel quite freely in solids and liquids, but in gases
+its intensity falls. In a medium, it travels with the same
+speed with which the audible sound travels. In air, the
+speed of ultrasound is 330 m st.
+
+Properties of ultrasound
+
+Ultrasound has all properties similar to that
+of ordinary sound, but because of high frequencies,
+ultrasound has the following two additional
+properties which the audible sound does not possess.
+
+(i) The energy carried by ultrasound is very high.
+
+(ii) The ultrasound can travel along a well defined
+straight path. It does not bend appreciably at
+the edges of an obstacle because of its small
+wavelength (i.e., it has high directivity).
+
+The above two properties of ultrasound makes
+it very useful to us for many purposes.
+
+Applications of ultrasound
+Few applications of ultrasound are given below.
+
+(1) Bats avoid obstacles in their path by producing
+and hearing the ultrasound. They produce
+ultrasound which returns after striking an
+obstacle in their way. By hearing the reflected
+
+177
+
+
+--- Page 12 ---
+sound, they can judge the direction where the
+obstacle is in their way and from the time
+interval (when they produce ultrasound and
+then receive them back), they can judge the
+distance of the obstacle.
+
+(2) Ultrasound is used for drilling holes or making
+cuts of desired shape in materials like glass.
+
+(3) For cleaning the minute objects such as the
+parts of watches and electronic components,
+ultrasound is used. The objects are placed in
+a cleaning solution and the ultrasonic waves
+are sent into the solution. This causes high
+frequency vibrations in the solution and makes
+the cleaning easier.
+
+(4) For detection of defects in metals, ultrasound
+is used. Ultrasound will pass through the object
+if there is no defect (such as crack or cavity),
+in the object. But if there is some defect, a
+part of ultrasound will get reflected back.
+
+(5) For imaging the human organs, ultrasound is
+widely used. Ultrasonography is used to obtain
+the images of patient's organs (such as liver,
+gall bladder, uterus efc.). It helps to detect
+stones, tumors etc. in them. Echo cardiography
+is used to obtain the image of the heart.
+
+(6) Ultrasound is used in surgery to remove
+cataract and in kidneys to break the small
+stones into fine grains.
+
+(7) In SONAR (abbreviated form of sonographic
+navigation and ranging) to detect and find the
+distance of objects under water, ultrasound is
+used.
+
+Difference between ultrasonic and supersonic
+
+The word ultrasonic is used for ultrasound
+
+(i.e., sound of frequency above 20 kHz), while
+
+supersonic is used for object which travels with a
+
+speed greater than the speed of sound in air (ie.,
+
+330 m s“!) e.g. concord jet planes and fighter planes.
+
+1. What do you mean by the audible range of
+frequency ?
+Ans. The range of frequency within which the
+sound can be heard by a human being is called
+the audible range of frequency.
+
+2. What is the audible range of frequency for
+human ? Ans. 20 Hz to 20 kHz
+
+3. For which range of frequencies, human ears are
+most sensitive ? Ans, 2000 Hz to 3000 Hz
+
+4, Which has the higher frequency — ultrasonic sound
+or infrasonic sound ? Ans, Ultrasonic sound.
+5. Complete the following sentences :
+(a) An average person can hear sound of
+frequencies in the range ............ tO we
+(b) Ultrasound is of frequency ...........
+(c) Infrasonic sound is of frequency ...............
+(d) Bats can produce and hear ............ sound.
+(e) Elephants produce .............. sound.
+Ans. (a) 20 Hz, 20 kHz (b) above 20 kHz
+(c) below 20 Hz (d) ultrasonic (e) infrasonic.
+6. Name the sounds of the frequencies given below:
+(a) 10 Hz (b) 100 Hz (c) 1000 Hz (d) 40 kHz
+) Ans, (a) infrasonic (b) audible
+(c) audible (d) ultrasonic.
+7. Can you hear the sound produced due to
+vibrations of a seconds’ pendulum ? Give reason.
+
+Ans. No. Reason : The frequency of sound
+produced due to vibrations of seconds’ pendulum
+is 0-5 Hz which is infrasonic sound.
+
+8. What is ultrasound ?
+Ans. Sound of frequency above 20 kHz.
+9. State the approximate speed of ultrasound in air.
+Ans. 330 ms!
+10. State two properties of ultrasound that make it
+
+useful to us.
+Ans. (i) High energy content, (ii) high directivity.
+
+11. Explain how do bats locate the obstacles and prey
+in their way.
+
+12. State two applications of ultrasound.
+
+Multiple choice type :
+1. Aman can hear the sound of frequency :
+(a) 1 Hz (b) 1000 Hz
+(c) 200kHz (d) 5 MHz Ans. (b) 1000 Hz
+2. The properties of ultrasound that make it
+useful, are :
+
+(a) high power and high speed
+(b) high power and good directivity
+(c) high frequency and high speed
+(d) high frequency and bending around the
+objects.
+Ans. (b) high power and good directivity
+3. Sonar makes use of :
+(a) infrasonic sound (b) ultrasound
+(c) ordinary sound (d)_light.
+Ans. (b) ultrasound
+
+178

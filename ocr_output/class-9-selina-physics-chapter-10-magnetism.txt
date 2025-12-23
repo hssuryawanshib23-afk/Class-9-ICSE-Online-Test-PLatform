@@ -1,0 +1,1339 @@
+
+
+--- Page 1 ---
+ar = iagnets on magnetic materials; induction precedes attraction,
+
+arm of existence of earth's magnetic field, magnetic compass;
+rit field of a bar magnet placed along magnetic north-south; neutral
+
+Point properties of magnetic f field pei
+
+(A) INDUCED MAGNETISM AND NEUTRAL POINTS
+
+10.1 INTRODUCTION
+
+The first known magnets were the pieces of
+lodestone, an ore of iron oxide (Fe3;O,4) found in
+large quantities in Magnesia, in Asia Minor. This
+ore was found to possess two properties : (i) it
+attracts small pieces of iron, and (ii) it sets itself
+along a definite direction when it is suspended
+Jreely. The Chinese, earlier than 2500 B.C., used
+these pieces to guide their boats. The pieces of
+lodestone found in nature were later on called
+the natural magnets. The word magnet has been
+derived from magnesia.
+
+The natural magnets are found in quite
+irregular and odd shapes. They are not
+magnetically strong enough for use. Therefore,
+for different uses, artificial magnets are prepared
+from iron in different convenient sizes and
+shapes such as bar magnet, horse shoe magnet,
+magnetic needle, magnetic compass, etc.
+
+If a magnet is suspended with a silk thread
+such that it is free to rotate in a horizontal plane,
+it sets itself always pointing in the geographic
+north-south direction as shown in Fig. 10.1.
+Depending on the direction in which an end of
+
+SILK THREAD
+
+vis
+
+Fig. 10.1 Setting of a freely suspended magnet
+
+the magnet rests, its polarity is named as north
+or south.
+
+Two like poles (both north poles or both
+south poles) repel each other, while two unlike
+poles (one north pole and the other south pole)
+attract each other.
+
+10.2. INDUCED MAGNETISM (MAGNETISM
+INDUCED BY A BAR MAGNET ON THE
+MAGNETIC MATERIALS)
+
+When an unmagnetised bar AB of a magnetic
+material such as soft iron or steel, is placed near or in
+contact with a magnet as shown in Fig 10.2 (a), the
+bar AB becomes a magnet i.e., it acquires the
+property of attracting iron filings when they are
+brought near its ends. If the magnet is now
+removed, it is seen that nearly all the iron filings
+which have clung to it, fall down ie., the bar AB
+loses its magnetism [Fig. 10.2(b)]. Thus, the bar
+of a magnetic material behaves like a magnet so
+
+MAGNET IRON OR STEEL BAR
+s]8
+
+INDUCED
+
+MAGNET
+
+IRON FILINGS
+(a) Iron fillings attracted by the iron bar in the
+presence of magnet.
+
+IRON OR STEEL BAR
+A B
+
+IRON NGS
+(b) Iron fillings fall from the bar on removal of the magnet
+
+Fig. 10.2 Induced magnetism
+
+193
+
+
+--- Page 2 ---
+’ long it is kept near or in contact with a magnet. The
+magnetism so produced is called induced
+magnetism. Thus
+
+The temporary. ‘magnetism acquired by a magnetic
+material when it is kept 7 near ir {or La aigmact
+
+The process in which a piece of magnetic
+material acquires the magnetic properties
+temporarily in presence of another magnet near
+it, is called the magnetic induction.
+
+If polarity at the ends A and B of the bar AB
+is tested with a compass needle, it is found that
+the polarity developed at the end A is north
+(opposite to the polarity of the magnet near the
+end A) and the polarity at end B is south (ie.,
+similar to the polarity at the end of the magnet
+near the end A). Thus,
+
+‘A magnetic pole induces an opposite polarity
+on the near end and a similar polarity.on the
+farther end. of the iron bar.
+
+Induction precedes attraction
+
+Now we can explain how an ordinary piece
+of iron is attracted towards a magnet. When a
+piece of iron is brought near one end of a magnet
+(or one end of a magnet is brought near the piece
+of iron), the nearer end of the piece acquires an
+opposite polarity by magnetic induction. Since
+unlike poles attract each other, therefore iron piece
+is attracted towards the end of the magnet. Thus,
+piece of iron first becomes a magnet by induction
+and then it is attracted. In other words, induction
+precedes attraction.
+
+Induced magnetism is temporary
+
+If one pole of a bar magnet is brought near the
+small iron nails, they form a chain of nails as shown
+in Fig. 10.3. The reason is that the bar magnet by
+induction magnetises an iron nail which gets
+attracted by the magnet and clings to it. This
+
+iS} BAR MAGNET Ya
+RS
+
+Fig. 10.3 Magnetic induction
+
+magnetised nail magnetises the other nail near it
+by magnetic induction and attracts it. This process
+continues till force of attraction of magnet on first
+nail is sufficient to balance the total weight of all
+the nails in chain.
+
+Now holding the uppermost nail in position by
+fingers, if magnet is removed, we find that all nails
+fall down. The reason is that on removing the
+magnet, the uppermost nail loses its magnetism, so
+all other nails also lose their magnetism, they get
+separated from each other and they all fall down due
+to force of gravity. This shows that the magnetism
+acquired by induction is purely temporary. It lasts
+so long as the magnet causing induction remains in
+its vicinity.
+
+10.3. LINES OF MAGNETIC FIELD
+
+If a magnetic compass is placed on a table, it
+is found that its needle rests in geographic north-
+south direction*. But when it is placed near a
+magnet, the needle swings and then rests in some
+other direction. As the compass is placed at different
+positions around a magnet, the direction in which
+the needle rests, changes such that its one end always
+points towards the nearer pole of the magnet. This
+behaviour of needle is due to the influence of the
+magnet near it. The region in which the compass
+gets influenced is called the magnetic field of the
+magnet.
+
+The space around a magnet in which the needle
+of a compass rests in a direction other than the
+geographic north-south direction, is called
+magnetic field of the magnet.
+
+As the distance of point from the magnet
+increases, the effect of its magnetic field
+dicreases.
+
+Magnetic field is a vector quantity. The
+magnitude of magnetic field at a point is
+measured by the force which a magnetic pole
+placed at that point, experiences, while the
+direction of magnetic field is the direction in
+which the needle of compass rests when it is
+placed at that point.
+
+If we place a magnet below a sheet of stiff
+paper (or a glass plate) and spread some iron
+filings uniformly over the glass plate, then on
+tapping the glass plate gently, the iron filings
+arrange themselves along the curved lines as
+
+* Due to the earth’s magnetic field.
+
+194
+
+
+--- Page 3 ---
+shown in Fig. 10.4. The reason is that due to
+magnet, each piece of iron filing gets
+magnetised by magnetic induction and
+experiences a force due to the magnet and
+arrange itself along the curved line. These
+curved lines are called the magnetic field lines.
+
+ae
+sats
+4/74
+
+4
+Nis ase mS
+
+\
+7 ATE
+Vv tie poy
+a»,
+
+lb reeeee
+
+NANW Nene as,
+
+NAAN
+
+Fig. 10.4 Arrangement of iron filings over a magnet
+showing the magnetic field of the bar magnet
+
+When a compass needle is placed at any point
+in a magnetic field, its needle rests along the
+magnetic field line. An arrow is marked on the
+magnetic field line from south pole of the needle
+to its north pole. The arrow indicates the direction
+of magnetic field at that point. Thus
+
+10.4 PROPERTIES OF MAGNETIC FIELD
+LINES
+
+The magnetic field lines have following
+
+properties :
+
+(1) They are closed and continuous curves.
+
+(2) Outside the magnet, they are directed from
+the north pole towards the south pole of
+the magnet*.
+
+(3) The tangent at any point on a field line gives
+the direction of magnetic field at that point.
+
+(4) They never intersect one another. If two
+field lines intersect, there would be two
+directions of the magnetic field at that point
+which is not possible. Fig 10.5 shows two
+magnetic field lines PQ and PR intersecting
+
+* Inside the magnet, the magnetic field lines are directed
+from south pole towards the north pole and thus a closed
+and contineous curve is formed.
+
+ao
+
+each other at a point P. It would mean that
+if a compass needle is placed at the point
+P, north pole of its needle will point in
+two directions PQ and PR simultaneously
+which is not possible.
+
+Q
+
+R
+
+Fig. 10.5 A compass needle placed at the point P cannot
+show the two directions PQ and PR simultaneously
+
+(5) They are crowded near the poles of the
+magnet where the magnetic field is strong
+and are far separated near the middle of
+the magnet and far from the magnet, where
+the magnetic field is weak.
+
+(6) Parallel and equi-distant field lines
+represent a uniform magnetic field. The
+earth's magnetic field in a limited space is
+uniform.
+
+(7) They behave like the stretched elastic rubber
+strings.
+
+MAGNETIC FIELD OF EARTH
+(Evidences of existence of earth's
+magnetic field)
+Our earth itself has a magnetic field and it
+behaves like a magnet. The existence of earth's
+magnetic field is based on the following facts :
+
+(i) A freely suspended magnetic needle always
+rests in geographic north-south direction.
+
+An iron rod buried inside the earth along
+north-south direction becomes a magnet.
+
+Neutral points are obtained on plotting the
+field lines of a magnet where the net
+magnetic field in zero.
+
+A magnetic needle rests with its geometric
+axis making different angles with horizontal
+when suspended at different places on the earth.
+(i) A freely suspended magnetic needle
+always rests in geographic north-south direction
+— When a magnetic needle (or a magnet) is
+suspended such that it is free to rotate in a
+horizontal plane, it always rests indicating the
+geographic north-south direction. But the north
+pole of a magnet will point towards the geographic
+
+10.5
+
+(ii)
+
+195
+
+
+--- Page 4 ---
+north only when there is a magnetic south pole
+attracting it. Similarly the south pole of the magnet
+will point towards the geographic south when there
+is a magnetic north pole attracting it. Therefore
+we Can assume a magnet inside the earth which
+must have its south pole in the geographic north
+and north pole in the geographic south.
+
+(ii) An iron red buried inside the
+earth along north-south direction becomes a
+magnet — If an iron rod is buried few metres
+inside the earth keeping it along north-south
+direction, after some days it is found that the rod
+becomes a weak magnet. It is possible only if the
+earth itself behaves like a magnet.
+
+(iii) Neutral points are obtained on plotting
+the field lines of a magnet — If a magnet is placed
+in a horizontal plane with its north pole facing
+towards the geographic north and the magnetic
+field lines are plotted, we obtain two neutral points,
+one on either side of the magnet, on its broad side-
+on position. Similarly, if the magnet is placed in a
+horizontal plane with its north pole facing towards
+the geographic south and the magnetic field lines
+are plotted, we obtain two neutral points, one on
+either side of the magnet on its end-on position.
+At each neutral point, the resultant magnetic field
+is zero i.e., if a compass needle is placed at a
+neutral point, it rests in any direction. The reason
+for zero resultant magnetic field at the neutral point
+is that the magnetic field produced by the magnet
+is neutralised by some other equal and opposite
+magnetic field. This other magnetic field is actually
+the horizontal component of the earth's magnetic
+field.
+
+(iv) A magnetic needle rests making
+different angles with horizontal when
+suspended at different places of the earth — If
+a magnetic needle is suspended such that it is free
+to rotate in a vertical plane and it is taken around
+the earth through its geographic poles, we find
+that at two places, magnetic needle becomes
+normal to the earth surface i.e., it becomes vertical.
+These points are called the earth's magnetic poles.
+At two places it becomes parallel to the earth
+surface i.e., it becomes horizontal. These points
+lie on earth's magnetic equator. At other places, it
+rests making different angles with the horizontal
+
+as shown in Fig. 10.6. It implies that the earth
+itself has a magnetic field.
+Geographic N pole
+
+Magnetic S pote
+
+Magnetic
+equator
+
+Geographic
+equator
+
+Geographic S pole \,Magnetic N pole
+
+Fig. 10.6 The magnetic needle at different
+places on earth
+
+Two places where the magnetic needle
+becomes vertical are called the magnetic poles.
+
+The line joining the places where the
+magnetic needle becomes horizontal, is called
+the magnetic equator.
+
+Conclusion : On the basis of above facts, it
+can be concluded that the earth behaves as if a
+huge bar magnet is present at its centre with its
+magnetic south pole in the geographic north and
+the magnetic north pole in the geographic south.
+Actually, the geographic poles do not coincide with
+the earth's magnetic poles, but they are somewhat
+displaced. The magnetic axis of the earth makes
+an angle of 17° with the axis of rotation of the
+earth. The magnetic south pole of earth is in
+Canada at a distance nearly 2240 km from the
+geographic north pole at 70-75° north latitude and
+96° west longitude, while the earth's magnetic
+north pole is at a distance nearly 2240 km from
+the geographic south pole at 73° south latitude and
+155° east longitude. It has been experimentally
+observed that the positions of these poles are not
+stationary, but they gradually change over a long
+period of time.
+Magnetic Field Lines of Earth
+
+In a limited space, the magnetic field lines of
+earth are parallel and equidistant to each other as
+shown in Fig. 10.7(b). They are always directed
+from the geographic south to the geographic north.
+They are horizontal at the magnetic equator and
+vertical at the magnetic poles, but at any other
+point, they are inclined to the horizontal.
+
+196
+
+
+--- Page 5 ---
+The magnetic field lines of the earth are normal
+to earth surface near the magnetic poles
+and parallel to earth surface near the magnetic
+equator.
+
+10.6 PLOTTING OF UNIFORM MAGNETIC
+FIELD LINES OF EARTH
+
+Earth's magnetic field is uniform in a
+limited space. Experimentally we can plot
+uniform magnetic field lines of earth as follows.
+
+Experiment : Fix a sheet of paper on a
+drawing board (or a table top) by means of brass
+pins. Place a small compass needle at position 1
+(Fig. 10.7 (a)] and looking from top of the
+needle, mark two pencil dots exactly in front of
+two ends of the needle. Then move the compass
+needle to position 2 in such a way that one end of
+the needle coincides with the second pencil dot.
+Mark the position of the other end of needle with
+a dot. Repeat the process of moving the compass
+needle to position 3, 4, ... to obtain several dots.
+On joining the different dots, you will get a
+straight line. Thus one magnetic field line of
+earth is traced.
+
+GEOGRAPHIC NORTH
+3
+2
+1 @ GEOGRAPHIC SOUTH
+
+(a) Plotting a field line (b) Lines of uniform magnetic
+with a compass needle field of earth
+
+Fig. 10.7 Magnetic field lines of earth .
+
+Repeat the process starting from a different
+point and trace out another magnetic field line. In
+this manner, draw several magnetic field lines
+Starting from the different points. Label each line
+with an arrow from the south pole of needle
+towards the north pole to indicate the direction of
+the magnetic field. Fig. 10.7 (b) shows several
+magnetic field lines so obtained.
+
+It is noticed that these lines do not intersect
+each other. They are parallel and equidistant.
+They are directed from geographic south to
+geographic north (i.e., the direction in which a
+magnetic needle, suspended freely in a horizontal
+plane, rests).
+
+10.7 PLOTTING OF NON UNIFORM
+MAGNETIC FIELD OF A STRONG BAR
+MAGNET AND NEUTRAL POINTS
+
+The magnetic field around a bar magnet (or
+a horse shoe magnet) is non-uniform. The
+magnetic field lines in a non-uniform magnetic
+field are not equispaced and parallel, but they
+are curved (either converging or diverging). The
+closely spaced magnetic field lines at a place
+represent a strong magnetic field at that place,
+while the widely spaced magnetic field lines at
+a place represent a weak magnetic field at that
+place. Fig. 10.8 shows the non-uniform magnetic
+field lines due to (a) a bar magnet, (b) a horse
+shoe magnet, (c) two unlike poles facing each
+other and (d) two like poles facing each other.
+
+eo
+
+(b) Magnetic field lines due to
+a horse shoe magnet
+
+(a) Magnetic field lines due
+to a bar magnet
+
+(d) Magnetic field lines due to
+two like poles facing
+each other
+
+(c) Magnetic field lines due
+to two unlike poles facing
+each other
+
+Fig. 10.8 Non-uniform magnetic field lines
+
+We shall now plot the non-uniform
+magnetic field lines of a bar magnet placed in
+the magnetic meridian (i.e., along the direction
+in which a freely suspended magnet rests) in the
+following two positions :
+
+(1) When the magnet is placed with its north
+pole pointing towards north.
+
+(2) When the magnet is placed with its south
+pole pointing towards north.
+
+(1) When the magnet is placed with its north
+pole pointing towards north
+
+Fix a sheet of white paper on a drawing board with
+the help of brass pins. Mark north-south direction in the .
+
+197
+
+
+--- Page 6 ---
+middle of the paper by keeping a compass needle on it.
+Draw a line along this direction and place a bar magnet
+on the paper along this line with its north pole pointing
+towards north. Mark its outline with a fine pencil. Now
+place the compass needle close to the north pole of the
+magnet and looking from above, mark two pencil dots
+exactly in front of two ends of the needle. Then move
+the compass needle in such a way that one end of the
+needle coincides with the second pencil dot. Mark
+position of the other end of the needle with a dot. Repeat
+the process of moving the compass needle till other end
+of the bar magnet is reached. Join different dots to get a
+continuous smooth curve. Thus, one magnetic field line
+is traced.
+
+Repeat the process from the same pole of the
+magnet, but starting from a different point and trace out
+another magnetic field line. In this manner, draw
+several magnetic field lines starting from the different
+points near the same pole of the magnet. Label each
+line with an arrow from the north pole towards the
+south pole of the magnet (or from south pole of
+compass needle to its north pole) to indicate the
+direction of magnetic field at that place.
+
+NORTH
+
+SOUTH
+
+Fig. 10.9 Magnetic field lines of a bar
+magnet when its north pole N faces geographic north
+
+The magnetic field lines obtained are shown
+in Fig. 10.9. These are due to the combined
+effect of (i) the magnetic field of magnet and
+(ii) the earth's magnetic field.
+
+From Fig. 10.9, it is noted that
+
+(i) The magnetic field lines are curved in
+the vicinity of magnet. They are mainly due to
+the magnetic field of magnet which is stronger
+than the magnetic field of the earth. As the
+distance from the magnet increases, the strength
+of the magnetic field due to the magnet decreases
+
+and at distant points, it becomes weaker than the
+earth's magnetic field. The magnetic field lines
+are therefore parallel to each other at distant
+points. Here they are mainly due to the earth's
+magnetic field. ;
+
+(ii) There are two points equidistant from
+the centre of the magnet marked as x in
+Fig. 10.9 in east and west directions where the
+magnetic field of the magnet and the horizontal
+component of the earth's magnetic field are equal
+in magnitude and they are in opposite directions
+such that they neutralise each other. These are
+the neutral points. A compass needle when
+placed at these points, remains unaffected and
+the needle rests in any direction.
+
+(2) When the magnet is placed with its south
+
+pole pointing towards north
+
+In this case, the bar magnet is placed on
+the paper along the magnetic meridian with its
+south pole pointing towards north and lines of
+magnetic field are traced following the same
+method as described above. Fig. 10.10 shows
+the magnetic field lines due to the combined
+effect of (i) the magnetic field of the magnet
+and (ii) the earth's magnetic field.
+
+Fig. 10.10 Magnetic field lines of a bar magnet
+when its north pole N faces geographic south
+
+From Fig. 10.10, we notice that
+
+(i) The magnetic field lines are curved in
+the vicinity of the magnet and they are mainly
+due to the magnetic field of the magnet which
+is much stronger than the earth’s magnetic field.
+As the distance from the magnet increases, the
+
+
+
+--- Page 7 ---
+strength of the magnetic field due to the magnet
+decreases and at distant points, it becomes
+weaker than the earth's magnetic field. The
+magnetic field lines are nearly parallel straight
+lines from south to north, at the distant points
+from the magnet. They are mainly due to the
+earth's magnetic field.
+
+(ii) There are two points equidistant
+from the centre of the magnet marked as x in
+Fig. 10.10 in the north and south directions
+where the magnetic field of the magnet and the
+horizontal component of the earth's magnetic
+field are equal in magnitude and they are in
+opposite directions such that the two fields
+neutralise each other. At these points, the
+compass needle remains unaffected and the
+needle comes to rest pointing in any direction.
+These points are the neutral points.
+
+10.8 NEUTRAL POINTS"
+
+magnetic field at the neutral.p points: i: ‘zene.
+
+The neutral points are _ situated
+symmetrically on either side of a magnet at equal
+distances from the centre in east-west direction,
+if the north pole of the magnet faces towards
+geographic north. But the neutral points are on
+either side of the magnet at equal distances from
+the centre in north-south directions, if south pole
+of the magnet faces towards geographic north. If
+a compass needle is placed at the neutral points,
+it remains unaffected (i.e., it comes to rest
+pointing in any direction) because the net
+magnetic field at these points is zero.
+
+1. A horse shoe magnet has two iron needles
+attached at its ends. Show on a diagram the
+positions occupied by the needles and name
+the phenomenon which comes into play.
+
+Fig. 10.11 shows the iron needles
+attached at the ends of a horse
+shoe magnet. The lower ends of
+both the needles get attracted
+towards each other, since they
+have opposite polarities. The upper
+
+ends touching the poles of the ¢ N
+magnet, have polarities opposite to N Ss
+that of the magnet. This .
+phenomenon is called magnetic Fig. 10.11
+induction.
+
+2. You are given two identical bars, one of which
+
+is magnetised. How will you select the
+magnetised bar ?
+The two bars are suspended by a silk thread one
+by one, so as to swing freely in a horizontal plane.
+The bar which rests in the north-south direction
+will be the magnetised bar.
+
+3. You are given a magnetised bar and a compass
+
+needle. How will you mark polartiy at the ends
+of bar ?
+The two ends of bar are brought near the north
+pole of the compass needle one by one. The end
+of bar which repels the north pole of the compass
+needle will be the north pole, while the end of the
+bar which attracts the north pole of the compass
+needle will be the south pole.
+
+1. What is a lodestone ?
+
+. What is a natural magnet ? State two limitations
+of a natural magnet.
+
+3. What is an artificial magnet ? State two reasons
+why do we need the artificial magnets.
+
+tw
+
+4. How will you test whether a given rod is made
+of iron or copper ?
+
+[Hint : Iron rod gets magnetised when placed
+
+near a bar magnet by magnetic induction, while
+copper rod does not get magnetised]
+
+5. You are provided with two similar bars, one is a
+magnet and the other is a soft iron bar. How will
+you distinguish between them without the use
+of any other magnet or bar ?
+
+[Hint : A magnet when suspended freely will
+rest only in the north-south direction, but the soft
+iron bar will rest in any direction]
+
+199
+
+
+--- Page 8 ---
+6.
+
+oo
+
+\o
+
+10.
+
+—
+_—
+
+15.
+
+16.
+17.
+
+Fill in the blanks to complete the senfences :
+(a) The two ends of a magnet are called
+
+(b) Unlike poles of a magnet .............. each other.
+(c) Like poles of a magnet ................06 each
+other.
+
+(d) A freely suspended magnet rests in the
+geographic direction.
+
+_ Ans. (a) poles, (b) attract, (c) repel,
+
+(d) north-south
+
+. A small magnet is suspended by a silk thread
+
+from a rigid support such that the magnet can
+freely swing. How will it rest ? Draw a diagram
+to show it.
+
+Ans. It will rest in the geographic north-south
+direction with north pole towards the geographic
+north, making some angle with the horizontal as
+shown in Fig. 10.1.
+
+. Explain the meaning of the term induced
+
+magnetism.
+
+. Explain what do you understand by magnetic
+
+induction. What role does it play in attraction of
+a piece of iron by a magnet ?
+
+Explain the mechanism of attraction of iron nails
+by a magnet when brought near them.
+
+. Explain the following :
+
+(a) When two pins are hung by their heads from
+the same pole of a magnet, their pointed ends
+move apart.
+
+(b) Several soft iron pins can cling, one
+below the other, from the pole of a magnet.
+
+(c) The north end of a freely suspended
+magnetic needle gets attracted towards a
+piece of soft iron placed a little distance
+away from the needle.
+
+. A small iron bar is kept near the north pole of a
+
+bar magnet. How does the iron bar acquire
+magnetism ? Draw a diagram to show the
+polarity on the iron bar. What will happen if the
+magnet is removed ?
+
+. ‘Induced magnetism is temporary’. Comment on
+
+this statement.
+
+. ‘Induction precedes the attraction’. Explain the
+_ Statement.
+
+What do you understand by the term magnetic
+field lines ?
+
+State four properties of the magnetic field lines.
+Explain why iron filings which are sprinkled on
+a sheet of cardboard over a bar magnet, take up
+a definite pattern when cardboard is slightly
+
+tapped.
+
+18.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24,
+
+25.
+
+200
+
+Explain the method of plotting the magnetic field
+lines by using a small compass needle.
+
+. Can two magnetic field lines intersect each
+
+other ? Give reason to your answer.
+
+In Fig. 10.12, draw at least two magnetic field
+lines between the two magnets.
+
+@ [ss] [vs]
+[xs] [vs]
+
+Fig. 10.12
+
+State two evidences of the existence of earth's
+magnetic field.
+
+(b)
+
+Sketch four magnetic field lines as obtained in a
+limited space on a horizontal plane in the earth's
+magnetic field alone.
+
+(a) Draw the pattern of magnetic field lines near
+a bar magnet placed with its north pole
+pointing towards the geographic north.
+Indicate the position of neutral points by
+marking x.
+
+(b) State whether the magnetic field lines in part
+(a) represent a uniform magnetic field or
+non-uniform magnetic field ?
+
+Fig. 10.13 shows a bar magnet placed on the table
+top with its north pole pointing towards south.
+The arrow shows the north-south direction. There
+are no other magnets or magnetic materials nearby.
+
+Ss —— N
+
+[vs |
+
+Fig. 10.13
+
+(a) Insert two magnetic field lines on either side
+of the magnet using arrow head to show the
+direction of each field line.
+
+(b) Indicate by crosses, the likely positions of the
+neutral points.
+
+(c) What is the magnitude of the magnetic field
+at each neutral point ? Give a reason for your
+answer.
+
+What conclusion is drawn regarding the magnetic
+field at a point if a compass needle at that point rests
+in any direction ? Give reason for your answer.
+Ans. Magnetic field is zero. Reason : The earth's
+magnetic field at that point is neutralised by the
+magnetic field of some other magnetised
+material.
+
+
+--- Page 9 ---
+26. What is a neutral point ? How is the position of
+neutral point located with the use of a compass
+needle ?
+
+27. State the positions of neutral points when a
+magnet is placed with its axis in the magnetic
+meridian and with its north pole (i) pointing
+towards the geographic north, (ii) pointing
+towards the geographic south.
+
+Ans. (i) in east-west direction
+(ii) in north-south direction.
+28. Complete the following sentences :
+
+(a) If the field lines in a magnetic field are
+parallel and equidistant, the magnetic field
+
+(b) At a neutral point, the resultant magnetic
+field is...
+
+(c) The neutral points of a bar magnet kept with
+its north pole pointing towards geographic
+
+north are located 2.0.0... eee serene
+Ans. (a) uniform, (b) zero, (c) on either side
+of the magnet in east and west.
+
+Multiple choice type :
+1. Two like magnetic poles :
+(a) repel each other
+(b) attract each other
+(c) first attract each other, then repel
+(d) neither attract nor repel.
+Ans. (a) repel each other
+2. In a uniform magnetic field, the field lines are :
+(a) curved
+(b) parallel and equidistant straight lines
+(c) parallel, but non-equispaced straight lines
+(d) nothing can be said.
+Ans. (b) parallel and equidistant straight lines
+
+(B) ELECTROMAGNET AND ITS USES
+
+10.9 ELECTROMAGNET
+
+An electromagnet can be made in any shape,
+but usually the following two shapes of
+electromagnet are in use :
+
+(a) I-shape (or bar) magnet, and
+(b) U-shape (or horse-shoe) magnet.
+
+(a) Construction of the I-shaped (or bar)
+electromagnet
+
+To construct an I-shaped electromagnet, a thin
+insulated copper wire is wound in form of a
+solenoid around a straight soft iron bar PQ. The
+ends of the wire are connected to a battery B
+through an ammeter A, a rheostat Rh and a key K
+as shown in Fig 10.14.
+
+When current is passed through the winding
+of solenoid by closing the key K, the end P of
+the bar becomes the south pole (S) since current
+at this face is clockwise, while the end QO at which
+the current is anticlockwise, becomes the north
+pole (N). Thus the bar becomes a magnet. The
+bar shows the magnetic properties only when an
+
+ie @
+
+SOFT
+IRON
+BAR
+
+HEC:
+B
+
+K
+Fig. 10.14 I-shaped electromagnet
+
+electric current flows through the solenoid and it
+loses the magnetic properties as soon as the
+current is switched off (since soft iron has a low
+retentivity), thus it is a temporary magnet. Such
+arrangement is commonly used in a relay.*
+
+(b) Construction of the U-shaped (or horse-
+
+shoe) electromagnet
+
+To construct a horse-shoe electromagnet, a
+thin insulated copper wire is spirally wound on
+the arms of a U-shaped soft iron core, such that
+the winding on the two arms as seen from the
+ends, is in opposite sense. In Fig. 10.15, winding
+on the arm P starts from the front and it is in
+the clockwise direction (when viewed from the
+bottom). On reaching the upper end of the
+arm P, winding starts from the back at the top
+of the arm Q and it is in anticlockwise direction.
+
+* A telay is a switching device.
+
+201
+
+
+--- Page 10 ---
+' The ends of the wire are connected to a battery
+through an ammeter, rheostat and a key.
+
+RHEOSTAT
+
+KEY
+
+Fig. 10.15 Horse-shoe electro-magnet
+
+When current is passed through the winding
+
+by closing the key, the end of the arm P becomes
+the south pole S (current at this face is clockwise)
+and the end of the arm Q becomes the north
+pole N (current at this face is anti-clockwise).
+Thus we get a very strong magnetic field in the
+gap between the two poles. The magnetic field
+in the gap vanishes as soon as the current in the
+circuit is switched off. Thus it is a temporary
+magnet. Such magnets are used in d.c. motor, a.c.
+generator, etc.
+Note : For sending current in the coil, the source
+must be the d.c. source (i.e., battery). With an
+a.c. source of frequency SO Hz, although the soft
+iron core gets magnetised as long the current is
+passed, but its polarity magnetics as long to
+current is passed, but its polarity at the ends
+changes 50 times in each second.
+
+Ways of increasing the magnetic field of an
+electromagnet
+The magnetic field of an electromagnet
+(I or U-shaped) can be increased by the following
+two ways :
+(i) by increasing the number of turns of
+winding in the solenoid, and
+(ii) by increasing the current through the
+solenoid.
+
+10.10 PERMANENT MAGNET
+A permanent magnet is a naturally occuring
+
+magnet. Since it is not strong enough and of
+required shape for many purposes, so a strong
+
+permanent magnet is made like an electromagnet
+using steel instead of soft iron. A coil of insulated
+copper wire is wound around the steel piece and
+then current is passed in the coil. Once magnetised,
+it does not lose its magnetism easily (since steel
+has more retentivity than soft iron) so it becomes
+a permanent magnet. The permanent magnets are
+used in electric meters (e.g., galvanometer,
+ammeter, voltmeter) and in magnetic compass,
+etc.
+
+10.11 COMPARISON OF AN ELECTRO-
+MAGNET WITH A PERMANENT
+MAGNET
+
+1. It is made of soft iron. | 1, Itis made-of steel.
+
+-2. It produces the magnetic | 2. It produces a
+field so long as current permanent magnetic
+flows in its coil. ie., it field.
+
+3. The magnetic field . |. 3. The magnetic field
+
+'4, The magnetic field of | 4. The magnetic field of
+an electromagnet can a permanent magnet
+be very strong. isnotao'stfong:
+
+switching off the
+current.
+
+10.12 ADVANTAGES OF AN ELECTRO-
+MAGNET OVER A PERMANENT
+MAGNET
+
+An electromagnet has the following
+advantages over a permanent magnet :
+
+(i) An electromagnet can produce a strong
+magnetic field.
+
+(ii) The strength of the magnetic field of an
+electromagnet can easily be changed by
+changing the current (or the number of turns)
+in its solenoid.
+
+(iii) The polarity of the electromagnet can be
+
+reversed by reversing the direction of current
+
+in its solenoid.
+
+202
+
+
+--- Page 11 ---
+10.13 USES OF ELECTROMAGNETS
+
+Electromagnets are mainly used for the
+following purposes :
+
+(i) For lifting and transporting heavy iron scrap,
+girders, plates, etc. particularly when it is not
+convenient to take the help of human labour.
+Electromagnets are used to lift as much as
+20,000 kg of iron in a single lift. To unload
+the iron objects at the desired place, the
+current in the electromagnet is switched off
+‘so that the iron objecis get detached.
+
+(ii) For loading the furnaces with iron.
+
+(iii) For separating the iron pieces from debris
+and ores, where iron exists as impurities (e.g.,
+for separating iron from the crushed copper
+ore in copper mines).
+
+(iv) For removing pieces of iron from wounds.
+
+(v) In scientific research, to study the magnetic
+properties of a substance in a magnetic field.
+
+(vi) In several electrical devices such as electric
+bell, telegraph, electric tram, electric motor,
+relay, microphone, loud speaker, etc.
+
+Use of electromagnet in an electric bell
+An electric bell is one of the most commonly
+
+used application of an electromagnet.
+Construction and wiring : An electric bell
+
+is shown in Fig. 10.16.
+
+The main parts of the bell are :
+(i) a horse-shoe electromagnet M, having a
+soft iron core,
+
+SCREW
+ELECTROMAGNET
+
+BATTERY K switcH
+
+Fig. 10.16 Electric bell and its wiring
+
+(ii) a soft iron armature A,
+(iii) a hammer H,
+(iv) a gong G,
+(v) a metallic spring strip SS,
+(vi) an adjusting screw S’,
+(vii) a switch (or bell-push) K, and
+(viii) a battery.
+
+The armature A is fixed to the spring strip
+SS. The hammer H is attached at the upper end
+of the armature A. When the switch K is not
+pressed, the strip SS makes contact with the
+adjusting screw S’ and there is a gap between
+the armature A and the poles of the electromagnet.
+
+The coil CC is wound on the two arms of the
+electromagnet in the opposite direction as shown
+in Fig. 10.16. One end of the coil is connected to
+the terminal 7, through the strip SS and the screw
+S’, while the other end is connected to the
+terminal T,. A battery is provided in series with
+the switch K across the terminals 7, and T,,.
+
+Working and function of each part : When
+the electric circuit is closed by pressing the
+switch K, the current flows through the coil CC
+and the core of the electromagnet gets magnetised
+and therefore it attracts the armature A as shown
+by an arrow in Fig. 10.16. Due to movement of
+the armature A, the hammer AH strikes the
+gong G and the bell rings.
+
+At the moment, when the armature A, due
+to magnetic attraction, moves towards the
+electromagnet, the connection between the
+strip SS and the screw S’ breaks due to which the
+flow of current in the coil stops. Consequently,
+the electromagnet loses magnetism (i.e., it gets
+demagnetised) and the armature A flies back to
+its original position due to the spring effect of
+the strip SS. Now the armature A again touches
+the screw S’, resulting in the flow of current in
+the coil. The electromagnet regains its magnetism
+and the armature A is again attracted, so the
+hammer H again strikes the gong G. This process
+continues.
+
+This process of make and break of the circuit
+goes on and the hammer strikes the gong repeatedly
+so the bell rings as long as the switch K is kept
+pressed.
+
+203
+
+
+--- Page 12 ---
+Note : If an a.c. source is used in place of battery,
+the core of electromagnet will get magnetised,
+but the polarity at its ends will change. Since
+
+attraction of armature does not depend on the
+polarity of electromagnet, so the bell will still
+ring on pressing the switch K.
+
+1. Draw a labelled diagram to make an
+electromagnet from a soft iron bar AB.
+Mark the polarity at its ends. What
+precaution would you observe ?
+
+The labelled diagram is shown in Fig. 10.17.
+The polarity at the end A where the current is
+clockwise, is south (S$), while at the end B
+where the current is anticlockwise, is north (J).
+
+RHEOSTAT| SOFT
+IRON
+
+BAR
+
+Fig. 10.17
+
+i. What is an electromagnet ?
+
+Name the material used for preparing an
+electromagnet.
+
+3. How is an electromagnet made ? Name two
+factors on which the strength of magnetic field of
+the electromagnet depends.
+
+4. You are required to make an electromagnet from
+a soft iron bar by using a cell, an insulated coil of
+copper wire and a switch. (a) Draw a circuit
+diagram to represent the process. (b) Label the
+poles of the electromagnet.
+
+5. Fig. 10.18 shows a coil wound around a soft iron
+bar XY. (a) State the polarity at the ends X and Y
+as the switch is pressed. (b) Suggest one way of
+increasing the strength of electromagnet so
+formed.
+
+COIL
+
+RHEOSTAT
+
+SWITCH  BaTTERY
+
+Fig. 10.18
+
+Ans, (a) X-north pole, Y-south pole.
+(b) By increasing the current in the coil.
+
+6. A coil of insulated copper wire is wound around
+a piece of soft iron and current is passed in the
+coil from a battery. What name is given to the
+device so obtained ? Give one use of the device
+mentioned by you.
+
+Ans. Electromagnet, electric relay.
+
+7. Show with the aid of a diagram how a wire is
+wound on a U-shaped piece of soft iron in order
+to make it an electromagnet. Complete the circuit
+diagram and label the poles of the electromagnet.
+
+8. State two ways through which the strength of
+an electromagnet can be increased.
+
+9. Name one device that uses an electromagnet.
+
+Ans. Electric bell.
+
+10. State two advantages of an electromagnet over
+a permanent magnet.
+
+11. State nwo differences between an electromagnet
+and a permanent magnet.
+
+12. Why is soft iron used as the core of the
+electromagnet in an electric bell ?
+
+13. How is the working of an electric bell affected,
+if alternating current be used instead of direct
+current ?
+
+14. Name the material used for making the armature
+of an electric bell. Give a reason for your answer.
+
+Multiple Choice Type
+1, Electromangets are made up of :
+(a) steel (b) copper
+(c) soft iron (d) aluminium
+Ans, (c) soft iron
+2. The strength of the electromegnet can be increased
+by
+(a) reversing the directions of current
+(b) using alternating current of hight frequency
+(c) increasing the current in the coil
+(d) decreasing the number of turns of coil.
+Ans. (c) increasing the current in the coil
+
+204

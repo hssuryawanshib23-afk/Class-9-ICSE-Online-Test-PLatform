@@ -1,0 +1,111 @@
+OCR Pipeline – Class 9 ICSE Textbooks
+What Problem This Solves
+
+The chapter PDFs are scanned images, not real text.
+Normal PDF text extractors fail.
+
+So we built an OCR pipeline to convert:
+
+Scanned textbook PDFs → usable text files
+
+
+This is a one-time preprocessing step.
+
+What OCR Means (Beginner)
+
+OCR (Optical Character Recognition) =
+Reading text from images.
+
+Since scanned PDFs are just images of pages:
+
+PDFs must be converted to images
+
+Images must be cleaned
+
+Text must be recognized from images
+
+Tools Used (Who Does What)
+Tool	Role
+pdf2image	Converts PDF pages → images
+Poppler	System tool that reads PDFs (required on Windows)
+OpenCV	Cleans images (better OCR accuracy)
+Tesseract OCR	Reads text from images
+pytesseract	Python bridge to Tesseract
+Python script	Orchestrates everything
+
+Python does not read PDFs or images by itself — it controls other tools.
+
+How the Pipeline Works (From → To)
+Scanned PDF
+   ↓
+PDF → images (pdf2image + Poppler)
+   ↓
+Image cleaning (OpenCV)
+   ↓
+OCR (Tesseract via pytesseract)
+   ↓
+Text saved as .txt files
+
+Folder Structure
+classplus chatbot/
+│
+├── pdfs/          # INPUT: 10 scanned chapter PDFs
+├── ocr_output/    # OUTPUT: extracted text files
+├── batch_ocr_all_chapters.py
+└── README.md
+
+How to Run
+
+From project root:
+
+python batch_ocr_all_chapters.py
+
+Inputs & Outputs
+Input
+pdfs/
+├── class-9-selina-physics-chapter-1.pdf
+├── ...
+
+Output
+ocr_output/
+├── class-9-selina-physics-chapter-1.txt
+├── ...
+
+
+Each PDF → one .txt file (full chapter text).
+
+Why Errors Happened (Normal on Windows)
+
+pdf2image needs Poppler
+
+pytesseract needs Tesseract
+
+Python packages ≠ system binaries
+
+Once Poppler + Tesseract were installed, everything worked.
+
+Important Notes
+
+OCR quality is good for theory text
+
+Equations and symbols may be noisy
+
+Diagrams are not extracted
+
+OCR is done once, not repeatedly
+
+What Comes Next
+OCR text
+ → clean noise
+ → split into concepts
+ → generate questions
+ → quiz platform
+
+
+OCR stage is now complete forever.
+
+Status
+
+✅ OCR pipeline working
+✅ All 10 chapters processed
+🚀 Ready for text cleaning & question generation

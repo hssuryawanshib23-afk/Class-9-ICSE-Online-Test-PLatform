@@ -1,0 +1,35 @@
+class 9 ICSC
+physics
+bio 
+
+
+a platfrom where studets select the number of questions, subject, all objective 1 mark 2 mark 3-4 mark (rare).
+more marks to semester 2 chapeters
+user should decide the % of weightage of chatpers before pre sem exam and after pre sem exam
+
+the owner should be able to see the results of the students
+
+difficulty as input 
+(more tricky questions in difficult mode) 
+10 for fillin the blanks 
+10 mcqs 
+
+
+geometry shape should be there 
+
+if a student wants to select the chapter wise quizes 
+liek one has obly studied 1,2,4,5,6 so that theyll get the change to 
+
+we can look for 
+
+include latex support on platform so that no mathematical terms gets messed up 
+
+chatpers
+liberty to students 
+most of questions are on objective 
+even for give reasons questions 
+results after the test immediately 
+and owner must be able to see how many tests have the student have taken
+
+
+science and math priority 
