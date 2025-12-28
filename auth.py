@@ -2,25 +2,25 @@ import bcrypt
 from db_connection import get_connection
 
 
-def create_user(username, email, password, role="student"):
+def create_user(username, phone_number, password, role="student"):
     conn = get_connection()
     cur = conn.cursor()
     
-    # Check if email already exists
+    # Check if phone number already exists
     cur.execute(
-        "SELECT id FROM users WHERE email = %s",
-        (email,)
+        "SELECT id FROM users WHERE phone_number = %s",
+        (phone_number,)
     )
     if cur.fetchone():
         conn.close()
-        return None  # Email already exists
+        return None  # Phone number already exists
 
     hashed = bcrypt.hashpw(password.encode(), bcrypt.gensalt())
 
     # Use RETURNING for PostgreSQL compatibility
     cur.execute(
-        "INSERT INTO users (username, email, password_hash, role) VALUES (%s, %s, %s, %s) RETURNING id",
-        (username, email, hashed, role)
+        "INSERT INTO users (username, phone_number, password_hash, role) VALUES (%s, %s, %s, %s) RETURNING id",
+        (username, phone_number, hashed, role)
     )
 
     user_id = cur.fetchone()[0]

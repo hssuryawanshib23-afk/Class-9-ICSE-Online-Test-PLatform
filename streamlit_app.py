@@ -429,23 +429,23 @@ def signup_page():
     st.title("Signup")
 
     u = st.text_input("Username", key="signup_username")
-    e = st.text_input("Email (Unique ID - used to prevent duplicate accounts)", key="signup_email")
-    p = st.text_input("Password", type="password", key="signup_password")
+    p = st.text_input("Phone Number (10 digits - used to prevent duplicate accounts)", key="signup_phone", max_chars=10)
+    pw = st.text_input("Password", type="password", key="signup_password")
 
     if st.button("Create account", key="signup_btn"):
-        if not u or not e or not p:
+        if not u or not p or not pw:
             st.error("❌ All fields are required!")
             return
         
-        if "@" not in e or "." not in e:
-            st.error("❌ Please enter a valid email address")
+        if not p.isdigit() or len(p) != 10:
+            st.error("❌ Please enter a valid 10-digit phone number")
             return
         
-        user_id = create_user(u, e, p, "student")
+        user_id = create_user(u, p, pw, "student")
         if user_id:
             st.success("✅ Account created! Please login.")
         else:
-            st.error("❌ This email is already registered. Please use a different email or login.")
+            st.error("❌ This phone number is already registered. Please use a different number or login.")
 
 # ================= SETUP =================
 def setup_page():
