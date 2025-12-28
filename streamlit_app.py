@@ -13,23 +13,24 @@ def admin_page():
     st.title("📊 Admin Dashboard")
 
     conn = get_connection()
+    cur = conn.cursor()`r`n    cur = conn.cursor()
 
     # ---------------- GLOBAL STATS ----------------
     st.subheader("📈 Overall Statistics")
 
-    total_students = conn.execute(
+    total_students = cur.execute(
         "SELECT COUNT(*) FROM users WHERE role='student'"
     ).fetchone()[0]
 
-    total_tests = conn.execute(
+    total_tests = cur.execute(
         "SELECT COUNT(*) FROM test_attempts"
     ).fetchone()[0]
 
-    avg_score = conn.execute(
+    avg_score = cur.execute(
         "SELECT AVG(score*1.0/total_questions) FROM test_attempts"
     ).fetchone()[0]
     
-    total_questions_answered = conn.execute(
+    total_questions_answered = cur.execute(
         "SELECT COUNT(*) FROM responses"
     ).fetchone()[0]
 
@@ -44,7 +45,7 @@ def admin_page():
     # ---------------- STUDENT-WISE DETAILED ----------------
     st.subheader("👨‍🎓 Student Performance Analysis")
 
-    student_data = conn.execute("""
+    student_data = cur.execute("""
         SELECT 
             u.id,
             u.username,
@@ -91,7 +92,7 @@ def admin_page():
         student_id = next(r[0] for r in student_data if r[1] == selected_student)
         
         # Student's test history
-        test_history = conn.execute("""
+        test_history = cur.execute("""
             SELECT 
                 t.id,
                 t.started_at,
@@ -121,7 +122,7 @@ def admin_page():
         
         with col2:
             st.markdown(f"**📊 Chapter Performance for {selected_student}**")
-            student_chapters = conn.execute("""
+            student_chapters = cur.execute("""
                 SELECT 
                     ch.chapter_number,
                     ROUND(AVG(r.is_correct)*100, 2) AS accuracy,
@@ -151,7 +152,7 @@ def admin_page():
     # ---------------- CHAPTER-WISE ANALYSIS ----------------
     st.subheader("📚 Chapter-wise Performance")
 
-    chapter_df = conn.execute("""
+    chapter_df = cur.execute("""
         SELECT 
             ch.chapter_number,
             ROUND(AVG(r.is_correct)*100, 2) AS accuracy,
@@ -207,7 +208,7 @@ def admin_page():
     st.divider()
     st.subheader("⚡ Difficulty Level Analysis")
     
-    difficulty_stats = conn.execute("""
+    difficulty_stats = cur.execute("""
         SELECT 
             q.difficulty,
             COUNT(r.id) AS total_attempts,
@@ -240,7 +241,7 @@ def admin_page():
     st.subheader("🧠 Concept-Level Performance Analysis")
     
     # Get all concept stats
-    concept_stats = conn.execute("""
+    concept_stats = cur.execute("""
         SELECT 
             c.id,
             c.concept_name,
@@ -288,7 +289,7 @@ def admin_page():
         selected_concept_id = concept_options[selected_concept_display]
         
         # Get student performance for this concept
-        student_concept_performance = conn.execute("""
+        student_concept_performance = cur.execute("""
             SELECT 
                 u.username,
                 COUNT(r.id) AS attempts,
@@ -363,6 +364,7 @@ if "user" not in st.session_state:
 # ================= HELPERS =================
 def get_available_count(chapters, difficulties):
     conn = get_connection()
+    cur = conn.cursor()`r`n    cur = conn.cursor()
     cur = conn.cursor()
     total = 0
 
@@ -539,6 +541,7 @@ def submit_test(auto=False):
 def save_test_attempt(score, total_questions):
     """Save test attempt and responses to database"""
     conn = get_connection()
+    cur = conn.cursor()`r`n    cur = conn.cursor()
     cur = conn.cursor()
     
     # Enable foreign keys
@@ -632,3 +635,4 @@ else:
             test_page()
         elif st.session_state.page == "result":
             result_page()
+
