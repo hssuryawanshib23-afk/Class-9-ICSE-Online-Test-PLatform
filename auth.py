@@ -32,10 +32,16 @@ def login(username, password):
 
     conn.close()
 
-    if user and bcrypt.checkpw(password.encode('utf-8'), user[2]):
-        return {
-            'id': user[0],
-            'username': user[1],
-            'role': user[3]
-        }
+    if user:
+        # Handle both bytes and string password hashes
+        stored_hash = user[2]
+        if isinstance(stored_hash, str):
+            stored_hash = stored_hash.encode('utf-8')
+        
+        if bcrypt.checkpw(password.encode('utf-8'), stored_hash):
+            return {
+                'id': user[0],
+                'username': user[1],
+                'role': user[3]
+            }
     return None
