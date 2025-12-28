@@ -30,44 +30,32 @@ def create_user(username, phone_number, password, role="student"):
     return user_id
 
 
-def login(phone_number, password):
+def login(username, password):
     conn = get_connection()
     cur = conn.cursor()
 
     cur.execute(
-        "SELECT id, username, password_hash, role FROM users WHERE phone_number = %s",
-        (phone_number,)
+        "SELECT id, username, password_hash, role FROM users WHERE username = %s",
+        (username,)
     )
     user = cur.fetchone()
 
     conn.close()
 
     if user:
-        # DEBUG: Print user info
-        print(f"DEBUG: User found: id={user[0]}, username={user[1]}, role={user[3]}")
-        print(f"DEBUG: Stored hash type: {type(user[2])}")
-        print(f"DEBUG: Stored hash length: {len(user[2]) if user[2] else 0}")
-        print(f"DEBUG: First 20 chars of hash: {str(user[2])[:20]}")
-        
         # Handle both bytes and string password hashes
         stored_hash = user[2]
         if isinstance(stored_hash, str):
-            print(f"DEBUG: Converting string hash to bytes")
             stored_hash = stored_hash.encode('utf-8')
         
         try:
             if bcrypt.checkpw(password.encode('utf-8'), stored_hash):
-                print(f"DEBUG: Password match successful!")
                 return {
                     'id': user[0],
                     'username': user[1],
                     'role': user[3]
                 }
-            else:
-                print(f"DEBUG: Password mismatch")
         except Exception as e:
-            print(f"DEBUG: bcrypt error: {e}")
-    else:
-        print(f"DEBUG: No user found with phone_number: {phone_number}")
+            print(f"bcrypt error: {e}")
     
     return None
