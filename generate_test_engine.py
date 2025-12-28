@@ -12,17 +12,17 @@ def generate_test(chapters, difficulties, total_questions):
     conn = get_connection()
     cur = conn.cursor()
 
-    ch_placeholders = ",".join("%s" * len(chapters))
-    diff_placeholders = ",".join("%s" * len(difficulties))
+    ch_placeholders = ",".join(["%s"] * len(chapters))
+    diff_placeholders = ",".join(["%s"] * len(difficulties))
 
-    query = f"""
+    query = """
         SELECT q.id, q.question_text
         FROM questions q
         JOIN concepts c ON q.concept_id = c.id
         JOIN chapters ch ON c.chapter_id = ch.id
-        WHERE ch.chapter_number IN ({ch_placeholders})
-          AND q.difficulty IN ({diff_placeholders})
-    """
+        WHERE ch.chapter_number IN ({})
+          AND q.difficulty IN ({})
+    """.format(ch_placeholders, diff_placeholders)
 
     cur.execute(query, (*chapters, *difficulties))
     rows = cur.fetchall()
