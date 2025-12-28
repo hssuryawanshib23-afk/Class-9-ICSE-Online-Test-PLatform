@@ -18,21 +18,25 @@ def admin_page():
     # ---------------- GLOBAL STATS ----------------
     st.subheader("📈 Overall Statistics")
 
-    total_students = cur.execute(
+    cur.execute(
         "SELECT COUNT(*) FROM users WHERE role='student'"
-    ).fetchone()[0]
+    )
+    total_students = cur.fetchone()[0]
 
-    total_tests = cur.execute(
+    cur.execute(
         "SELECT COUNT(*) FROM test_attempts"
-    ).fetchone()[0]
+    )
+    total_tests = cur.fetchone()[0]
 
-    avg_score = cur.execute(
+    cur.execute(
         "SELECT AVG(score*1.0/total_questions) FROM test_attempts"
-    ).fetchone()[0]
+    )
+    avg_score = cur.fetchone()[0]
     
-    total_questions_answered = cur.execute(
+    cur.execute(
         "SELECT COUNT(*) FROM responses"
-    ).fetchone()[0]
+    )
+    total_questions_answered = cur.fetchone()[0]
 
     col1, col2, col3, col4 = st.columns(4)
     col1.metric("👥 Total Students", total_students)
@@ -380,7 +384,8 @@ def get_available_count(chapters, difficulties):
             """,
             (*chapters, d)
         )
-        total += cur.fetchone()[0]
+        result = cur.fetchone()
+        total += result[0]
 
     conn.close()
     return total
@@ -547,10 +552,11 @@ def save_test_attempt(score, total_questions):
     
     try:
         # Get user_id from username
-        user_id_result = cur.execute(
+        cur.execute(
             "SELECT id FROM users WHERE username = %s",
             (st.session_state.user['username'],)
-        ).fetchone()
+        )
+        user_id_result = cur.fetchone()
         
         if not user_id_result:
             st.error(f"❌ User not found in database!")
@@ -559,10 +565,11 @@ def save_test_attempt(score, total_questions):
         user_id = user_id_result[0]
         
         # Check if student record exists (CRITICAL FIX!)
-        student_check = cur.execute(
+        cur.execute(
             "SELECT user_id FROM students WHERE user_id = %s",
             (user_id,)
-        ).fetchone()
+        )
+        student_check = cur.fetchone()
         
         # Create student record if it doesn't exist
         if not student_check:
