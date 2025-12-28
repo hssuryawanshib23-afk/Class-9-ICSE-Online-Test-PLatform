@@ -379,16 +379,16 @@ def get_available_count(chapters, difficulties):
     total = 0
 
     for d in difficulties:
-        ch_p = ",".join("%s" * len(chapters))
+        ch_p = ",".join(["%s"] * len(chapters))
         cur.execute(
-            f"""
+            """
             SELECT COUNT(*)
             FROM questions q
             JOIN concepts c ON q.concept_id=c.id
             JOIN chapters ch ON c.chapter_id=ch.id
-            WHERE ch.chapter_number IN ({ch_p})
+            WHERE ch.chapter_number IN ({})
               AND q.difficulty = %s
-            """,
+            """.format(ch_p),
             (*chapters, d)
         )
         result = cur.fetchone()
