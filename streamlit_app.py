@@ -554,9 +554,6 @@ def save_test_attempt(score, total_questions):
     conn = get_connection()
     cur = conn.cursor()
     
-    # Enable foreign keys
-    cur.execute("PRAGMA foreign_keys = ON")
-    
     try:
         # Get user_id from username
         cur.execute(
