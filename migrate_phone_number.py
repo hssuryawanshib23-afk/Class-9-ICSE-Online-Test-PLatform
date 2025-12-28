@@ -4,27 +4,25 @@ Run this once to update the schema on Neon.tech
 """
 import psycopg2
 
+# Your Neon.tech credentials
+HOST = "ep-late-bonus-a12sc43w-pooler.ap-southeast-1.aws.neon.tech"
+DATABASE = "neondb"
+USER = "neondb_owner"
+PASSWORD = "npg_N1WsLrbnM5iX"
+PORT = "5432"
+
 print("\n" + "="*60)
 print("PostgreSQL Phone Number Column Migration")
 print("="*60)
-print("\nEnter your PostgreSQL connection details:")
-print("(Find these in your Neon.tech dashboard)")
-print()
-
-host = input("Host: ").strip() or "ep-late-bonus-a12sc43w-pooler.ap-southeast-1.aws.neon.tech"
-database = input("Database: ").strip() or "neondb"
-user = input("User: ").strip() or "neondb_owner"
-password = input("Password: ").strip()
-port = input("Port (default 5432): ").strip() or "5432"
 
 try:
     print("\nConnecting to PostgreSQL...")
     pg_conn = psycopg2.connect(
-        host=host,
-        database=database,
-        user=user,
-        password=password,
-        port=port
+        host=HOST,
+        database=DATABASE,
+        user=USER,
+        password=PASSWORD,
+        port=PORT
     )
     pg_cur = pg_conn.cursor()
     
