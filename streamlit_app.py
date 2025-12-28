@@ -586,10 +586,11 @@ def save_test_attempt(score, total_questions):
         # Insert test attempt with correct column order
         cur.execute("""
             INSERT INTO test_attempts (student_id, total_questions, score, started_at)
-            VALUES (%s, %s, %s, datetime('now'))
+            VALUES (%s, %s, %s, NOW())
+            RETURNING id
         """, (user_id, total_questions, score))
         
-        attempt_id = cur.lastrowid
+        attempt_id = cur.fetchone()[0]
         
         # Insert individual responses
         for q in st.session_state.test:
