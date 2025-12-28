@@ -429,11 +429,23 @@ def signup_page():
     st.title("Signup")
 
     u = st.text_input("Username", key="signup_username")
+    e = st.text_input("Email (Unique ID - used to prevent duplicate accounts)", key="signup_email")
     p = st.text_input("Password", type="password", key="signup_password")
 
     if st.button("Create account", key="signup_btn"):
-        create_user(u, p, "student")
-        st.success("Account created. Please login.")
+        if not u or not e or not p:
+            st.error("❌ All fields are required!")
+            return
+        
+        if "@" not in e or "." not in e:
+            st.error("❌ Please enter a valid email address")
+            return
+        
+        user_id = create_user(u, e, p, "student")
+        if user_id:
+            st.success("✅ Account created! Please login.")
+        else:
+            st.error("❌ This email is already registered. Please use a different email or login.")
 
 # ================= SETUP =================
 def setup_page():
