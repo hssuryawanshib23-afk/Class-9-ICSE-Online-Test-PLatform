@@ -1,0 +1,1989 @@
+{
+  "chapter": {
+    "subject": "Physics",
+    "chapter_number": 5,
+    "chapter_name": "Upthrust in fluids and Archimedes principle and floatation"
+  },
+  "concepts": [
+    {
+      "concept_name": "Buoyancy and Upthrust Definition",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH5_C1_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the upward force exerted by a fluid on a body submerged in it called?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Gravitational force",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Viscous force",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Upthrust or Buoyant force",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Normal reaction",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Definition of upthrust/buoyant force",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C1_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following symbols is commonly used to denote buoyant force?",
+          "options": [
+            {
+              "label": "A",
+              "text": "W",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "F_b",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "P",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "V",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Symbol for buoyant force",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH5_C1_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student states: 'Buoyancy is the downward force a liquid exerts on a body.' What is wrong with this statement?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Buoyancy is a property of solids, not liquids.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Buoyancy is the upward force, not downward.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Buoyancy only acts on gases, not liquids.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The statement is correct; buoyancy is a downward force.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Direction of buoyant force",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C1_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "While pushing an empty can into water, one feels an upward force. This force is an example of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Magnetic force",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Frictional force",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Upthrust",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Tension",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Practical experience of upthrust",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C1_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the property of buoyancy in liquids compare to that in gases?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Only liquids have buoyancy; gases do not.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Both liquids and gases have buoyancy, but its effect is usually negligible in gases.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Gases have stronger buoyancy than liquids.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Buoyancy in gases acts downwards, opposite to liquids.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Buoyancy in fluids (liquids and gases)",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH5_C1_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why do we not feel the buoyant force of air in daily life, but a hydrogen balloon rises?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Air has no buoyant force.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The upthrust due to air on our body is negligible compared to our weight, but for a hydrogen balloon, upthrust exceeds weight.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Our bodies are immune to buoyant forces.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Hydrogen cancels gravity.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Relative magnitude of upthrust and weight",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Condition for Floatation or Sinking",
+      "concept_type": "law",
+      "questions": [
+        {
+          "question_id": "CH5_C2_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What are the two main forces acting on a body immersed in a fluid?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Magnetic and Electric",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Weight (downwards) and Upthrust (upwards)",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Friction and Tension",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Gravity and Thrust",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Forces on an immersed body",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C2_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "A body floats when the weight (W) and the maximum upthrust (F_b,max) are related as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "W > F_b,max",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "W = F_b,max or W < F_b,max",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "W < F_b,max always",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "W is unrelated to F_b,max",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Condition for floating",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C2_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A common mistake is to think a body sinks only if its weight is greater than the upthrust when it is *partially* immersed. What is the correct condition for sinking?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sinking occurs if weight > upthrust when the body is *completely* immersed.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Sinking occurs if weight > upthrust at any immersion level.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Sinking occurs if the body's density is less than air.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Sinking is independent of weight and upthrust.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Condition for sinking based on maximum upthrust",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C2_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "An iron nail sinks in water but a ship floats. This is primarily because:",
+          "options": [
+            {
+              "label": "A",
+              "text": "The nail is smaller.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The ship's average density is less than water's density.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Water exerts less upthrust on the ship.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The nail is made of a magnetic material.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Average density determines floatation",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C2_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the states of a body when (i) p = p_l and (ii) p < p_l, where p is body density and p_l is liquid density.",
+          "options": [
+            {
+              "label": "A",
+              "text": "In both cases, the body sinks.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "In (i) it floats completely immersed; in (ii) it floats partially immersed.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "In (i) it floats partially immersed; in (ii) it sinks.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "In both cases, the body floats with the same fraction submerged.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Floatation for different density relations",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C2_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "A body of density greater than a liquid sinks. What provides the net downward force causing this acceleration?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The viscous force of the liquid.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The net force (W - F_b,max) acting downwards.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The absence of upthrust.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Magnetic attraction to the bottom.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Net force on a sinking body",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Characteristic Properties of Upthrust",
+      "concept_type": "principle",
+      "questions": [
+        {
+          "question_id": "CH5_C3_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is NOT a characteristic property of upthrust?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It increases with the submerged volume.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It acts downwards at the body's centre.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It increases with the density of the fluid.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It acts upwards at the centre of buoyancy.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Properties of upthrust",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C3_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "The point where the buoyant force is considered to act is called the:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Centre of mass",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Centre of buoyancy",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Geometric centre",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Pivot point",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Centre of buoyancy",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH5_C3_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student thinks: 'Upthrust depends only on the weight of the body, not the fluid.' Why is this incorrect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Upthrust is independent of the body's weight.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Upthrust depends on the density of the fluid and the submerged volume, not the body's weight.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Upthrust depends on the body's shape but not the fluid.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The student's statement is correct.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Factors affecting upthrust",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C3_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Identical corks are placed in water and glycerine. The cork in glycerine has a smaller volume immersed because:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Glycerine is less dense.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Glycerine is denser, exerting greater upthrust for the same volume.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Water has higher viscosity.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Cork absorbs glycerine.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Upthrust depends on fluid density",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C3_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the centre of buoyancy (B) and centre of gravity (G) for a uniform body (i) completely immersed and (ii) floating with part submerged.",
+          "options": [
+            {
+              "label": "A",
+              "text": "In (i) B coincides with G; in (ii) B is below G.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "In (i) B is above G; in (ii) B coincides with G.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "In both cases, B is above G.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "In both cases, B is below G.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Position of centre of buoyancy",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH5_C3_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "In a vacuum, a bunch of feathers and a pebble of equal mass fall together. In air, the pebble falls faster. Why?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Air resistance is greater on the pebble.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Upthrust due to air is greater on the feathers (larger volume) reducing its net downward acceleration.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The pebble is more aerodynamic.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Gravity acts more strongly on the pebble.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Upthrust depends on volume submerged",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Cause of Upthrust (Pressure Difference)",
+      "concept_type": "reasoning",
+      "questions": [
+        {
+          "question_id": "CH5_C4_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the fundamental cause of upthrust on a body immersed in a fluid?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Difference in fluid pressure between the top and bottom surfaces of the body.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "The body's magnetic field interacting with the fluid.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The fluid's temperature gradient.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The body's own motion.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Pressure difference as cause of upthrust",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C4_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In a fluid, pressure increases with:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Decrease in depth",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Increase in depth",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Increase in surface area",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Decrease in density",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Pressure variation with depth",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH5_C4_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student reasons: 'A thin sheet (lamina) sinks because water exerts no upthrust on it.' Is this correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Yes, because pressure is equal on both sides, resulting in negligible net force.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "No, a lamina experiences greater upthrust because it's thin.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "No, a lamina floats due to surface tension.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Yes, because laminae are always denser than water.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Upthrust on a thin lamina",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH5_C4_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Consider a block immersed in a liquid. The net upward thrust is calculated as (P2 - P1)A. What does 'A' represent?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Acceleration due to gravity",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Area of cross-section of the block",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Altitude",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The amplitude of vibration",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Formula for upthrust from pressure difference",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C4_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the horizontal thrusts on the vertical sides of an immersed block.",
+          "options": [
+            {
+              "label": "A",
+              "text": "They are unequal and cause rotation.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "They are equal and opposite, so they balance each other.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "They add up to give a net horizontal force.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They are zero because pressure only acts vertically.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Balance of horizontal thrusts",
+          "exam_relevance": "low"
+        },
+        {
+          "question_id": "CH5_C4_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does the pressure on the lower face of an immersed block (P2) exceed the pressure on the upper face (P1)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because the lower face is at a greater depth, and pressure increases with depth.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because the lower face has a larger area.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because the fluid above the block pushes it down.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because of the weight of the block itself.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Pressure difference due to depth",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Upthrust equals Weight of Displaced Liquid (Archimedes' Principle)",
+      "concept_type": "law",
+      "questions": [
+        {
+          "question_id": "CH5_C5_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Archimedes' principle states that the upthrust on a body is equal to:",
+          "options": [
+            {
+              "label": "A",
+              "text": "The weight of the body",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The volume of the body",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The weight of the fluid displaced by the body",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "The density of the fluid",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Statement of Archimedes' principle",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C5_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "The mathematical expression for upthrust (F_b) in terms of volume displaced (V), fluid density (ρ), and gravity (g) is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "F_b = V / (ρg)",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "F_b = V ρ g",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "F_b = ρ g / V",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "F_b = V ρ / g",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Formula for upthrust",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C5_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A common error is to think Archimedes' principle applies only to liquids. What is the correct scope?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It applies only to water.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It applies to liquids only.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It applies to fluids (liquids and gases).",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "It applies only to solids immersed in gases.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Archimedes' principle applies to all fluids",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH5_C5_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In the eureka can experiment, if a solid weighs 300 gf in air and 200 gf in water, what is the weight of water displaced?",
+          "options": [
+            {
+              "label": "A",
+              "text": "500 gf",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "100 gf",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "200 gf",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "300 gf",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Loss in weight equals weight of fluid displaced",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C5_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the upthrust on a body when it is (i) partially immersed and (ii) completely immersed.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Upthrust is zero in both cases.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Upthrust is greater when completely immersed (maximum).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Upthrust is greater when partially immersed.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Upthrust is the same in both cases.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Upthrust depends on submerged volume",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C5_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does a bucket of water feel lighter when lifted from inside a well (immersed) compared to when it is out?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because its mass decreases in water.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because the upthrust of water supports part of its weight, reducing the apparent weight.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because the rope becomes elastic in water.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because water lubricates the hands.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Apparent weight reduction due to upthrust",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Relative Density (Definition and Concept)",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH5_C6_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is Relative Density (R.D.)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ratio of density of substance to density of water at 4°C",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Ratio of mass to volume",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Density of water divided by density of substance",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Weight of substance in air",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Definition of Relative Density",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C6_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the unit of Relative Density?",
+          "options": [
+            {
+              "label": "A",
+              "text": "kg/m³",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "g/cm³",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Newton",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It has no unit (dimensionless).",
+              "is_correct": true
+            }
+          ],
+          "correct_label": "D",
+          "key_concept": "Unit of Relative Density",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C6_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student calculates R.D. as 'Density of substance / Density of water at 0°C'. Why is this incorrect for standard R.D.?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Water density is maximum at 4°C, not 0°C. Standard R.D. uses water at 4°C.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Water density is minimum at 4°C.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "R.D. should use density of air.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The formula is correct for any temperature.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Reference state for R.D. (water at 4°C)",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH5_C6_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "If the density of copper is 8.9 g/cm³, what is its Relative Density?",
+          "options": [
+            {
+              "label": "A",
+              "text": "8.9",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "0.89",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "89",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "1.12",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "R.D. numerically equals density in CGS units",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C6_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare Density and Relative Density.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Both have SI unit kg/m³.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Density has units, R.D. is a ratio with no units.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "R.D. is always greater than density.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Density is a vector, R.D. is scalar.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Difference between Density and R.D.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH5_C6_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the density of water at 4°C chosen as the standard for Relative Density?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because water is most abundant at 4°C.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because the density of water is maximum at 4°C, providing a fixed reference point.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because water freezes at 4°C.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because it's an arbitrary choice.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Reason for using water at 4°C",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Determination of R.D. of a Solid using Archimedes' Principle",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH5_C7_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "The formula to find R.D. of a solid (denser than water) using Archimedes' principle is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "R.D. = (Weight in air) / (Loss in weight in water)",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "R.D. = (Loss in weight) / (Weight in air)",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "R.D. = (Weight in water) / (Weight in air)",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "R.D. = (Weight in air) * (Weight in water)",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Formula for R.D. of a solid",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C7_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In the experiment, if a solid is soluble in water, which liquid is used instead?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A liquid of known R.D. in which the solid is insoluble.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Any liquid denser than water.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Only mercury can be used.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The solid cannot be used at all.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Modification for soluble solids",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH5_C7_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student uses the formula R.D. = (Weight in air) / (Weight in water). What is the error?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It should be weight in air divided by loss in weight, not weight in water.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "It should be weight in water divided by weight in air.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The formula is correct.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It should multiply the two weights.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Correct formula for R.D.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C7_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "A solid weighs 50 gf in air and 44 gf in water. What is its R.D.?",
+          "options": [
+            {
+              "label": "A",
+              "text": "8.33",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "1.14",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "6.0",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "0.88",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Calculation of R.D. from weights",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C7_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the procedures for finding R.D. of a solid denser than water and a solid soluble in water.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Both use water for immersion.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "For soluble solid, a liquid of known R.D. is used, and the formula is adjusted by multiplying with R.D. of that liquid.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The procedure is identical; solubility does not matter.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "For soluble solid, weight in air is not measured.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "R.D. determination for soluble solids",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH5_C7_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why must the solid not touch the sides or bottom of the beaker during the R.D. experiment?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To prevent heat transfer.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To avoid an additional upward reaction force from the beaker which would reduce the apparent weight incorrectly.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "To make the setup look neat.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To prevent the solid from dissolving faster.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Precaution in R.D. experiment",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Determination of R.D. of a Liquid using Archimedes' Principle",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH5_C8_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "To find R.D. of a liquid, a solid body is weighed in air, in the liquid, and in water. The formula is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "R.D. = (Loss in weight in liquid) / (Loss in weight in water)",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "R.D. = (Weight in liquid) / (Weight in water)",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "R.D. = (Weight in air) / (Weight in liquid)",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "R.D. = (Weight in water) / (Weight in air)",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Formula for R.D. of a liquid",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C8_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What property must the solid body used in this experiment have?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It must be lighter than both liquids.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It must be heavier than both the liquid and water, and insoluble in them.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It must float in the liquid.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It must be magnetic.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Requirements for the solid body",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH5_C8_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student calculates R.D. of liquid as (Weight in air - Weight in liquid). What is missing?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It must be divided by (Weight in air - Weight in water).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "It must be multiplied by density of water.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Nothing is missing; the formula is correct.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It must be added to the weight in water.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Complete formula for liquid R.D.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C8_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "A body weighs W1 gf in air, W2 gf in a liquid, and W3 gf in water. What is the expression for R.D. of the liquid?",
+          "options": [
+            {
+              "label": "A",
+              "text": "(W1 - W2) / (W1 - W3)",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "(W1 - W3) / (W1 - W2)",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "W1 / (W1 - W2)",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "W2 / W3",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Application of R.D. formula for liquid",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C8_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the purpose of weighing the solid in water versus in the unknown liquid in this experiment.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Weighing in water gives the volume of the solid; weighing in liquid gives the upthrust due to that liquid.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Both are done to find the density of the solid.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Weighing in water is optional.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Weighing in liquid gives the weight of the liquid.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Role of water and liquid measurements",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH5_C8_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is it necessary to wash and dry the solid after weighing it in the liquid before weighing it in water?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To prevent contamination of water with the liquid, which would change water's density and affect the loss in weight measurement.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "To make the solid lighter.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "To cool down the solid.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It is not necessary.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Precaution in liquid R.D. experiment",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Principle of Floatation",
+      "concept_type": "principle",
+      "questions": [
+        {
+          "question_id": "CH5_C9_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "The principle of floatation states:",
+          "options": [
+            {
+              "label": "A",
+              "text": "A floating body displaces its own weight of the fluid.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "A floating body displaces its own volume of the fluid.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "A floating body experiences zero gravity.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A floating body has density greater than the fluid.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Statement of principle of floatation",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C9_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "For a floating body, the apparent weight is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Equal to its true weight",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Greater than its true weight",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Less than its true weight",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Zero",
+              "is_correct": true
+            }
+          ],
+          "correct_label": "D",
+          "key_concept": "Apparent weight of a floating body",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C9_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student believes a floating body must be completely immersed. What is the actual condition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A body floats if its weight equals the upthrust due to the submerged part; it can be partially or completely immersed.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "It must be completely immersed to float.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It must have less than half its volume immersed.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It must have no part immersed.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Condition for floatation (W = F_b)",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C9_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "A wooden block floats on water. The forces acting on it are:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Weight (down) and Upthrust (up), which are equal.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Weight (down) and a sideways force.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Only weight acts.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Weight (up) and Upthrust (down).",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Forces on a floating body",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C9_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the net force on a body that sinks versus one that floats.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sinking body: net downward force; Floating body: net force zero.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Both have net upward force.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Sinking body: net force zero; Floating body: net upward force.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both have net downward force.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Net force in sinking vs floating",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH5_C9_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does a floating body experience zero apparent weight?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because the upthrust exactly balances its weight, so no net force is felt.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because gravity ceases to act on it.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because its mass becomes zero in water.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because it is in a state of free fall.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Reason for zero apparent weight",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Relation: Submerged Volume, Density of Body and Liquid",
+      "concept_type": "law",
+      "questions": [
+        {
+          "question_id": "CH5_C10_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "For a body of density ρ_s floating in a liquid of density ρ_l, the fraction of volume submerged (v/V) is given by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "v/V = ρ_s / ρ_l",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "v/V = ρ_l / ρ_s",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "v/V = (ρ_s - ρ_l) / ρ_l",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "v/V = constant",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Formula for submerged fraction",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C10_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "If a body floats with its whole volume inside liquid, the relation between densities is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "ρ_s > ρ_l",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "ρ_s = ρ_l",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "ρ_s < ρ_l",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "ρ_s = 2 ρ_l",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Condition for complete immersion while floating",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C10_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A common error is to think the submerged volume depends on the mass of the body only. What does it actually depend on?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It depends on the ratio of densities (ρ_s/ρ_l), not just mass.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "It depends only on the body's mass.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It depends only on the liquid's density.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It is always half the total volume.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Factors determining submerged volume",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C10_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "A cork of density 0.5 g/cm³ floats on water (density 1 g/cm³). What fraction of its volume is submerged?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1/2",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "1/4",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "2",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "1",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Calculating submerged fraction",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C10_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the submerged volume of an iceberg in fresh water (ρ_l=1.0 g/cm³) versus in sea water (ρ_l=1.026 g/cm³).",
+          "options": [
+            {
+              "label": "A",
+              "text": "It submerges more in fresh water (larger v).",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It submerges less in sea water (smaller v).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Submerged volume is the same in both.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It floats completely out in sea water.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Effect of liquid density on submerged volume",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C10_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does a ship loaded with cargo submerge more in water?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Its average density increases, so to balance the increased weight, it needs to displace more water (increase submerged volume).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "The cargo makes the ship less dense.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The shape of the ship changes.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Water becomes denser.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Effect of loading on submerged volume",
+          "exam_relevance": "high"
+        }
+      ]
+    }
+  ]
+}

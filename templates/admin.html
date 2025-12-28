@@ -1,0 +1,46 @@
+<h2>Admin Dashboard</h2>
+
+{% for student in student_reports %}
+<hr />
+<h3>Student: {{ student.username }}</h3>
+
+<h4>Chapter-wise Accuracy</h4>
+<table border="1">
+  <tr>
+    <th>Chapter</th>
+    <th>Correct</th>
+    <th>Total</th>
+    <th>Accuracy (%)</th>
+  </tr>
+  {% for c in student.chapter_stats %}
+  <tr>
+    <td>{{ c[0] }}</td>
+    <td>{{ c[2] }}</td>
+    <td>{{ c[1] }}</td>
+    <td>{{ "%.2f"|format((c[2] / c[1]) * 100 if c[1] else 0) }}</td>
+  </tr>
+  {% endfor %}
+</table>
+
+<h4>Weak Concepts (Accuracy &lt; 50%)</h4>
+
+{% if student.weak_concepts %}
+<table border="1">
+  <tr>
+    <th>Concept</th>
+    <th>Correct</th>
+    <th>Total</th>
+    <th>Accuracy (%)</th>
+  </tr>
+  {% for wc in student.weak_concepts %}
+  <tr>
+    <td>{{ wc[0] }}</td>
+    <td>{{ wc[2] }}</td>
+    <td>{{ wc[1] }}</td>
+    <td>{{ "%.2f"|format((wc[2] / wc[1]) * 100 if wc[1] else 0) }}</td>
+  </tr>
+  {% endfor %}
+</table>
+{% else %}
+<p>No weak concepts 🎉</p>
+{% endif %} {% endfor %}

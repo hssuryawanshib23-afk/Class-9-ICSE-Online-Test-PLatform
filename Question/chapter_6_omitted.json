@@ -1,0 +1,549 @@
+{
+  "chapter": {
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "Heat and energy"
+  },
+  "concepts": [
+    {
+      "concept_name": "Heat as Energy",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "form": "definition",
+          "question_text": "Define heat.",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "answer_type": "objective_reason",
+          "key_concept": "Heat definition",
+          "expected_answer": "Heat is the internal energy of molecules constituting a body. It flows from a hot body to a cold body."
+        },
+        {
+          "form": "identification",
+          "question_text": "What is the S.I. unit of heat?",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "answer_type": "objective_reason",
+          "key_concept": "Unit of heat",
+          "expected_answer": "The S.I. unit of heat is joule (J)."
+        },
+        {
+          "form": "trap",
+          "question_text": "A student says heat and temperature are the same because both are related to hotness. Is this correct?",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "answer_type": "objective_reason",
+          "key_concept": "Difference between heat and temperature",
+          "expected_answer": "No. Heat is a form of energy (total internal energy of molecules), while temperature is a measure of the degree of hotness or coldness (average kinetic energy of molecules)."
+        },
+        {
+          "form": "application",
+          "question_text": "Explain why we feel hot when we touch warm water.",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "answer_type": "objective_reason",
+          "key_concept": "Heat flow direction",
+          "expected_answer": "Heat energy flows from the warm water (higher temperature) to our hand (lower temperature). This transfer of heat energy makes us feel hot."
+        },
+        {
+          "form": "comparison",
+          "question_text": "Compare the amount of heat contained in two bodies of the same material and mass but at different temperatures.",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "answer_type": "objective_reason",
+          "key_concept": "Heat depends on temperature",
+          "expected_answer": "The body at a higher temperature contains more heat energy, assuming the same mass and material."
+        },
+        {
+          "form": "reason",
+          "question_text": "Give reason why heat is considered a form of energy.",
+          "difficulty": "hard",
+          "thinking_type": "conceptual",
+          "answer_type": "objective_reason",
+          "key_concept": "Heat as energy",
+          "expected_answer": "Heat can be produced by doing work (mechanical energy) or from other forms like electrical or chemical energy. It can also be converted into other forms of work, establishing it as a form of energy."
+        }
+      ]
+    },
+    {
+      "concept_name": "Temperature",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "form": "definition",
+          "question_text": "Define temperature.",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "answer_type": "objective_reason",
+          "key_concept": "Temperature definition",
+          "expected_answer": "Temperature is a quantity which tells the thermal state of a body (i.e., the degree of hotness or coldness). It determines the direction of flow of heat when two bodies at different temperatures are placed in contact."
+        },
+        {
+          "form": "identification",
+          "question_text": "What is the S.I. unit of temperature?",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "answer_type": "objective_reason",
+          "key_concept": "S.I. unit of temperature",
+          "expected_answer": "The S.I. unit of temperature is kelvin (K)."
+        },
+        {
+          "form": "trap",
+          "question_text": "Two bodies at the same temperature are placed in contact. A student says heat will flow from one to the other because they have different masses. Is this correct?",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "answer_type": "objective_reason",
+          "key_concept": "Heat flow depends on temperature difference",
+          "expected_answer": "No. Heat flows only when there is a temperature difference. If two bodies are at the same temperature, there is no net flow of heat between them, regardless of their masses or heat contents."
+        },
+        {
+          "form": "application",
+          "question_text": "Convert 25°C to kelvin.",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "answer_type": "objective_reason",
+          "key_concept": "Celsius to Kelvin conversion",
+          "expected_answer": "T K = 273 + t°C = 273 + 25 = 298 K."
+        },
+        {
+          "form": "comparison",
+          "question_text": "Compare the Celsius and Kelvin scales regarding their zero points and size of a degree.",
+          "difficulty": "hard",
+          "thinking_type": "conceptual",
+          "answer_type": "objective_reason",
+          "key_concept": "Comparison of temperature scales",
+          "expected_answer": "The size of 1 degree is the same on both scales. The zero on the Kelvin scale (0 K, absolute zero) is at -273°C. The zero on the Celsius scale (0°C) is the ice point, equal to 273 K."
+        },
+        {
+          "form": "reason",
+          "question_text": "Why is temperature called a determinant for the direction of heat flow?",
+          "difficulty": "hard",
+          "thinking_type": "conceptual",
+          "answer_type": "objective_reason",
+          "key_concept": "Temperature determines heat flow direction",
+          "expected_answer": "Heat always flows spontaneously from a body at a higher temperature to a body at a lower temperature when they are in contact. Thus, temperature difference dictates the direction of heat flow."
+        }
+      ]
+    },
+    {
+      "concept_name": "Anomalous Expansion of Water",
+      "concept_type": "principle",
+      "questions": [
+        {
+          "form": "definition",
+          "question_text": "What is meant by the anomalous expansion of water?",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "answer_type": "objective_reason",
+          "key_concept": "Anomalous expansion definition",
+          "expected_answer": "The expansion of water when it is cooled from 4°C to 0°C is known as anomalous expansion of water."
+        },
+        {
+          "form": "identification",
+          "question_text": "At what temperature does water have maximum density?",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "answer_type": "objective_reason",
+          "key_concept": "Maximum density of water",
+          "expected_answer": "Water has maximum density at 4°C."
+        },
+        {
+          "form": "trap",
+          "question_text": "A student heats water from 0°C to 10°C and says its volume will continuously increase. Is this entirely accurate?",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "answer_type": "objective_reason",
+          "key_concept": "Volume change from 0°C to 10°C",
+          "expected_answer": "No. When water is heated from 0°C to 4°C, it contracts (volume decreases). From 4°C to 10°C, it expands (volume increases). So the volume first decreases, then increases."
+        },
+        {
+          "form": "application",
+          "question_text": "Describe the Hope's experiment to demonstrate the anomalous expansion of water.",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "answer_type": "objective_reason",
+          "key_concept": "Hope's experiment",
+          "expected_answer": "A tall cylinder with water has a freezing mixture around its middle. Thermometers at the top (T1) and bottom (T2) record temperatures. Initially both show room temperature. T2 falls to 4°C and becomes steady. Then T1 falls to 0°C, showing that water above 4°C cools and water at 4°C (maximum density) remains at the bottom."
+        },
+        {
+          "form": "comparison",
+          "question_text": "Compare the behavior of water when cooled from 10°C to 0°C versus a typical liquid that contracts uniformly on cooling.",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "answer_type": "objective_reason",
+          "key_concept": "Anomalous vs. normal expansion",
+          "expected_answer": "A typical liquid contracts continuously on cooling. Water contracts from 10°C to 4°C, but expands from 4°C to 0°C. This expansion on cooling below 4°C is anomalous."
+        },
+        {
+          "form": "reason",
+          "question_text": "Why does ice form on the surface of a pond first, not at the bottom, during winter?",
+          "difficulty": "hard",
+          "thinking_type": "application",
+          "answer_type": "objective_reason",
+          "key_concept": "Consequence of anomalous expansion",
+          "expected_answer": "As surface water cools below 4°C, it expands, becomes less dense, and stays on top. When it reaches 0°C, it freezes into ice. The denser water at 4°C remains at the bottom."
+        }
+      ]
+    },
+    {
+      "concept_name": "Consequences of Anomalous Expansion of Water",
+      "concept_type": "application",
+      "questions": [
+        {
+          "form": "definition",
+          "question_text": "State one important consequence of the anomalous expansion of water.",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "answer_type": "objective_reason",
+          "key_concept": "Consequences of anomalous expansion",
+          "expected_answer": "It helps preserve aquatic life during very cold weather by allowing ice to form only on the surface, keeping water below at 4°C."
+        },
+        {
+          "form": "identification",
+          "question_text": "What is the temperature of water just in contact with ice in a frozen pond?",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "answer_type": "objective_reason",
+          "key_concept": "Temperature near ice",
+          "expected_answer": "The water layer just below the ice in contact with it is at 0°C."
+        },
+        {
+          "form": "trap",
+          "question_text": "A student says water pipes burst in winter because water expands when it freezes into ice. Is freezing the only reason for expansion?",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "answer_type": "objective_reason",
+          "key_concept": "Expansion below 4°C",
+          "expected_answer": "No, expansion starts even before freezing. As water cools below 4°C, it expands anomalously. This expansion exerts pressure on the pipes, which can cause them to burst even before the water freezes."
+        },
+        {
+          "form": "application",
+          "question_text": "Explain how the anomalous expansion of water helps fish survive in a frozen lake.",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "answer_type": "objective_reason",
+          "key_concept": "Protection of aquatic life",
+          "expected_answer": "Water at 4°C is densest and sinks to the bottom. Ice, being less dense, forms on top and acts as a poor conductor, insulating the water below. This keeps the bottom water at around 4°C, allowing fish to survive."
+        },
+        {
+          "form": "comparison",
+          "question_text": "Compare the risk of pipe bursts due to water cooling in winter versus a typical liquid that only contracts on cooling.",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "answer_type": "objective_reason",
+          "key_concept": "Risk due to anomalous expansion",
+          "expected_answer": "A typical liquid only contracts on cooling, reducing pressure inside pipes. Water expands when cooled below 4°C, increasing pressure and the risk of pipe bursts, which is a unique hazard."
+        },
+        {
+          "form": "reason",
+          "question_text": "Why is it advisable to fill fields with water to protect plants from frost?",
+          "difficulty": "hard",
+          "thinking_type": "application",
+          "answer_type": "objective_reason",
+          "key_concept": "Protecting plants from freezing",
+          "expected_answer": "Water has a high specific heat capacity and releases latent heat when it freezes. This helps moderate the temperature around the plants, preventing them from freezing and their capillaries from bursting due to expansion of water inside them."
+        }
+      ]
+    },
+    {
+      "concept_name": "Energy Flow in an Ecosystem",
+      "concept_type": "principle",
+      "questions": [
+        {
+          "form": "definition",
+          "question_text": "What is an ecosystem?",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "answer_type": "objective_reason",
+          "key_concept": "Ecosystem definition",
+          "expected_answer": "An ecosystem is a unit composed of biotic components (producers, consumers, decomposers) and abiotic components (light, heat, rain, humidity, inorganic and organic substances)."
+        },
+        {
+          "form": "identification",
+          "question_text": "What is the ultimate source of energy for all ecosystems?",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "answer_type": "objective_reason",
+          "key_concept": "Ultimate energy source",
+          "expected_answer": "The sun is the ultimate source of energy for all ecosystems."
+        },
+        {
+          "form": "trap",
+          "question_text": "A student claims that energy in an ecosystem is cyclic, returning to the sun. Is this correct?",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "answer_type": "objective_reason",
+          "key_concept": "Energy flow is linear",
+          "expected_answer": "No. Energy flow in an ecosystem is linear, not cyclic. It enters as solar energy, moves through the food chain, and is ultimately degraded as heat, which is not returned to the sun."
+        },
+        {
+          "form": "application",
+          "question_text": "Describe a simple food chain with four trophic levels.",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "answer_type": "objective_reason",
+          "key_concept": "Food chain example",
+          "expected_answer": "A simple food chain: Producers (plants) → Primary consumers (krill) → Secondary consumers (small fish) → Tertiary consumers (large fish) → Man."
+        },
+        {
+          "form": "comparison",
+          "question_text": "Compare the roles of producers and consumers in an ecosystem regarding energy.",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "answer_type": "objective_reason",
+          "key_concept": "Producers vs. consumers",
+          "expected_answer": "Producers (like plants) capture solar energy and convert it into chemical energy (food) via photosynthesis. Consumers (like animals) obtain energy by consuming producers or other consumers; they do not produce their own energy."
+        },
+        {
+          "form": "reason",
+          "question_text": "Explain why the energy transfer from one trophic level to the next is not 100% efficient.",
+          "difficulty": "hard",
+          "thinking_type": "conceptual",
+          "answer_type": "objective_reason",
+          "key_concept": "Energy transfer inefficiency",
+          "expected_answer": "A large part of the energy at each trophic level is used for respiration (metabolic processes) and is lost as heat. Some energy is also lost through waste, death, and decay, so only a fraction is passed to the next level."
+        }
+      ]
+    },
+    {
+      "concept_name": "Renewable and Non-Renewable Energy Sources",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "form": "definition",
+          "question_text": "What is a renewable source of energy?",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "answer_type": "objective_reason",
+          "key_concept": "Renewable energy definition",
+          "expected_answer": "A renewable (or non-conventional) source of energy is a natural source that provides energy continuously over a long period and will not get exhausted."
+        },
+        {
+          "form": "identification",
+          "question_text": "Name two non-renewable sources of energy.",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "answer_type": "objective_reason",
+          "key_concept": "Examples of non-renewable sources",
+          "expected_answer": "Coal and petroleum (or natural gas) are non-renewable sources of energy."
+        },
+        {
+          "form": "trap",
+          "question_text": "A student classifies wood as a good renewable energy source because trees can be regrown. Is this a fully advisable classification?",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "answer_type": "objective_reason",
+          "key_concept": "Limitations of wood as renewable source",
+          "expected_answer": "While wood is technically renewable, its use as fuel is not advisable because trees take a long time to grow, and large-scale cutting causes deforestation, leading to environmental imbalance and global warming."
+        },
+        {
+          "form": "application",
+          "question_text": "Explain how solar energy can be used to generate electricity.",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "answer_type": "objective_reason",
+          "key_concept": "Solar electricity generation",
+          "expected_answer": "Solar energy can be converted directly into electricity using solar cells (which create a potential difference) or indirectly using solar power plants (where sunlight heats water to produce steam to drive a turbine and generator)."
+        },
+        {
+          "form": "comparison",
+          "question_text": "Compare renewable and non-renewable energy sources based on exhaustibility and environmental impact.",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "answer_type": "objective_reason",
+          "key_concept": "Comparison of energy sources",
+          "expected_answer": "Renewable sources (e.g., sun, wind) are inexhaustible and generally cause less pollution. Non-renewable sources (e.g., coal, oil) are finite, get exhausted, and their use causes significant pollution and greenhouse gas emissions."
+        },
+        {
+          "form": "reason",
+          "question_text": "Why is it important to develop and use renewable energy sources?",
+          "difficulty": "hard",
+          "thinking_type": "application",
+          "answer_type": "objective_reason",
+          "key_concept": "Importance of renewable energy",
+          "expected_answer": "Non-renewable sources (fossil fuels) are limited and will deplete. Their use causes pollution and global warming. Renewable sources are sustainable, cleaner, and essential for meeting future energy needs without harming the environment."
+        }
+      ]
+    },
+    {
+      "concept_name": "Production of Electricity from Various Sources",
+      "concept_type": "application",
+      "questions": [
+        {
+          "form": "definition",
+          "question_text": "What is a solar cell?",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "answer_type": "objective_reason",
+          "key_concept": "Solar cell definition",
+          "expected_answer": "A solar cell is a device that converts solar energy directly into electricity."
+        },
+        {
+          "form": "identification",
+          "question_text": "Name the main component of a nuclear reactor that controls the chain reaction.",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "answer_type": "objective_reason",
+          "key_concept": "Control rods in nuclear reactor",
+          "expected_answer": "Cadmium rods are used to control the chain reaction in a nuclear reactor."
+        },
+        {
+          "form": "trap",
+          "question_text": "A student says a wind generator can be set up efficiently anywhere to produce electricity. Is this correct?",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "answer_type": "objective_reason",
+          "key_concept": "Site requirement for wind energy",
+          "expected_answer": "No. Wind farms require locations where wind blows steadily throughout the year at a speed not less than 15 km/h, typically near coastal areas. They also need a large land area."
+        },
+        {
+          "form": "application",
+          "question_text": "Describe the basic principle of generating hydroelectricity.",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "answer_type": "objective_reason",
+          "key_concept": "Hydroelectricity principle",
+          "expected_answer": "Water stored at a height in a dam has potential energy. When released, it falls and gains kinetic energy, which rotates a water turbine. The turbine drives a generator, producing electricity."
+        },
+        {
+          "form": "comparison",
+          "question_text": "Compare the advantages of producing electricity from solar energy versus nuclear energy.",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "answer_type": "objective_reason",
+          "key_concept": "Solar vs. nuclear energy advantages",
+          "expected_answer": "Solar energy is renewable, pollution-free, and has low running costs. Nuclear energy produces a huge amount of energy from a small amount of fuel and can provide continuous power once loaded. However, nuclear energy produces hazardous waste and radiation."
+        },
+        {
+          "form": "reason",
+          "question_text": "Why is the initial cost of setting up a solar power plant high?",
+          "difficulty": "hard",
+          "thinking_type": "conceptual",
+          "answer_type": "objective_reason",
+          "key_concept": "High initial cost of solar power",
+          "expected_answer": "The technology for manufacturing efficient solar cells and setting up large solar panels or concentrators is expensive. The materials (like silicon) and the infrastructure required involve significant capital investment."
+        }
+      ]
+    },
+    {
+      "concept_name": "Energy Degradation",
+      "concept_type": "principle",
+      "questions": [
+        {
+          "form": "definition",
+          "question_text": "What is meant by degradation of energy?",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "answer_type": "objective_reason",
+          "key_concept": "Energy degradation definition",
+          "expected_answer": "The gradual decrease of useful energy due to radiation loss, friction, etc., resulting in its conversion into a non-useful (degraded) form, is called degradation of energy."
+        },
+        {
+          "form": "identification",
+          "question_text": "In an electric bulb, what form does most of the electrical energy degrade into?",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "answer_type": "objective_reason",
+          "key_concept": "Energy degradation in bulb",
+          "expected_answer": "In an electric bulb, most of the electrical energy degrades into heat energy (and other invisible radiations), with less than 25% converted into light."
+        },
+        {
+          "form": "trap",
+          "question_text": "A student claims that if we use a perfectly efficient machine, there will be no energy degradation. Is such a machine possible according to the laws of thermodynamics?",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "answer_type": "objective_reason",
+          "key_concept": "No 100% efficient energy transfer",
+          "expected_answer": "No. According to the second law of thermodynamics, no energy transfer is 100% efficient. Some energy is always converted into an unuseful form (like heat due to friction or radiation), leading to degradation."
+        },
+        {
+          "form": "application",
+          "question_text": "Give an example from daily life that illustrates energy degradation.",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "answer_type": "objective_reason",
+          "key_concept": "Example of energy degradation",
+          "expected_answer": "When running a vehicle, a major part of the energy from the fuel is wasted as heat in the engine, sound, and work against friction, rather than being used for motion."
+        },
+        {
+          "form": "comparison",
+          "question_text": "Compare the useful energy output and degraded energy in a typical machine.",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "answer_type": "objective_reason",
+          "key_concept": "Useful vs. degraded energy",
+          "expected_answer": "In any machine, the input energy is split into useful energy (which performs the desired work) and degraded energy (lost as heat, sound, etc., due to friction and radiation). The useful output is always less than the input."
+        },
+        {
+          "form": "reason",
+          "question_text": "Explain why energy degradation is an inevitable process.",
+          "difficulty": "hard",
+          "thinking_type": "conceptual",
+          "answer_type": "objective_reason",
+          "key_concept": "Inevitability of energy degradation",
+          "expected_answer": "Due to the second law of thermodynamics, in any real process of energy transfer or transformation, some energy is always dissipated into the surroundings as low-grade heat (due to friction, resistance, radiation) which cannot be fully recovered for useful work."
+        }
+      ]
+    },
+    {
+      "concept_name": "Greenhouse Effect and Global Warming",
+      "concept_type": "application",
+      "questions": [
+        {
+          "form": "definition",
+          "question_text": "What is the greenhouse effect?",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "answer_type": "objective_reason",
+          "key_concept": "Greenhouse effect definition",
+          "expected_answer": "The greenhouse effect is the process of warming of a planet's surface and its lower atmosphere by the absorption of infrared radiations of long wavelength emitted from the surface, which are trapped by greenhouse gases."
+        },
+        {
+          "form": "identification",
+          "question_text": "Name two greenhouse gases.",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "answer_type": "objective_reason",
+          "key_concept": "Greenhouse gases examples",
+          "expected_answer": "Carbon dioxide and methane are greenhouse gases. (Also water vapour, chlorofluorocarbons)."
+        },
+        {
+          "form": "trap",
+          "question_text": "A student says the greenhouse effect is entirely harmful and should be eliminated. Is this accurate?",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "answer_type": "objective_reason",
+          "key_concept": "Natural greenhouse effect is necessary",
+          "expected_answer": "No. The natural greenhouse effect is essential for life on Earth. It maintains the average temperature at about 15.5°C. Without it, Earth's average temperature would be around -18°C. The problem is the enhanced greenhouse effect due to human activities."
+        },
+        {
+          "form": "application",
+          "question_text": "Explain one major human activity that contributes to the increase in greenhouse gases.",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "answer_type": "objective_reason",
+          "key_concept": "Human contribution to greenhouse gases",
+          "expected_answer": "Burning of fossil fuels (coal, oil, gas) for energy, transportation, and industry releases large amounts of carbon dioxide, a major greenhouse gas."
+        },
+        {
+          "form": "comparison",
+          "question_text": "Compare the projected average temperature of Earth with and without the increase in greenhouse gases.",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "answer_type": "objective_reason",
+          "key_concept": "Impact of increased greenhouse gases",
+          "expected_answer": "Without the increase, the natural greenhouse effect maintains an average of about 15.5°C. With the increased concentration due to human activities, the average temperature is rising and is projected to reach much higher levels (e.g., 64°C by 2100 in a worst-case scenario)."
+        },
+        {
+          "form": "reason",
+          "question_text": "Why is global warming a cause for concern regarding sea levels?",
+          "difficulty": "hard",
+          "thinking_type": "application",
+          "answer_type": "objective_reason",
+          "key_concept": "Global warming and sea level rise",
+          "expected_answer": "Global warming causes thermal expansion of seawater and melting of glaciers and polar ice caps. This increases the volume of water in oceans, leading to a rise in sea levels, which can flood coastal areas."
+        }
+      ]
+    }
+  ]
+}
