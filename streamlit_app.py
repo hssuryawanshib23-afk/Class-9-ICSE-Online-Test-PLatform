@@ -78,7 +78,7 @@ def admin_page():
                 "Avg %": f"{r[3]:.1f}",
                 "Best %": f"{r[4]:.1f}",
                 "Worst %": f"{r[5]:.1f}",
-                "Last Test": r[6][:10] if r[6] else "N/A"
+                "Last Test": str(r[6])[:10] if r[6] else "N/A"
             })
         
         st.dataframe(student_summary, use_container_width=True)
@@ -119,7 +119,7 @@ def admin_page():
                 for idx, t in enumerate(test_history, 1):
                     history_display.append({
                         "Test #": idx,
-                        "Date": t[1][:16] if t[1] else "N/A",
+                        "Date": str(t[1])[:16] if t[1] else "N/A",
                         "Questions": t[2],
                         "Score": f"{t[3]}/{t[2]}",
                         "Accuracy": f"{t[4]}%"
