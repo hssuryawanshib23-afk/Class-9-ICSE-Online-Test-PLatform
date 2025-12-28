@@ -13,7 +13,7 @@ def admin_page():
     st.title("📊 Admin Dashboard")
 
     conn = get_connection()
-    cur = conn.cursor()`r`n    cur = conn.cursor()
+    cur = conn.cursor()
 
     # ---------------- GLOBAL STATS ----------------
     st.subheader("📈 Overall Statistics")
@@ -364,7 +364,6 @@ if "user" not in st.session_state:
 # ================= HELPERS =================
 def get_available_count(chapters, difficulties):
     conn = get_connection()
-    cur = conn.cursor()`r`n    cur = conn.cursor()
     cur = conn.cursor()
     total = 0
 
@@ -541,7 +540,6 @@ def submit_test(auto=False):
 def save_test_attempt(score, total_questions):
     """Save test attempt and responses to database"""
     conn = get_connection()
-    cur = conn.cursor()`r`n    cur = conn.cursor()
     cur = conn.cursor()
     
     # Enable foreign keys
