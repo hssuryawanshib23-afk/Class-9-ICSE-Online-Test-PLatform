@@ -49,7 +49,7 @@ def admin_page():
     # ---------------- STUDENT-WISE DETAILED ----------------
     st.subheader("👨‍🎓 Student Performance Analysis")
 
-    student_data = cur.execute("""
+    cur.execute("""
         SELECT 
             u.id,
             u.username,
@@ -63,7 +63,8 @@ def admin_page():
         WHERE u.role='student'
         GROUP BY u.id, u.username
         ORDER BY avg_accuracy DESC
-    """).fetchall()
+    """)
+    student_data = cur.fetchall()
 
     if student_data:
         # Display summary table
@@ -96,7 +97,7 @@ def admin_page():
         student_id = next(r[0] for r in student_data if r[1] == selected_student)
         
         # Student's test history
-        test_history = cur.execute("""
+        cur.execute("""
             SELECT 
                 t.id,
                 t.started_at,
@@ -106,7 +107,8 @@ def admin_page():
             FROM test_attempts t
             WHERE t.student_id = %s
             ORDER BY t.started_at DESC
-        """, (student_id,)).fetchall()
+        """, (student_id,))
+        test_history = cur.fetchall()
         
         col1, col2 = st.columns([2, 1])
         
@@ -126,7 +128,7 @@ def admin_page():
         
         with col2:
             st.markdown(f"**📊 Chapter Performance for {selected_student}**")
-            student_chapters = cur.execute("""
+            cur.execute("""
                 SELECT 
                     ch.chapter_number,
                     ROUND(AVG(r.is_correct)*100, 2) AS accuracy,
@@ -139,7 +141,8 @@ def admin_page():
                 WHERE t.student_id = %s
                 GROUP BY ch.chapter_number
                 ORDER BY accuracy ASC
-            """, (student_id,)).fetchall()
+            """, (student_id,))
+            student_chapters = cur.fetchall()
             
             if student_chapters:
                 for ch in student_chapters:
@@ -156,7 +159,7 @@ def admin_page():
     # ---------------- CHAPTER-WISE ANALYSIS ----------------
     st.subheader("📚 Chapter-wise Performance")
 
-    chapter_df = cur.execute("""
+    cur.execute("""
         SELECT 
             ch.chapter_number,
             ROUND(AVG(r.is_correct)*100, 2) AS accuracy,
@@ -168,7 +171,8 @@ def admin_page():
         JOIN chapters ch ON c.chapter_id = ch.id
         GROUP BY ch.chapter_number
         ORDER BY ch.chapter_number
-    """).fetchall()
+    """)
+    chapter_df = cur.fetchall()
 
     if chapter_df:
         col1, col2 = st.columns([2, 1])
@@ -212,11 +216,11 @@ def admin_page():
     st.divider()
     st.subheader("⚡ Difficulty Level Analysis")
     
-    difficulty_stats = cur.execute("""
+    cur.execute("""
         SELECT 
             q.difficulty,
-            COUNT(r.id) AS total_attempts,
-            SUM(r.is_correct) AS correct_answers,
+            COUNT(r.id) AS attempts,
+            SUM(r.is_correct) AS correct,
             ROUND(AVG(r.is_correct)*100, 2) AS accuracy
         FROM responses r
         JOIN questions q ON r.question_id = q.id
@@ -227,7 +231,8 @@ def admin_page():
                 WHEN 'medium' THEN 2
                 WHEN 'hard' THEN 3
             END
-    """).fetchall()
+    """)
+    difficulty_stats = cur.fetchall()
     
     if difficulty_stats:
         col1, col2, col3 = st.columns(3)
@@ -245,7 +250,7 @@ def admin_page():
     st.subheader("🧠 Concept-Level Performance Analysis")
     
     # Get all concept stats
-    concept_stats = cur.execute("""
+    cur.execute("""
         SELECT 
             c.id,
             c.concept_name,
@@ -260,7 +265,8 @@ def admin_page():
         GROUP BY c.id, c.concept_name, ch.chapter_number
         HAVING total_attempts > 0
         ORDER BY accuracy ASC
-    """).fetchall()
+    """)
+    concept_stats = cur.fetchall()
     
     if concept_stats:
         col1, col2 = st.columns(2)
@@ -293,7 +299,7 @@ def admin_page():
         selected_concept_id = concept_options[selected_concept_display]
         
         # Get student performance for this concept
-        student_concept_performance = cur.execute("""
+        cur.execute("""
             SELECT 
                 u.username,
                 COUNT(r.id) AS attempts,
@@ -306,7 +312,8 @@ def admin_page():
             WHERE q.concept_id = %s
             GROUP BY u.username
             ORDER BY accuracy ASC, attempts DESC
-        """, (selected_concept_id,)).fetchall()
+        """, (selected_concept_id,))
+        student_concept_performance = cur.fetchall()
         
         if student_concept_performance:
             st.markdown(f"**📊 Student Performance on: {selected_concept_display.split(' (Ch')[0]}**")
