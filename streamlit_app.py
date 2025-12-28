@@ -413,17 +413,17 @@ if st.session_state.user:
 def login_page():
     st.title("Login")
 
-    u = st.text_input("Username", key="login_username")
+    phone = st.text_input("Phone Number (10 digits)", key="login_phone", max_chars=10)
     p = st.text_input("Password", type="password", key="login_password")
 
     if st.button("Login", key="login_btn"):
-        user = login(u, p)
+        user = login(phone, p)
         if user:
             st.session_state.user = user
             st.session_state.page = "setup"
             st.rerun()
         else:
-            st.error("Invalid credentials")
+            st.error("❌ Invalid phone number or password")
 
 def signup_page():
     st.title("Signup")

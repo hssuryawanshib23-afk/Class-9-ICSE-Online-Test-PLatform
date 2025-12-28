@@ -30,13 +30,13 @@ def create_user(username, phone_number, password, role="student"):
     return user_id
 
 
-def login(username, password):
+def login(phone_number, password):
     conn = get_connection()
     cur = conn.cursor()
 
     cur.execute(
-        "SELECT id, username, password_hash, role FROM users WHERE username = %s",
-        (username,)
+        "SELECT id, username, password_hash, role FROM users WHERE phone_number = %s",
+        (phone_number,)
     )
     user = cur.fetchone()
 
@@ -68,6 +68,6 @@ def login(username, password):
         except Exception as e:
             print(f"DEBUG: bcrypt error: {e}")
     else:
-        print(f"DEBUG: No user found with username: {username}")
+        print(f"DEBUG: No user found with phone_number: {phone_number}")
     
     return None
