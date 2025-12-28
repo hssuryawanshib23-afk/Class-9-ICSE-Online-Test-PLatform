@@ -263,7 +263,7 @@ def admin_page():
         LEFT JOIN questions q ON q.concept_id = c.id
         LEFT JOIN responses r ON r.question_id = q.id
         GROUP BY c.id, c.concept_name, ch.chapter_number
-        HAVING total_attempts > 0
+        HAVING COUNT(r.id) > 0
         ORDER BY accuracy ASC
     """)
     concept_stats = cur.fetchall()
