@@ -18,9 +18,10 @@ def create_user(username, phone_number, password, role="student"):
     hashed = bcrypt.hashpw(password.encode(), bcrypt.gensalt())
 
     # Use RETURNING for PostgreSQL compatibility
+    # Decode hash to string for PostgreSQL storage
     cur.execute(
         "INSERT INTO users (username, phone_number, password_hash, role) VALUES (%s, %s, %s, %s) RETURNING id",
-        (username, phone_number, hashed, role)
+        (username, phone_number, hashed.decode('utf-8'), role)
     )
 
     user_id = cur.fetchone()[0]
