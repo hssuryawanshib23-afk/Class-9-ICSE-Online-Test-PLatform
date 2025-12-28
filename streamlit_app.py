@@ -99,7 +99,7 @@ def admin_page():
                 t.score,
                 ROUND(t.score*1.0/t.total_questions*100, 2) AS accuracy
             FROM test_attempts t
-            WHERE t.student_id = ?
+            WHERE t.student_id = %s
             ORDER BY t.started_at DESC
         """, (student_id,)).fetchall()
         
@@ -131,7 +131,7 @@ def admin_page():
                 JOIN questions q ON r.question_id = q.id
                 JOIN concepts c ON q.concept_id = c.id
                 JOIN chapters ch ON c.chapter_id = ch.id
-                WHERE t.student_id = ?
+                WHERE t.student_id = %s
                 GROUP BY ch.chapter_number
                 ORDER BY accuracy ASC
             """, (student_id,)).fetchall()
@@ -298,7 +298,7 @@ def admin_page():
             JOIN test_attempts t ON r.attempt_id = t.id
             JOIN users u ON t.student_id = u.id
             JOIN questions q ON r.question_id = q.id
-            WHERE q.concept_id = ?
+            WHERE q.concept_id = %s
             GROUP BY u.username
             ORDER BY accuracy ASC, attempts DESC
         """, (selected_concept_id,)).fetchall()
@@ -367,7 +367,7 @@ def get_available_count(chapters, difficulties):
     total = 0
 
     for d in difficulties:
-        ch_p = ",".join("?" * len(chapters))
+        ch_p = ",".join("%s" * len(chapters))
         cur.execute(
             f"""
             SELECT COUNT(*)
@@ -375,7 +375,7 @@ def get_available_count(chapters, difficulties):
             JOIN concepts c ON q.concept_id=c.id
             JOIN chapters ch ON c.chapter_id=ch.id
             WHERE ch.chapter_number IN ({ch_p})
-              AND q.difficulty = ?
+              AND q.difficulty = %s
             """,
             (*chapters, d)
         )
@@ -547,7 +547,7 @@ def save_test_attempt(score, total_questions):
     try:
         # Get user_id from username
         user_id_result = cur.execute(
-            "SELECT id FROM users WHERE username = ?",
+            "SELECT id FROM users WHERE username = %s",
             (st.session_state.user['username'],)
         ).fetchone()
         
@@ -559,14 +559,14 @@ def save_test_attempt(score, total_questions):
         
         # Check if student record exists (CRITICAL FIX!)
         student_check = cur.execute(
-            "SELECT user_id FROM students WHERE user_id = ?",
+            "SELECT user_id FROM students WHERE user_id = %s",
             (user_id,)
         ).fetchone()
         
         # Create student record if it doesn't exist
         if not student_check:
             cur.execute(
-                "INSERT INTO students (user_id, name, class) VALUES (?, ?, ?)",
+                "INSERT INTO students (user_id, name, class) VALUES (%s, %s, %s)",
                 (user_id, st.session_state.user['username'], '9')
             )
             conn.commit()
@@ -574,7 +574,7 @@ def save_test_attempt(score, total_questions):
         # Insert test attempt with correct column order
         cur.execute("""
             INSERT INTO test_attempts (student_id, total_questions, score, started_at)
-            VALUES (?, ?, ?, datetime('now'))
+            VALUES (%s, %s, %s, datetime('now'))
         """, (user_id, total_questions, score))
         
         attempt_id = cur.lastrowid
@@ -594,16 +594,12 @@ def save_test_attempt(score, total_questions):
             
             cur.execute("""
                 INSERT INTO responses (attempt_id, question_id, selected_label, is_correct)
-                VALUES (?, ?, ?, ?)
+                VALUES (%s, %s, %s, %s)
             """, (attempt_id, qid, selected_label, is_correct))
         
         conn.commit()
         
-    except sqlite3.IntegrityError as e:
-        st.error(f"❌ Database constraint error: {e}")
-        conn.rollback()
-        
-    except sqlite3.Error as e:
+    except Exception as e:
         st.error(f"❌ Database error: {e}")
         conn.rollback()
         

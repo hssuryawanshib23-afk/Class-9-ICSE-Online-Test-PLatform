@@ -10,7 +10,7 @@ def create_user(username, password, role="student"):
 
     # Use %s for both SQLite and PostgreSQL compatibility
     cur.execute(
-        "INSERT INTO users (username, password_hash, role) VALUES (?, ?, ?)",
+        "INSERT INTO users (username, password_hash, role) VALUES (%s, %s, %s)",
         (username, hashed, role)
     )
 
@@ -25,7 +25,7 @@ def login(username, password):
     cur = conn.cursor()
 
     cur.execute(
-        "SELECT id, username, password_hash, role FROM users WHERE username = ?",
+        "SELECT id, username, password_hash, role FROM users WHERE username = %s",
         (username,)
     )
     user = cur.fetchone()

@@ -12,8 +12,8 @@ def generate_test(chapters, difficulties, total_questions):
     conn = get_connection()
     cur = conn.cursor()
 
-    ch_placeholders = ",".join("?" * len(chapters))
-    diff_placeholders = ",".join("?" * len(difficulties))
+    ch_placeholders = ",".join("%s" * len(chapters))
+    diff_placeholders = ",".join("%s" * len(difficulties))
 
     query = f"""
         SELECT q.id, q.question_text
@@ -37,7 +37,7 @@ def generate_test(chapters, difficulties, total_questions):
     questions = []
     for qid, qtext in selected:
         cur.execute(
-            "SELECT label, option_text, is_correct FROM mcq_options WHERE question_id = ?",
+            "SELECT label, option_text, is_correct FROM mcq_options WHERE question_id = %s",
             (qid,)
         )
         options = cur.fetchall()
