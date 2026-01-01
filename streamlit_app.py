@@ -932,19 +932,19 @@ def show_history_test_details(attempt_id, test_type):
             # Get custom test responses
             query = f"""
                 SELECT 
-                    q.text, q.option_a, q.option_b, q.option_c, q.option_d,
-                    q.answer, r.selected_answer, r.is_correct, q.difficulty
+                    q.question_text,
+                    r.selected_label, r.is_correct, q.difficulty, q.id
                 FROM responses r
                 JOIN questions q ON r.question_id = q.id
                 WHERE r.attempt_id = {placeholder}
-                ORDER BY r.response_id
+                ORDER BY r.id
             """
         else:
             # Get admin test responses
             query = f"""
                 SELECT 
-                    q.text, q.option_a, q.option_b, q.option_c, q.option_d,
-                    q.answer, atr.selected_answer, atr.is_correct, q.difficulty
+                    q.question_text,
+                    atr.selected_answer, atr.is_correct, q.difficulty, q.id
                 FROM admin_test_responses atr
                 JOIN questions q ON atr.question_id = q.id
                 WHERE atr.attempt_id = {placeholder}
@@ -954,13 +954,26 @@ def show_history_test_details(attempt_id, test_type):
         cursor.execute(query, (attempt_id,))
         responses = cursor.fetchall()
         
-        correct_count = sum(1 for r in responses if r[7])
+        correct_count = sum(1 for r in responses if r[2])
         total = len(responses)
         
         st.info(f"Score: {correct_count}/{total} ({(correct_count/total)*100:.1f}%)")
         
         for i, r in enumerate(responses, 1):
-            text, a, b, c, d, correct, selected, is_correct, difficulty = r
+            question_text, selected, is_correct, difficulty, question_id = r
+            
+            # Get options for this question
+            option_query = f"""
+                SELECT label, option_text, is_correct
+                FROM mcq_options
+                WHERE question_id = {placeholder}
+                ORDER BY label
+            """
+            cursor.execute(option_query, (question_id,))
+            options = cursor.fetchall()
+            
+            # Find correct answer
+            correct_answer = next((opt[0] for opt in options if opt[2] == 1), None)
             
             # Show difficulty badge
             if difficulty == 'easy':
@@ -988,18 +1001,18 @@ def show_history_test_details(attempt_id, test_type):
                         <span style="background-color: {badge_color}; padding: 3px 10px; border-radius: 12px; font-size: 12px; font-weight: bold;">{badge}</span>
                         <span style="font-size: 20px;">{result_emoji}</span>
                     </div>
-                    <p style="font-size: 16px; font-weight: bold; margin: 10px 0;">Q{i}. {text}</p>
+                    <p style="font-size: 16px; font-weight: bold; margin: 10px 0;">Q{i}. {question_text}</p>
                 </div>
                 """, unsafe_allow_html=True)
                 
-                options = {'A': a, 'B': b, 'C': c, 'D': d}
-                for opt, val in options.items():
-                    if opt == correct:
-                        st.success(f"**{opt}. {val}** ✓ (Correct Answer)")
-                    elif opt == selected and not is_correct:
-                        st.error(f"**{opt}. {val}** ✗ (Your Answer)")
+                for opt in options:
+                    label, option_text, is_correct_opt = opt
+                    if label == correct_answer:
+                        st.success(f"**{label}. {option_text}** ✓ (Correct Answer)")
+                    elif label == selected and not is_correct:
+                        st.error(f"**{label}. {option_text}** ✗ (Your Answer)")
                     else:
-                        st.write(f"{opt}. {val}")
+                        st.write(f"{label}. {option_text}")
                 
                 st.divider()
     
