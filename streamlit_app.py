@@ -741,7 +741,7 @@ def setup_page():
 def custom_test_setup():
     """Original test setup - now with difficulty caps"""
     st.subheader("Create Your Custom Test")
-    st.info("⚠️ Note: To ensure balanced learning, you must select at least 40% hard, 30% medium, and 30% easy questions.")
+    st.info("⚠️ Note: All tests will include a balanced mix of Easy, Medium, and Hard questions with at least 40% Hard questions to ensure effective learning.")
 
     chapters = st.multiselect(
         "Chapters",
@@ -749,28 +749,11 @@ def custom_test_setup():
         key="setup_chapters"
     )
 
-    # Difficulty selection with percentage display
-    st.markdown("### ⚡ Select Difficulty Levels")
-    col1, col2, col3 = st.columns(3)
-    
-    with col1:
-        include_easy = st.checkbox("🟢 Easy", value=True, key="include_easy")
-    with col2:
-        include_medium = st.checkbox("🟡 Medium", value=True, key="include_medium")
-    with col3:
-        include_hard = st.checkbox("🔴 Hard", value=True, key="include_hard")
-    
-    # Build difficulties list
-    selected_difficulties = []
-    if include_easy:
-        selected_difficulties.append("easy")
-    if include_medium:
-        selected_difficulties.append("medium")
-    if include_hard:
-        selected_difficulties.append("hard")
+    # All difficulties are always selected (no checkboxes)
+    selected_difficulties = ["easy", "medium", "hard"]
 
-    if not chapters or not selected_difficulties:
-        st.warning("Select chapters and at least one difficulty level")
+    if not chapters:
+        st.warning("Select at least one chapter to continue")
         return
 
     available = get_available_count(chapters, selected_difficulties)
