@@ -801,9 +801,9 @@ def setup_page():
 
 
 def custom_test_setup():
-    """Original test setup - now with difficulty caps"""
+    """Test setup with flexible difficulty distribution (minimum 40% hard)"""
     st.subheader("Create Your Custom Test")
-    st.info("⚠️ Note: All tests will include a balanced mix of Easy, Medium, and Hard questions with at least 40% Hard questions to ensure effective learning.")
+    st.warning("⚠️ **Important:** You MUST include at least 40% Hard questions to ensure effective learning. This prevents gaming the system with only easy questions.")
 
     chapters = st.multiselect(
         "Chapters",
@@ -838,24 +838,47 @@ def custom_test_setup():
         key="test_duration"
     )
     
-    # Apply mandatory difficulty distribution (40% hard, 30% medium, 30% easy)
-    st.markdown("### 📊 Mandatory Difficulty Distribution")
-    st.warning("Tests will automatically include: 40% Hard, 30% Medium, 30% Easy questions")
+    # Difficulty distribution with constraints
+    st.markdown("### ⚡ Difficulty Distribution")
+    st.caption("Choose your difficulty mix (Hard must be at least 40%)")
     
-    easy_count = round(total * 0.30)
-    medium_count = round(total * 0.30)
+    col1, col2, col3 = st.columns(3)
+    
+    with col1:
+        easy_pct = st.slider("🟢 Easy %", 0, 60, 30, step=5, key="easy_slider")
+    with col2:
+        medium_pct = st.slider("🟡 Medium %", 0, 60, 30, step=5, key="medium_slider")
+    with col3:
+        hard_pct = st.slider("🔴 Hard %", 40, 100, 40, step=5, key="hard_slider")
+    
+    total_pct = easy_pct + medium_pct + hard_pct
+    
+    # Validation
+    if total_pct != 100:
+        st.error(f"❌ Total percentage must equal 100% (currently {total_pct}%)")
+        return
+    
+    if hard_pct < 40:
+        st.error(f"❌ Hard questions must be at least 40% (currently {hard_pct}%)")
+        return
+    
+    # Show breakdown
+    st.success(f"✅ Distribution: {easy_pct}% Easy, {medium_pct}% Medium, {hard_pct}% Hard")
+    
+    easy_count = round(total * easy_pct / 100)
+    medium_count = round(total * medium_pct / 100)
     hard_count = total - easy_count - medium_count
     
-    st.info(f"Your test will have: {easy_count} Easy + {medium_count} Medium + {hard_count} Hard = {total} Total")
+    st.info(f"📊 Your test will have: {easy_count} Easy + {medium_count} Medium + {hard_count} Hard = {total} Total")
 
-    if st.button("Start Test", key="start_test_btn"):
-        # Use new function with difficulty caps
+    if st.button("Start Test", key="start_test_btn", disabled=(total_pct != 100 or hard_pct < 40)):
+        # Use new function with custom difficulty distribution
         questions = generate_test_with_difficulty_cap(
             chapters=chapters,
             total_questions=total,
-            easy_pct=30,
-            medium_pct=30,
-            hard_pct=40
+            easy_pct=easy_pct,
+            medium_pct=medium_pct,
+            hard_pct=hard_pct
         )
         
         if questions is None:
