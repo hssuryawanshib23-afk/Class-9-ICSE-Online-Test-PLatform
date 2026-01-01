@@ -810,12 +810,12 @@ def show_student_history():
                 'Custom Test' as test_name,
                 ta.score,
                 ta.total_questions,
-                ta.timestamp,
-                ta.attempt_id,
+                ta.started_at,
+                ta.id,
                 'custom' as test_type
             FROM test_attempts ta
-            WHERE ta.user_id = {placeholder}
-            ORDER BY ta.timestamp DESC
+            WHERE ta.student_id = {placeholder}
+            ORDER BY ta.started_at DESC
         """
         cursor.execute(custom_query, (user_id,))
         custom_results = cursor.fetchall()
@@ -826,13 +826,13 @@ def show_student_history():
                 at.test_name,
                 ata.score,
                 ata.total_questions,
-                ata.completed_at as timestamp,
+                ata.attempted_at as timestamp,
                 ata.attempt_id,
                 'admin' as test_type
             FROM admin_test_attempts ata
             JOIN admin_tests at ON ata.admin_test_id = at.admin_test_id
             WHERE ata.user_id = {placeholder}
-            ORDER BY ata.completed_at DESC
+            ORDER BY ata.attempted_at DESC
         """
         cursor.execute(admin_query, (user_id,))
         admin_results = cursor.fetchall()
