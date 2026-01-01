@@ -613,8 +613,8 @@ def show_test_results(test_id, test_name, total_questions):
                         JOIN chapters ch ON c.chapter_id = ch.id
                         WHERE r.attempt_id = {placeholder}
                         GROUP BY ch.chapter_number
-                        HAVING accuracy < 60
-                        ORDER BY accuracy ASC
+                        HAVING AVG(r.is_correct) * 100 < 60
+                        ORDER BY AVG(r.is_correct) ASC
                     """, (attempt_id,))
                     
                     weak_chapters = cur.fetchall()
