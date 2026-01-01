@@ -626,6 +626,10 @@ def show_test_results(test_id, test_name, total_questions):
                     else:
                         st.markdown("**🎉 Strong performance across all chapters!**")
                 
+                # Add button to view full test details
+                if st.button(f"👁️ View Full Test Details", key=f"view_test_{attempt_id}"):
+                    show_student_test_details(attempt_id, username, test_id, total_questions)
+                
                 st.markdown("---")  # Separator between students
     
     # Not attempted students
@@ -633,6 +637,64 @@ def show_test_results(test_id, test_name, total_questions):
         st.markdown("#### ⏳ Students Who Haven't Attempted")
         not_attempted_names = [r[1] for r in not_attempted]
         st.markdown(", ".join(not_attempted_names))
+    
+    conn.close()
+
+
+def show_student_test_details(attempt_id, username, test_id, total_questions):
+    """Show detailed question-by-question review for a student's test attempt"""
+    st.markdown(f"### 📝 Full Test Review: {username}")
+    
+    conn = get_connection()
+    cur = conn.cursor()
+    placeholder = get_placeholder()
+    
+    # Get all questions with student's answers
+    cur.execute(f"""
+        SELECT 
+            q.id, q.question_text, q.difficulty,
+            r.selected_answer, r.is_correct,
+            atq.question_order
+        FROM admin_test_questions atq
+        JOIN questions q ON atq.question_id = q.id
+        JOIN admin_test_responses r ON r.question_id = q.id AND r.attempt_id = {placeholder}
+        WHERE atq.admin_test_id = {placeholder}
+        ORDER BY atq.question_order
+    """, (attempt_id, test_id))
+    
+    results = cur.fetchall()
+    
+    for qid, qtext, difficulty, selected_answer, is_correct, order in results:
+        # Get options for this question
+        cur.execute(f"""
+            SELECT label, option_text, is_correct
+            FROM mcq_options
+            WHERE question_id = {placeholder}
+            ORDER BY label
+        """, (qid,))
+        
+        options = cur.fetchall()
+        
+        # Display question with result
+        result_emoji = "✅" if is_correct else "❌"
+        diff_badge = "🟢" if difficulty == "easy" else "🔴" if difficulty == "hard" else "🟡"
+        
+        with st.container():
+            st.markdown(f"#### {result_emoji} Q{order}. {diff_badge} {difficulty.title()}")
+            st.markdown(f"**{qtext}**")
+            
+            # Show options with indicators
+            for label, opt_text, is_correct_opt in options:
+                if label == selected_answer and is_correct_opt:
+                    st.success(f"✅ **{label}. {opt_text}** ← Student's answer (Correct!)")
+                elif label == selected_answer and not is_correct_opt:
+                    st.error(f"❌ **{label}. {opt_text}** ← Student's answer (Incorrect)")
+                elif is_correct_opt:
+                    st.info(f"✓ **{label}. {opt_text}** ← Correct answer")
+                else:
+                    st.markdown(f"{label}. {opt_text}")
+            
+            st.markdown("---")
     
     conn.close()
 
@@ -1075,12 +1137,79 @@ def save_test_attempt(score, total_questions):
 
 # ================= RESULT =================
 def result_page():
-    st.title("Result")
-    st.success(f"Score: {st.session_state.score} / {len(st.session_state.test)}")
-
-    if st.button("Take another test", key="new_test_btn"):
-        st.session_state.page = "setup"
-        st.rerun()
+    st.title("Test Results")
+    
+    score = st.session_state.score
+    total = len(st.session_state.test)
+    percentage = round((score / total) * 100, 2)
+    
+    # Overall score display
+    col1, col2, col3 = st.columns(3)
+    with col1:
+        st.metric("📝 Score", f"{score}/{total}")
+    with col2:
+        st.metric("📊 Percentage", f"{percentage}%")
+    with col3:
+        emoji = "🌟" if percentage >= 80 else "✅" if percentage >= 60 else "⚠️" if percentage >= 40 else "❌"
+        st.metric("Grade", emoji)
+    
+    st.markdown("---")
+    
+    # Detailed question breakdown
+    st.subheader("📋 Question-by-Question Review")
+    
+    for i, q in enumerate(st.session_state.test, 1):
+        qid = q["id"]
+        selected = st.session_state.answers.get(qid)
+        
+        # Find correct answer
+        correct_option = None
+        is_correct = False
+        
+        for opt in q["options"]:
+            if opt[2]:  # is_correct flag
+                correct_option = opt
+            if opt[0] == selected and opt[2]:
+                is_correct = True
+        
+        # Display question with result indicator
+        result_emoji = "✅" if is_correct else "❌"
+        difficulty = q.get('difficulty', 'medium')
+        diff_badge = "🟢" if difficulty == "easy" else "🔴" if difficulty == "hard" else "🟡"
+        
+        with st.container():
+            st.markdown(f"### {result_emoji} Question {i} {diff_badge} {difficulty.title()}")
+            st.markdown(f"**{q['text']}**")
+            
+            # Show all options with indicators
+            for opt in q["options"]:
+                label, text, is_correct_opt = opt
+                
+                if label == selected and is_correct_opt:
+                    # Correct answer selected
+                    st.success(f"✅ **{label}. {text}** ← Your answer (Correct!)")
+                elif label == selected and not is_correct_opt:
+                    # Wrong answer selected
+                    st.error(f"❌ **{label}. {text}** ← Your answer (Incorrect)")
+                elif is_correct_opt:
+                    # Show correct answer
+                    st.info(f"✓ **{label}. {text}** ← Correct answer")
+                else:
+                    # Other options
+                    st.markdown(f"{label}. {text}")
+            
+            st.markdown("---")
+    
+    # Action buttons
+    col1, col2 = st.columns(2)
+    with col1:
+        if st.button("📊 Take Another Test", key="new_test_btn", type="primary"):
+            st.session_state.page = "setup"
+            st.rerun()
+    with col2:
+        if st.button("🏠 Back to Dashboard", key="back_dashboard_btn"):
+            st.session_state.page = "setup"
+            st.rerun()
 
 # ================= ROUTER =================
 if st.session_state.user is None:
