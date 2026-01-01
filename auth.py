@@ -1,14 +1,15 @@
 import bcrypt
-from db_connection import get_connection
+from db_connection import get_connection, get_placeholder, get_last_insert_id, USE_POSTGRES
 
 
 def create_user(username, phone_number, password, role="student"):
     conn = get_connection()
     cur = conn.cursor()
+    placeholder = get_placeholder()
     
     # Check if phone number already exists
     cur.execute(
-        "SELECT id FROM users WHERE phone_number = %s",
+        f"SELECT id FROM users WHERE phone_number = {placeholder}",
         (phone_number,)
     )
     if cur.fetchone():
@@ -17,14 +18,14 @@ def create_user(username, phone_number, password, role="student"):
 
     hashed = bcrypt.hashpw(password.encode(), bcrypt.gensalt())
 
-    # Use RETURNING for PostgreSQL compatibility
-    # Decode hash to string for PostgreSQL storage
-    cur.execute(
-        "INSERT INTO users (username, phone_number, password_hash, role) VALUES (%s, %s, %s, %s) RETURNING id",
+    # Handle RETURNING for PostgreSQL vs lastrowid for SQLite
+    # Decode hash to string for storage
+    user_id = get_last_insert_id(
+        cur,
+        f"INSERT INTO users (username, phone_number, password_hash, role) VALUES ({placeholder}, {placeholder}, {placeholder}, {placeholder})",
         (username, phone_number, hashed.decode('utf-8'), role)
     )
 
-    user_id = cur.fetchone()[0]
     conn.commit()
     conn.close()
     return user_id
@@ -33,9 +34,10 @@ def create_user(username, phone_number, password, role="student"):
 def login(username, password):
     conn = get_connection()
     cur = conn.cursor()
+    placeholder = get_placeholder()
 
     cur.execute(
-        "SELECT id, username, password_hash, role FROM users WHERE username = %s",
+        f"SELECT id, username, password_hash, role FROM users WHERE username = {placeholder}",
         (username,)
     )
     user = cur.fetchone()

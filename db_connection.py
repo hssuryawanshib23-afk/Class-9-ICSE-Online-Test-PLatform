@@ -70,3 +70,31 @@ def execute_query(query, params=None, fetch=None):
 def get_db_type():
     """Return current database type for debugging"""
     return "PostgreSQL" if USE_POSTGRES else "SQLite"
+
+def get_placeholder():
+    """Return the correct parameter placeholder for current database"""
+    return "%s" if USE_POSTGRES else "?"
+
+def adapt_query(query):
+    """
+    Adapt query syntax for current database
+    Replaces PostgreSQL-specific syntax with SQLite equivalents when needed
+    """
+    if not USE_POSTGRES:
+        # Convert PostgreSQL syntax to SQLite
+        query = query.replace("RETURNING id", "")
+        query = query.replace("NOW()", "CURRENT_TIMESTAMP")
+        # Replace %s with ? for SQLite
+        count = query.count("%s")
+        for _ in range(count):
+            query = query.replace("%s", "?", 1)
+    return query
+
+def get_last_insert_id(cursor, conn):
+    """Get the last inserted ID in a database-agnostic way"""
+    if USE_POSTGRES:
+        # PostgreSQL returns ID from RETURNING clause
+        return cursor.fetchone()[0]
+    else:
+        # SQLite uses lastrowid
+        return cursor.lastrowid
