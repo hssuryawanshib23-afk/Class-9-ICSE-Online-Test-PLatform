@@ -178,7 +178,7 @@ def create_admin_test(test_name, chapters, total_questions, duration_minutes,
                 (test_name, created_by, total_questions, duration_minutes,
                  easy_percentage, medium_percentage, hard_percentage, chapters, is_active)
                 VALUES ({}, {}, {}, {}, {}, {}, {}, {}, true)
-                RETURNING id
+                RETURNING admin_test_id
             """.format(*([placeholder] * 8))
             
             cur.execute(query, (test_name, created_by_user_id, total_questions, duration_minutes,
