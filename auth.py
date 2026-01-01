@@ -20,11 +20,18 @@ def create_user(username, phone_number, password, role="student"):
 
     # Handle RETURNING for PostgreSQL vs lastrowid for SQLite
     # Decode hash to string for storage
-    user_id = get_last_insert_id(
-        cur,
-        f"INSERT INTO users (username, phone_number, password_hash, role) VALUES ({placeholder}, {placeholder}, {placeholder}, {placeholder})",
-        (username, phone_number, hashed.decode('utf-8'), role)
-    )
+    if USE_POSTGRES:
+        cur.execute(
+            f"INSERT INTO users (username, phone_number, password_hash, role) VALUES ({placeholder}, {placeholder}, {placeholder}, {placeholder}) RETURNING id",
+            (username, phone_number, hashed.decode('utf-8'), role)
+        )
+        user_id = cur.fetchone()[0]
+    else:
+        cur.execute(
+            f"INSERT INTO users (username, phone_number, password_hash, role) VALUES ({placeholder}, {placeholder}, {placeholder}, {placeholder})",
+            (username, phone_number, hashed.decode('utf-8'), role)
+        )
+        user_id = cur.lastrowid
 
     conn.commit()
     conn.close()
