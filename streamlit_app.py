@@ -786,18 +786,242 @@ def signup_page():
         else:
             st.error("❌ This phone number is already registered. Please use a different number or login.")
 
+def show_student_history():
+    """Display all past test attempts for the current student"""
+    st.subheader("📜 Your Test History")
+    
+    user_id = st.session_state.get("user_id")
+    if not user_id:
+        st.error("Please log in to view test history")
+        return
+    
+    conn = get_connection()
+    cursor = conn.cursor()
+    
+    try:
+        # Get both custom and admin test attempts
+        placeholder = get_placeholder()
+        
+        # Get custom test attempts
+        custom_query = f"""
+            SELECT 
+                'Custom Test' as test_name,
+                ta.score,
+                ta.total_questions,
+                ta.timestamp,
+                ta.attempt_id,
+                'custom' as test_type
+            FROM test_attempts ta
+            WHERE ta.user_id = {placeholder}
+            ORDER BY ta.timestamp DESC
+        """
+        cursor.execute(custom_query, (user_id,))
+        custom_results = cursor.fetchall()
+        
+        # Get admin test attempts
+        admin_query = f"""
+            SELECT 
+                at.test_name,
+                ata.score,
+                ata.total_questions,
+                ata.completed_at as timestamp,
+                ata.attempt_id,
+                'admin' as test_type
+            FROM admin_test_attempts ata
+            JOIN admin_tests at ON ata.admin_test_id = at.admin_test_id
+            WHERE ata.user_id = {placeholder}
+            ORDER BY ata.completed_at DESC
+        """
+        cursor.execute(admin_query, (user_id,))
+        admin_results = cursor.fetchall()
+        
+        # Combine and sort by timestamp
+        all_results = []
+        for row in custom_results:
+            all_results.append({
+                'test_name': row[0],
+                'score': row[1],
+                'total': row[2],
+                'timestamp': row[3],
+                'attempt_id': row[4],
+                'test_type': row[5]
+            })
+        
+        for row in admin_results:
+            all_results.append({
+                'test_name': row[0],
+                'score': row[1],
+                'total': row[2],
+                'timestamp': row[3],
+                'attempt_id': row[4],
+                'test_type': row[5]
+            })
+        
+        # Sort by timestamp descending
+        all_results.sort(key=lambda x: x['timestamp'], reverse=True)
+        
+        if not all_results:
+            st.info("📭 No test history yet. Take a test to see your results here!")
+            return
+        
+        st.success(f"Found {len(all_results)} test attempt(s)")
+        
+        # Display each test result
+        for result in all_results:
+            percentage = (result['score'] / result['total']) * 100
+            
+            # Color coding based on percentage
+            if percentage >= 80:
+                emoji = "🌟"
+                color = "green"
+            elif percentage >= 60:
+                emoji = "👍"
+                color = "blue"
+            else:
+                emoji = "📚"
+                color = "orange"
+            
+            with st.container():
+                col1, col2, col3 = st.columns([3, 2, 1])
+                
+                with col1:
+                    st.markdown(f"### {emoji} {result['test_name']}")
+                    st.caption(f"📅 {result['timestamp']}")
+                
+                with col2:
+                    st.metric("Score", f"{result['score']}/{result['total']}", f"{percentage:.1f}%")
+                
+                with col3:
+                    if st.button("👁️ View Details", key=f"view_{result['test_type']}_{result['attempt_id']}"):
+                        # Store in session state to view details
+                        st.session_state.view_history_attempt = result['attempt_id']
+                        st.session_state.view_history_type = result['test_type']
+                        st.rerun()
+                
+                st.divider()
+        
+        # Check if we need to show details for a specific attempt
+        if hasattr(st.session_state, 'view_history_attempt') and st.session_state.view_history_attempt:
+            show_history_test_details(
+                st.session_state.view_history_attempt,
+                st.session_state.view_history_type
+            )
+            if st.button("← Back to History"):
+                del st.session_state.view_history_attempt
+                del st.session_state.view_history_type
+                st.rerun()
+    
+    except Exception as e:
+        st.error(f"Error loading test history: {str(e)}")
+    finally:
+        conn.close()
+
+
+def show_history_test_details(attempt_id, test_type):
+    """Show detailed Q&A review for a past test attempt"""
+    st.subheader("📖 Test Review")
+    
+    conn = get_connection()
+    cursor = conn.cursor()
+    placeholder = get_placeholder()
+    
+    try:
+        if test_type == 'custom':
+            # Get custom test responses
+            query = f"""
+                SELECT 
+                    q.text, q.option_a, q.option_b, q.option_c, q.option_d,
+                    q.answer, r.selected_answer, r.is_correct, q.difficulty
+                FROM responses r
+                JOIN questions q ON r.question_id = q.id
+                WHERE r.attempt_id = {placeholder}
+                ORDER BY r.response_id
+            """
+        else:
+            # Get admin test responses
+            query = f"""
+                SELECT 
+                    q.text, q.option_a, q.option_b, q.option_c, q.option_d,
+                    q.answer, atr.selected_answer, atr.is_correct, q.difficulty
+                FROM admin_test_responses atr
+                JOIN questions q ON atr.question_id = q.id
+                WHERE atr.attempt_id = {placeholder}
+                ORDER BY atr.response_id
+            """
+        
+        cursor.execute(query, (attempt_id,))
+        responses = cursor.fetchall()
+        
+        correct_count = sum(1 for r in responses if r[7])
+        total = len(responses)
+        
+        st.info(f"Score: {correct_count}/{total} ({(correct_count/total)*100:.1f}%)")
+        
+        for i, r in enumerate(responses, 1):
+            text, a, b, c, d, correct, selected, is_correct, difficulty = r
+            
+            # Show difficulty badge
+            if difficulty == 'easy':
+                badge = "🟢 Easy"
+                badge_color = "#90EE90"
+            elif difficulty == 'hard':
+                badge = "🔴 Hard"
+                badge_color = "#FFB6C6"
+            else:
+                badge = "🟡 Medium"
+                badge_color = "#FFE4A0"
+            
+            # Color based on correctness
+            if is_correct:
+                result_emoji = "✅"
+                border_color = "#90EE90"
+            else:
+                result_emoji = "❌"
+                border_color = "#FFB6C6"
+            
+            with st.container():
+                st.markdown(f"""
+                <div style="border-left: 4px solid {border_color}; padding-left: 15px; margin-bottom: 20px;">
+                    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+                        <span style="background-color: {badge_color}; padding: 3px 10px; border-radius: 12px; font-size: 12px; font-weight: bold;">{badge}</span>
+                        <span style="font-size: 20px;">{result_emoji}</span>
+                    </div>
+                    <p style="font-size: 16px; font-weight: bold; margin: 10px 0;">Q{i}. {text}</p>
+                </div>
+                """, unsafe_allow_html=True)
+                
+                options = {'A': a, 'B': b, 'C': c, 'D': d}
+                for opt, val in options.items():
+                    if opt == correct:
+                        st.success(f"**{opt}. {val}** ✓ (Correct Answer)")
+                    elif opt == selected and not is_correct:
+                        st.error(f"**{opt}. {val}** ✗ (Your Answer)")
+                    else:
+                        st.write(f"{opt}. {val}")
+                
+                st.divider()
+    
+    except Exception as e:
+        st.error(f"Error loading test details: {str(e)}")
+    finally:
+        conn.close()
+
+
 # ================= SETUP =================
 def setup_page():
-    st.title("Test Setup")
+    st.title("Student Dashboard")
     
-    # Add tabs for custom test and admin tests
-    tab1, tab2 = st.tabs(["🎯 Create Custom Test", "📋 Take Admin Test"])
+    # Add tabs for custom test, admin tests, and history
+    tab1, tab2, tab3 = st.tabs(["🎯 Create Custom Test", "📋 Take Admin Test", "📊 My Test History"])
     
     with tab1:
         custom_test_setup()
     
     with tab2:
         admin_test_selection()
+    
+    with tab3:
+        show_student_history()
 
 
 def custom_test_setup():
@@ -961,24 +1185,8 @@ def test_page():
     st.warning(f"⏳ Time left: {remaining//60}:{remaining%60:02d}")
 
     for i, q in enumerate(st.session_state.test, 1):
-        # Show difficulty badge
-        difficulty = q.get('difficulty', 'medium')
-        if difficulty == 'easy':
-            badge = "🟢 Easy"
-            badge_color = "#90EE90"
-        elif difficulty == 'hard':
-            badge = "🔴 Hard"
-            badge_color = "#FFB6C6"
-        else:
-            badge = "🟡 Medium"
-            badge_color = "#FFE4A0"
-        
-        st.markdown(f"""
-        <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-            <span style="background-color: {badge_color}; padding: 3px 10px; border-radius: 12px; font-size: 12px; font-weight: bold;">{badge}</span>
-            <span style="font-size: 16px; font-weight: bold;">Q{i}. {q['text']}</span>
-        </div>
-        """, unsafe_allow_html=True)
+        # Don't show difficulty during test
+        st.markdown(f"**Q{i}. {q['text']}**")
 
         labels = [o[0] for o in q["options"]]
         label_map = {o[0]: o[1] for o in q["options"]}
