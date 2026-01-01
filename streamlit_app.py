@@ -790,10 +790,12 @@ def show_student_history():
     """Display all past test attempts for the current student"""
     st.subheader("📜 Your Test History")
     
-    user_id = st.session_state.get("user_id")
-    if not user_id:
+    user = st.session_state.get("user")
+    if not user:
         st.error("Please log in to view test history")
         return
+    
+    user_id = user['id']
     
     conn = get_connection()
     cursor = conn.cursor()
