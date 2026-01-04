@@ -1,10 +1,13 @@
 import streamlit as st
 import time
+from datetime import datetime
+import pytz
 
 from auth import login, create_user
 from generate_test_engine import (
     generate_test, 
     generate_test_with_difficulty_cap,
+    generate_test_from_concepts,
     create_admin_test,
     get_admin_test_questions,
     get_available_admin_tests
@@ -13,13 +16,57 @@ from db_connection import get_connection, get_placeholder, USE_POSTGRES
 
 st.set_page_config("Class 9 ICSE Test Platform", layout="wide")
 
+# Chapter name mappings
+CHAPTER_NAMES = {
+    2: "Motion in One Dimension",
+    3: "Laws of Motion",
+    4: "Pressure in Fluids",
+    5: "Upthrust in Fluids and Archimedes' Principle",
+    7: "Reflection of Light",
+    8: "Propagation of Sound Waves",
+    9: "Current Electricity",
+    10: "Magnetism"
+}
+
+def get_concepts_by_chapter():
+    """Get all concepts grouped by chapter"""
+    conn = get_connection()
+    cur = conn.cursor()
+    cur.execute('''
+        SELECT ch.chapter_number, c.id, c.concept_name 
+        FROM concepts c 
+        JOIN chapters ch ON c.chapter_id = ch.id 
+        ORDER BY ch.chapter_number, c.id
+    ''')
+    rows = cur.fetchall()
+    conn.close()
+    
+    concepts_by_chapter = {}
+    for ch_num, concept_id, concept_name in rows:
+        if ch_num not in concepts_by_chapter:
+            concepts_by_chapter[ch_num] = []
+        concepts_by_chapter[ch_num].append((concept_id, concept_name))
+    return concepts_by_chapter
+
+def format_timestamp(timestamp):
+    """Convert timestamp to IST timezone"""
+    if isinstance(timestamp, str):
+        try:
+            timestamp = datetime.fromisoformat(timestamp.replace('Z', '+00:00'))
+        except:
+            timestamp = datetime.strptime(timestamp, '%Y-%m-%d %H:%M:%S')
+    if timestamp.tzinfo is None:
+        timestamp = pytz.UTC.localize(timestamp)
+    ist = pytz.timezone('Asia/Kolkata')
+    return timestamp.astimezone(ist).strftime('%Y-%m-%d %I:%M %p IST')
+
 
 
 def admin_page():
     st.title("📊 Admin Dashboard")
     
     # Create tabs for different admin functions
-    tab1, tab2, tab3 = st.tabs(["📈 Statistics", "📝 Create Test", "🗂️ Manage Tests"])
+    tab1, tab2, tab3, tab4, tab5 = st.tabs(["📈 Statistics", "📝 Create Test", "🗂️ Manage Tests", "👥 Students", "🔐 Settings"])
     
     with tab1:
         show_admin_statistics()
@@ -29,6 +76,12 @@ def admin_page():
     
     with tab3:
         manage_tests_interface()
+    
+    with tab4:
+        show_students_list()
+    
+    with tab5:
+        admin_settings()
 
 
 def show_admin_statistics():
@@ -736,6 +789,89 @@ def get_available_count(chapters, difficulties):
     conn.close()
     return total
 
+def show_students_list():
+    """Display list of all students with their mobile numbers"""
+    st.subheader("👥 Registered Students")
+    
+    conn = get_connection()
+    cur = conn.cursor()
+    placeholder = get_placeholder()
+    
+    try:
+        cur.execute(f"""
+            SELECT id, username, phone_number 
+            FROM users 
+            WHERE role = {placeholder}
+            ORDER BY username
+        """, ('student',))
+        students = cur.fetchall()
+        
+        if not students:
+            st.info("No students registered yet.")
+            return
+        
+        st.success(f"Total Students: {len(students)}")
+        
+        # Display as table
+        st.markdown("---")
+        for student_id, username, phone in students:
+            col1, col2, col3 = st.columns([2, 2, 1])
+            with col1:
+                st.write(f"**👤 {username}**")
+            with col2:
+                st.write(f"📱 {phone}")
+            with col3:
+                st.caption(f"ID: {student_id}")
+            st.divider()
+    
+    except Exception as e:
+        st.error(f"Error loading students: {str(e)}")
+    finally:
+        conn.close()
+
+def admin_settings():
+    """Admin settings page for changing credentials"""
+    st.subheader("🔐 Admin Settings")
+    
+    st.markdown("### Change Admin Password")
+    
+    current_user = st.session_state.user
+    admin_username = current_user['username']
+    
+    with st.form("change_password_form"):
+        st.write(f"Logged in as: **{admin_username}**")
+        new_password = st.text_input("New Password", type="password", key="new_admin_pwd")
+        confirm_password = st.text_input("Confirm New Password", type="password", key="confirm_admin_pwd")
+        
+        if st.form_submit_button("Update Password"):
+            if not new_password:
+                st.error("Password cannot be empty!")
+            elif new_password != confirm_password:
+                st.error("Passwords do not match!")
+            elif len(new_password) < 6:
+                st.error("Password must be at least 6 characters long!")
+            else:
+                # Update password
+                import bcrypt
+                conn = get_connection()
+                cur = conn.cursor()
+                placeholder = get_placeholder()
+                
+                hashed = bcrypt.hashpw(new_password.encode(), bcrypt.gensalt())
+                cur.execute(
+                    f"UPDATE users SET password_hash = {placeholder} WHERE username = {placeholder}",
+                    (hashed.decode('utf-8'), admin_username)
+                )
+                conn.commit()
+                conn.close()
+                
+                st.success("✅ Password updated successfully! Please log in again with your new password.")
+                st.info("Logging out in 3 seconds...")
+                time.sleep(3)
+                st.session_state.clear()
+                st.session_state.page = "login"
+                st.rerun()
+
 def logout():
     st.session_state.clear()
     st.session_state.page = "login"
@@ -888,7 +1024,7 @@ def show_student_history():
                 
                 with col1:
                     st.markdown(f"### {emoji} {result['test_name']}")
-                    st.caption(f"📅 {result['timestamp']}")
+                    st.caption(f"📅 {format_timestamp(result['timestamp'])}")
                 
                 with col2:
                     st.metric("Score", f"{result['score']}/{result['total']}", f"{percentage:.1f}%")
@@ -1040,27 +1176,52 @@ def setup_page():
 
 
 def custom_test_setup():
-    """Test setup with flexible difficulty distribution (minimum 40% hard)"""
+    """Test setup with concept-based selection and flexible difficulty distribution (minimum 40% hard)"""
     st.subheader("Create Your Custom Test")
     st.warning("⚠️ **Important:** You MUST include at least 40% Hard questions to ensure effective learning. This prevents gaming the system with only easy questions.")
 
-    chapters = st.multiselect(
-        "Chapters",
-        [2,3,4,5,7,8,9,10],
-        key="setup_chapters"
-    )
-
+    # Get concepts grouped by chapter
+    concepts_by_chapter = get_concepts_by_chapter()
+    
+    # Create expandable sections for each chapter
+    st.markdown("### 📚 Select Concepts to Include")
+    selected_concept_ids = []
+    
+    for ch_num in sorted(concepts_by_chapter.keys()):
+        with st.expander(f"📖 Chapter {ch_num}: {CHAPTER_NAMES.get(ch_num, f'Chapter {ch_num}')}"):
+            concepts = concepts_by_chapter[ch_num]
+            select_all = st.checkbox(f"Select All from Chapter {ch_num}", key=f"select_all_ch{ch_num}")
+            
+            for concept_id, concept_name in concepts:
+                default_val = select_all
+                if st.checkbox(concept_name, value=default_val, key=f"concept_{concept_id}"):
+                    selected_concept_ids.append(concept_id)
+    
     # All difficulties are always selected (no checkboxes)
     selected_difficulties = ["easy", "medium", "hard"]
 
-    if not chapters:
-        st.warning("Select at least one chapter to continue")
+    if not selected_concept_ids:
+        st.info("📚 Please select at least one concept to create a test")
         return
 
-    available = get_available_count(chapters, selected_difficulties)
+    # Get available questions for selected concepts
+    conn = get_connection()
+    cur = conn.cursor()
+    placeholder = get_placeholder()
+    concept_placeholders = ",".join([placeholder] * len(selected_concept_ids))
+    
+    cur.execute(f"""
+        SELECT COUNT(*)
+        FROM questions
+        WHERE concept_id IN ({concept_placeholders})
+    """, tuple(selected_concept_ids))
+    available = cur.fetchone()[0]
+    conn.close()
+    
     st.info(f"Available questions: {available}")
 
     if available == 0:
+        st.warning("No questions available for selected concepts")
         return
 
     total = st.number_input(
@@ -1111,9 +1272,9 @@ def custom_test_setup():
     st.info(f"📊 Your test will have: {easy_count} Easy + {medium_count} Medium + {hard_count} Hard = {total} Total")
 
     if st.button("Start Test", key="start_test_btn", disabled=(total_pct != 100 or hard_pct < 40)):
-        # Use new function with custom difficulty distribution
-        questions = generate_test_with_difficulty_cap(
-            chapters=chapters,
+        # Use new function with custom difficulty distribution for concepts
+        questions = generate_test_from_concepts(
+            concept_ids=selected_concept_ids,
             total_questions=total,
             easy_pct=easy_pct,
             medium_pct=medium_pct,

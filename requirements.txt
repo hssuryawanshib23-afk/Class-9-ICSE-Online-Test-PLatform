@@ -2,3 +2,4 @@ streamlit
 bcrypt
 pandas
 psycopg2-binary
+pytz

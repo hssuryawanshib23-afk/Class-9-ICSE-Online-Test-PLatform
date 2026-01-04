@@ -2,6 +2,83 @@ import random
 from db_connection import get_connection, get_placeholder, adapt_query, get_last_insert_id, USE_POSTGRES
 
 
+def generate_test_from_concepts(concept_ids, total_questions, easy_pct=30, medium_pct=30, hard_pct=40):
+    """
+    Generate a test with specific difficulty distribution from selected concepts.
+    
+    Args:
+        concept_ids: list[int] - Concept IDs to include
+        total_questions: int - Total number of questions
+        easy_pct: int - Percentage of easy questions (default 30%)
+        medium_pct: int - Percentage of medium questions (default 30%)
+        hard_pct: int - Percentage of hard questions (default 40%)
+    
+    Returns:
+        list of question dicts or None if insufficient questions
+    """
+    if easy_pct + medium_pct + hard_pct != 100:
+        raise ValueError("Percentages must add up to 100")
+    
+    conn = get_connection()
+    cur = conn.cursor()
+    
+    # Calculate required questions per difficulty
+    easy_count = round(total_questions * easy_pct / 100)
+    medium_count = round(total_questions * medium_pct / 100)
+    hard_count = total_questions - easy_count - medium_count  # Ensure exact total
+    
+    # Use appropriate placeholder for database type
+    placeholder = get_placeholder()
+    concept_placeholders = ",".join([placeholder] * len(concept_ids))
+    
+    selected_questions = []
+    
+    # Fetch questions for each difficulty level
+    for difficulty, count in [("easy", easy_count), ("medium", medium_count), ("hard", hard_count)]:
+        if count == 0:
+            continue
+            
+        query = """
+            SELECT q.id, q.question_text, q.difficulty
+            FROM questions q
+            WHERE q.concept_id IN ({})
+              AND q.difficulty = {}
+        """.format(concept_placeholders, placeholder)
+        
+        cur.execute(query, (*concept_ids, difficulty))
+        rows = cur.fetchall()
+        
+        if len(rows) < count:
+            conn.close()
+            return None  # Not enough questions of this difficulty
+        
+        random.shuffle(rows)
+        selected_questions.extend(rows[:count])
+    
+    # Shuffle all selected questions
+    random.shuffle(selected_questions)
+    
+    # Build final question list with options
+    questions = []
+    for qid, qtext, difficulty in selected_questions:
+        cur.execute(
+            "SELECT label, option_text, is_correct FROM mcq_options WHERE question_id = {}".format(placeholder),
+            (qid,)
+        )
+        options = cur.fetchall()
+        random.shuffle(options)
+        
+        questions.append({
+            "id": qid,
+            "text": qtext,
+            "difficulty": difficulty,
+            "options": options
+        })
+    
+    conn.close()
+    return questions
+
+
 def generate_test_with_difficulty_cap(chapters, total_questions, easy_pct=30, medium_pct=30, hard_pct=40):
     """
     Generate a test with specific difficulty distribution.
