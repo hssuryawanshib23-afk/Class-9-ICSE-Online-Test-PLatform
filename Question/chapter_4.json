@@ -286,12 +286,12 @@
             {
               "label": "B",
               "text": "The second situation exerts less thrust but greater pressure.",
-              "is_correct": true
+              "is_correct": false
             },
             {
               "label": "C",
               "text": "Both exert the same pressure.",
-              "is_correct": false
+              "is_correct": true
             },
             {
               "label": "D",
@@ -299,7 +299,7 @@
               "is_correct": false
             }
           ],
-          "correct_label": "B",
+          "correct_label": "C",
           "key_concept": "Thrust1=10N, P1=10/2=5 Pa. Thrust2=5N, P2=5/1=5 Pa? Wait, P2=5 Pa? Let's calculate: P1=5 Pa, P2=5 Pa. They are equal. The trap is in misreading. Re-check: P1 = 10N/2m² = 5 Pa. P2 = 5N/1m² = 5 Pa. So pressure is equal. The option saying greater pressure in second is false. The correct option should state they have the same pressure. Let's adjust: The question asks for correct statement. Option C says 'Both exert the same pressure.' That is true. But I must have a trap. The trap is that students might think larger force means larger pressure, ignoring area. I'll change values: Force1=10N on 4 m² => P=2.5 Pa. Force2=5N on 1 m² => P=5 Pa. Then B is correct: less thrust (5N vs 10N) but greater pressure (5 Pa vs 2.5 Pa).",
           "exam_relevance": "high"
         },

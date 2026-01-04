@@ -719,15 +719,15 @@
             {
               "label": "C",
               "text": "Distance = 14 m, Displacement = 2 m East",
-              "is_correct": false
+              "is_correct": true
             },
             {
               "label": "D",
               "text": "Distance = 14 m, Displacement = 2 m West",
-              "is_correct": true
+              "is_correct": false
             }
           ],
-          "correct_label": "D",
+          "correct_label": "C",
           "key_concept": "Calculating distance and displacement in opposite directions.",
           "exam_relevance": "high"
         },
