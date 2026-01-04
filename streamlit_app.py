@@ -1192,10 +1192,16 @@ def custom_test_setup():
             concepts = concepts_by_chapter[ch_num]
             select_all = st.checkbox(f"Select All from Chapter {ch_num}", key=f"select_all_ch{ch_num}")
             
-            for concept_id, concept_name in concepts:
-                default_val = select_all
-                if st.checkbox(concept_name, value=default_val, key=f"concept_{concept_id}"):
+            # If select all is checked, add all concepts from this chapter
+            if select_all:
+                for concept_id, concept_name in concepts:
                     selected_concept_ids.append(concept_id)
+                    st.checkbox(concept_name, value=True, disabled=True, key=f"concept_{concept_id}")
+            else:
+                # Otherwise, show individual checkboxes
+                for concept_id, concept_name in concepts:
+                    if st.checkbox(concept_name, value=False, key=f"concept_{concept_id}"):
+                        selected_concept_ids.append(concept_id)
     
     # All difficulties are always selected (no checkboxes)
     selected_difficulties = ["easy", "medium", "hard"]
