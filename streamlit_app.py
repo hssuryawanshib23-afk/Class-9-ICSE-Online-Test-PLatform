@@ -815,17 +815,89 @@ def show_students_list():
         # Display as table
         st.markdown("---")
         for student_id, username, phone in students:
-            col1, col2, col3 = st.columns([2, 2, 1])
+            col1, col2, col3, col4 = st.columns([2, 2, 1, 1])
             with col1:
                 st.write(f"**👤 {username}**")
             with col2:
                 st.write(f"📱 {phone}")
             with col3:
                 st.caption(f"ID: {student_id}")
+            with col4:
+                if st.button("🗑️ Delete", key=f"delete_student_{student_id}", type="secondary"):
+                    st.session_state[f'confirm_delete_{student_id}'] = True
+                    st.rerun()
+            
+            # Show confirmation dialog if delete was clicked
+            if st.session_state.get(f'confirm_delete_{student_id}', False):
+                with st.container():
+                    st.warning(f"⚠️ Are you sure you want to delete **{username}**? This will permanently remove:")
+                    st.markdown("""
+                    - Their account and login credentials
+                    - All test attempts and results
+                    - All test responses
+                    - This action CANNOT be undone!
+                    """)
+                    
+                    col_yes, col_no = st.columns(2)
+                    with col_yes:
+                        if st.button("✅ Yes, Delete Permanently", key=f"confirm_yes_{student_id}", type="primary"):
+                            delete_student(student_id, username)
+                            del st.session_state[f'confirm_delete_{student_id}']
+                            st.rerun()
+                    with col_no:
+                        if st.button("❌ No, Cancel", key=f"confirm_no_{student_id}"):
+                            del st.session_state[f'confirm_delete_{student_id}']
+                            st.rerun()
+            
             st.divider()
     
     except Exception as e:
         st.error(f"Error loading students: {str(e)}")
+    finally:
+        conn.close()
+
+def delete_student(student_id, username):
+    """Delete a student and all their associated data"""
+    conn = get_connection()
+    cur = conn.cursor()
+    placeholder = get_placeholder()
+    
+    try:
+        # Delete from users table (CASCADE should handle related records)
+        # But we'll explicitly delete to be safe
+        
+        # Delete test responses (custom tests)
+        cur.execute(f"""
+            DELETE FROM responses 
+            WHERE attempt_id IN (
+                SELECT id FROM test_attempts WHERE student_id = {placeholder}
+            )
+        """, (student_id,))
+        
+        # Delete test attempts (custom tests)
+        cur.execute(f"DELETE FROM test_attempts WHERE student_id = {placeholder}", (student_id,))
+        
+        # Delete admin test responses
+        cur.execute(f"""
+            DELETE FROM admin_test_responses 
+            WHERE attempt_id IN (
+                SELECT attempt_id FROM admin_test_attempts WHERE user_id = {placeholder}
+            )
+        """, (student_id,))
+        
+        # Delete admin test attempts
+        cur.execute(f"DELETE FROM admin_test_attempts WHERE user_id = {placeholder}", (student_id,))
+        
+        # Finally, delete the user account
+        cur.execute(f"DELETE FROM users WHERE id = {placeholder}", (student_id,))
+        
+        conn.commit()
+        st.success(f"✅ Successfully deleted student **{username}** and all their data!")
+        time.sleep(2)
+        
+    except Exception as e:
+        conn.rollback()
+        st.error(f"❌ Error deleting student: {str(e)}")
     finally:
         conn.close()
 
