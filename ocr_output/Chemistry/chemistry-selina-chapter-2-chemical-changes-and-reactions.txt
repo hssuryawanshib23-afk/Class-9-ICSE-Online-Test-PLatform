@@ -1,0 +1,1167 @@
+
+
+--- Page 1 ---
+N
+
+S
+
+CHEMICAL CHANGES AND REACTIONS
+
+SYLLABUS
+
+(i) Types of chemical changes.
+¢ Direct combination * decomposition
+
+2.1 CHEMICAL REACTION
+
+A chemical reaction is the process of breaking
+the chemical bonds of the reacting substances
+(reactants) and making new bonds to form new
+substances (products).
+
+A chemical bond is the force that holds the atoms of
+a molecule together, as in a compound.
+
+A chemical change or chemical reaction occurs
+when particles collide. Collisions occur when
+reactants are in close contact or by supply of energy.
+Thus, one or more of the following conditions are
+necessary for a chemical change :
+
+(i) Mixing (close contact) : In some cases, a
+chemical reaction occurs when two substances are
+mixed in their solid states.
+
+Example 1 : Yodine and phosphorus react
+explosively when brought into close contact.
+
+2 : Lead nitrate (white) and potassium iodide
+(white) react to make lead iodide (yellow).
+
+Pb(NO3), (s) + 2K1 (s) + 2KNO, (s) + Pbl, (s)
+
+(ti) Solution : In some cases, a chemical reaction
+occurs when substances are mixed in, i.e. molten or
+aqueous state.
+
+Example 1] : Oxalic acid crystals and’ sodium
+carbonate react in water solution only.
+
+2 : Sodium chloride and silver nitrate also react
+in a solution state to form the precipitate of silver
+chloride and sodium nitrate.
+
+NaCl (aq) + AgNO, (aq) > AgClW) + NaNO, (aq)
+
+white ppt.
+
+* displacement;
+(The above to be taught with suitable chemical equations as examples).
+(ii) Energy changes in a chemical change.
+Exothermic and endothermic reactions with examples — evolution/absorption of heat, light and electricity.
+
+* double decomposition
+
+(iii) Heat : Some chemical reactions occur only
+on heating.
+
+Example 1 : Copper carbonate decomposes on
+heating (A symbol for heating) into copper oxide and
+carbon dioxide.
+
+CuCO,(s) —*> CuO (s) + COn(g)
+
+2 : Lead nitrate decomposes on heating leaving
+yellow residue lead monoxide, brown gas nitrogen
+dioxide and colourless gas oxygen.
+
+2Pb(NO;)) —“~ 2PbO + 4NO, + 0,
+
+(iv) Light : Some chemical reactions take place
+by the action of light. These are called photochemical
+reactions or photolysis. Molecules of the reactants
+absorb light energy to get activated, and then react
+rapidly.
+
+Example 1 : Plants form glucose from carbon
+dioxide and water in the presence of light.
+
+6CO, + 6H,0 > CcH).0, + 60,
+
+2 : Hydrogen and chlorine react in the presence
+
+of sunlight.
+
+H, + Cl —*> 2HCI
+
+3 : If chlorine water is exposed to sunlight,
+oxygen is evolved.
+
+Cl, + H,O > HCI + HCIO
+
+Sunlight
+
+2HCIO —
+UV radiation
+
+2HC! + O,
+
+
+--- Page 2 ---
+Note : Solutions of silver nitrate, hydrogen ‘per
+oxide are kept in brown bottles in the laboratory
+because they decompose in the presence of light.
+
+4 : Silver nitrate decomposes in the presence of
+light. ;
+2Agno, —SUAlight , 245 4 2NO, +0,
+
+(v) Electricity : Certain chemical reactions, like
+the decomposition of certain compounds, occur only
+when electricity is passed through the substance.
+
+Example 1 : Electrolysis of acidulated water
+occurs only in the presence of electricity, to give
+hydrogen and oxygen.
+
+2H,0 electricity, oH 4 0,
+2 : On passing current through molten sodium
+chloride, sodium and chlorine are separately obtained.
+
+2nac} —Clectricity ona 4 Cl,
+
+(vi) Pressure : Some chemical reactions take
+place only when the involved substances are
+subjected to high pressure.
+
+Example 1 : Mercuric chloride and potassium
+iodide when rubbed in a mortar, give a scarlet-
+coloured substance called mercuric iodide.
+
+2 : Nitrogen and hydrogen, when subjected to
+high pressure, produce ammonia (in the presence of
+iron as catalyst)
+
+N, + 3H, === 2NH,
+above 200 atm
+
+(vii) Catalyst : Some chemical reactions need a
+catalyst to accelerate or decelerate the rate at which
+they ocour. The catalysts themselves do not take part
+in the reaction.
+
+Example | : Potassium chlorate decomposes only
+at 700°C, and even then the rate of release of oxygen
+is very slow. But when potassium chlorate is heated
+in the presence of manganese dioxide, decomposition
+begins at a much lower temperature, 300°C, and
+manganese dioxide remains unaffected. Thus, in this
+reaction, manganese dioxide acts as a catalyst.
+
+axcio, —MM2 , oxc1+ 30,
+
+2 : Ammonia reacts with oxygen to produce
+nitric oxide and water vapour in the presence of
+(platinum) a catalyst.
+
+Pt
+
+—_
+ANH, + 50) Gogo? 4NO + 6H0
+
+(a) Positive catalyst
+
+When a catalyst accelerates a reaction, it is
+known as a positive catalyst.
+
+For example, the rate of decomposition of
+hydrogen peroxide gets increased in the presence of
+manganese dioxide.
+
+MnO,
+2H,0, —————> 2H,0 + O,
+
+Promoters : Substances that influence the rate
+of a chemical reaction by improving the efficiency of the
+catalyst are called promoters.
+
+For example, in the manufacture of ammonia, iron
+acts as a catalyst and molybdenum as a promoter.
+
+Molybdenum increases the efficiency of the catalyst iron.
+iron +
+molybdenum
+(b) Negative catalyst
+A catalyst employed to retard a reaction is known
+as a negative catalyst.
+
+Example 1 : Phosphoric acid retards the rate of
+decomposition of hydrogen peroxide.
+
+2NH;
+
+2 : The rate of oxidation of chloroform decreases
+in the presence of alcohol.
+
+Note : Certain chemical reactions proceed by
+absorption of sound energy.
+
+For example : Acetylene breaks up into carbon
+
+and hydrogen by absorbing sound energy:
+
+energy
+
+2.22 CHARACTERISTICS
+
+REACTIONS
+
+Certain chemical reactions are characterized by
+changes that are quite easily observed. Some of these
+typical changes are :
+
+(i) Evolution of gas : In many chemical
+reactions, one of the products is a gas.
+Examples :
+
+OF CHEMICAL
+
+(a) When zinc reacts with dilute sulphuric acid,
+hydrogen gas is evolved, with an effervescence.
+Zn + H,SO, => ZnSO, + H,
+[zinc] [dil. sulphuric [zinc sulphate] [hydrogen]
+acid]
+
+
+--- Page 3 ---
+Effervescence : The formation of gas bubbles in a liquid
+during a reaction is called effervescence. In the reaction
+given above, one of the reactants is a liquid. In such
+cases, ie. when one of the reactants is a liquid, the gas
+produced forms bubbles in the liquid, i.e. effervescence
+takes place.
+
+(ii) Change of colour : Certain chemical
+reactions are characterized by a change in the colour
+of the reactants.
+
+Example
+
+When a few pieces of iron are dropped into a blue
+coloured copper sulphate solution, the blue colour of
+the solution fades and eventually turns into light green
+due to the formation of ferrous sulphate.
+
+Fe + CuSO,(aq) > FeSO, + Gu
+{iron} [blue solution] (green solution] [copper]
+(red deposit)
+
+(iii) Formation of precipitates : Certain
+chemical reactions are characterized by the
+formation of insoluble solid substances called
+precipitates.
+
+Examples
+
+(a) When a solution of silver nitrate is added to
+a solution of sodium chloride, a white
+insoluble substance (precipitate), silver chloride,
+
+is formed.
+AgNO,(aqg) + NaCl(ag) — AgCl(ppt) + NaNO,(aq)
+[silver nitrate [sodium [silver [sodium
+solution] chloride chloride] nitrate
+solution] (white ppt) solution]
+
+(b) When ferrous sulphate solution is added to
+sodium hydroxide solution, a dirty green
+precipitate of ferrous hydroxide is formed.
+
+FeSO,(aqg) + 2NaOH(aq) —> Fe(OH),1 + Na,SO,(aq)
+[ferrous {sodium (ferrous [sodium
+sulphate] hydroxide] hydroxide) sulphate]
+
+(dirty green ppt)
+
+(iv) Change of state : In many chemical
+reactions, a change of state is observed. The reaction
+might start with gaseous or liquid reactants and end
+up with solid products, and vice versa.
+
+Example
+Ammonia gas reacts with hydrogen chloride gas to
+produce solid ammonium chloride.
+NH;(g) + HCi(g) =~ NH,Ci(s)
+
+EXCERCISE 2(A)
+
+1. (a) What is a chemical reaction ?
+(b) State the conditions necessary for a chemical
+change or reaction.
+2. Define the following terms
+(a) Chemical bond
+(b) Effervescence
+(c) Precipitate
+3. Give an example of a reaction where the following are
+
+involved
+(a) Heat (b) Light
+(c) Electricity (d) Close contact
+(e) Solution (f) Pressure
+(g) Catalyst
+4, Define :
+
+(a) Photochemical reaction
+(b) Electrochemical reaction.
+Give one example in each case.
+5. Give an example of each of the following chemical
+changes.
+
+(a) A photochemical reaction involving
+(i) silver salt (ii) water
+(b) A reaction involving
+(i) blue solution
+(ii) formation of dirty green precipitate
+(c) Two gases combine to form white solid.
+(d) A reaction where colour change is noticed.
+6. Write the chemical reaction where the following changes
+are observed.
+(a) Gas is evolved
+(b) Colour change is noticed
+(c) Precipitate is formed
+(d) Physical state is changed
+7, Give reason for the following :
+(a) Silver nitrate solution is kept in coloured bottles.
+(b) Molybdenum is used in the manfacture of ammonia.
+(c) Blue solution of copper sulphate changes to green
+when a piece of iron is added to this solution.
+
+
+
+--- Page 4 ---
+2.3 TYPES OF CHEMICAL CHANGE OR
+CHEMICAL REACTION
+
+Direct combination (or synthesis)
+Decomposition
+
+Displacement
+
+Double decomposition
+
+PYeNS
+
+1. Direct combination or synthesis
+
+A reaction in which two or more substances
+combine together to form a single substance is called
+a combination reaction.
+
+A+B-— AB
+
+In the above reaction, a combination of
+substances A and B takes place to give a molecule
+of a new substance, AB.
+
+In combination reactions:
+(i) two elements combine to form a compound
+[this reaction is also called synthesis].
+
+¢ Carbon burns in oxygen to form a gaseous
+compound, carbon dioxide.
+
+c + 0, M4, co, +Heat
+
+[carbon] [oxygen] [carbon dioxide]
+
+e When magnesium is burnt, it combines
+directly with the oxygen of air to form
+magnesium oxide.
+
+2Mg + O, > 2MgO
+(ii) an element and a compound combine to give a
+new compound.
+
+Example : Carbon monoxide, a compound, burns
+in the presence of oxygen, an element, to form a
+single product, carbon dioxide.
+
+2CO (g) + O,(g) + 2c0, @)
+[carbon [oxygen] [carbon
+monoxide] dioxide]
+
+¢ Sulphur dioxide and oxygen combines under
+certain conditions to form sulphur trioxide.
+
+280, + O > 280;
+(iii) two or more compounds combine to forma single
+product.
+Example : Ammonia and hydrogen chloride,
+both compounds, combine to form a new
+compound, ammonium chloride.
+NH; (g) + HCl(g) — NH,Cl(s)
+
+[ammonia] [hydrogen [ammonium
+chloride} chloride]
+
+Experiments :
+How to perform direct combination reactions.
+(i) Take some black lead sulphide in a test tube and
+heat it. The black sulphide reacts with oxygen to
+form white lead sulphate.
+
+PbS + 20, — PbSO,
+(combination)
+
+(ii) Hold a piece of magnesium ribbon over a
+flame. It burns with a dazzling light, forming
+magnesium oxide.
+
+2Mg + O, > 2MgO (synthesis)
+
+2. Decomposition
+
+It is the breaking up of a compound either into
+elements or simpler compounds, such that these
+products do not recombine to form the original
+compound.
+
+Decomposition may occur in the presence of
+heat or light, or by the passage of an electric current.
+
+A decomposition reaction that is brought about
+by heat is known as thermal decomposition.
+
+In a decomposition reaction :
+(i) acompound breaks up into two or more elements.
+Examples :
+
+(a) The compound mercuric oxide, when heated,
+decomposes to form two elements, mercury and
+
+oxygen.
+2Hg0 (s) —» 2Hg@) + 0, (8)
+[mercuric oxide] [mercury] [oxygen]
+
+Note : The symbol A (delta) is used to signify
+that heat has caused the reaction.
+
+(b) When electric current is passed through
+acidulated water, the latter decomposes into
+
+hydrogen and oxygen.
+lectri
+2H,0() —ShEE> 2H ig) + O()
+
+(ii) a compound can break up to form both elements
+and compounds.
+Example : The compound potassium nitrate on
+heating decomposes to produce a compound,
+potassium nitrite, and an element, oxygen.
+
+
+--- Page 5 ---
+2KNO;(s) heat, 2KNO,(s) + Ong) ' ~ - (iii) “Metal bicarbonates (metal hydrogen carbonate)
+
+[potassium [potassium [oxygen]
+nitrate} nitrite]
+
+(iii) a compound can break up to form two or more
+new compounds.
+Example : The compound calcium carbonate on
+strong heating decomposes to form two
+compounds, calcium oxide and carbon dioxide.
+
+Metal bicarbonates or metal hydrogen
+carbonates decomposes to give metal
+carbonate, water vapour and carbon dioxide.
+
+2NaHCO, —*» Na,CO, + H,O +CO,
+
+sodium hydrogen carbonate — sodium carbonate
+Ca(HCO;), —*» CaCO, + H,O +CO,
+calcium hydrogen carbonate calcium carbonate
+
+heat
+CaCO3(s) 000%? CaO(s) + CO2(g) Mg(HCO;), —» MgCO, + H,O +CO,
+[calcium [calcium [carbon magnesium bicarbonate | magnesium carbonate
+carbonate] oxide] dioxide]
+Thermal decomposition of metal compound (iv) Metal nitrates
+(i) Metal hydroxide Nitrates
+
+Hydroxides —
+| Metal hydroxides are stable
+
+On heating they melt
+
+and decompose to give
+metal nitrite and oxygen.
+2KNO, ~ 2KNO, + 0,
+Decompose on heating
+to form the metal oxide,
+nitrogen dioxide and
+oxygen.
+
+2Ca(NO,).72Ca0+4NO,40,
+
+to heat.
+
+Decompose on heating to
+form metal oxide and
+water vapour.
+
+Ca(OH), > CaO +H,0
+Zn(OH), > ZnO +H,0
+POH), > PbO +H,0
+Ca(OH), > CuO + H,0
+
+2Zn(NO3),~> 2ZnO + 4NO,+ 0,
+2Pb(NO3). %2PbO + 4NO,+0,
+2Cu(NO3),> 2CuO + 4NO,+ O,
+Forms metal, nitrogen
+
+Yields metal, oxygen and dioxide and oxygen.
+
+water vapour.
+
+A
+2AgNO, > 2Ag + 2NO, +O,
+
+4AgOH > 4Ag +O, + 2H,O
+
+Decomposition reactions in our body
+Digestion of food by our body is an example
+of a decomposition reaction.
+The starch present in the food we eat
+decomposes into glucose and sugar. Proteins undergo
+decomposition to form amino acids. Fats and oils
+
+Carbonates
+
+Stable to heat and
+soluble in water.
+
+Decompose on heating
+
+with decreasing vigour are decomposed to fatty acids and finally oxidized
+to form the metal oxide by respiration into carbon dioxide and water.
+and carbon dioxide. ;
+Starch —EB2¥M€S_, Grucose OL; co, +H,0
+
+Mg CO, > MgO +CO, ; ; ar
+ZnCO, > ZnO +CO, Experiments : How to perform decomposition
+CuCO, > Cu0 + CO, .
+
+(i) Take some lead nitrate crystals in a test tube and
+Forms the metal, oxygen heat them. The crystals first melt and, on further
+and carbon dioxide. heating, give out both nitrogen dioxide, a reddish
+2Ag,CO,> 4Ag +0, +2CO, brown gas, and oxygen. A yellow solid (lead
+
+monoxide) is left behind in the test tube.
+
+——_—_————————— 14 +») =
+
+
+--- Page 6 ---
+(ii)
+
+(iii)
+
+(iv)
+
+2Pb(NO;), —» 2PbO + 4NO, T +0, T
+
+Put some zinc carbonate in a test tube fitted with
+a cork and a bent glass tube. On heating, carbon
+dioxide is given out, which will turn lime water
+milky. The residue, i.e. zinc oxide, is yellow when
+hot, but it turns white on cooling.
+
+ZnCO; > ZnO + CO, T
+
+Heat orange-coloured ammonium dichromate in
+a test tube. Upon heating, it swells and
+decomposes, evolving nitrogen and water vapours
+and a green solid, chromium oxide is left behind.
+(NH4),Cr,0, > Cr,0; + 4H,0 T +N, T
+ammonium chromium
+dichromate oxide
+
+When hydrated copper(II) sulphate is heated in
+a test tube, the blue-coloured crystals change
+into white anhydrous salt. The change may be
+represented by the following equation :
+
+CuSO, - 5H,O(s) + CuSO,(s) + 5H,O(g)
+
+hydrated salt anhydrous salt
+(blue) (colourless)
+
+However, anhydrous copper(II) sulphate may be
+changed to the blue hydrated form by taking a
+sample of the anhydrous salt and adding water
+to it (this is the test to detect the presence of
+water).
+
+CuSO,(s) + SH,O() > CuSO,-5H,0(g)
+
+anhydrous salt hydrated salt
+(colourless) (blue)
+
+So far, most of the reactions that we have
+considered proceed quite definitely in a certain
+direction, and it is possible to identify the
+reactants and the products. However, there also
+exists a group of reactions in which the direction
+of chemical change can be reversed by changing
+the conditions under which the reaction is taking
+place. Such reactions are called reversible
+reactions.
+
+Thus, this is a reversible reaction, and the
+equation for the reaction is :
+
+CuSO,-5H,O(s) === CuSO,(s) + 5H,O(g)
+
+To show that the reaction is reversible, we put
+the sign “==” in between the reactants and
+the products.
+
+If steam is passed over red hot iron, the latter is
+
+partially converted into magnetic oxide, and
+hydrogen is released. If, on the other hand,
+
+hyurogen 1s passed’over the heated oxide, it
+partially changes back to steam.
+
+3Fe + 4H,0 =— Fe,0, + 4H,
+In either case, the reaction ends with a mixture
+of reactants and products.
+
+Experiments : To show thermal dissociation
+
+(v)
+
+Heat some solid ammonium chloride in a test
+tube. Two colourless gases ammonia and
+hydrogen chloride are produced. As these gases
+move up at the upper part of the test tube whic is
+cooler, they combine to form ammonium chloride,
+which appears as a white sublimate on the cooler
+upper side of the test tube.
+NH,Cl === NH, T + HCI T
+
+A simultaneous reversible decomposition
+reaction brought about only by heat is thermal
+dissociation.
+Example of thermal dissociation. On heating,
+nitrogen tetraoxide changes to nitrogen dioxide,
+a reddish brown gas. On cooling, nitrogen
+dioxide changes into the original compound,
+nitrogen tetraoxide.
+
+heat
+
+N,0, ==
+
+cool 2NO2
+
+3. Displacement
+It is a chemical change in which a more active
+
+element displaces a less active element from its salt
+solution.
+Experiments : To show displacement reactions.
+
+(i)
+
+(ii)
+
+(iii)
+
+Take a solution of copper sulphate in a beaker,
+add a few pieces of zinc, and stir with a glass
+rod. The blue colour of the solution gradually
+fades, and soon the solution becomes colourless.
+At the same time, reddish brown particles of
+copper settle down in the beaker.
+
+CuSO, + Zn > ZnSO, + Cul
+
+In a test tube, take some dilute sulphuric acid
+and drop a small piece of magnesium ribbon.
+Brisk effervescence takes place, and hydrogen
+is evolved, which burns with a pop sound on
+bringing a burning match stick near the mouth
+of the test tube.
+Mg + H,SO, — MgSO, + H,
+Pass chlorine gas through a solution of
+potassium iodide. The colourless solution turns
+yellow brown as iodine appears.
+2KI + Cl, — 2KCI + I,
+
+
+--- Page 7 ---
+From the above examples, 1t can be noticed that
+in metal, zinc is more active (reactive) than copper,
+and magnesium is more active compared to hydrogen.
+In non-metals chlorine is more active as compared to
+iodine.
+
+By taking similar examples, the following
+activity series can be prepared.
+
+Activity (reactivity) of elements
+
+Potassium  K | Most active metal
+Sodium Na
+Calcium Ca Fluorine F | Most active
+Magnesium Mg| » Chlorine cl
+Zinc Zn & Iodine I y Least active
+Iron Fe iy
+Lead Pb] &
+[Hydrogen] [H]/ & Note : The more reactive
+Copper Cu 3 element displaces the less
+
+g
+Mercury Hg | & reactive element from its
+Silver — Ag |: salt solution.
+Gold Au
+
+Pt
+
+Platinum Least active (reactive) metal
+
+4. Double decomposition
+
+This is a type of chemical change in which two
+compounds in a solution react to form two new
+compounds by mutual exchange of radicals. Double
+decomposition reaction is also called double
+displacement reaction.
+
+AB + CD — AD + CB
+
+These reactions are of two types: (a) precipitation
+reactions and (b) neutralization reactions.
+
+(a) Precipitation reaction : A chemical reaction
+in which two compounds in their aqueous state react
+to form an insoluble salt (a precipitate) as one of
+the products is known as a precipitation reaction.
+
+For example :
+BaCl, (aq) + Na,SO, (aq) > BaSO,(s) + NaCl (aq)
+white ppt.
+CuSO, (aq) + H2S (g) > CuS(s) + H,SO, (aq)
+black ppt
+
+Experiments : To show double decomposition
+
+reactions.
+
+(i) Take a solution of silver nitrate in a test tube
+and add dilute hydrochloric acid or a solution
+
+ot sodium chloride. A white, curdy precipitate
+is formed.
+
+AgNO, + HCI — AgCl J + HNO,
+AgNO, + NaCl > AgCl J + NaNO,
+(ii) Fill one-third of a test tube with a solution of
+dilute sulphuric acid, and add to it a solution of
+
+barium chloride. A thick white precipitate is
+immediately formed.
+
+BaCl, + H,SO, > BaSO, J + 2HCI
+
+(b) Neutralization: The reaction between an
+acid and a base that forms salt and water only is
+referred to as reaction of neutralisation.
+
+The reaction takes place because the hydrogen
+ion(H*) from the acid combines with the hydroxyl
+ion(OH-) from the base, to form water.
+
+NaOH + HCl > NaCl + H,O
+OR
+Nat OH- + H* Cl- > Nat Cl + H* OH-
+Ionic form
+
+Cancelling the common ions, Nat and
+Cl-, the only change is the combination of H+ and
+OH- ions to form un-ionized water,
+
+ie. H*++OH- > H,0
+
+Note : Double decomposition reactions may also
+occur with evolution of gas.
+
+Example :
+
+FeS(s) + H,SO, (aq) > FeSO, + H,ST
+
+As a chemical process, neutralization has
+many uses
+
+(a) When someone is stung by a bee, formic acid
+enters the skin and gives pain, which can be
+relieved by rubbing the spot with slaked lime or
+baking soda, both of which are bases.
+
+(b) If our stomach glands secrete excess HCl, we
+experience pain, which is relieved by taking
+milk of magnesia or sodium hydrogen
+carbonate, both of which are bases. On the other
+hand, if there is a deficiency of HCl, some or
+the other suitable acid is taken in dilute form to
+make up for it.
+
+——— 6
+
+
+--- Page 8 ---
+(c) Acid that is accidentally spilled on to our
+clothes or body can be neutralized with
+ammonia solution.
+
+Strong base Weak acid
+
+K,PO, + 3H,0 — 3KOH + HPO,
+Strong base Weak acid
+But the salt formed due to a strong acid and
+
+(d) If the soil is somewhat acidic, and thus
+unfavourable for growing of certain crops, slaked
+
+i)
+
+lime is added to neutralize the excess acid.
+
+Hydrolysis : It is the process in which a
+salt and water react to form an acidic or a basic
+solution.
+
+In the process of hydrolysis, only those salts hydrolyse
+that are formed by the reaction of (i) strong base
+
+and weak acid and (ii) strong acid and weak base.
+
+This happens because a salt formed due to
+a strong base and a weak acid, on dissolving in water,
+will make a basic solution. A basic solution turns red
+litmus blue.
+
+a weak base, on dissolving in water, will make an
+acidic solution. Acidic solutions turn blue litmus red.
+
+FeCl, + 3H,0 — Fe(OH); + 3HCI
+
+Weak base Strong acid
+
+Weak base Strong acid
+Note : Strong acids and strong bases ionize to a
+large extent in aqueous solution. Weak acids
+and weak bases ionize to only a small extent in
+aqueous solution, and the salts formed by them
+usually do not hydrolyse.
+
+EXCERCISE 2(B)
+
+. Complete the following statements.
+
+(a) The chemical change involving iron and hydrochloric
+
+6. Define neutralization reaction. Give three applications of
+
+neutralization reactions.
+
+acid illustrates a .............. reaction. 7. What do you understand by hydrolysis ? Explain giving
+(b) In the type of reaction called ..............0. ; examples.
+two compounds exchange their positive and negative 8. Iron (III) chloride is acidic while sodium carbonate is basic.
+radicals. Explain.
+(c) A catalyst either .............. 0) re the rate of a 9. What is decomposition ? Support your answer by an
+chemical change but itself remains ............. at the end example.
+of the reaction. 10. State the type of reactions each of the following represent
+
+When hydrogen burns in oxygen, water is formed; when
+electricity is passed through water, hydrogen and oxygen
+are given out. Name the type of chemical change involved
+in the two cases.
+
+and balance the ones that are not balanced.
+(a) Cl, + 2KBr > 2KCl + Bry
+
+(b) Fe + CuSO, > FeSO, + Cu
+
+(c) 2HgO — 2Hg + O»
+
+3. Explain, giving one example for each of the following (d) PbO, + SO, — PbSO,
+chemical changes: (e) AgNO, + NaCl > AgCl + NaNO,
+(a} Double decomposition (b) Thermal dissociation (f) 2KCIO, > 2KCI + 30,
+(c) Reversible reaction (d) Displacement (g) 2H,O0, > 2H,0 + 0,
+4. What is synthesis ? What kind of chemical reaction is (h) KNO, + H,SO, — HNO, + KHSO,
+synthesis ? Support your answer by an example. (i) CuO + Hy > Cu+H,0
+2 2V.
+5. Decomposition brought about by heat is known as thermal
+
+decomposition. What is the difference between thermal
+dissociation and thermal decomposition.
+
+(j) CaCO; > CaO + CO,
+(k) NH,Cl > NH, + HCl
+
+2 i mt
+
+
+--- Page 9 ---
+2.4 ENERGY CHANGE
+REACTIONS
+
+In every chemical change or chemical reaction,
+change in energy is involved, i.e. there is a difference
+between the chemical energies of the reactants and
+the products. This energy can be in the form of heat,
+light, sound and electricity.
+
+IN CHEMICAL
+
+Every substance has a fixed amount of stored
+energy, which is in the form of potential energy,
+
+and is referred to as its chemical energy.
+
+A chemical reaction involves the breaking up of
+chemical bonds between atoms resulting in absorption
+of energy in the form of heat, and simultaneous
+formation of bonds with release of energy. These two
+types of energy are different from each other, i.e. there
+is either a surplus or a deficit of energy during the
+reaction. Therefore, in a chemical reaction, energy is
+either absorbed or released. .
+
+Depending upon the energy released or
+absorbed, chemical changes or chemical reactions are
+of two types :
+
+1. Exothermic
+2. Endothermic
+
+1. Exothermic reaction : A chemical reaction in
+which heat (a form of energy) is given out is
+called exothermic reaction. It causes a rise in
+temperature.
+
+Examples :
+(a) When carbon burns in oxygen to form carbon
+dioxide, a lot of heat is produced.
+
+C + O, > CO, + Heat
+[carbon] [oxygen] [carbon dioxide]
+
+(b) When water is added to quicklime, a lot of heat
+energy is produced [along with alkaline calcium
+hydroxide (slaked lime)].
+
+CaO + H,O — Ca(OH), + Heat
+[quicklime] (slaked lime]
+
+(c) Formation of water : When hydrogen is burnt
+
+in oxygen, water is formed and heat is released.
+
+2H, +0, —S> 2H,0 + Heat
+
+(d) Formation of ammonia : Nitrogen reacts with
+hydrogen in the presence of catalyst (finely
+divided) iron at 450°C to 500°C, and above
+
+200 atmospheres of pressure to form ammonia.
+
+N, + 3H, —4-» 2NH; + Heat
+
+Note : The sign A indicates heat.
+
+Respiration, rusting, and burning of coal, petrol,
+kerosene, etc., are some common exothermic
+reactions.
+
+2. Endothermic reaction : A chemical reaction in
+which heat is absorbed is called endothermic
+reaction. It causes a fall in temperature.
+
+This reaction cannot be sustained without supply
+of energy from an external source.
+
+Examples :
+
+(a) Formation of carbon disulphide : When carbon
+is heated with sulphur at high temperature, liquid
+carbon disulphide is formed.
+
+C+28+—4> cs,
+
+(b) When nitrogen and oxygen are heated together
+to a temperature of about 3000°C, nitric oxide
+gas is formed. This is an endothermic reaction.
+
+Heat
+
+N, + O, + (300°C)
+
+2NO (g)
+
+(c) Calcium carbonate decomposes into carbon
+dioxide and calcium oxide when it is heated to a
+temperature of about 1000°C; this is also an
+endothermic reaction.
+
+CaCO; (s)} + heat — CaO(s) + CO, (g)
+{calcium (1000°C) [calcium oxide] [carbon-
+carbonate] dioxide]
+
+PHOTOCHEMICAL REACTION
+It is a reaction that occurs with absorption of light
+energy.
+
+Examples :
+
+1. Photosynthesis
+
+chlorophyll!
+—_—
+
+6CO, + 12 H,O
+sunlight
+
+CoH, 20, + 6 H,O + 60,
+2. 2AgNO, _ Sunlight’ 2Ag + 2NO, + O,
+
+ELECTROCHEMICAL REACTION
+
+It is a reaction that occurs with absorption of
+electrical energy.
+
+
+--- Page 10 ---
+' Examples : 2. Acidulated water breaks into hydrogen and
+
+1. Fused potassium chloride, on passing current oxygen.
+through it, breaks into charged particles (ions) of 2H,0 electric 2H, +O,
+potassium and chloride.. curren
+electric
+KC] ~ current? K* + CT
+
+CHAPTER AT A GLANCE
+
+Whenever energy is applied to matter, changes occurs. Changes are mainly of two types : physical and
+chemical.
+
+A change in which only the physical properties of a substance get changed, not its chemical
+composition, is called a physical change, viz. breaking of glass.
+
+A physical change is a temporary change and is reversible in nature.
+
+During a physical change, only the physical properties, such as state, colour, shape, etc. undergo a change.
+
+A change in which chemical composition and chemical properties of reacting substances undergo a
+change is called a chemical change, viz. burning of paper.
+
+A chemical change is a permanent change, i.e. it is irreversible.
+
+Changes occur by (i) mixing the substances in solution state (ii) by heat (iii) light (iv) electricity
+(v) pressure (vi) in the presence of a catalyst.
+
+A chemical reaction is the process of breaking the chemical bonds of reactants and formation of new
+bonds to form new products.
+
+Chemical reaction is confirmed by (i) evolution of gas (ii) change of colour (iii) formation of
+precipitate (iv) change of state.
+
+A reaction in which two or more substances combine to form a new substance is called a combination
+reaction : Fe + S — FeS.
+
+A reaction in which a substance is broken down into two or more substances is called a decomposition
+reaction : 2HgO — 2Hg + O,.
+
+A reaction in which one part of a molecule is replaced by another is called a displacement reaction :
+CuSO, + Fe — FeSO, + Cu.
+
+A reaction in which two reacting molecules exchange their corresponding ions, is called a double
+displacement reaction : NaCl + AgNO, — AgCl + NaNO,.
+
+A reaction in which one of the products formed is an insoluble substance that is thrown out of the
+solution as solid (precipitate) is called precipitation reaction : Na,SO, + BaCl, > BaSO, + 2NaCl.
+
+A reaction in which heat is liberated (or given out) is called an exothermic reaction.
+
+A reaction in which heat is absorbed is called an endothermic reaction.
+
+
+
+--- Page 11 ---
+EXCERCISE 2(C)
+
+1. State the main characteristics of chemical reactions. Give
+at least one example in each case.
+
+7. What do you understand by ‘chemical reaction.’ ?
+
+8. Complete and balance the following reactions :
+
+. Define exothermic and endothermic changes. Give two
+examples in each case.
+
+. State the effects of endothermic and exothermic reactions
+on the surroundings.
+. Give an example of a reaction where the following are
+involved
+(a) Evolution of heat
+(b) Absorption of heat
+(c) High pressure is required
+. Define:
+(a) Photochemical reaction
+(b) Electrochemical reaction.
+Give one example in each case.
+. Give an example of each of the following chemical
+changes.
+(a) A reaction involving
+(i) change of state
+(ii) formation of precipitate
+
+(b) An exothermic and an endothermic reaction
+involving carbon as one of the reactants.
+
+(c) A reaction where colour change is noticed.
+
+(a) NaCl (aq) + AgNO, (aq) >
+(b) Pb(NO;), + KI >
+
+() Cuco,; —4>
+(d) Pb(NO;), —4>
+
+(ce) NH; +0, t+
+
+9. What do you observe. When
+
+(a) Lead nitrate is heated.
+
+(b) Chlorine water is exposed to sunlight.
+
+(c) Hydrogen peroxide is exposed sunlight.
+
+(d) H,S gas is passed through copper sulphate solution.
+(e) Barium chloride is added to sodium sulphate solution.
+
+10. Name :
+
+(a) a carbonate which do not decompose on heating.
+
+(b) a nitrate which produces oxygen as the only gas.
+
+(c) acompound which produces carbon dioxide on heating
+(d) a nitrate which produces brown gas on heating.
+
+nnn 3)

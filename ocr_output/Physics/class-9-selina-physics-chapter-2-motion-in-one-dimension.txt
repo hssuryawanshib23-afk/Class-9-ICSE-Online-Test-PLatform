@@ -1,0 +1,3337 @@
+
+Chaper 2: Motion in one dimension
+--- Page 1 ---
+2
+ts &
+5 Pa
+= td
+
+Syllabus :_ /
+Scalar .and vector quantities, distance,
+
+MOTION IN ONE DIMENSION
+
+velocity, acceleration; graphs of distance-time and spéed-time.
+
+y, test and motion in one dimension, distance and displacethent,
+idistance-time and velocity-time graphs; meaning of slope of the:
+
+; et ~
+ation id i is not included), Simple numerical problems.
+
+-Bauations to be derived :
+
+veutat S=ut+ 5 ats
+
+(A) SOME TERMS RELATED TO MOTION
+
+2.1 SCALAR AND VECTOR QUANTITIES
+
+The quantities which we can measure are called
+the physical quantities. The physical quantities are
+classified into the following two broad categories:
+
+(1) Scalar quantities or scalars, and (2) Vector
+quantities or vectors.
+
+(1) Scalar quantities or scalars : These are the
+physical quantities which are expressed only by their
+magnitude. For example, if we say that the mass of a
+body is 5-0 kg, it has a complete meaning and we are
+completely expressing the mass of the body. Thus, we
+need the following two parameters to express a scalar
+quantity completely :
+
+(i) Unit in which the quantity is being measured,
+
+and
+(ii) The numerical value of the quantity.
+
+Remember that if the scalar is a pure number
+(like 1, e?, etc.), it will have no unit.
+
+Examples : Mass, length, time, distance, density,
+volume, speed, temperature, potential (gravitational,
+magnetic and electric), work, energy, power, pressure,
+quantity of heat, specific heat, charge, electric power,
+resistance, density, mechanical advantage, frequency,
+angle etc.
+
+Scalar quantities can be added, subtracted,
+multiplied and divided by the simple arithmetic
+methods. Scalar quantity is symbolically written
+by its English letter. For example, mass is
+represented by the letter m, time by t and speed
+by v.
+
+(2) Vector quantities or vectors : These physical
+quantities require the magnitude as well as the
+direction to express them, then only their meaning is
+
+26
+
+complete. For example, if we say that “displace a
+particle from a point by 5 m”, the first question that
+will arise, will be “in which direction”? Obviously,
+by saying that the displacement is 5 m, its meaning is
+incomplete. But if we say that displace the particle
+from that point by 5 metre towards east (or in any
+other direction), it has a complete meaning. Thus, we
+require the following three meters to express a vector
+quantity completely :
+
+(i) Unit,
+
+(ii) Numerical value of the quantity and
+(iii) Direction.
+
+Examples Displacement, velocity,
+acceleration, momentum, force, moment of a force
+(or torque), impulse, weight, temperature gradient,
+electric field, magnetic field, dipole moment, etc.
+
+The numerical value of a vector quantity
+alongwith its unit gives us the magnitude of that
+quantity. It is always positive. The negative sign
+with a vector quantity implies the reverse (or
+opposite) direction. Vector quantities follow
+different algebra for their addition, subtraction
+and multiplication. A vector quantity is generally
+written by its English letter bearing an arrow on
+it or by the bold English letter. For example,
+
+velocity is written as ¥ or v, acceleration by g
+or a, force by F or F, Obviously the forces F
+and — F are in opposite directions.
+2.2 REST AND MOTION
+
+Every object in the universe is in motion.
+
+Everyday we see bodies moving around us e.g.
+birds flying, cars and buses moving, people
+
+
+--- Page 2 ---
+walking, insects crawimng, animals’ runming' etc. ©
+Our earth also moves around the sun so every
+thing on it is in a state of motion. The sun and
+stars are moving around the centre of their galaxy
+and the galaxies too are not at rest.
+
+Although nothing is at rest, but we often say
+that a stone lying on the ground is at rest because
+the stone does not change its position with respect
+to us. Similarly, if we are sitting on a railway
+platform and look at a tree nearby, we say that the
+tree is at rest because it does not change its
+position with respect to us. But when we see a
+train leaving the station, we say that the train is
+in motion because it is continuously changing its
+position with respect to us. Thus,
+
+For a moving body, if the distance travelled in
+a certain time interval is much large as compared
+to the size of the body, the body can be assumed to
+be a point particle. In this chapter, we shall study
+the description of motion of a body assuming it to
+be a point particle.
+
+One dimensional motion : When a body
+moves along a straight line path, its motion is said
+to be one dimensional motion. It is also called
+motion in a straight line or rectilinear motion. For
+example, the motion of a train on a straight track,
+a stone falling down vertically, a car moving on a
+long and straight road etc., are one dimensional
+(or rectilinear) motions. In such a motion,
+there is no movement of the body in lateral
+direction (i.e., no sideways motion).
+
+If a body moves on a plane along a curved
+path, its motion is two dimensional and if it
+moves in space, its motion is three dimensional.
+In this chapter, we shall consider only the one
+dimensional motion.
+
+Representation of one dimensional motion :
+The path of one dimensional motion can be
+represented by a straight line parallel to the X-axis
+if X-axis is taken in the direction of motion. Each
+point on the straight line represents the position of
+particle at different instants. The position of particle
+at any instant f is expressed by specifying the
+
+(at t= 0) (at t=1s) (at t=2:s)
+
+X coorainate at tat instantly AS Me parucie moves,
+its x coordinate will change with time t.
+
+Example : The position of a pebble measured
+from its starting point, falling freely and
+vertically downwards at different instants is given
+in the table below :
+
+Time t
+
+(in 8)
+fete | s | | as | oo
+
+(in m)
+
+The motion of the pebble can be represented
+by choosing a proper scale for x on a straight line
+along X-axis as shown in Fig. 2.1. Here X-axis
+represents the vertically downward direction.
+
+20m 45m
+
+(at f=3s)
+
+x=80m
+(at t= 4s)
+
+x=0 5m
+
+Fig. 2.1 Representation of one-dimensional motion
+
+2.3 DISTANCE AND DISPLACEMENT
+Consider a body moving
+
+from a point A to a point B
+along the path shown in
+Fig. 2.2. Then total length of
+path from A to B is called
+the distance moved by the Fig, 2.2 Motion of a
+body, while the length of body from A to B
+straight line AB in direction from A to B (shown
+by the dotted line in Fig. 2.2) is called the
+displacement of the body.
+Distance
+The total length of path through which a body
+moves, is called the distance travelled by it.
+The distance travelled by a body depends on
+the path followed by the body.
+
+It is a scalar quantity. It is generally
+represented by the letter S.
+
+Unit : The S.I. unit of distance is metre (m) and
+C.GS. unit is centimetre (cm).
+
+Displacement
+The shortest distance from the initial to the
+. final position of the body, is the magnitude of
+displacement and its direction is from the
+initial position to the final position.
+It is a vector quantity. It is represented by
+—=—_
+the symbol S.
+Unit : The S.I. unit of displacement is
+metre (m) and C.GS. unit is centimetre (cm).
+
+27
+
+
+--- Page 3 ---
+Representation of displacement : The
+displacement being a vector, is represented by a
+straight line with an arrow, using a convenient
+scale. The tip of arrow on the straight line
+represents the direction of displacement, while the
+length of the straight line on proper scale represents
+its magnitude.
+
+Example: In Fig. 2.3, the vector PO represents
+40 m displacement in east direction with scale
+1 cm = 10 m (displacement). Here origin P is the
+initial position and terminus Q is the final position
+
+of the body N
+40 m DISPLACEMENT
+os se Ww E
+P
+ORIGIN TERMINUS Ss
+
+Fig. 2.3 Representation of displacement
+Distinction between distance and displacement
+
+(1) The magnitude of displacement is either
+equal to or less than the distance. If motion is
+along a fixed direction, the magnitude of
+displacement is equal to that of distance, but if
+motion is along a curve or any zig-zag path, the
+magnitude of displacement is always less than
+that of distance. The magnitude of displacement
+can never be greater than the distance travelled
+by the body.
+
+Examples: (i) In Fig. 2.2, the body moves
+from A to B along a curved path. The distance
+travelled by the body is equal to the length of the
+curved path AB, but the displacement of the body
+is along the straight line AB shown by the dotted
+arrow. Obviously the magnitude of displacement is
+less than the distance.
+
+(ii) In Fig. 2.4, a boy travels 4 km towards east and
+then 3 km towards north. The total distance travelled
+
+by the boy is OA + AB = 4 km + 3 km = 7 km,
+but the displacement of the boy is OB = 5 km
+
+in direction OB i.e., 369° due north from east.
+NORTH
+
+3km
+
+EAST
+4km A
+
+Fig. 2.4 Displacement as a vector
+
+Thus, the magnitude of displacement is the
+length of the straight line between the final and
+initial positions.
+
+(2) The distance is the length of path travelled
+by the body so it is always positive, but
+displacement is the shortest length in direction
+from initial position to the final position so it can
+be positive or negative depending on its direction.
+
+(3) The displacement can be zero even if the
+distance is not zero. If a body, after travelling,
+comes back to its starting point, the displacement
+is zero but the distance travelled is not zero.
+
+Examples: (i) When a body is thrown
+vertically upwards from a point A on the ground,
+after some time it comes back to the same point A,
+then the displacement of the body is zero, but the
+distance travelled by the body is not zero (it is 2h
+if h is the maximum height attained by the body).
+
+(ii) A body moving in a circular path when
+reaches its original position after one round, then
+the displacement at the end of one round is zero,
+but the distance travelled by it is equal to the
+circumference of the circular path (= 2ar if r is
+the radius of the circular path).
+
+Distinction between distance and displacement
+
+1. i ah oe poh esse by es 1. Tila the distance wavellod‘by tie
+direction in a certain me (2
+
+
+
+--- Page 4 ---
+2.4 SPEED AND VELOCITY
+
+For a moving body, speed is the quantity by
+which we know how fast the body is moving, while
+velocity is the quantity by which we know the speed
+of the body as well as its direction of motion. By
+speed we do not know the direction of motion of
+the body.
+
+(1) Speed
+
+It is a scalar quantity. It is generally
+represented by the letter u or v.
+
+If a body travels a distance S in time ¢, then
+its speed v is
+
+Unit of distance
+
+Unit : Unit of speed = Unit of time
+
+Since S.I. unit of distance is metre (m) and
+of time is second (s), so the S.I. unit of speed is
+metre per second (m s~!) and its C.GS. unit is
+centimetre per second (cm s~!).
+
+Uniform speed : A body is said to be moving
+with uniform speed if it covers equal distances in
+equal intervals of time throughout its motion.
+
+Example : The motion of a ball on a
+frictionless plane surface is with uniform speed.
+
+Knowing the uniform speed of a body, we
+can calculate the distance moved by the body in
+a certain interval of time. If a body moves with
+a uniform speed v, the distance travelled by it
+in time ¢ is given as :
+
+-(2.2)
+
+Non-uniform or variable speed : A body is
+said to be moving with non-uniform (or variable)
+speed if it covers unequal distances in equal
+intervals of time.
+
+Examples : The motion of a ball on a rough
+surface, the motion of a car in a crowded street,
+the motion of a vehicle leaving or approaching a
+destination etc., are with non-uniform speed.
+
+In case of bodies moving with non-uniform
+
+29
+
+speed, we specify their instantaneous speed and
+the average speed.
+
+Instantaneous speed : When the speed of a
+body keeps on changing, its speed at any instant
+is measured by finding the ratio of the distance
+travelled in a very short time interval to the time
+interval. This speed is called the instantaneous
+speed. Thus,
+
+Instantaneous speed
+
+_ Distance traveliedin a short time interval
+Time interval
+
+The speedometer of a vehicle measures the
+instantaneous speed.
+
+Average speed : The ratio of the total distance
+travelled by the body to the total time of journey is
+called its average speed. Thus,
+
+Total distance travelled
+Total time taken
+
+In case of a body moving with uniform speed,
+the instantaneous speed and the average speed
+are equal (same as the uniform speed).
+
+(2) Velocity
+
+The velocity of a body is the distanve travelled
+per second by the body in-a specified divection: |
+
+Thus, the rate of change of displacement of
+a body with time is called the velocity. It is
+numerically equal to the displacement of the
+body in | s. ;
+
+It is a vector quantity and is represented by
+the symbol # or v. For velocity, both its
+magnitude and direction must be spécified. Two
+bodies are said to be moving with same velocities
+if both of them move with the same speed in the
+same direction. On the other hand, if two bodies
+move with the same speed but in different
+directions or with different speeds in the same
+direction, they are said to be moving with different
+velocities.
+
+Unit : The unit of velocity is same as the
+unit of speed ie. the S.I. unit of velocity is metre
+per second (ms~!) and the C.GS. unit is
+centimetre per second (cm s!).
+
+Uniform velocity : If a body travels equal
+distances in a particular direction, in equal
+
+Average speed = .(2.3)
+
+
+
+--- Page 5 ---
+intervals of time, the body is said to be moving
+with a uniform velocity.
+
+Example : The rain drops reach on earth’s
+surface falling with uniform velocity*. A body,
+once started on a frictionless surface, moves with
+uniform velocity.
+
+If a body moving with a uniform velocity v,
+has displacement S$ ina time interval t then by
+defirition v= $ /t.
+
+. Displacement
+
+Non-uniform or variable velocity : The
+velocity of a body can be variable either due to
+change in its magnitude or in its direction or in
+both magnitude and direction. If a body moves
+unequal distances in a particular direction in equal
+intervals of time or it moves equal distances in equal
+intervals of time, but its direction of motion does
+not remain the same, then the velocity of the body
+is said to be variable (or non-uniform).
+
+Examples : The motion of a freely falling
+body is with variable velocity because although
+the direction of motion of the body does not
+change, but the speed continuously increases.
+Similarly, the motion of a body in a circular path
+even with uniform speed is with variable velocity
+because in a circular path, the direction of motion
+of the body continuously
+changes with time. In fact,
+its velocity changes at a
+uniform rate. At any instant, © A
+its velocity is along the
+tangent to the circular path =v
+
+v B v
+
+. D
+at that point. Fig. 2.5 shows pip 95 Circular path
+the direction of velocity v at of constant speed
+
+different points A, B, C and
+D of the circular path.
+
+In case of a body moving with non-uniform
+velocity, we specify the instantaneous velocity
+and the average velocity.
+
+Instantaneous velocity : For a body moving
+with variable velocity, the velocity of the body at
+any instant is called its instantaneous velocity. It
+
+but variable velocity
+
+* Initially as the rain drop starts falling, first its velocity
+increases due to force of gravity, but very soon, due to viscosity
+(or friction) and upthrust of air, the viscous force and upthrust
+balances the force of gravity on the rain drop with the result
+that the net force on the drop becomes zero. Then the drop
+falls down with a uniform velocity called the terminal velocity.
+
+is measured by finding tlhe ratio of the distance
+travelled in a sufficiently small time interval, to
+the time interval. It is important to have time
+interval small enough so that the direction of
+motion does not change during this interval.
+
+Average velocity : If the velocity of a body
+moving in a particular direction changes with time,
+the ratio of displacement to the time taken in entire
+journey is called its average velocity. Thus,
+
+Distinction between speed and velocity
+
+(1) The speed is a scalar quantity, while
+velocity is a vector quantity. The speed of
+a body at a given time tells us how fast the
+body is moving at that time. The same
+information is also obtained by its velocity,
+but the velocity also tells us the direction
+in which the body is moving.
+
+For the motion in a straight line, the
+magnitude of velocity is its speed. The
+speed is always positive, but velocity is
+given positive or negative sign depending
+upon its direction of motion.
+
+The average velocity of a body can be zero,
+even if its average speed is not zero.
+Examples : (i) If a body starts its motion
+from a point and comes back to the same
+point after a certain time, the displacement is
+zero, so the average velocity is also zero, but
+the total distance travelled is not zero and
+therefore, the average speed is not zero.
+
+(2)
+
+(3)
+
+(ii) If a body moves in a circular path and
+covers equal distances in equal intervals of
+time, the speed is uniform, but due to
+continuous change in its direction of motion,
+its velocity is variable. The instantaneous
+velocity and instantaneous speed are not zero.
+The displacement for one round is zero and
+therefore, the average velocity is also zero,
+but the average speed is 2nr/T if r is the
+radius of path and 7 is the time taken in one
+round.
+
+7 a" 30
+
+
+--- Page 6 ---
+Distinction between speed and velocity
+
+: Tho dace tale per wend Ww Ov
+‘object is called its speed. *
+
+. It is'a scalar quantity. Th singe
+tell us the. direction of motion..
+
+akon inte encidenstion 25 wii °
+. Ate re i ee ee
+speed is not zero. y,
+
+2.5 ACCELERATION AND RETARDATION
+
+Generally, bodies do not move with uniform
+velocities. The velocity of a body changes
+either in magnitude or in direction or both in
+magnitude as well as in direction. For example,
+the motion of a vehicle in a busy market, or
+while leaving or approaching a destination is
+with variable velocity. The motion of a planet
+or satellite in circular path is also with variable
+velocity.
+
+Now we consider the motion only in a straight
+line path. Here there is no change in direction of
+motion and the change in velocity is only due to
+change in speed. In such a case, if the velocity of
+body increases with time, the motion is said to
+be accelerated, while if the velocity of body
+decreases with time, the motion is said to be
+decelerated (or retarded). Thus retardation is the
+negative acceleration*.
+
+Acceleration
+
+Thus, acceleration i is numerically equal to the
+change in velocity in 1 s. ie.,
+
+Unit of velocity
+Unit of time
+
+Unit : Unit of acceleration =
+
+The S.I. unit of velocity is metre per second
+
+and of time is second.
+metre per second
+
+second
+= metre per second square or m s?,
+
+S.I. unit of acceleration is
+
+* Acceleration is the increase in velocity per second, while
+retardation is the decrease in velocity per second.
+
+31
+
+1. The distance Travelled. per second bya rN ying:
+
+in a particular direction is called its ve
+
+. It is a vector quantity. The velocity. tells: ee
+
+as well as the direction of motion.
+
+}. The velocity can be positive or negative: dep " fin go
+
+upon the direction of motion.
+
+. After completing each round in a circular ptt dhe
+
+average velocity is zero.
+
+The C.GS. unit of acceleration is cm s~.
+
+Relation for acceleration : Let a body be
+moving in a straight line in one direction with an
+initial velocity u. Its velocity changes in a short
+time interval t and the final velocity becomes v
+after time t. Then change in velocity = (v — u)
+and time taken = ¢.
+
+(2.7)
+
+If v > u, then a is positive, thus a is the
+acceleration. But if v < u, then a is negative, and
+a is the retardation.
+
+. vV-u
+Acceleration a = wo
+
+or v= utat
+
+Examples: (1) Suppose a car initially at rest, on
+starting acquires a velocity 20 ms” in 10 s. The
+change in its velocity is 20 ms'-Oms"!
+= 20 ms". This change has been brought about in
+10 s. Therefore, the acceleration of car is
+
+_ 20ms~'-Oms7! _ 20ms7!
+
+_ 2
+10s los 72 ms™.
+
+(2) If a car initially moving with a velocity
+25 ms! is brought to rest in 5 s by applying the
+brakes, then acceleration of the car is
+
+_ Oms'- 25ms! _ -25ms"!
+
+Ss 5s
+
+or retardation = 5 m s~ (since negative acceleration
+is called the retardation).
+
+Acceleration is a vector quantity. It
+is represented by the symbol a’. The direction
+of acceleration is the direction of change in
+velocity. For the motion in a straight line,
+the acceleration is in direction of motion of the
+body.
+
+=-—5ms?
+
+
+--- Page 7 ---
+It may be mentioned here that the acceleration
+of a body does not determine its direction of
+motion, while the velocity determines its
+direction of motion. The positive or negative sign
+of acceleration tells us Whether the velocity i is
+
+positive or « negative sign of vel if ‘tells i its
+direction 6f motion. °
+
+The acceleration is
+
+Uniform acceleration :
+said to be uniform (or constant) when equal
+changes in velocity take place in equal intervals
+of time. The motion of a body under gravity (e.g.
+free fall of a body) is an example of uniformly
+accelerated motion.
+
+Variable acceleration : If change in velocity
+is not same in the same intervals of time, the
+acceleration is said to be variable. The motion
+of a vehicle on a crowded (or hilly) road is with
+variable acceleration.
+
+Acceleration due to gravity : When a body
+falls freely under gravity, the acceleration
+produced in the body due to earth's gravitational
+attraction is called the acceleration due to gravity.
+It is generally denoted by the letter g. When a
+body falls down, its velocity increases with time,
+so the acceleration is + g, while if the body moves
+
+vertically upwards, its velocity decreases with time,
+so the acceleration is — g (or the retardation is g).
+
+The average value of g is 9-8 m s~ (or nearly
+10 m s~). Actually it varies from place to place”.
+Thus if a body falls freely under gravity, its
+velocity increases at a rate of 9-8 m s~’, ie.,
+starting from rest, after 1 s the velocity will be
+9-8 m s-!, after 2 s the velocity will be 2 x 9-8
+= 19-6 m s"!; after 3 s, the velocity with be
+3 x 9-8 = 29-4 m s"! and so on. Similarly, if a
+body is projected vertically upwards, its velocity
+decreases at a rate of 9-8 m s~, ie., if a body is
+projected vertically upwards with an initial
+velocity of 49 m s", after 1 s, its velocity will
+become 39-2 m sq; after 2 s, its velocity will
+become 29-4 m s7!; after 3 s, its velocity will
+become 19-6 m s“! and so on.
+
+Note : The value of g does not depend on the
+mass of the body. Hence if two bodies of different
+masses are simultaneously dropped from a height,
+both will reach the ground simultaneously in
+vacuum because then there is no effect of friction
+and buoyancy due to air.
+
+* On the earth surface, g is maximum at the poles and
+
+mininuon at the equator. The value of g decreases with
+altitude and also with depth from the earth’s surface.
+
+1. Select the scalars and vectors from the
+following :
+Velocity, distance, acceleration, work, mass,
+retardation.
+
+Scalars : distance, work, mass.
+
+Vectors : velocity, acceleration, retardation.
+
+2. Express the speed 36 km h™ in ms}.
+1 _ 36km _ 36x1000m
+
+3. Find the distance travelled by a body in
+5 minutes if it travels with a uniform speed
+of 20 m s*.
+Given, u=20 ms", t=5 min=5 x 60s = 300s
+Distance travelled S = speed u x time t
+
+20 m s~! x 300s
+
+6000 m = 6 km.
+
+32
+
+4. A train moving with uniform speed covers a
+
+distance of 120 m in 2 s. Calculate : (i) the
+speed of the train, (ii) the time it will take
+
+to cover 240 m.
+Given, S= 120 m,t=25s
+Distance travelled
+i) Speed of the train = —————
+@) Time taken
+
+120
+or “= = 60m)
+2s
+
+(ii) Time taken to cover 240 m distance
+distance
+
+5. A body rises vertically up to a height of
+125 m in 5 s and then comes back at the point
+of projection. Find : (i) the total distance
+travelled, (ii) the displacement, (iii) the average
+speed and (iv) the average velocity of the body.
+
+
+--- Page 8 ---
+Given, S= 125m, t=5s
+(i) Total distance travelled=S$+5=2S
+=2x125m
+= 250m
+Gi) Displacement = 0 (since final position is
+same as initial position).
+Total distance travelled
+Total time of joumey
+_ 2S — 2x125m
+~ 2t ~ 2x5s
+250
+0 = = 25ms1
+(iv) Average velocity = 0 (since displacement is
+zero).
+
+(iii) Average speed
+
+A train first travels for 30 min with a velocity
+30 km h7! and then for 40 min with a velocity
+40 km h7! in the same direction, Calculate : (i) the
+total distance travelled, (ii) the average velocity
+of the train.
+
+1
+zh,» = 30 km bt,
+
+2
+t= 40 min = 3h, v, = 40 km bt.
+(i) Distance travelled = velocity x time
+
+Given, t, = 30 min =
+
+1
+S, =v, xt, = 30x 7 = 15 km
+2 80
+S,=v,xt,=40x 3 = = km
+Total distance travelled S = S, + S,
+= 15+ = km = 41-67 km
+(ii) Total time of journey t= 1, + ¢,
+1,2 7,
+= 273 76
+-. Average velocity = Total distance travelled S
+- 8 y= Total time of journey t
+41-67km
+- —~ - 3. ~1
+= “Gh = 35°71 km h".
+
+A car travels a distance 50 km with a velocity
+25 km h~! and then 60 km with a velocity
+20 km h7! in the same direction. Calculate :
+(i) the total time of journey and (ii) the average
+velocity of the car.
+Given, S, = 50 km, v, = 25 kmh,
+
+S, = 60 km, v, = 20 km ht.
+Distance S$
+
+(i) Time of journey t = velocity v
+
+Total time of journey t=1,°+ 1, = 2h+3h=Sh
+(ii) Total distance travelled S = S, + S,
+= 50 km + 60 km = 110 km
+
+Average velocity = Total distance travelled $
+8 Y= Total time of journey t
+110km
+= = -1
+=< CU 22 km h“,
+
+8. The velocity of an object increases at a constant
+rate from 20 ms! to 50 ms in 10 s. Find the
+
+acceleration.
+Given, u=20ms"',v=50ms",t=10s
+
+. v—u 50ms~!-20ms~!
+Acceleration a = =
+
+10 s
+30ms7!
+_ - 2
+
+or a 10s 3ms°
+
+9. A pebble thrown vertically upwards with an
+initial velocity 50 m s“'! comes to a stop in
+5 s. Find the retardation.
+Given, u=50ms"!,v=0,t=5s
+
+0-50ms"!
+Ss
+
+. v—-u
+Acceleration a = ; =
+
+=-10ms~
+Hence, _ retardation = 10ms7.
+
+10. The table below shows the distance in cm,
+travelled by the objects A, B and C during
+each second.
+
+Distance (in cm) covered in each.
+
+second by A, B and C .
+20 2 | 2
+
+(i) Which object is moving with constant speed ?
+Give a reason for your answer.
+
+(ii) Which object is moving with a constant
+
+acceleration ? Give a reason.
+
+Which object is moving with irregular
+acceleration ?
+
+(i) The object A is moving with constant speed. The
+
+reason is that it covers equal distance (= 20 cm)
+in each second.
+
+(iii)
+
+(ii) The object C is moving with a constant
+acceleration. The reason is that for the object C,
+
+
+--- Page 9 ---
+the distance covered in each
+
+(i.e., velocity) increases by the same
+
+amount (= 40 m s~!) in each interval of one
+second.
+
+second | (iii) The object B is moving with irregular
+
+acceleration. The reason is that the change in
+velocity is not same in each interval of one
+second.
+
+Oe NDMS YW
+
+Differentiate between the scalar and vector
+quantities, giving two examples of each.
+
+State whether the following quantity is a scalar
+or vector ?
+
+(a) pressure (b) force
+(c) momentum (d) energy
+(e) weight (f) speed.
+
+Ans. (a) scalar (b) vector
+(c) vector (d) scalar
+(e) vector (f) scalar.
+When is a body said to be at rest ?
+When is a body said to be in motion ?
+What do you mean by motion in one direction ?
+Define displacement. State its unit.
+Differentiate between distance and displacement.
+
+Can displacement be zero even if distance is not
+zero ? Give one example to explain your answer.
+
+When is the magnitude of displacement equal to
+the distance ?
+
+Ans. When the motion is in a fixed direction
+Define velocity. State its unit.
+Define speed. What is its S.I. unit ?
+Distinguish between speed and velocity.
+Which of the quantity speed or velocity gives the
+direction of motion of body ? Ans. Velocity
+When is the instantaneous speed same as the
+average speed ?
+Distinguish between the uniform velocity and the
+variable velocity.
+Distinguish between the average speed and the
+average velocity.
+
+Give an example of the motion of a body moving
+with a constant speed, but with a variable velocity.
+Draw a diagram to represent such a motion.
+
+Give an example of motion in which average
+speed is not zero, but the average velocity is zero.
+Define acceleration. State its S.J. unit.
+Distinguish between acceleration and retardation.
+Differentiate between uniform acceleration and
+variable acceleration.
+
+What is meant by the term retardation ? Name
+its S.1. unit.
+
+Which of the quantity, velocity or acceleration
+determines the direction of motion ? Ans. Velocity
+
+34
+
+24. Give one example of each type of the following
+motion :
+(a) uniform velocity (b) variable velocity
+(c) variable acceleration (d) uniform retardation.
+
+25. The diagram (Fig. 2.6) below shows the pattern
+of the oil dripping on the road, at a constant rate
+from a moving car. What informations do you
+get from it about the motion of car ?
+
+Ans. Initially it is moving with a constant speed
+and then it slows down.
+
+26. Define the term acceleration due to gravity.
+
+State its average value.
+
+‘The value of g remains same at all places on the
+
+earth surface’. Is this statement true ? Give reason
+
+for your answer.
+
+Ans, No. The value of g is maximum at poles
+
+and minimum at equator on the earth surface.
+
+28. If.astone and a pencil are dropped simultaneously
+in vacuum from the top of a tower, which of the
+two will reach the ground first ? Give reason.
+Ans. Both will reach the ground simultaneously,
+since acceleration due to gravity is same (= g)
+on both.
+
+Multiple choice type :
+
+27.
+
+1. The vector quantity is :
+(a) work (b) pressure
+(c) distance (d) velocity
+Ans. (d) velocity
+
+2. The S.I. unit of velocity is :
+
+(a) km hr! (b) m min“!
+
+(c) km min (d) ms"! Ans. (d) m s™
+3. The unit of retardation is :
+
+(a) ms"! (b) ms?
+
+(c) m (d) ms? Ans. (b) m s
+4. A body when projected up with an initial velocity .
+
+u goes to a height A in time ¢ and then comes
+back at the point of projection. The correct
+statement is :
+
+(a) the average velocity is 2h/t
+
+(b) the acceleration is zero
+
+
+--- Page 10 ---
+(c) the final velocity on reaching the point of
+projection is 2u.
+(d) the displacement is zero.
+Ans. (d) the displacement is zero.
+
+5. 18 km hr! is equal to :
+
+(a2) 10ms! (b) Sms"
+(c) 18ms? (d) 1-8ms-! Ans. (b) 5 ms
+Numericals :
+1. The speed of a car is 72 km hr!. Express it in
+m s7!, Ans. 20 m s"!
+Express 15 ms"! inkmh!. — Ans. 54 km hr!
+
+3. Express each of the following in ms"! :
+(a) Lkmh! (6) 18 km min"!
+Ans, (a) 0-278 ms“! (b) 300 m s7!
+4. Arrange the following speeds in increasing order :
+10 ms, 1 km mir, 18 kmh".
+Ans. 18 km h!, 10 ms!, 1 km min“!
+
+5. A train takes 3 h to travel from Agra to Delhi with
+a uniform speed of 65 km h7!. Find the distance
+between the two cities. Ans. 195 km
+
+6. Acar travels first 30 km with a uniform speed of
+60 km h7! and then next 30 km with a uniform
+speed of 40 km h-!. Calculate : (i) the total time
+of journey, (ii) the average speed of the car.
+
+Ans. (i) 75 min, (ii) 48 km h7!.
+
+7. A train takes 2 h to reach station B from station A,
+and then 3 h to return from station B to station A.
+The distance between the two stations is 200 km.
+Find : (i) the average speed, (ii) the average
+velocity of the train. Ans. (i) 80 km hr!, (ii) zero.
+
+8. Acar moving on a straight path covers a distance
+of 1 km due east in 100 s. What is (i) the speed
+
+and (ii) the velocity, of car ?
+Ans. (i) 10 ms7!, (ii) 10 m s7! due east.
+
+9. A body starts from rest and acquires a velocity
+10 ms“ in 2 s. Find the acceleration.
+Ans. 5 ms?
+10. A car starting from rest acquires a velocity
+180 m s“ in 0-05 h. Find the acceleration.
+Ans. 1 ms?
+
+Il. A body is moving vertically upwards. Its
+velocity changes at a constant rate from 50 m s!
+to 20 ms“! in 3 s. What is its acceleration ?
+
+~10 m s~?. The negative sign shows that the
+velocity decreases with time, so retardation is
+10 ms. .
+
+12. A toy car initially moving with a uniform velocity
+of 18 km h7! comes to a stop in 2 s. Find the
+retardation of the car in S.I. units. Ans. 2:5 m s~?
+
+13. A car accelerates at a rate of 5 m s~. Find the
+increase in its velocity in 2 s. Ans. 10 ms"!
+
+14. Acar is moving with a velocity 20 m s~!. The
+brakes are applied to retard it at a rate of 2 ms.
+What will be the velocity after 5 s of applying the
+brakes ?. Ans. 10 ms“!
+
+15. A bicycle initially moving with a velocity
+5-0 ms" accelerates for 5 s at a rate of 2 m s~.
+What will be its final velocity 2? Ans. 15-0 m s7!
+
+16. A car is moving in a straight line with speed
+18 km h-!. It is stopped in 5 s by applying
+the brakes. Find : (i) the speed of car in m s“!,
+(ii) the retardation and (iii) the speed of car
+after 2 s of applying the brakes.
+
+Ans. (i) 5 ms“, (ii) 1 m s~, (iii) 3 ms“!
+
+Ans.
+
+(B) GRAPHICAL REPRESENTATION OF LINEAR MOTION
+
+If a body moves in a straight line path, its motion
+is in one dimension and is called the linear or
+rectilinear motion. A linear motion can be well
+studied with the help of the following graphs :
+
+(i) Displacement-time graph,
+(ii) Velocity-time graph, and
+(iii) Acceleration-time graph.
+
+Note : For motion in one direction in a
+straight line since the direction of motion does
+not change, so the displacement-time graph and
+the distance-time graph are same. Similarly the
+velocity-time graph and the speed-time graph
+are also same. They differ in two and three
+dimensional motions.
+
+2.6 DISPLACEMENT-TIME GRAPH
+
+In the displacement-time graph, the time is
+taken on X-axis and the displacement of body is
+taken on Y-axis. From this graph, we can
+determine the velocity of the body.
+
+Since, velocity is the ratio of displacement
+and time, therefore the slope of displacement-
+time graph gives the velocity. If the slope is
+positive, it implies that the body is moving away
+from the starting (or reference) point, but if the
+slope is negative, the body is returning towards
+the starting (or reference) point.
+
+
+--- Page 11 ---
+Let us consider the following situations:
+
+Case (1) : If the position of a body does not
+change with time, the body is said to be stationary
+and the displacement as measured from the
+origin at all instant is same as that at t = 0, so
+the displacement-time graph is a straight line
+parallel to the time axis as shown in Fig. 2.7. In
+Fig. 2.7, OP is the distance of the body from the
+origin O and it remains same at each instant.
+
+DISPLACEMENT (m)
+o os 88 8
+
+0123 4 5 6.7 8 9
+Time (s)
+
+Fig. 2.7 Displacement-time graph for a stationary object
+
+Case (2) : If a body is moving with uniform
+velocity, its displacement increases by the same
+amount in each second and so the displacement-
+time graph is a straight line inclined to the time
+axis. The velocity of body can be obtained by
+finding the slope of the straight line.
+
+Example (1) : A car is moving on a straight
+path in a given direction with a uniform speed.
+The following table represents its displacement
+(i.e., distance from the starting point) at different
+instants.
+
+|_Time in second(s) | 0 | 1 | 2] 3 [4]5__
+
+8
+
+(m) ———-
+&
+
+N
+So
+
+DISPLACEMENT
+°
+
+fe)
+
+oye ee eres
+
+t
+t
+I
+1
+'
+V
+{
+|
+I
+\
+i
+i]
+i
+1
+4
+
+'
+i}
+i)
+'
+'
+'
+!
+!
+i
+i}
+(
+i}
+i}
+3
+
+Time (s) +
+Fig. 2.8 Displacement-time graph with a uniform velocity
+The displacement-time graph is a straight line
+OP inclined to the time axis (Fig. 2.8). It shows
+the linear relationship between the displacement
+and time (i.e., the displacement of car is directly
+proportional to the time of travel or the car travels
+
+36
+
+equal distance in equal intervals of time in a certain
+direction). Thus
+
+For a body moving with uniform velocity,
+
+the displacement is directly proportional to the time
+(be, Sx t)
+
+The velocity of car can be obtained by finding
+the slope of the straight line OP. For this, take any
+two points A and B on the line OP as shown in
+Fig. 2.9 and draw perpendiculars AD and BE on
+the Y-axis and AF and BG on the X-axis from these
+
+points.
+
+SB
+
+&
+
+8
+
+8
+
+~
+o
+
+DISPLACEMENT (m)
+
+°
+
+'
+t
+
+! ‘ 1
+i] t '
+' :
+2 3 4
+
+5
+
+Time (s) ———~
+Fig. 2.9 To find velocity from displacement-time graph
+
+From graph in Fig. 2.9, velocity of car
+= slope of the line OP
+ED (®-Dm Wm
+“GF (4-2)s = 2s. =10ms*
+Obviously, larger the slope (_e.. move inctimed
+is the straight line), higher is the velocity.
+Example (2) : Fig. 2.10 represents the
+displacement-time graph of a ball which while
+moving on a perfectly smooth floor hits a wall
+at t = 6 s and then comes back along the same
+line. The displacement (i.e., distance of ball from
+the starting point) at different instants of time is
+given in the table below.
+
+[Time (in second) | 0 |.2 | 4 [6 | 8 [10 [12 fia.
+
+Displacement
+(in metre)
+
+In Fig. 2.10,
+
+. 60m -0
+Slope of the line OA= — > =10ms"!
+: 0-60m 60 m
+and slope of the line AB = l4scés 77 8s
+= -75ms!
+
+
+--- Page 12 ---
+S$ 8 8
+
+DISPLACEMENT (m)
+3
+
+oO 2 4 6 +8 0 12 14
+Time (s) ———+
+
+Fig. 2.10 Displacement-time graph with positive
+
+and negative slopes
+
+Thus the slope of the line OA is positive
+(= 10 ms~!) which represents the uniform motion
+of ball with velocity 10 ms“! towards the wall (i.e.,
+away from the starting point), while the slope of the
+line AB is negative (=—7-5 m s~') which represents
+the uniform motion of ball with velocity 7-5 ms“
+towards the starting point after hitting the wall.
+
+Note : The displacement-time graph can
+never be a straight line, parallel to the
+displacement axis because such a line would
+mean that the distance covered by the body in a
+certain direction increases without any increase
+in time (i.e., the velocity of the body is infinite)
+which is impossible.
+
+Case (3) : If a body moves with varying
+speed in a fixed direction i.e., with variable
+velocity, the displacement-time graph is not a
+straight line, but it is a curve. The velocity at
+any instant can then be obtained by finding the
+slope (or the gradient) of the tangent drawn on
+the curve at that instant of time.
+
+Example Fig. 2.11 represents the
+displacement-time graph of a body for which
+
+Y
+
+DISPLACEMENT (m) —>
+
+234567
+TIME (s) ———>
+
+Fig. 2.11 Displacement-time graph witha variable velocity
+
+displacement (i.e., distance from the starting point)
+at different instants is given in the table below.
+
+The displacement-time graph i is a curve PQ.
+
+The velocity of body at time tf = 5 s (or when
+the displacement S = 30 m) is obtained by
+finding the slope of the tangent BD to the curve
+drawn at the point A corresponding to t = 5 s or
+S = 30 m. Slope of the tangent BD is
+
+BC (50-10)m_ 40m
+
+Slope = Cp =" (7=3)5 = 45.
+ie., the velocity of body att=5s or S= 30m
+is 10 ms“.
+
+Note that in this case, the slope of the curve
+is different at different points, so the velocity is
+different at different instants.
+
+Conclusions :
+
+(i)
+
+=10ms'!
+
+(a) If the displacement-time graph of an object,
+is a straight line parallel to the time axis, the
+object is stationary. (b) If the graph is a straight
+line inclined to the time axis, the motion is
+with uniform velocity. (c) If the graph is a
+curve, the motion is with non-uniform velocity.
+(ii) In the displacement-time graph, the slope of
+the straight line (or the tangent to the curve
+at an instant) gives the velocity of the object
+at that instant. (a) If the slope is positive, it
+represents the motion away from the origin (or
+reference point). (b) If the slope is negative,
+it represents the motion towards the origin.
+(iii)Knowing the velocity of the object at
+different instants from the displacement-time
+graph, the velocity-time graph can be drawn.
+2.7. VELOCITY-TIME GRAPH
+
+In the velocity-time graph, time is taken on
+X-axis and the velocity is taken on Y-axis.
+
+Since velocity is a vector quantity, the positive
+velocity means that the body is moving in a certain
+direction away from its initial position and the
+negative velocity means that the body is moving in
+the opposite direction (i.e., towards the initial
+position).
+
+From the velocity-time graph, we can
+determine (a) the displacement of the body in a
+certain time interval and (b) the acceleration of the
+body at any instant.
+
+37
+
+
+--- Page 13 ---
+(a) Determination of displacement from
+the velocity-time graph : Since, velocity x time
+= displacement, the area enclosed between the
+velocity-time sketch and X-axis (i.e., the time
+axis) gives the displacement of the body.
+
+The area enclosed above the time axis
+represents the positive displacement i.e., the
+distance travelled away from the starting point,
+while the area enclosed below the time axis
+represents the negative displacement i.e., the
+distance travelled towards the starting point. The
+total displacement is obtained by adding them
+numerically with proper sign. But the total distance
+travelled by the body is their arithmetic sum
+(without sign).
+
+Example : Consider the velocity-time graph
+of a body in motion as shown in Fig. 2.12.
+
+p 10 11 12 13 14
+Time (s) >
+
+Fig. 2.12 Velocity-time graph of a body in motion
+In Fig. 2.12, area of A abc
+
+x base x height
+
+Nile wl
+
+x4sx5ms!=10m,
+
+area of trapezium cdef
+
+x (sum of parallel sides) x height
+
+|= Nile
+
+x(5+3)sx5ms!=20m,
+
+2
+and area of trapezium fghi
+
+1
+= 5 x(4+2)sx5ms'=15m
+
+Then the displacement of the body = area of
+A abc — area of trapezium cdef + area of trapezium
+fghi = 10 m—- 20 m + 15 m = 5 m, but the total
+distance travelled by body = area of A abc + area
+of trapezium cdef + area of trapezium fghi = 10 m
++20 m+ 15 m=45 m.
+
+(b) Determination of acceleration from the
+velocity-time graph : Since acceleration is equal
+to the ratio of change in velocity and time taken,
+therefore the slope (or gradient) of the velocity-
+time sketch gives the acceleration.
+
+38
+
+Example : In Fig. 2.12, for the part ab of the
+motion
+Change in velocity
+
+Slope = Change intime ~
+
+(5-0)ms~
+(3-0)s
+
+5
+.. Acceleration = 3 = 1-67 m s*
+
+In part bd,
+[(-5) -5]ms"
+(5-3)s
+.. Acceleration =-—-5 ms
+In part de, slope = 0, .. Acceleration = 0
+Since the slope is positive in part ab, it is the
+accelerated motion; the slope is negative in part
+bd, the motion is decelerated or retarded and in
+part de the slope is zero, so the motion is with
+constant velocity.
+
+Slope = =-5ms*
+
+-2
+
+Now we can consider the following cases :
+
+Case (1) : If a body is in motion with uniform
+velocity (i.e., velocity remains constant with time),
+the velocity-time graph is a straight line parallel to
+the time axis.
+
+VELOCITY (ms7')
+
+TIME (s) ——
+Fig. 2.13. Velocity-time graph for uniform velocity
+
+Example : In Fig. 2.13. a straight line AB
+represents the velocity-tme graph of a body
+moving with a uniform velocity 4 m s“! for 5 s.
+The slope of the straight line AB is zero,
+therefore. its acceleration is zero.
+
+Displacement in 5 second = area of the
+rectangle OABC = OC x OA=5sx4ms!=20 m.
+
+Case (2) : (a) If the body is in motion with
+uniform acceleration (i.e., equal changes in velocity
+take place in equal intervals of time), the velocity-
+time graph is a straight line inclined to the time
+axis. The slope of the line gives the acceleration.
+
+Example : The table below represents the
+velocity of a body at different instants, starting
+from rest.
+
+
+--- Page 14 ---
+Time Gna) TOA T ZT TATS TS TTS
+| Velocity Gm | 0 | 10] 20} 0] 40 50] 60 70] 80
+
+Obviously, the velocity is increasing by an
+equal amount in each second i.e., the body is
+moving with uniform acceleration. The velocity-
+time graph is a straight line OP inclined to the
+time axis as shown in Fig. 2.14.
+
+ito
+
+ae @) —
+Fig. 2.14 Velocity-time graph; velocity increasing by
+equal amount in each second
+Distance travelled by the body in 8 second
+S= area of triangle OPQ
+
+= 5 x base x height
+
+= 5 x0QxQP
+
+= 5 x8sx80ms!=320m.
+Acceleration of the body = Slope of the line OP
+
+_ PQ | (80-0) ms”!
+~ QO7~ (8-0)s
+20 -1
+= =10ms?
+s
+
+(b) If the motion is with uniform retardation (i.e.,
+its velocity decreases by an equal amount in
+each second), the velocity-time graph will be
+a straight line inclined to the time axis with
+a negative slope.
+
+Example : In Fig. 2.15, the straight line AB
+represents the velocity-time graph for a body
+Y
+404A
+~30
+£20
+E
+8 10
+;
+oF yi X
+
+2 3
+Time (s)——>
+Fig. 2.15 Velocity-time graph with uniform retardation
+
+initially moving with a vélocity 40 m s' which
+comes to a stop in 4 s with uniform retardation.
+Distance travelled by the body in 4 s
+= Area of triangle AOB
+
+1
+3 OB x OA
+
+1 xy 45x40ms1=80m
+
+2
+Retardation of the body
+= — Slope of the line AB
+
+OA (0-40) ms7!
+~ BO” (4-0)s
+40
+
+-—~ 2 -2
+= 4 ms*“=10ms~.
+
+Obviously, on velocity-time graph, larger the
+slope (i.e., more inclined is the straight line), higher
+is the acceleration or retardation.
+
+(c) The velocity-time graph can never be a
+straight line parallel to the velocity axis
+because such a line would mean that the
+velocity increases without any increase in
+time (i.e., acceleration is infinite) which is
+impossible.
+
+If the body initially is moving with some
+velocity and then it accelerates, the velocity-
+time sketch for the accelerated motion will
+start from the point on the velocity axis
+corresponding to the initial velocity of the
+body.
+Example :
+
+(d)
+
+In Fig. 2.16, straight line AB
+
+represents the velocity-time graph of a car
+initially moving with velocity 10 m s“! and then
+with uniform acceleration. Its velocity at different
+instants is as given in 5] SEES table -
+
+S
+
+e
+
+5
+
+VELOCITY (ms™)
+
+TIME o—-
+Fig. 2.16 Velocity-time graph when the
+body is initially not at rest
+
+39
+
+
+--- Page 15 ---
+(1) Displacement ot the car in 5 second * ~
+Area of trapezium ABDO
+5 (OA + DB) x OD
+
+x (10 + 35) x 5
+
+x 45x 5 = 112-5 m
+
+Nl Nl
+
+(ii) Acceleration of the car = slope of the line AB
+Bc _ (35-10) ms”!
+
+~ CA — (S5-0)s
+-1
+= 25ms™ =5m s2.
+5s
+
+Case (3) : Consider the motion of a body
+released from a height to fall down vertically, initially
+from rest with velocity increasing uniformly for 5 s
+and acquiring the velocity 50 m s"!. Then after
+hitting the ground, it rises vertically upwards to the
+same height with velocity decreasing uniformly. In
+this case, the velocity-time graph is shown in
+Fig. 2.17 in which part AB shows the downward
+journey of body with positive velocity while part CD
+shows the upward journey with negative velocity
+(since the direction of motion has reversed).
+
+Y Downward motion
+50
+“ |
+tT 30
+= 20 1
+= 10
+E ; Time(ins)>
+> 0 x
+£ 10
+3
+DO
+>
+
+gees
+
+Upward motion
+
+Fig. 2.17 Velocity-time graph for free fall and
+the rise of a body
+(a) In part AB, acceleration = Slope of line AB
+50ms'-Oms™
+_ 50ms*-Oms” _ gms?
+5s
+In part CD, retardation = — Slope of line CD
+Oms -50ms"!
+(10-5)s
+
+(b) Total distance travelled in 10 s = area of triangle ABE
+
++ area of triangle CDE
+
+= 10 ms?
+
+i} 1
+= 2 x5sx50ms'+ 3 x5sx50ms"
+= 250m
+
+-- - Displacement in 10 s =0*(Zero). =~
+Since initial and final positions are same.
+
+Conclusions :
+
+(i) (a) For motion with a uniform velocity, the
+velocity-time graph is a straight line parallel
+to time axis. (b) If the velocity-time graph
+is a straight line inclined to the time axis,
+the motion is with uniform acceleration.
+(c) If the velocity-time graph is a curve, the
+motion is with non-uniform acceleration.
+
+The slope of the straight line (or the tangent
+to the curve at an instant) gives the
+acceleration at that instant. (a) The positive
+slope means velocity increasing with time
+i.e., accelerated motion. (b) The negative
+slope means velocity decreasing with time
+i.e., retardated motion and (c) the zero slope
+Knowing the acceleration (i.e., slope) at
+we can draw the acceleration-time graph.
+(iv) The area enclosed between the velocity-time
+sketch and the time axis for a certam time
+interval gives the displacement in that interval
+of time. The area above the time gives
+the positive displacement, while the area
+below the time axis gives the negative
+displacement.
+
+(ii)
+
+(iii)
+
+Knowing the distance (or displacement) in
+different time intervals from the velocity-time
+graph, we can draw the distance-time (or
+displacement-time) graph.
+
+2.8 ACCELERATION - TIME GRAPH
+
+In the acceleration-time graph, time is taken
+on X-axis and acceleration is taken on Y-axis. From
+this graph, we can find the change in speed in a
+certain interval of time. For linear motion,
+acceleration x time = change in speed, therefore
+from the area enclosed between the acceleration-
+time sketch and the time axis, we get the change in
+speed of the body for the given time interval.
+
+(v)
+
+Let us consider the following cases :
+
+Case (1) : If the body is stationary or if it is
+moving with a uniform velocity, the acceleration
+is zero. The acceleration-time graph in such a
+
+% 40
+
+
+--- Page 16 ---
+case is a straight line coinciding with the time
+axis (Fig 2.18).
+Y
+
+ACCELERATION —=
+
+x
+
+[e] TIME
+Fig. 2.18. Acceleration-time graph for motion
+with uniform velocity
+
+Case (2) : If the velocity of body in motion
+increases uniformly with time, the acceleration
+is constant (i.e., the motion is uniformly
+accelerated). In such a case, the acceleration-time
+graph is a straight line parallel to the time axis
+on the positive acceleration axis. In Fig. 2.19,
+the straight line PQ represents the acceleration-
+time graph of a body moving with a constant
+acceleration (= OP).
+
+Y
+z
+Sp Q
+<
+WwW
+-
+WwW
+8
+< x
+e) TIME ——>
+
+Fig. 2.19. Acceleration-time graph for
+uniform acceleration
+
+Case (3) : If the velocity of body decreases at
+a constant rate, the retardation is constant (i.e., the
+motion is uniformly retarded). The acceleration-
+time graph is a straight line parallel to the time
+axis on the negative acceleration axis. In Fig 2.20,
+the straight line PQ represents the acceleration-time
+
+5 Y
+Ee
+: |
+TT
+—_
+Ww
+5)
+<
+xX
+2 TIME ———>
+iS)
+=
+S
+a|P Q
+<
+by
+© -y
+Fig. 2.20. Acceleration-time graph for uniform retardation
+
+graph for a body moving with a constant
+retardation (= OP).
+
+Case (4) : If the velocity of body changes
+in an irregular manner, the acceleration is
+variable. The acceleration-time graph will then
+be a curve of any shape.
+
+2.9 MOTION UNDER GRAVITY
+
+A body falling freely under gravity moves with
+a uniform acceleration of 9-8 m s* (or nearly
+10 m s~*). For a body moving vertically upwards,
+there is a uniform retardation of 9-8 ms. Thus
+motion under gravity is an example of uniformly
+accelerated or uniformly retarded motion.
+
+Here we shall consider the motion of a freely
+falling body under gravity and we shall use the
+acceleration-time graph to obtain the velocity-
+time graph and the displacement-time graph. The
+acceleration-time graph for such a motion is a
+straight line parallel to the time axis.
+
+In Fig. 2.21, straight line AF represents the
+acceleration-time graph for a body falling freely
+(or moving) with uniform acceleration equal to
+10 m s~.
+
+Y
+< 20
+i‘ ,)
+= 45
+5
+& 10
+x
+ws
+i}
+Oo oO x
+< OO 1 2 3 4 §
+TIME (s) ——>
+
+Fig. 2.21 Acceleration-time graph for a
+Jreely falling body
+
+This graph can be used to obtain the
+velocity-time graph, by finding the area enclosed
+between the straight line and the time axis for
+each interval of time of 1 s. Let the initial
+velocity at t = 0 be zero, then
+
+Velocity after 1 s= Area OABP =10x1=10ms"'
+Velocity after 2s= Area OACQ = 10x2=20ms"
+Velocity after 3 s= Area OADR = 10x3=30ms"
+Velocity after 4s= Area OAES =10x4=40ms"'
+Velocity after 5 s= Area OAFT = 10x5=50ms"
+
+41
+
+
+--- Page 17 ---
+The velocity-time graph from the above
+data is shown in Fig. 2.22, which is a straight
+line OA inclined with the time axis and having
+a slope of 10 ms~* (which is equal to the
+acceleration of the body).
+
+Y
+| Ce ;
+i]
+7, 404------- eon ener e eee
+= 30]------------- 7
+t i]
+@ 20]--------7 B ‘
+g ‘
+
+uJ)
+> 10 '
+O ' LT i] x
+0 1 2 3 4 5
+TIME (s) ——>
+
+Fig. 2.22 Velocity-time graph for a freely falling body
+
+The velocity-time graph (Fig. 2.22) can be
+used to obtain the displacement-time graph
+by finding the area enclosed by the straight
+line OA with the time axis at each interval of
+time of 1 s.
+
+Displacement in 1 s= Area of A oap = > x1x10=S5m
+Displacement in 2 s = Area of A obq = 5 x2x 20 =20m
+Displacement in 3 s = Area of A ocr = 53x 30=45 m
+Displacement in 4 s = Area of A ods = 3x 4 x 40 = 80 m
+
+I
+Displacement in 5 s = Area of A oet = 3 5% 50= 125 m.
+
+The displacement-time graph from the above
+data is shown in Fig. 2.23 which is a curve OA
+(parabola).
+
+It may be noted that for a freely falling body,
+the displacement is directly proportional to the
+square of time (S « t). The table below represents
+
+DISPLACEMENT (m) —>
+
+(1
+i
+i
+'
+'
+1
+'
+'
+407 7777 TTT TTT \
+'
+1
+!
+5
+
+0 1 2 3 4
+TIME (s) ——>
+
+Fig. 2.23 Displacement-time graph for a
+freely falling body
+
+the square of time () and displacement (S) from
+the above data.
+
+Now a graph ploted by taking the displacement
+(S) on Y-axis and the square of time (#) on X-axis
+is a straight line OA as shown in Fig. 2.24 with
+
+80—20)ms” 60
+oom = PD ms t= Sms s?.
+The slope is half the acceleration due to gravity.
+Thus, the value of acceleration due to gravity (g)
+can be obtaned by doubling the slope of the
+
+S—f graph for a freely falling body.
+Y
+
+the slope =
+
+—
+=
+>
+o
+
+120
+
+8
+
+DISPLACEMENT (m)
+t2)
+°o
+
+‘
+’
+1
+'
+'
+'
+'
+1
+‘
+'
+’
+207 -- '
+’
+25
+
+Pr a) ae
+Square of time ($7) ——e
+Fig. 2.24 § - t* graph for a freely falling body
+
+1. The following table represents the distance of a
+car at different instants i ina fixed direction.
+
+(a) Draw displacement-time graph and with its
+help, find whether the motion of car is uniform
+
+or non-uniform?
+(b) Use graph to calculate :
+(i) the velocity of car
+(ii) the displacement of car at ¢ = 2-5 s and
+t=45s,
+(a) The displacement-time graph for the car is
+shown in Fig. 2.25. Since it is a straight line
+
+42
+
+
+--- Page 18 ---
+OA inclined with the time axis, so the motion
+of car is with uniform velocity.
+
+45 |
+~ a
+€
+= a
+tw 25 |
+Fa 7
+< 4
+a t
+2 1B
+a Oo 1+ 2253 4455 °° %
+TIME (s) ——>
+Fig. 2.25
+(b) (i) Velocity = Slope of the straight line OA
+BA (S0-0)m SOm 1
+= Op = (-0)s = 5s ~10ms
+
+(ii) From the graph, it is clear that at
+t = 2-5 s, displacement is 25 m and at
+t= 45s, displacement is 45 m.
+
+2. Fig 2.26 shows the displacement-time graph
+for the motion of two boys A and B along a
+straight road in the same direction.
+
+Y
+
+nN
+an
+
+(km) ——~
+a 8
+
+jacement
+—_
+°
+
+Disp!
+a
+
+4 5
+
+1 2 3
+Time (h)——
+
+Fig. 2.26
+Answer the following :
+(i) When did B start after A ?
+(ii) How far away was A from B when B
+started ?
+(iii) Which of the two has greater velocity ?
+(iv) When and where did B overtake A ?
+(i) B started his motion 2 h later from the
+start of A.
+(ii) When B started, A was at distance 10 km
+away from B.
+
+Gii) B has greater velocity than A since the
+straight line on graph for B has greater
+slope than that for A.
+
+3.
+
+(i)
+
+(il)
+
+(iii)
+
+(iv)
+
+VELOCITY (m 571) —»
+
+(iv) B overtook A at the instant when both
+were at the same place. This position is
+at the point where the two straight lines
+meet each other. For this point, distance
+from the starting point is 20 km and
+time is 4 h Thus B overtook A when A
+has travelled for 4 h (or B has travelled
+for 4 — 2 = 2 h) at distance 20 km from
+the starting point
+
+A car travels with a uniform velocity of
+20 m s* for 5 s. The brakes are then applied
+and the car is uniformly retarded. It comes
+to rest in further 8 s. Draw a graph of velocity
+against time. Use this graph to find :
+
+(i) the distance travelled in first 5 s,
+
+(ii) the distance travelled after the brakes
+are applied,
+
+(iii) total distance travelled, and
+
+(iv) acceleration during the first 5 s and
+last 8 s.
+
+The graph of velocity against time is shown in
+Fig. 2.27.
+
+Y
+
+nN
+
+[=]
+>
+les]
+
+= fo
+a oH
+
+Cc
+01234567 8 9 10111213 %
+TIME (s) ——>
+
+Fig. 2.27
+
+The distance travelled in first 5 s = area of rectangle
+OABD = OD x OA=5sx20ms! = 100m
+
+The distance travelled by car after the brakes are
+
+(e]
+
+1
+applied = area of ABDC = > * DC x DB
+
+1
+= 3 x (13 -5)s x 20 ms = 80 m.
+
+Total distance travelled
+= area of rectangle OABD + area of triangle BDC
+= 100 + 80 = 180 m
+Acceleration in the first 5 s (in part AB) = 0
+(since straight line AB is parallel to the time axis,
+so slope = 0).
+Acceleration in the last 8 s (in part BC)
+= Slope of the line BC
+BD (0-20) ms"! —20ms
+=pe~ (13-5)s ~ 8s
+=-25 ms?
+
+
+--- Page 19 ---
+or Final velocity
+
+Since acceleration is negative, so retardation
+=2:5 ms.
+
+A train starts from rest and accelerates
+uniformly at 100 m minute~ for 10 minutes.
+Find the velocity acquired by the train. It then
+maintains a constant velocity for 20 minutes.
+The brakes are then applied and the train is
+uniformly retarded. It comes to rest in
+5 minutes. Draw a velocity-time graph and use
+it to find :
+
+(i) the retardation in the last 5 minutes,
+
+(ii) total distance travelled, and
+(iii) the average velocity of the train.
+
+Initial velocity = 0, time interval = 10 minute,
+acceleration = 100 m minute~.
+
+Final velocity — Initial velocity
+
+Acceleration
+Time interval
+
+Final velocity - 0
+
+Time interval
+acceleration x time interval
+
+100 m minute~ x 10 minute
+1000 m minute!
+The final velocity acquired = 1000 m minute™!.
+
+The velocity-time graph is shown in Fig 2.28.
+Y
+
+8
+i=)
+
+8
+
+VELOCITY (m / minute) —~
+
+[e)
+0 10 20 30 40
+TIME (minutes) ——»
+Fig. 2.28
+
+(i) Retardation in the last 5 minutes
+
+= — Slope of the line BC.
+BE (0 - 1000) m minute!
+EC (35 — 30) minute
+
+1
+= 200 m minute
+
+— 1000 m minute™
+5 minute
+
+(ii) Total distance travelled
+' = Area of trapezium OABC
+
+5 (OC + AB) x AD
+
+; (35 + 20) minute x 1000 m minute~!
+= 55 x 500m
+= 27500 n m (or 27°5 km).
+
+: : “ae
+
+(iii) Average velocity =
+
+(i)
+
+Total distance travelled
+
+Total time of travel
+
+27500
+= 2 = 785-7 m minute.
+35 minute
+
+A stone is thrown vertically upwards with an
+initial velocity of 40 m s~!. Taking g = 10 ms,
+draw the velocity-time graph of the motion of
+stone till it comes back on the ground.
+
+(i) Use graph to find the maximum height
+reached by the stone.
+
+(ii) What is the net displacement and total
+distance covered by the stone ?
+
+Given, u=40 ms, g=10ms7”.
+
+As the stone rises up, the velocity decreases at
+the rate of 10 m s~. When the velocity becomes
+zero, the stone is at its highest position. Then it
+begins to fall and its velocity increases at a rate
+of 10 m s~. The velocity of stone at different
+instants is shown in the following table (the
+upward direction is taken —
+
+44
+
+(ii)
+
+Fig. 2.29
+
+Maximum height reached by the stone
+= Area of A OAB
+
+5 OB x OA
+
+1
+3 x 4sx40 ms? = 80m.
+
+Net displacement
+= Area of A OAB — Area of A BDC
+
+= 5 OB x OA - > BD x DC
+
+1
+=(5 x4sx40ms!)—(5 x4sx40ms)=0
+
+
+--- Page 20 ---
+Total distance covered
+
+= Area of A OAB + Area of A BDC
+= 80 m+ 80 m= 160m
+
+6. Acar starting from rest, accelerates at a rate
+of 2 m s~ for 5 s. For this journey, (a) draw
+the velocity-time graph (b) draw the
+displacement-time graph using the velocity-
+time graph in part (a).
+
+Given, u=0, a=2ms~.
+
+The velocity of car at different instants is given
+in the table below :
+
+(a)
+
+oe
+
+>
+i
+1
+i)
+i)
+
+Velocity (in m s-1) —>
+
+x
+
+Fig. 2.30 Velocity-time graph
+
+(b) From Fig. 2.30, the displacement of car at
+any instant can be obtained by finding the
+area enclosed by the straight line with the time
+axis up to that instant.
+
+At t= 1s, displacement S = ; x1lx2=Im
+
+At t= 2s, displacement S = ; x2x4=4m
+
+At t=3s, displacement S = ; x3x6=9m
+
+Atr=4 s, displacement $= > x4x8=16m
+1
+
+Att=5 s, displacement S = 2 x5x10=25m
+
+The table below gives the displacement of car
+at different instants.
+
+The displacement-time graph is shown in
+Fig. 2.31.
+
+45
+
+%
+a
+<
+
+8
+
+=-_ =
+o nN
+
+a
+
+Displacement (in metre) ——p»
+
+X
+
+Powe
+
+3
+Time (a second) a
+Fig. 2.31 Displacement-time graph
+
+7. The following table represents the velocity
+of a moving body at different instants of time.
+
+Draw the velocity-time graph and answer the
+following :
+
+(i) For which interval of time the body has a
+uniform motion ? Find the velocity in this
+time interval?
+
+(ii) For which interval of time the body has
+
+the accelerated motion ? Calculate the
+
+acceleration.
+
+(iii)
+
+For which interval of time, the body has
+retardation ? Calculate the retardation.
+
+The velocity—time graph is shown in Fig. 2.32.
+
+Y
+t
+=~ 30
+a
+E 20
+is
+® 10 \
+J) i}
+Ww i}
+>
+0 5 10 15 20 25 30 x
+TIME (s) >
+Fig. 2.32
+
+(i) The body has uniform motion from ¢ = 10 s
+to ¢ = 15 s in part be since velocity is constant
+and is equal to 20 m s~! during this interval.
+
+(ii) The body has the accelerated motion from
+
+t=0s tot = 10s in part ab, and also from
+
+t= 15s to ¢ = 20s in part cd since velocity is
+increasing with time during these intervals.
+
+From t = 0 to = 10 s, in part ab
+
+Acceleration a = Slope of the straight line ab
+
+(20-10) ms"! _ 10ms7!
+="“"(0-0)s «10s =1ms?
+
+
+
+--- Page 21 ---
+From t = 15 s to t = 20 s, in part cd (iii) The body has retardation from t= 20 s tot = 30s,
+
+Acceleration a’ = Slope of the line cd in part de.
+; ' Retardation = — Slope of the line de
+_ (30-20)ms - 10ms =2ms? (0-30)ms"! - -30ms"_ -
+(20-15)s 5s -"0-20)s 70s. > m
+
+1. For the motion with uniform velocity, how is the
+distance travelled related to the time ?.
+
+Ans. Distance is directly proportional to time.
+What informations about the motion of a
+body are obtained from the displacement—time
+
+8. State the type of motion represented by the
+following sketches in Fig. 2.34 (a) and (b).
+Y Y
+
+graph ?
+
+(a) What does the slope of a displacement—time
+
+graph represent ?
+(b) Can displacement—time sketch be parallel to
+the displacement axis ? Give reason to your
+
+VELOCITY —
+
+“
+
+TIME —>
+(a)
+
+VELOCITY —
+
+x TIME —>
+
+Fig. 2.34 (b)
+
+answer. Give example of each type of motion.
+4. What can you say about the nature of motion of | Ans. (a) Uniformly accelerated motion e.g. motion
+a body if its displacement—time graph is of a body released downward.
+(a) a straight line parallel to time axis ? (b) Motion with a variable retardation e.g. a
+an acute angle ? oo .
+(c) a straight line inclined to the time axis with | ° D®w 4 velocity-time graph for a body moving
+9 with an initial velocity u and uniform
+an obtuse angle 7 acceleration a. Use this graph to find the
+(d) a curve. distance travelled by the body in time t.
+Ans. (a) body is stationary (or no motion), oo,
+(b) motion away from the starting point 10. What does the slope of velocity-time graph
+with uniform velocity (c) motion towards represent ? Ans. Acceleration
+the starting point with uniform velocity | 11. Fig 2.35 shows the velocity-time graph for two
+(d) motion with variable velocity. cars A and B moving in same direction. Which
+5. Draw a displacement-time graph for a boy going car has the greater acceleration ? Give reason
+to school with a uniform velocity. to your answer.
+6. State how the velocity-time graph can be used to Y
+find (i) the acceleration of a body, (ii) the distance 8
+travelled by the body in a given time, and a
+(iii) the displacement of the body in a given time. 8 A
+7. Fig. 2.33 shows displacement-time graph of w
+two vehicles A and B moving along a straight road. La
+Which vehicle is moving faster ? Give reason.
+| t A TIME ——~> *
+= Fig. 2.35 Ans. B
+: 8 Reason : Slope of straight line for car B is more
+2 than that of line A.
+& x 12. Fig. 2.36 shows the displacement—time graph for
+TIME (s) —+ four bodies A, B, C and D. In each case state
+Fig. 2.33 Ans. Vehicle A what information do you get about the
+Reason : Slope of line A is more than that of line B. acceleration (zero, positive or negative).
+
+
+--- Page 22 ---
+t—> t—_>
+t ¢ t} 2°
+Ss S
+t—> t—>
+Fig. 2.36
+Ans. A : Zero acceleration since slope
+
+(i.e., velocity) is constant, B : zero acceleration
+since slope is constant, C : negative acceleration
+(or retardation) since slope is decreasing with
+time, D : positive acceleration since slope is
+increasing with time.
+
+13. Draw the shape of the velocity-time graph
+for a body moving with (a) uniform velocity,
+(b) uniform acceleration.
+
+14. The velocity-time graph for a uniformly retarded
+body is a straight line inclined to the time axis with
+an obtuse angle. How is retardation calculated from
+the velocity-time graph ?
+
+Ans. By finding the negative slope.
+
+15. Draw a graph for acceleration against time for a
+uniformly accelerated motion. How can it be
+used to find the change in speed in a certain
+interval of time ?
+
+16. Draw a velocity-time graph for the free fall of
+a body under gravity, starting from rest. Take
+g=10ms~.
+
+17. How is the distance related with time for the
+motion under uniform acceleration such as the
+motion of a freely falling body? Ans. S « 7?
+
+18. A body falls freely from a certain height. Show
+graphically the relation between the distance
+fallen and square of time. How will you
+determine g from this graph ?
+
+Multiple choice type :
+
+1. The velocity-time graph of a body in motion is a
+straight line inclined to the time axis. The correct
+statement is :
+
+(a) velocity is uniform
+
+(b) acceleration is uniform
+
+(c) both velocity and acceleration are uniform
+
+(d) neither velocity nor acceleration is uniform.
+Ans. (b) acceleration is uniform.
+
+2. For uniform motion :
+
+(a) the distance-time graph is a straight line
+parallel to the time axis.
+
+(b) the speed-time graph is a straight line
+inclined to the time axis.
+
+(c) the speed-time graph is a straight line parallel
+
+to the time axis.
+
+(d) the acceleration-time graph is a straight line
+parallel to the time axis.
+
+Ans. (c) the speed-time graph is a straight line
+
+parallel to the time axis.
+
+3. Fora uniformly retarded motion, the velocity-time
+graph is :
+
+(a) a curve
+
+(b) a straight line parallel to the time axis
+
+(c) a straight line perpendicular to the time axis.
+
+(d) a straight line inclined to the time axis.
+
+Ans. (d) a straight line inclined to the time axis
+Numericals :
+
+1. Fig. 2.37 (a) shows the displacement-time graph
+for the motion of a body. Use it to calculate the
+velocity of body at t= 1 s, 2 s and 3 s, then draw
+the velocity-time graph for it in Fig. (b).
+
+1° 14
+
+E 6 % 3
+
+onal
+
+a 4 wae
+
+= F
+
+©O 2 8 1
+
+s ba
+
+5 5 0
+
+5 1 2 3 4 12 3 4
+TIME (s) —» TIME (s) —>
+
+(a) Fig. 2.37 (b)
+
+2. Following table gives the displacement of a car
+at different instants of time.
+ae =—— Taate ST  eee . 3G!
+
+(a) Draw the displacement—time sketch and find
+the average velocity of car.
+(b) What will be the displacement of car at
+(i) 2-5 s and (ii) 4-5 s ?
+Ans. (a) 5 m s7, (b) (i) 12-5 m, (ii) 22-5 m.
+
+3. A body is moving in a straight line and its
+displacement at various instants of time is given
+in the following table :
+
+,
+
+Plot displacement—time graph and calculate :
+(i) total distance travelled in interval 1 s to 5 s,
+(ii) average velocity in time interval I s to 5 s.
+
+Ans, (i) 12 m (ii) 3 ms!
+
+ke 7"
+
+
+
+--- Page 23 ---
+4. Fig. 2.38 shows the displacement of a body at
+different times.
+Y €
+=
+E =
+: ! a
+ii ' ~
+is D
+< ° TIME (hy) ——>
+o Fig. 2.40
+oo 123 45 67 8 9 10 (iv) the distance from start when the car A will
+TIME (s) ——-> catch the car B.
+Fig. 2.38 Ans. (i) 40 km, (ii) A— 40 km h-!, B— 20 km h7!
+
+(iii) 2h, (iv) 80 km.
+
+it moves for time interval (i) 0 to 5 s,| / ‘ body at rest is made to fall from the top of a
+
+(ii) 5s to 7s and (iii) 7s to9 s tower. Its displacement at different instants is
+, given in the following table :
+
+(b) Calculate th locity during th
+Calculate the average velocity during the | [ Time as) [01 [02 [03 [04 [os [os |
+Displacement én m | 005 [0.20045 J 0-80] 125 |1-80 |
+
+[Hint : From 5 s to 9 s, displacement - -
+=7m-3m=4nm] Draw a displacement—time graph and state
+Ans. (a) (i) 0-6 m s*, (i) 0 m s!, (iii) 2 ms whether the motion is uniform or non-uniform ?
+"ae ms) Gyms", Gu) £m S"> | 8. Fig. 2.41 (a) shows the velocity-time graph for
+
+(a) Calculate the velocity of the body as
+
+-1
+(b) 1 ms the motion of a body. Use it to find the
+5. From the displacement—time graph of a cyclist, displacement of the body at r= 1 s, 2s, 3's
+given in Fig. 2.39, find : and 4 s, then draw the displacement—time graph
+
+(i) the average velocity in the first 4 s, for it on Fig. 2.41 (6).
+
+8
+(ii) the displacement from the initial position at t t
+the end of 10 s, ‘9 E6
+(iii) the time after which he reaches the starting E Z 4
+point. E a
+8 1 O 2
+a =
+7 O12 3 4 2 o1 2 3 4
+= TIME (s) —> TIME (s) —»
+E (a) Fig. 2.41 (b)
+= 9. Fig. 2.42 given below shows a velocity—time
+2 graph for a car starting from rest. The graph
+a. has three parts AB, BC and CD.
+2 Y
+7 B Cc
+Fig. 2.39 2 Vo
+Ans. (i) 2:5 m s+, (ii) -10 m, (iii) 7s and 13 s. >
+6. Fig. 2.40 ahead represents the displacement—time g b
+sketch of motion of two cars A and B. Find : > Of 7 St x
+(i) the distance by which the car B was TIME ——>
+initially ahead of car A. Fig. 2.42
+(ii) the velocities of car A and car B. (i) State how is the distance travelled in any
+
+part determined from this graph.
+(ii) Compare the distance travelled in part BC
+with the distance travelled in part AB.
+
+(iii) the time in which the car A catches the
+car B.
+
+48
+
+
+--- Page 24 ---
+(ul) Wich * partor™grapr' snows 'ntotton '| ** ‘* At f= O's, ie’ ball nty a‘waill' 4nd comes back
+
+with uniform (a) velocity (b) acceleration
+(c) retardation ?
+—&) (a) Is the magnitude of acceleration higher
+or lower than that of retardation ? Give a
+reason. (b) Compare the magnitude of
+acceleration and retardation.
+By finding the area enclosed by the graph
+in that part with the time axis (ii) 2: 1
+(iii) (a) BC (b) AB (c) CD (iv) (a) lower, as
+slope of line AB is less than that of the
+line CD, (b) 1:2
+10. The velocity-time graph of a moving body is
+given below in Fig. 2.43.
+
+Ans. (i)
+
++ 40
+
+an
+
+=
+
+is
+
+Ww
+
+>
+TIME (s) —»
+Fig. 2.43
+
+Find :
+(a) the acceleration in parts AB, BC and CD.
+(ii) displacement in each part AB, BC, CD, and
+(iii) total displacement.
+Ans. (i) AB : 7-5 ms*, BC:0 ms, CD: -
+(ii) AB : 60 m, BC : 120 m, CD
+
+15 ms2
+: 30m (iii) 210 m
+
+11. A ball moves on a smooth floor in a straight
+line with a uniform velocity 10 m s“ for 6 s.
+
+along the same line to the starting point with
+same speed. Draw the velocity-time graph and
+use it to find the total distance travelled by the
+ball and its displacement.
+
+Ans. Distance = 120 m, displacement = 0.
+
+12. Fig. 2.44 shows the velocity-time graph of a
+particle moving in a straight line.
+(i) State the nature of motion of particle.
+(ii) Find the displacement of particle at
+t=6s.
+(iii) Does the particle change its direction of
+motion ?
+(iv) Compare the distance travelled by the
+particle from 0 to 4s and from 4s to 6s.
+(v) Find the acceleration from 0 to 4 s and
+retardation from 4 s to 6 s.
+
+Y
+
+nN
+
+VELOCITY (m s~'!) —>
+
+to]
+
+123 4 5 6
+TIME (s) —>
+
+Fig. 2.44
+
+Ans. (i) Uniformly accelerated from 0 to 4 s and
+then uniformly retarded from 4 s to 6 s.
+
+(ii) 6 m (iii) No, (iv) 2: 1
+
+(v) acceleration = 0-5 m s~, retardation = 1 m s~.
+
+(C) EQUATIONS OF MOTION
+
+2.9 EQUATIONS OF UNIFORMLY
+ACCELERATED MOTION
+
+For motion of a body moving with a uniform
+acceleration, the following three equations give
+the relationship between initial velocity (u), final
+velocity (v), acceleration (a), time of journey (¢)
+and distance travelled (S) :
+
+(1) v=urtat
+(2) S= ; (u+v)t=ut+ ; at and ...(2.8)
+
+(3) w= u? + 2aS
+
+49
+
+Derivation
+(1) Graphical method (from velocity-time
+graph)
+
+Consider the linear motion of a body with
+an initial velocity u. The body accelerates
+uniformly and in time ¢, it acquires the final
+velocity v. The velocity-time graph is a straight
+line AB as shown in Fig. 2.45.
+
+It is evident from the graph that
+Initial velocity (att=0) = OA=u
+Final velocity (at time 1) = OC =v
+
+
+--- Page 25 ---
+Y . _ Changé€in velocity
+Acceleration = “Time taken
+7 fe. _ Final velocity — Initial velocity
+— y ~ Time taken
+cE. or a= —
+g u or at=v-u
+> x or v=urtat (1)
+° TIME ) —- (ii) Distance travelled = Average velocity x time
+Fig. 2.45 Graph showing the linear motion = [inal aetocty + inal low) x time
+with uniform acceleration 2
+(i) Acceleration a = Slope of the line AB or S= ~~ xt
+or But from eqn. (1), v =u + at
+or _ iu +(u+t at)
+or : 2
+or S= (mea) xt
+(ii) The distance S$ travelled in time f 2
+= area of the trapezium OABD or S=ut+ ; at (2)
+~ aa ot rectangle OAED + area of triangle (iii) Distance travelled = Average velocity x time
+uty
+or S= OAx OD + = x BEX AE or S= xt
+But fr .(1), v=utat
+= uxt+s x(v-u)xt (2.10) Butfromean.(), v=uta
+But from eqn (2.9), v—u=at or r= a ;
+; 2
+. From egn. (2.10), . go MY, Mee
+ak aE 2 a 2a
+s (QM) OF v— wv? = 2aS
+or v= uv +2aS ..(3)
+(iii) The distance S travelled in time ¢ Equations (1), (2) and (3) are same as the
+= area of the trapezium OABD equations (2.9), (2.11) and (2.13).
+or S = + (OA + DB)x OD Special cases
+1 (a) When a body starts from rest, initial velocity
+or =F (utv)xt we (2.12) is zero (u = 0), then
+From eqn. (2.9), f= — @ vis a
+(ii) S = > at ...(2.14)
+
+From eqn (2.12),
+
+; yew) 1b (iii) v? = 2as
+S= Z(u+v)x|——]=> , oo , ,
+
+2 a 2| a (b) Ifa body is moving with a uniform retardation,
+
+o 2aS=Vv-wv a will be negative. The equations of motion
+th the form :
+or (2.13) en take the form
+(i) v = u-at
+
+2) Alt ti thod
+(2) Alternative me Gi) S = ut-> ar (2.15)
+
+(i) By definition,
+
+(iii) v? = uw—2aS
+50
+
+
+--- Page 26 ---
+1. A car acquires a velocity of 72 km h7 in
+10 s starting from rest. Calculate :
+\ (i) the acceleration,
+(ii) the average velocity, and
+(iii) the distance travelled in this time.
+Given, initial velocity u = 0
+Final velocity v = 72 km h7!
+_ 72x1000m oy gt
+~  60x60s
+Time taken t = 10s
+Vu
+t
+(20-0) ms"!
+
+= = 2ms?
+10s
+
+u+v
+
+2
+
+0+ 20
+= ms!=10ms"!
+
+(i) Acceleration a
+
+(ii) Average velocity =
+
+(iii) Distance travelled S = average velocity x time
+(10 m s~!) x (10 s)
+= 100m
+
+Alternative method :
+Distance travelled S = ut + ; at
+
+0+> x 2 x (10)?
+100 m
+
+2. A ball is initially moving with a velocity
+0-5 m s“!. Its velocity decreases at a rate of
+0-05 m s~. (a) How much time will it take to
+stop ? (b) How much distance will the ball
+travel before it stops ?
+
+Given, initial velocity u = 0-5 m s~!, final velocity
+v= 0, acceleration a = — 0-05 m s~* (Here negative
+sign is used since velocity decreases with time).
+
+(a) From equation of motion v = u + at
+0 = 05~-0-05 xt
+
+or 0-05r = 0-5
+3 10
+or ~ 005°
+
+(b) From equation of motion v? = u? + 2a S$
+0 = (0-5)?-2x0-05x S
+0-25
+or 0-15 = 0-25 or $=, =25m
+
+3. A body initially at rest travels a distance 100 m
+in 5 s with a constant acceleration. Calculate :
+
+(i) the acceleration, and (ii) the final velocity at
+the end of 5s.
+
+Given, initial velocity u = 0, distance S = 100 m,
+time taken t= 5s.
+
+1
+(i) From equation of motion S = ut + 3 at?
+
+100=0x5+4 > xax (5)
+
+or 100 = ; x 25a
+or Acceleration a = = 2 =8ms?
+
+(ii) From equation of motion v = u + at
+Final velocity v=0+8x5=40ms".
+
+4. A car initially at rest starts moving with a
+constant acceleration of 0-5 m s~ and travels
+
+a distance of 25 m. Find : (i) its final velocity
+and (ii) the time taken.
+
+Given, initial velocity u = 0,
+acceleration a = 0-5 m s?
+distance travelled S = 25 m.
+
+(i) From equation of motion v* = u? + 2aS
+
+v? = (0)?7+2x0-5 x 25
+or v2 = 25
+
+J25 =Sms"
+
+(ii) From equation of motion v = u + at
+$=0+05xt or 05t=5
+
+or Final velocity vy =
+
+5
+Time taken t 05 10s
+
+5. A body moving with uniform acceleration
+travels 84 m in the first 6 s and 180 m in the
+next 5 s. Find : (a) the initial velocity, and
+(b) the acceleration of the body.
+
+Let u be the initial velocity and a be the
+acceleration of the body.
+
+Given, S, = 84 m, t=6s,
+S, = 84 + 180 = 264 m and 4, =6+5=115
+
+1
+From relation § = ut + ry at?
+
+Distance travelled in 6 s,
+84= ux6+ Fax (6
+or 6u + 18a = 84 or u + 3a = 14 see (1)
+Distance travelled in 11 s,
+264 = ux ill + 5 ax(l
+
+1)?
+
+
+--- Page 27 ---
+121 zy ..
+or llu+ “> 2 = 264 or u + 774 wee (ii)
+
+On solving eqns. (i) and (ii),
+"Initial velocity of body u = 2m s7
+and acceleration a = 4m s~,
+6. A body with an initial velocity of 18 km h"!
+
+accelerates uniformly at the rate of 9 cm s~?
+over a distance of 200 m. Calculate :
+(i) the acceleration in m s~?.
+
+(ii) its final velocity in ms“.
+
+(i) Acceleration = 9 cm s? = a ms?
+
+= 0-09 ms?
+(ii) Given, initial velocity u = 18 km h"!
+
+Acceleration a = 0:09 m s~ and distance S = 200 m
+From equation of motion v* = u? + 2aS
+v? = (5)? +2 x 0-09 x 200
+or v? = 25+ 36=61
+Final velocity v= /61 =7-81 ms”.
+
+7. A particle initially at rest, moves with an
+acceleration 5 m s~ for 5 s. Find the distance
+travelled in (a) 4s, (b) 5s and (c) 5" second.
+
+Given, initial velocity u = 0,
+acceleration a = 5 m s~2
+
+(a) Distance travelled in t = 4 s,
+1
+S, =ut+ ja a0x4+ > x5 x (4)?
+= 40m
+(b) Distance travelled in t = 5 s,
+1 1
+- 72 = 2
+S, = ut+ ar =OXxS+ 5 x5 x (5)
+= 625m
+
+(c) Distance travelled in 5“ second,
+= Distance travelled in 5 s— Distance travelled
+in4s
+= §,-S, = (625-40) m= 225 m
+8. A particle starts to move in a straight line from
+a point with velocity 10 ms“! and acceleration
+— 2-0 m s~*. Find the position and velocity of the
+particle at ()¢=5s, (ii) t= 10s.
+Given, u=10ms',a=-20ms
+(i) Displacement at ¢ = 5 s is
+
+S=ut+~aP
+
+2
+= 10x5+ ; x (— 2-0) x (5)?
+= 50-25=25m
+ie., after 5 s, the particle will be at distance
+25 m from the starting point.
+Velocity at r= 5 s is
+v=utat
+or v = 10+(-20)x5=0
+
+i.e., the particle is momentarily at rest at f= 5 s.
+
+(ii) Displacement at 1’ = 10 s is
+
+1
+S’ = ut'+> af?
+
+10x 10+ : x (—2-0) x (10)?
+
+100 — 100 = 0 (zero)
+
+i.e., after 10 s, the particle has come back to
+the starting point.
+
+Velocity at f = 10s is
+
+v=utar
+or vy = 10+(-2-:0)x 10
+= -10ms".
+
+i.e., velocity is 10 m s~! towards the starting
+point (i.e., opposite to the initial direction of
+motion).
+
+1. Write three equations of uniformly accelerated
+motion relating the initial velocity (u), final velocity
+(v), time (#), acceleration (a) and displacement (5).
+2. Derive following equations for a uniformly
+accelerated motion :
+(i) v=utat
+
+52
+
+(ii) S = w+ > aP
+
+(iii) ve = u? + 2aS
+where the symbols have their usual meanings.
+
+3. Write an expression for the distance S covered
+in time t by a body which is initially at
+
+
+--- Page 28 ---
+rest and starts moving with a constant |
+
+acceleration a.
+
+1
+Ans. § = 2 at?
+
+Multiple choice type :
+
+1.
+
+The correct equation of motion is :
+(a) v=utaS (b) v=utt+a
+
+|
+Z at
+
+(c) S=ut+ 5
+
+(d) v=u+at
+
+Ans. (d) v =u + at
+A car starting from rest accelerates uniformly to
+acquire a speed 20 km h- in 30 min. The
+distance travelled by car in this time interval will
+be:
+(a) 600 km
+(c) 6km
+
+(b) 5 km
+(d) 10km Ans. (b) 5 km
+
+Numericals :
+
+1.
+
+A body starts from rest with a uniform
+acceleration 2 m s~’. Find the distance covered
+by the body in 2 s. Ans. 4m
+
+A body starts with an initial velocity of 10 m s"!
+and acceleration 5 m s~*. Find the distance
+covered by it in 5 s. Ans. 112-5 m
+A vehicle is accelerating on a straight road. Its
+velocity at any instant is 30 km h”', after
+2 s, it is 33-6 km hr! and after further 2 s, it is
+37-2 km h-'. Find the acceleration of vehicle in
+m s~. Is the acceleration uniform ?
+
+Ans. 0-5 m s~, Yes
+A body, initially at rest, starts moving with a
+constant acceleration 2 m s~*. Calculate : (i) the
+velocity acquired and (ii) the distance travelled
+in 5s. Ans. (i) 10 m s~', (ii) 25 m
+
+. A bullet initially moving with a velocity 20 m s”!
+
+strikes a target and comes to rest after penetrating
+a distance 10 cm in the target. Calculate the
+retardation caused by the target.
+Ans. 2000 m s*
+A train moving with a velocity of 20 m sq! is
+brought to rest by applying brakes in 5 s.
+Calculate the retardation. Ans. 4 m s~
+A train travels with a speed of 60 km hr"! from
+station A to station B and then comes back with
+a speed 80 km hr! from station B to station A.
+Find : (i) the average speed, and (ii) the average
+velocity of train.
+Ans. (i) 68-57 km hv!, (ii) zero
+A train is moving with a velocity of 90 km h-!.
+It is brought to stop by applying the brakes
+
+10.
+
+which produce a retdraation of 0-5 m s~*.
+
+Find : (i) the velocity after 10 s, and (ii) the
+time taken by the train to come to rest.
+Ans. (i) 20 m s7!, (ii) 50 s
+
+A car travels a distance 100 m with a constant
+acceleration and average velocity of 20 m s~!. The
+final velocity acquired by the car is 25 m s"!.
+Find : (i) the initial velocity and (ii) acceleration
+of car. Ans. (i) 15 ms-! (ii) 2 ms?
+When brakes are applied to a bus, the retardation
+produced is 25 cm s~ and the bus takes 20 s to
+stop. Calculate : (i) the initial velocity of bus,
+and (ii) the distance travelled by bus during this
+time. Ans. (i) 5 m s7, (ii) 50 m
+
+A body moves from rest with a uniform
+acceleration and travels 270 m in 3 s. Find the
+velocity of the body at 10 s after the start.
+Ans. 600 m s™!
+A body moving with a constant acceleration
+travels the distances 3 m and 8 m respectively
+in t s and 2 s. Calculate : (i) the initial velocity,
+and (ii) the acceleration of body.
+Ans. (i) 2 ms“, (ii) 2 m s*
+A car travels with a uniform velocity of 25 m s"!
+for 5 s. The brakes are then applied and the car
+is uniformly retarded and comes to rest in
+further 10 s. Find : (i) the distance which the
+car travels before the brakes are applied, (ii) the
+retardation, and (iii) the distance travelled by
+the car after applying the brakes.
+Ans. (i) 125 m, (ii) 2-5 m s~, (iii) 125 m
+A space craft flying in a straight course with a
+velocity of 75 km s"! fires its rocket motors
+for 6-0 s. At the end of this time, its speed is
+120 km s~ in the same direction. Find : (i) the
+space craft's average acceleration while the
+motors were firing, (ii) the distance travelled by
+the space craft in the first 10 s after the rocket
+motors were started, the motors having been in
+action for only 6-0 s.
+Ans. (i) 7-5 km s~, (ii) 1065 km
+A train starts from rest and accelerates uniformly
+at a rate of 2 m s~* for 10 s. It then maintains a
+constant speed for 200 s. The brakes are then
+applied and the train is uniformly retarded and
+comes to rest in 50 s. Find : (i) the maximum
+velocity reached, (ii) the retardation in the last
+50 s, (iii) the total distance travelled, and
+(iv) the average velocity of the train.
+Ans. (i) 20 ms“, (ii) 0-4 m s%,
+(iti) 4600 m, (iv) 17-69 ms

@@ -1,0 +1,2003 @@
+
+
+--- Page 1 ---
+THE LANGUAGE OF CHEMISTRY
+
+SYLLABUS
+
+(i) Symbol of an element; valency; formulae of radicals and formulae of compounds. Balancing of simple
+
+chemical equations.
+
+¢ Symbol ~ definition; symbols of the elements used often.
+¢ Valency — definition; hydrogen combination and number of valence electrons of the metals and non-
+
+metals; mono, di, tri and tetra valent elements.
+
+¢ Radicals — definition; formulae and valencies
+
+* Compounds — name and formulae.
+
+¢ Chemical equation ~— definition and examples of chemical equations with one reactant and two or three
+products, two reactants and one product, two reactants and two products and two reactants and three
+or four products; balancing of equations. (by hit and trial method).
+
+Relative Atomic Masses (atomic weights) and Relative Molecular Masses (molecular weights): either —
+
+standard H atom or 1/12th of carbon 12 atom.
+
+* Definitions
+
+* Calculation of Relative Molecular Mass and percentage composition of a compound.
+
+1.1 INTRODUCTION
+
+Chemistry is a branch of science in which we
+study about matter, i.e. what is matter made up of,
+what is its nature, structure and what changes are
+observed when it is subjected to different conditions.
+
+Many theories were proposed regarding matter
+which helped us to discover the real essence of matter,
+i.e, matter is nothing but a complex relationship between
+elements. An element is a simple and pure form of matter
+which cannot be decomposed into simpler substances.
+All elements are made of atoms, the smallest particles of
+an element which represent all the properties of an
+element. A set of atoms of the same type together form
+the molecule of the element. Molecules can be
+monoatomic, diatomic and even polyatomic.
+
+Monoatomic molecules — elements having only one atom
+in their molecules, e.g. helium, neon and other inert gas
+molecules.
+
+Diatomic molecules — elements having two atoms in their
+molecules, e.g. hydrogen (H,), Oxygen (03),
+Nitrogen (N3).
+
+Tetratomic molecules — elements having four atoms in
+their molecules, e.g. phosphorus (P,).
+
+Octatomic molecules — elements having eight atoms in
+their molecules, e.g. sulphur (Sg).
+
+Thus, we can say that a molecule is the smallest
+particle that has capability to exist independently. The
+molecule of an element exhibits all the properties of that
+element.
+
+When atoms or molecules of different elements
+combine, they form the molecule of a compound. To name
+a few, sodium chloride (NaCl), water (HO), ammonia
+(NH) are molecules of compounds.
+
+The names of elements and compounds are
+abreviated by using certain symbols and formulae.
+
+Before 1600 A.D., alchemists tried to represent
+the substances that they used for their experiments by
+different kinds of pictographic symbols, such as a
+triangle for the earth, a crescent for silver, etc. Dalton
+used some other types of symbols to represent
+elements, such as a circle [OD] for an oxygen atom, a
+circle with a dot in its centre [©] for hydrogen, etc.
+
+Later, Johann Berzelius suggested that the initial
+letter of an element written in capitals should represent
+that particular element, such as O for oxygen, H for
+hydrogen, C for carbon, and so on. But in some cases,
+the suggested symbol did not agree with the English
+name of the element. This was because some of the
+symbols were based on the Latin names of the
+elements, as shown in Table 1.1.
+
+enoanacannnnnententsannwnrnnnnernraranarenannennnemnenf | By
+
+
+--- Page 2 ---
+Table 1.1 : Symbols of certain elements based
+on their Latin names
+
+Gold Aurum
+Silver Argentum
+Mercury Hydrargyrum
+
+. Copper Cuprum
+. Lead Plumbum
+
+Iron Ferrum
+Sodium Natrium
+Potassium Kalium
+Tin Stannum
+Antimony Stibium
+Tungsten Wolfram
+
+However, the method suggested by him laid the
+basis of the IUPAC (International Union of Pure and
+Applied Chemistry) system of chemical symbols and
+formulae.
+
+1.2 CHEMICAL SYMBOLS
+
+A symbol is the short form that stands for the
+atom of a specific element or the abbreviations used
+for the names of elements.
+
+Each element is denoted by a symbol,
+which is usually the first letter of its name in English
+or Latin, written in capital.
+
+Example : Sulphur, an element, is denoted by
+the symbol ‘S’. Similarly, hydrogen is denoted by
+the symbol ‘H’.
+
+However, when the first letter of more than one
+element is the same, the elements are denoted by
+two letters. The first letter is written in capital, while
+the second one is written in small.
+
+Example : Carbon, cobalt, copper, calcium,
+cadmium, chromium, and chlorine are elements
+whose first letter is C. Therefore, only carbon is
+denoted by the symbol ‘C’. Cobalt is denoted by two
+letters ‘Co’. Copper is denoted by the two letters
+‘Cu’ {taken from its Latin name cuprum]. Calcium
+by Ca, Cadmium by Cd, Chromium by Cr and
+Chlorine by Cl.
+
+A symbol is not merely an abreviation for the
+name of an element but also has significance.
+
+Significance of a symbol
+It represents :
+(i) Name of the element
+
+Symbols of some common elements
+
+Magnesium
+Aluminium
+Calcium
+Chromium
+Manganese
+Cobalt
+Nickel
+Zinc
+
+Silver
+Barium
+Arsenic
+Platinum
+Radium
+Uranium
+Lithium
+Germanium
+
+Hydrogen
+Nitrogen
+Oxygen
+Fluorine
+Chlorine
+Bromine
+Iodine
+Carbon
+Sulphur
+Phosphorus
+Boron
+Silicon
+Arsenic
+Helium
+Neon
+Argon
+
+IwWwyUNAHRPONOAM
+
+(ii) One atom of the element
+(iii) Quantity of the element equal in mass to
+its atomic mass or gram atomic mass.
+For example, the symbol N stands for
+(i) The element Nitrogen
+(ii) One atom of Nitrogen
+(iii) 14 parts by weight of Nitrogen. This weight
+being the atomc weight of the element.
+Note : Be careful about capital and small alphabets.
+
+For example : Co means the element cobalt.
+CO means the compound carbon monoxide.
+
+1.3 FORMULA
+
+Atoms of elements combine to form molecules.
+So it is possible to represent the molecules in terms of
+symbols of the constituent atoms. The symbolic
+representation of a molecule is known as formula or
+molecular formula.
+
+A molecular formula also known as chemical
+formula employs symbols to denote the molecule of an
+element or of a compound.
+
+A molecule of an element may contain one or
+more atoms of it. For example a molecule of elements
+hydrogen, oxygen, nitrogen, chlorine, bromine,
+iodine, contains two atoms and are written as H),
+O,, N», Cl, Bry and I, respectively.
+
+In case of a compound, the molecule containing
+
+
+--- Page 3 ---
+different atoms united in certain fixed ratio, is
+represented by placing symbols of the elements
+present in it side by side indicating their numbers
+written in subscript. Thus, NH,CI represents one
+molecule of ammonium chloride containing one atom
+of nitrogen four atoms of hydrogen and one atom of
+chlorine.
+
+Na,CO, denotes one molecule of sodium
+carbonate which contains two atoms of sodium, one
+atom of carbon and three atoms of oxygen.
+
+2H,O represents two molecules of water i.e.
+dihydrogen oxide, each molecule containing two
+atoms of hydrogen and one atom of oxygen.
+
+Thus by looking at a formula, we understand
+the ratio in which the different atoms are united to
+form the molecule.
+
+Significance of molecular formula
+The molecular formula of a compound has
+quantitative significance. It represents :
+(i) both the molecule and the molecular mass of the
+compound.
+{ii) the respective numbers of different atoms present in
+one molecule of the compound.
+(iii) the ratios of the respective masses of the elements
+present in the compound.
+For example, the formula CO) means that:
+(i) the molecular formula of carbon dioxide is CO,;
+(ii) each molecule contains one carbon atom joined by
+chemical bonds with two oxygen atoms;
+(iii) the molecular mass of carbon dioxide is 44, given that
+the atomic mass of carbon is 12 and that of oxygen
+is 16.
+
+1.4 VALENCY
+
+Valency is the combining capacity of an atom
+
+or of a radical.
+
+Valency is measured in terms of hydrogen atoms
+or oxygen atoms. It is the number of hydrogen atoms
+or double the number of oxygen atoms that can
+combine with it.
+
+Since no other element has combining capacity
+less than that of hydrogen, its valency is taken to be
+one (1) and is considered a standard.
+
+Modern Definition of Valency
+
+The number of electrons, that atom can lose, gain
+or share during a chemical reaction is called its
+
+ERY EA ah NRC OF» CUO nN ly Ah IO REN AEG ROR ATR
+
+valency. (For details refer to chapter Atomic
+Structure).
+
+Elements with one, two or three electrons in
+their outermost shell (valence shell) are usually
+metals. Electrons in the outermost shell are known
+as valence electrons. To attain stable electronic
+configuration, these atoms lose their valence
+electrons and form positive ions*.
+
+Na - e& — Nat (univalent)
+2, 8, 1 2,8
+Mg - 2e- > Mg?+ (divalent)
+2, 8,2 2,8
+
+Al -— 3e > A+ (trivalent)
+2, 8,3 2, 8
+
+Positive ions are known as cations.
+
+Elements with five, six or seven electrons in their
+outermost shell are normally non-metals. To attain
+stability, these atoms have to have eight electrons in
+their outermost orbit; so they gain electrons.
+
+Note : Out of the elements that have four electrons
+in the outermost orbit — Carbon is a non-metal, Silicon
+and Germanium are metalloid and rest are metals.
+
+Cl + e ~ Clr (univaient)
+(2, 8, 7) 2, 8,8
+
+O + 2e° > O2- (divalent)
+
+(2, 6) 2,8
+
+N + 3e- > N3- (trivalent)
+
+(2, 5) 2, 8
+
+Negative ions are known as anions.
+
+in outermost shel eaten PP [PLP
+in outermost sheil
+
+The valency of an element or of a radical is the
+number of hydrogen atoms that will combine with
+or displace one atom of that element or radical.
+
+| Valency |
+
+Examples of sharing of atoms :
+(i) One atom of chlorine combines with
+one hydrogen atom to form a molecule of
+hydrogen chloride. So, the valency of chlorine
+
+is one.
+H-Cl
+
+* Ions are charged particles which are formed by loss or gain of
+electrons
+
+
+--- Page 4 ---
+(ii) One atom of oxygen combines with 2 atoms of
+hydrogen to form a molecule of water. So, the
+valency of oxygen is two.
+
+a7 Nu
+
+(iii) In an ammonia molecule, one atom of
+nitrogen combines with 3 atoms of hydrogen.
+So, the valency of nitrogen is three.
+
+VAN
+
+(iv) In a methane molecule, one carbon atom
+combines with 4 hydrogen atoms. So, the
+valency of carbon is four.
+
+Variable valency
+
+Certain elements exhibit more than one valency,
+i.e. they show variable valency.
+
+Reasons for variable valency
+
+An atom of an element can sometimes lose
+more electrons than are present in its valence
+shell, i.e. there is a loss of electrons from
+the penultimate shell too. Therefore, such an element
+is said to exhibit variable valency.
+
+If an element exhibits two different positive
+valencies, then we use the suffix “ous” for the lower
+valency and the suffix “ic” for the higher valency.
+Modern chemists use Roman numerals in place of
+these trivial names. For example, SnCly, i.e.
+stannous chloride is written as Tin (II) chloride,
+SnCl,, i.e. stannic chloride is written as Tin (IV)
+chloride.
+
+Non-metals like nitrogen, phosphorus and
+sulphur also show variable valency. Nitrogen and
+phosphorus exhibit valencies of 3 and 5 while
+sulphur exhibits valencies of 2, 4 and 6.
+
+——— 4}
+
+Table 1.2 : Examples of variable valency
+
+Metal Valency Name of compound formed Formula
+
+Ferrous {Iron (II)) oxide FeO
+Ferric (Iron (II1)] oxide Fe,0,
+{Copper (1)] oxide Cu,O
+(Copper (ID] oxide CuO
+Mercurous (Mercury (I)] oxide Hg,O
+Mercuric [Mercury (1D] oxide HgO
+[Lead (II)] oxide PbO
+[Lead (IV)] oxide PbO,
+[Tin (I) chloride Sn,
+[Tin (IV)] chloride SnCl,
+
+Cuprous
+Cupric
+
+Plumbous
+Plumbic
+Stannous
+Stannic
+
+1.5 RADICALS
+
+The molecule of a compound is usually made up
+of two parts, these parts separately are known as
+radicals. For example, molecule of potassium chloride
+has two parts, potassium and chloride, so potassium
+is one radical and chloride is the other radical;
+similarly magnesium sulphate has magnesium and
+sulphate as radicals.
+
+A radical is an atom or a group of atoms of
+
+the same or of different elements that behaves as
+a single unit with a positive or negative charge.
+
+A radical is called simple radical when it is an
+atom only like sodium (Nat) and magnesium (Mg?*).
+It is known as a compound radical when it is made
+up of a group of two or more different atoms
+(polyatomic) like sulphate (SO,2-) made up of one
+sulphur atom and four oxygen atoms.
+
+Note : An acid reacts with a base to produce
+salt and water as a result of neutralisation.
+
+Potassium + Hydrochloric — Potassium + Water
+
+hydroxide acid chloride
+(Base) (Acid) (Salt)
+
+In the formation of potassium chloride, the potassium
+radical has been contributed by the base potassium
+hydroxide and is therefore called basic radical, the
+chloride radical has been contributed by hydrochloric
+acid and is, therefore, termed an acid radical.
+
+When a salt is dissolved in water, it splits up
+into constituent radicals, the basic radicals are found
+to carry positive charge and so are termed electro-
+positive radicals or cations. The other part carries
+negative charge and so are called electronegative
+radicals or anions.
+
+ee OF On tT Bt eT nn
+
+
+--- Page 5 ---
+‘Thus, in potassium chloride, potassium is electropositive and chloride is electronegative radical. Similarly,
+
+in magnesium sulphate, magnesium is electropositive and sulphate is electronegative radical.
+List of basic radicals is given in Table 1.3.
+List of acid radicals is given in Table 1.4.
+
+Monovalent electropositive Divalent electropositive
+
+1
+
+OMIA MA HL wWD =
+
+Table 1.3 : List of some common electrovalent positive ions (basic radicals)
+Trivalent electropositive
+
+Ammonium
+
+. Aurous [Gold (D]
+
+. Argentous (Silver (D]
+. Cuprous [Copper (1)]
+. Hydrogen
+
+Lithium
+Sodium
+
+. Potassium
+. Mercurous [Mercury ()] Hg*
+
+. Acetate
+
+2. Bicarbonate or
+
+Hydrogen carbonate
+
+. Bisulphide or
+Hydrogen sulphide
+
+. Bisulphate or
+Hydrogen sulphate
+
+. Bisulphite or
+Hydrogen sulphite
+
+. Bromide
+
+. Chloride
+
+. Permanganate
+
+9. Fluoride
+10. Hydride
+
+. Hydroxide
+
+. Iodide
+
+. Cyanide
+
+. Nitrate
+
+. Nitrite
+
+. Chlorite
+
+. Hypochlorite
+
+. Chlorate
+
+. Perchlorate
+
+. Meta-aluminate
+
+PMN ANAARYWN =
+
+Argentic {Silver(ID)]
+Barium
+
+Calcium
+
+Cupric [Copper(II)]
+Ferrous [Iron (ID]
+Magnesium
+Manganese
+
+. Mercuric [Mercury ID]
+. Nickel
+
+. Plumbous [Lead ()}
+
+. Platinous [Platinum (ID]
+. Stannous [Tin (1D)
+
+. Zine
+
+Carbonate
+Dichromate
+
+Oxide
+Peroxide
+
+Sulphate
+
+Sulphite
+Sulphide
+Silicate
+Thiosulphate
+Zincate
+Plumbite
+Stannate
+Manganate
+Chromate
+Oxalate
+
+Aluminium
+Arsenic
+
+Auric [Gold CID]
+Bismuth ,
+Chromium
+
+Ferric [Iron (ID)
+
+1. Plumbic [Lead (IV)]
+2. Platinic [Platinium (IV)]
+3. Stannic [Tin (IV)]
+
+Arsenate
+2. Nitride
+
+Aluminate
+Arsenite
+Phosphide
+
+Phosphite
+Phosphate
+Borate
+
+Tetravalent electronegative
+
+1. Carbide
+2. Ferrocyanide
+
+Pb*
+Prt
+
+Sn*
+
+Ona
+Fe(CN),*
+
+
+
+--- Page 6 ---
+Radicals have their own combining power
+(valency), and it is according to this combining power
+that they form chemical formulae.
+
+For example, in the compound ammonium
+carbonate (NH,),CO; ammonium (NH,"*) is a basic
+radical with combining power 1 and carbonate
+(CO,2-) is an acidic radical with combining power 2.
+
+16 WRITING CHEMICAL FORMULAE
+
+The following steps should be taken while
+attempting to write a formula. The method is called
+criss-cross method.
+
+(i) Write the symbols side by side, basic radical is
+written first and then acidic radical.
+
+(ii) Write the valency of each atom on top of its
+symbol.
+
+(iii) Divide the valency numbers by their highest
+common factor (H.C.F.), if any, to get the
+simple ratio. Ignore the (+) or (-) symbols of
+the radicals. Interchange the valencies of the
+
+radicals.
+
+(iv) Write the interchanged valency numbers to
+the lower right of the radicals. If the radical is a
+group of atoms and has a valency number more
+than 1, enclose it within brackets.
+
+Based on the steps, mentioned alongside
+formulae can be written in the following way.
+
+Name of Symbols with Exchange of | Formula
+Compound valencies valency
+Mg?* cl-
+
+Me, "Xa. cl,
+
+Ca? . , 0?
+ca, ¥* 0,
+
+ALS (OH)!
+Al, P.4 (OH),
+3 o2
+
+, Xo,
+Nat
+Na, X fal (AlG,),
+
+Ne 4 AlO}-
+(AI0,) 1
+
+Magnesium
+chloride
+
+Ca2+ OQ2-
+[Dividing by H.C.F.
+it becomes Ca!+ O!-
+Al* (OH)!-
+
+O2-
+
+Phosphorus p3+
+trioxide
+
+Sodium
+meta
+aluminate
+Sodium
+aluminate
+
+Nat AlO>
+
+Nat AlO;"
+
+IMPORTANT FORMULAE
+
+Chemical Name Symbol with charg e| Formula | Chemical Name Symbol with charge
+
+Potassium chloride K!+qc]!-
+
+Potassium bromide K!*Br!- xB
+Potassium iodide K!+]!- KI
+Potassium hydroxide K!*OH!- KOH
+Potassium nitrite K'*NoL- KNO,
+Potassium nitrate K'*NO}- KNO,
+Potassium hydrogen K'tHCO!- KHCO,
+carbonate
+
+Potassium hydrogen K'*HSO}- KHSO,
+sulphite
+
+Potassium hydrogen K'*HSO}- KHSO,
+sulphate
+
+Potassium metaluminate | K'+AlO!- KAIO,
+Potassium permanganate | K'*MnO}- KMnO
+Potassium sulphite K!*so2- K,SO,
+Potassium sulphate K'*so? K,SO,
+Potassium carbonate - K'*co? K,CO,
+Potassium dichromate K'*Cr,07- K,Cr,0,
+Potassium zincate K!*Zn03- K,Zn0,
+
+Potassium plumbite K'*Ppo2- K,PbO,
+Sodium chloride Naltcle NaCl
+Sodium hydroxide Na!+OH!- NaOH
+Sodium nitrite Na!+NO}- NaNO,
+Sodium nitrate Na!'*NO}- NaNO,
+Sodium hydrogen Na!*HCO}- NaHCO,
+carbonate
+Sodium hydrogen sulphite | Na'tHSO}- NaHSO,
+Sodium hydrogen sulphate} Na'tHSO}- NaHSO,
+Sodium metaluminate Na!*AlO}- NaAlO,
+Sodium sulphite Na!*SO?- Na,SO,
+Sodium sulphate Na!*so2- Na,SO,
+Sodium carbonate Na!*CO?- Na,CO,
+Sodium zincate Na!*ZnO2- Na,ZnO,
+Sodium plumbite Na!*PbO2- Na,PbO,
+Silver chloride Ag!*cl!- AgCl
+Ammonium chloride NH}*cl- NH,Cl
+Ammonium sulphate NH}*SO?- (NH,),SO,
+Ammonium hydroxide | NH}*OH! NH,OH
+Cont...
+
+
+--- Page 7 ---
+Calcium chloride Ca*C}!- CaCl, Lead [Il] sulphate Pb**SO?- PbSO,
+
+Calcium hydroxide Ca?*OH!- Ca(OH), Lead [II] oxide Pb2+O2- PbO
+Calcium nitrate Ca*NO}- Ca(NO,), Manganese chloride Mn?*C1!- MnCl,
+Calcium hydrogen Ca?*HCO}- Ca(HCO,), Manganese sulphate Mn?*SO2- MnSO,
+carbonate Aluminium chloride AM*cl!- AICI,
+Calcium hydrogen sulphite| Ca?*HSO!- Ca(HSO,), Aluminium sulphate AI++SO?7- AL(SO,),
+Calcium sulphite Ca*SO2- CaSO, Aluminium hydroxide Al+OH!- Al(OH),
+Aluminium sulphide AB+S>- ALS,
+Calcium sulphate Ca?*SO?- CaSO, Aluminium oxide AB+O2- ALO,
+Chromium chloride crt+cy- CrCl,
+Calcium carbonate Ca*COF CaCO, Chromium sulphate ce+so?- Cr,(SO,),
+a Chromium oxide cro? Cr,0,
+Calcium oxide Ca2+Q?- CaO
+Calcium silicate Ca2*Si02- CaSiO Copper [1] (cuprons)
+3 3 Copper [I] chloride Cultci!- CuCl
+ae _ Copper [I] oxide Cu!+O?- Cu,0
+Calcium nitride CaN CasNp Copper [I] sulphide Cul+s2- Cu,S
+Magnesium chloride Mg?*cl!- MgCl, Copper [Hi] (cupric)
+Copper [II] chloride Cu2*c}!- CuCl,
+Magnesium hydroxide | Mg”OH'- Mg(OH), Copper [II] hydroxide | Cu*OH' Cu(OH),
+Copper [1] nitrate Cu*NO}- Cu(NO,),
+Magnesium nitrate Mg?*NO!- Mg(NO,), Copper {II} sulphate Cu?*SO2- CuSO,
+Copper [II] sulphide — Cu*g2- CuS
+Magnesium oxide Mg?+O2- MgO Copper [II] oxide Cu+0?- CuO
+Iron [IT] (ferrous)
+Magnesium nitride Mg?2*N>- Mg.,N, Iron [II] chloride Fe2*Cl!- FeCl,
+Iron [II] hydroxide Fe2+OH!- Fe(OH),
+Zinc chloride Za*Cl!- ZaCl, Iron [IT] nitrate Fe2*NO- Fe(NO,),
+Iron [II] sulphate Fe2*SO?- FeSO,
+Zinc hydroxide Zn?*OH!- Zn(OH), Iron [II] sulphide Fe2+s2- FeS
+Zinc nitrate Za**NO}- Za(NO3). Iron [II] oxide Fe2+Q?- FeO
+Zinc sulphate | Zn?+SO2- ZaSO, Iron [III] (ferric)
+Zinc carbonate Zn”*COF ZaCO, Iron [III] chloride Fe#Cl!- FeCl,
+Zinc oxide ZnO? ZnO Iron [Il] sulphate Fe?+S02- Fe,(SO,),
+Lead [II] chloride Pb**Cli- PbCl, Iron [II] hydroxide Fe+OH!- Fe(OH),
+Lead [II] bromide Pb2*Bri- PoBr, Iron [III] sulphide Fe3+S§2- Fe,S,
+Lead [II] hydroxide Pb**OH Pb(OH), Iron [III] nitrate Fe*NO}- Fe(NO,);
+Lead [I] nitrate Pb’*NO,'" Pb(NO;), Tron [III] oxide. Fe?#Q?- Fe,0,
+
+1.7 NAMING CERTAIN COMPOUNDS
+1. A metal and a non-metal : The metal is written
+first and then the non-metal, the suffix ide is
+added to thé non-metal.
+For example :
+Calcium + Nitrogen — Calcium nitride [Ca,N,]
+
+For example, PCl, is phosphorus trichloride
+and PCl, is phosphorus pentachloride.
+
+3. Two elements and oxygen : Oxygen is
+represented at the end of the formula.
+The name of the compound depends on the
+number of oxygen atoms present in the
+
+2. Two non-metals : The prefix tri or tetra or compound.
+
+penta, etc. is added, as the case may be.
+
+ene ae nn eee ne nena innenanannehnentinnecrennecreeceatannecnactlf i FF) nT
+
+
+
+--- Page 8 ---
+The prefix ‘hypo’ is used if the number of oxygen
+atoms is less than 2.
+NaClO — Sodium hypochlorite
+The suffix ‘ite’ is used if the number of oxygen atoms
+is 2.
+NaClO, — Sodium chlorite
+The suffix ‘ate’ is used if the number of oxygen
+atoms is 3.
+NaClQO, — Sodium chlorate
+The prefix per is used when the number of oxygen
+atoms is more than 3.
+NaClO, — Sodium perchlorate
+4. Naming of acids
+(a) Names of binary acids are given by adding the
+prefix ‘hydro’ and the suffix ‘ic’ to the name of
+the second element.
+(i) HCl is hydrochloric acid
+(ii) HF is hydrofluoric acid
+(b) Names of acids containing radicals of polyatomic
+groups are given on the basis of the second
+
+element present in the molecule, and the prefix
+‘hydro’ is not used.
+
+Examples :
+
+Examples: (i) In H,SQ,, the second element is
+sulphur, hence the name sulphuric
+acid.
+
+(ii) In HNO,, the second element is
+nitrogen, hence the name nitric
+acid.
+
+(iii) In H,PO,, the second element is
+phosphorus, hence the name
+phosphoric acid.
+
+If the number of oxygen atoms is less, then suffix
+‘ous’ is used instead of ‘ic’. Thus H,SO, is
+sulphurous acid, HNO, is nitrous acid.
+
+5. Trivial names
+
+There are certain compounds with names that
+do not follow any systematic rule. Such names are
+called trivial or common names, and they are widely
+accepted.
+
+Examples: (i) Nitrogen trihydride is called
+
+ammonia [NH]
+
+(ii) Hydrogen monoxide or dihydrogen
+oxide is called water [H,O].
+
+1.8 TOCALCULATE THE VALENCY FROM THE
+
+FORMULA
+
+The valency of elements can be determined based
+on the knowledge of the valencies of negative radicals
+and of the fact that the valency of :
+
+Hydrogen [H]=1;
+
+Oxygen [O] = 2;
+
+[Cl] = 1
+
+Chlorine
+
+Procedure to find the valency
+1. Write the given formula.
+
+2. Interchange the subscript and write
+it as superscript.
+
+3. The valency of oxygen is taken as 2,
+therefore, multiply both the superscripts
+by 2.
+
+4. The result gives the valency of the
+elements.
+
+Thus, from the formula NO), we find that the valency of
+| nitrogen is 4.
+
+EXCERCISE 1(A) j
+
+1, What is a symbol ? What information does it convey ?
+
+2. Why is the symbol S for sulphur, but Na for sodium and Si
+for silicon ?
+
+3. If the symbol for Cobalt, Co, were written as CO, what
+would be wrong with it ?
+
+4, What do the following symbols stand for ?
+(a) H (b) H, (c) 2H.
+5. (a) Explain the terms ‘valency’ and ‘variable valency’.
+
+(b) How are the elements with variable valency named ?
+Explain with an example.
+
+6. Give the formula and valency of :
+
+(a) aluminate
+
+(b) chromate
+
+(c) aluminium eeecccee sence nveseeteseee
+
+(d) cupric
+7, What is a chemical formula ? What is the rule for writing
+a formula correctly ?
+8. What do you understand by the following terms ?
+(a) Acid radical (b) Basic radical
+
+See aaa MAME SD semeueunvenenn nnnnnnccen neeeLUEUnnInUTDUDEnENUDTEDEIIDEEEDEDUTDTUNEDIDUDNUDIODUUENEDIEUEDNNEENISY
+
+
+--- Page 9 ---
+9. Match the following : (Refer common names in the
+
+beginning of the book)
+Compound Formula
+(a) Boric acid (i) NaOH
+(b) Phosphoric acid (ii) SiO,
+(c) Nitrous acid (iii) Na,CO,
+(d) Nitric acid (iv) KOH
+(e) Sulphurous acid (v) CaCO,
+(f) Sulphuric acid (vi) NaHCO,
+(g) Hydrochloric acid (vii) H,S
+(h) Silica (sand) (viii) H,O
+(i) Caustic soda (ix) PH,
+(sodium hydroxide)
+(j) Caustic potash (x) CH,
+(potassium hydroxide)
+(k) Washing soda (xi) NH,
+(sodium carbonate)
+(1) Baking soda (xii) HCl
+
+(sodium bicarbonate)
+
+(m) Lime stone.
+(calcium carbonate)
+
+(xiii) H,SO,
+
+(n) Water (xiv) HNO,
+(o) Hydrogen sulphide (xv) HNO,
+(p) Ammonia (xvi) H,BO,
+(q) Phosphine (xvii) H,PO,
+(r) Methane (xviii) H,SO,
+
+10. Select the basic and acidic radicals in the following
+
+compounds.
+(a) MgSO, (b) (NH,),SO,
+(c) AL(SO,), (d) ZnCO,
+
+(e) Mg(OH),
+
+11. The valency of an element A is 3 and that of element B
+is 2. Write the formula of the compound formed by the
+combination of A and B.
+
+12. Write chemical formula of the sulphate of Aluminium,
+Ammonium and Zinc.
+
+13. Write the chemical names of the following compounds :
+(a) Ca,(PO,), (b) K,CO,
+(c) K,MnO, (d) Mn,(BO,),
+(e) Mg (HCO,), (f) Na,Fe(CN),
+(g) Ba (C10,), (h) Ag,SO,
+(1) (CH,COO),Pb (j) Na,SiO,
+. Write the basic radicals and acidic radicals of the following
+and then write the chemical formulae of these compounds.
+
+(b) Bismuth nitrate
+(d) Ferrous sulphide
+(f) Calcium silicate
+
+—_—
+
+(a) Barium sulphate
+
+(c) Calcium bromide
+
+(e) Chromium sulphate
+
+(g) Potassium ferrocyanide
+(h) Stannic oxide
+
+(j) Magnesium phosphate (k) Sodium zincate
+
+(1) Stannic phosphate (m) Sodium thiosulphate
+(n) Potassium manganate (0) Nickel bisulphate
+
+(i) Calcium silicate
+
+12. Give the names of the following compounds.
+(a) NaClO (b) NaCclo,
+(c) NaClo, (d) NaClo,
+13. Complete the following statements by selecting the
+correct option :
+(a) The formula of a compound represents
+(ii) a particle
+(iv) a combination.
+
+(i) an atom
+(iii) a molecule
+(b) The correct formula of aluminium oxide is
+
+(i) AIO (ii) AlO, (iii) Al,O,
+(c) The valency of nitrogen in nitrogen dioxide (NO,) is
+
+(i) one (ii) two
+
+(iii) three (iv) four.
+
+1.9 CHEMICAL EQUATION
+
+A chemical equation is the symbolic
+representation of a chemical reaction using the
+symbols and formulae of the substances involved in
+the reaction.
+
+For example: Burning of coal in air is a chemical
+reaction in which a new substance, carbon dioxide, is
+formed.
+
+The reaction can be represented by either a word
+equation or a chemical equation (using formulae and
+symbols), as shown below :
+
+Word equation :
+
+Carbon + Oxygen —“*-5 Carbon dioxide
+
+Chemical equation :
+c+0, —“*-+ co,
+Steps involved in writing a chemical equation :
+(i) Write the symbols or the formulae of the
+reactants on the left hand side, with a (+) sign
+between them.
+(ii) Write the symbols or the formulae of the products
+
+on the right hand side, with a (+) sign between
+them.
+
+$$$ $c 9
+
+
+--- Page 10 ---
+(iii) Put the sign of an arrow (—) in betweén the
+reactant side and the product side.
+
+(iv) Represent the reactants and the products in their
+molecular forms [because their atomic forms are
+usually neither stable nor capable of separate
+existence].
+
+For example :
+
+Sodium reacts with water to form sodium
+hydroxide and hydrogen.
+
+2Na + 2H,O — 2NaOH + H,
+
+A chemical equation tells us what substances are
+involved in a given reaction (REACTANTS) and
+what are the substances formed as a result of the
+reaction (PRODUCTS).
+
+For example :
+
+CuSO, + 2NaOH > Cu(OH), + Na,SO,
+Ld Ls
+
+Reactants Products
+In the given equation copper sulphate and
+sodium hydroxide (REACTANTS) react to produce
+copper hydroxide and sodium sulphate (PRODUCTS).
+
+Chemical reactions may involve :
+(i) one reactant and two or more products
+(ii) two reactants and one product
+(iii) two reactants and two products
+(iv) two reactants and three or more products
+
+(i) one reactant and two or more products
+
+Examples :
+(b) 2Pb(NO3), > 2PbO + 4NO, +0,
+
+(ii) two reactants and one product
+
+Examples :
+(a) NH, + HCl — NH,Cl
+(b) N,+3H, — 2NH;
+
+(iii) two reactants and two products
+
+Examples :
+(a) AgNO,;+NaCl — AgCl + NaNO,
+(b) Na,SO, + BaCl, > BaSO, + 2NaCl
+
+_(iv) two reactants and three or more products
+Examples :
+
+(a) Cu + 2H,SO, — CuSO, + 2H,O + SO,
+
+(b) 2KMnO, + 16HCI > 2KCI + 2MnCl, + 8H,O + SCI,
+
+Skeleton equation : It is an equation that
+represents a chemical change but is unbalanced. In
+
+other words, the total number of atoms of each element
+on the two sides are not equal. The following example
+will make the point clear.
+
+KNO, — KNO, + 0,
+
+In the above chemical equation, the number of
+oxygen atoms in the reactant (KNO3), on the left
+side, is not equal to the number of oxygen atoms in
+the products formed (KNO, + O,), on the right side.
+
+1.9.1 Balanced equation
+
+It is an equation in which the total number of atoms
+of each element in the reactants, on the left side of the
+equation, is the same as the number of atoms in the
+products formed, on the right side of the equation.
+
+Examples :
+(a) CaCO, — CaO + CO,
+
+In this equation, the number of atoms of Ca, C
+and O on both sides is the same, i.e. the equation
+is balanced.
+
+(b) KNO,; > KNO, + 0,
+In this equation, since the number of atoms
+of oxygen on both sides is not the same, the
+equation is not balanced. The balanced form of
+
+the equation is :
+2KNO; — 2KNO, + O,
+
+Why should an equation be balanced ?
+
+An equation must be balanced in order to
+comply with the “Law of Conservation of Matter’,
+which states that matter is neither created nor destroyed
+
+in the course of a chemical reaction. An unbalanced
+equation would imply that atoms have been created or
+destroyed.
+
+1.9.2 How to balance a chemical equation
+There are two methods of balancing an equation:
+(i) Hit and trial method
+(ii) Partial equation method
+1. Balancing by hit and trial method
+This method consists of counting the number of
+atoms of each element on both sides and trying to
+equalize them. Take the following steps :
+(i) Count the number of times (frequency) an
+element occurs on either side.
+(ii) The element with the least frequency of
+occurrence is balanced first.
+
+
+--- Page 11 ---
+(iii) When two or more elements have the same
+frequency, the metallic element is balanced first.
+Example 1 : Balance the following equation
+Cu +H,SO, > CuSO, + SO, + H,O0
+Solution :
+
+Step 1: Count the number of atoms of all the
+elements on either side of the chemical equation.
+
+Element Reactant side Product side
+Cu 1 I
+H 2 2
+S | 2
+O 4 7
+
+Step 2: Copper and hydrogen are equal on both
+sides so to equalise sulphur atoms multiply H,SO,
+by 2.
+
+Cu + 2H,SO, > CuSO, + SO, + H,O
+
+Step 3: To equalise hydrogen atoms, multiply
+
+This gives the balanced equation.
+
+Example 2 : Balance the following skeleton
+equation.
+
+As7O3 + SnCl, + HCl > SnCl, + As + H,O
+Solution :
+
+Step 1: Count the number of atoms of all the
+elements on both sides of the equation.
+
+Element _ Reactant side Product side
+As 2 1
+Sn 1 1
+Cl 3 2
+H 1 2
+O 3 1
+
+Step 2: To equalise As and O, multiply As by 2
+and H,O by 3.
+As,03 + SnCl, + HCl > SnCl, + 2As + 3H,0
+Step 3: To equalise H atoms multiply HCI by 6.
+As,0; + SnCl, + 6HCI - SnCl, + 2As + 3H,0
+Step 4: Multiply SnCl, and SnCl, both by 3.
+As,03 + 3SnCl, + 6HCl > 3SnCl, + 2As + 3H,0
+This is te balanced chemical equation.
+
+Example 3 : Balance the following skeletal equation:
+Fe + H,O > Fe,0; + H,
+
+Solution :
+
+Step 1: Count the number of atoms of all the
+elements on both sides of the chemical equation.
+
+Element Reactant side Product side
+Fe 1 atom 2 atoms
+H 2 atoms 2 atoms
+O 1 atom 3 atoms
+
+Step 2: To balance Fe atoms, multiply Fe on
+the LHS by 2.
+
+2Fe + H,O0 - Fe,0; + H2
+Step 3: To balance oxygen atoms on the RHS,
+write 3 before H,O on the reactant side.
+2Fe + 3H,0 - Fe,0; + H,
+Step 4: Now there are 6 hydrogen atoms on the
+reactant side and only 2 hydrogen atoms on the
+
+product side. To balance the hydrogen atoms, write
+3 before hydrogen on the product side.
+
+2Fe + 3H,0 — Fe,0, + 3H,
+The above equation is a balanced equation
+Example 4 : Ammonia is prepared by heating a
+mixture of ammonium chloride and calcium hydroxide.
+Write a balanced equation of the reaction.
+Solution :
+(i) NH,Cl + Ca(OH), — CaCl, + NH, + H,O
+This is the skeleton equation.
+(ii) To equalise Cl atoms multiply NH,Cl by 2
+2NH,Cl + Ca(OH), — CaCl, + NH, + H,O
+(iii) To equalise nitrogen atoms multiply NH, by 2
+2NH,Cl + Ca(OH), — CaCl, + 2NH, + 2H,O
+(iv) To equalise oxygen atoms multiply H,O by 2
+2H,Cl + Ca(OH), > CaCl, + 2NH, + 2H,O
+The above equation is a balanced equation.
+
+Example 5 : Potassium dichromate reacts
+with hydrochloric acid to produce potassium
+chloride, chromium chloride, water and chlorine.
+
+Write the skeletal equation of the reaction and
+balance it.
+Step 1: The skeletal equation is
+
+Step 2: Balance oxygen, hydrogen, potassium,
+chromium and chlorine, starting with oxygen because
+
+
+--- Page 12 ---
+it occurs at the minimum number of places.
+¢ To equalize oxygen, multiply H,O by 7;
+K,Cr,0, + HCl > KCl + CrCl; + 7H,0 + Cl,
+¢ To equalize hydrogen, multiply HCI by 14;
+K,Cr,0, + 14HCl > KCI + CrCl, + 7H, + Cl,
+¢ To equalize K and Cr, multiply both KCl and
+CrCl, by 2;
+K,Cr,0, + 14 HCl > 2KCl + 2CrCl, + 7H,O + Cl,
+* To equalize Cl, multiply it by 3, ie. 3Cl,
+K,Cr,0, + 14 HCl > 2KCI + 2 CrCl, +7 H,0 +3 Cl,
+
+Now the equation is balanced.
+
+Note : A balanced equation need not represent
+the real reaction.
+
+For example : Cu + H,SQ,4 — CuSO, + H,
+is a balanced reaction, but experiments show that copper
+reacts with conc. H,SO, to give SO, and not hydrogen.
+The correct chemical equation is :
+Cu + 2H,SO, — CuSO, + SO, + 2H,0.
+
+The hit and trial method is very useful for
+balancing simple chemical equations, but it has some
+limitations.
+
+(i) It takes time to balance complicated equations.
+
+(ii) The mechanism (steps of the reaction i.e. how
+the reaction has taken place) of the reaction is
+not clear.
+
+Balancing can be done more easily by supposing
+the complex reaction to take place in steps.
+
+Write the equations for these individual steps
+and then add the equations. This method is known
+as balancing by partial equation method*.
+
+The following examples will make it more clear.
+
+Example 6 : Liberation of iodine from
+potassium iodide by reacting it with hydrogen
+peroxide is supposed to be completed in the following
+two steps :
+
+(i) H,O, decomposes to give water + nascent
+oxygen
+H,0, > H,0 +O see)
+(11) Nascent oxygen so produced oxidizes potassium
+iodide in the presence of water to give iodine
+and potassium hydroxide.
+
+* Not in syllabus
+
+2K] +H,O0+O-—> 2KOH+1I, (ii)
+Adding the two equations (i) and (ii) we get
+H,0, - H,0 +O
+2KI + H,O + O > 2KOH +1,
+
+H,O and O occur on the product side, in the
+first reaction, while on the reactant side in the second
+reaction, so they get cancelled. The resultant equation
+is a balanced chemical equation.
+
+1.9.3 Information conveyed by a balanced
+chemical equation
+
+Refer to the following equations :
+(1) 2NaOH + H,SO, — Na,SO, + 2H,O
+The above equation tells us :
+(a) about the actual result of the chemical change.
+
+(b) about the reactants involved and the products
+formed as a result of the reaction.
+
+(c) about the number of molecules of each
+substance taking part and formed in the reaction.
+Here two molecules of sodium hydroxide and one
+molecule of sulphuric acid react to give one
+molecule of sodium sulphate and two molecules
+of water.
+
+(d) about the chemical composition of the
+respective molecules; one molecule of sodium
+hydroxide (NaOH) contains one atom of sodium,
+one atom of oxygen and one atom of hydrogen.
+
+(e) About molecular mass; that 80 parts by weight of
+sodium hydroxide reacts with 98 parts by weight
+of sulphuric acid to produce 142 parts by weight
+of sodium sulphate and 36 parts by weight of
+water.
+
+2NaOH + H,SO, > Na,SO, + 2H,O
+2(23+16+1) + (24+324+64) = (464+32+64) + 2(2+16)
+=> 80 +98 = 142+ 36
+=> 178 = 178
+
+(f) It also proves the law of conservation of mass,
+i.e. the total mass of the substances on either
+side of the equation is the same. According to the
+above equation, 178 gram of reactants are producing
+178 gram of products.
+
+
+--- Page 13 ---
+Note : On the basis of experimentas it is found that
+22.4 litres of every gas, at 760 mm pressure and
+temperature of 0°C (STP), weighs the same as its
+molar mass i.e. molecular mass expressed in grams.
+
+For example : .
+
+22.4 litres of hydrogen at S.T.P. will weigh 2 g.
+22.4 litres of ammonia at S.T.P. will weigh 17 g,
+and so on.
+
+(2)
+
+CaCO, + 2HC] — CaCl, + H,O + CO,
+100 73 ill 18 44
+This balanced chemical equation conveys the
+
+following information :
+
+(a)
+
+(b)
+
+(c)
+
+One molecule of calcium carbonate reacts
+with two molecules of hydrochloric acid to
+produce one molecule each of calcium
+chloride, water and carbon dioxide.
+
+100 g of calcium carbonate reacts with 73 g
+of hydrochloric acid to produce 111g of
+calcium chloride, 18 g of water and 44 g of
+carbon dioxide.
+
+(Note that the masses of the reactants and the
+products are taken in grams)
+
+100 g of calcium carbonate, on treatment with
+73 g of HCl, will produce 22.4 litres of
+carbon dioxide at S.T-P.
+
+1.9.4 Limitations of a chemical equation
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+(e)
+
+A chemical equation does not tell us :
+
+the physical state of the reactants and the
+products, i.e. whether the substances are solid,
+liquid or gas.
+
+the time taken for the completion of the reaction.
+
+whether heat is given out or absorbed during the
+reaction.
+
+the respective concentrations of the reactants and
+the products.
+
+the rate at which the reaction proceeds.
+
+(f)
+(g)
+
+whether the reaction is reversible or irreversible.
+
+whether the reaction is completed or it is not
+completed.
+
+1.9.5 A chemical equation can be made more
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+informative by writing the following
+additional information to it.
+
+Information regarding temperature, pressure,
+catalyst, etc. is provided above and or below the
+arrow (—) separating reactants and products.
+
+For example : Nitrogen reacts with hydrogen
+in the presence of catalyst Fe and promoter
+Mo at 450°C and 200 to 900 atmospheric
+pressure, to produce ammonia.
+
+Fe + Mo
+
+30°C ,
+200 — 900 atm
+Physical states of reactants and products can
+be provided by using the letters (s) for solid, (/)
+for liquid, (g) for gas and (aq) for solution in
+
+water.
+
+N, + 3H, 2NH,
+
+For example : Zinc, a solid metal, reacts
+with hydrochloric acid in aqueous state to
+produce zinc chloride in aqueous state and a gas
+hydrogen.
+
+Zn(s) + HCl(aq) > ZnCl,(aq) + H,(g)
+Chemical reactions proceed with evolution or
+absorption of heat. This information is provided
+by adding a heat term.
+
+For example :
+
+C(s) + 0,(g) > CO,(g) + Heat
+
+2C(s) + On(g) 2CO(g) — Heat
+Concentration of acids can also be added
+to the reaction.
+
+For example : Magnesium reacts with dilute
+sulphuric acid to produce magnesium sulphate
+and hydrogen.
+
+Mg(s) + H,SO,(dil) > MgSO,(aq) + H,(g)
+
+1.
+
+EXCERCISE 1(B)
+
+Balance the following equations :
+(a) Fe + H,O — Fe,O, + H,
+(b) Ca+ N, > CaN,
+
+(c) Zn+ KOH > K,Zn0, +H,
+(d) Fe,O, + CO > Fe + CO,
+(e) PbO + NH, > Pb+H,O+N,
+
+——_————— 3 > Owm"ne™—_—|
+
+
+--- Page 14 ---
+(t) Pb,O, > PbO + O,
+
+(g) PbS + O, - PbO + SO,
+
+(h) S+H,SO, > SO, + H,O
+
+(i) S + HNO, + H,SO, + NO, + H,O
+Gj) MnO, + HCl > MnCl, + H,O + Cl,
+(k) C+ H,SO, > CO, + H,O + SO,
+
+(1) KOH + Cl, KC] + KCIO + H,O
+
+(m) NO, + H,O — HNO, + HNO,
+
+(n) Pb,O, + HCl — PbCl, + H,0 + Cl,
+(0) H,O+ Cl, > HCl +0,
+
+(p) NaHCO, — Na,CO, + H,O + CO,
+(q) HNO, + H,S ~ NO,+H,O+S
+
+(r) P+ HNO, > NO, + H,O + H,PO,
+
+1.10 RELATIVE
+WEIGHT)
+
+Atoms being extremely small, cannot be seen
+or weighed directly. But indirect methods of physics
+have enabled us to know the absolute mass of nearly
+all kinds of atoms. The mass of a hydrogen atom is
+found to be 1-66 x 10-24 g while that of carbon
+atom is 1-9926 x 10°23 g. As these masses are too
+small, it is not convenient to use kilograms or grams
+as unit. It has, therefore, been considered appropriate
+to use the mass of some standard atom as a unit and
+then relate masses of other atoms to it. The resulting
+masses of atoms are thus known as Relative Atomic
+Mass (RAM) or Atomic Weight.
+
+In the beginning, the mass of the hydrogen
+atom (hydrogen element being the lightest) was
+chosen as a unit and masses of other atoms were
+compared with it. In 1961, carbon-12 was finally
+selected, because its adoption least affected the
+values of the atomic mass of the various elements
+on the old standard.
+
+ATOMIC MASS (ATOMIC
+
+The relative atomic mass or atomic weight of an
+element is the number of times one atom of the element
+
+is heavier than 4 times of the mass of an atom of
+
+carbon-12. Thus:
+Relative atomic mass = Mass of 1 atomof the element
+
+Chil the mass of one C- 12 atom
+
+Atomic mass is expressed in atomic mass units
+{a.m.u.]. Atomic mass unit is defined as 1/12 the
+mass of carbon atom C-12. (The mass of an atom
+of carbon—12 isotope was given the atomic mass of
+12 units, ie. 12 amu or simply 12 u).
+
+Thus, the mass of a hydrogen atom is 1 amu,
+and those of oxygen and helium are 16 amu and
+
+4 amu respectively (Atomic masses of elements are
+given in the preliminary pages of this book).
+
+Note : Experimentally it is found that one atom
+of C!2 (carbon having atomic mass 12) atom has a
+mass of 1-9926 x 10-23 grams. On dividing this mass
+by 12, atomic mass unit (amu or U) is obtained. It is
+equal to 1-6605 x 10-24 gram. Thus,
+
+1 amu or 1 U = 1-6605 x 10-4 g
+
+111 RELATIVE MOLECULAR
+(MOLECULAR WEIGHT)
+
+MASS
+
+The relative molecular mass (or molecular weight)
+of an element or a compound is the number that
+
+represents how many times one molecule of the
+substance is heavier than 1/12 of the mass of an
+atom of carbon-12.
+
+The Relative Molecular Mass (RMM) is
+obtained by adding together the relative atomic
+masses (atomic weights) of all the various atoms
+present in a molecule.
+
+For example, relative molecular mass of
+sulphuric acid (H,SO,) is calculated as:
+
+One molecule of sulphuric acid has two atoms
+of hydrogen, one atom of sulphur and four atoms of
+oxygen.
+
+Mass of 2 atoms of hydrogen is 1 x 2 = 2 amu
+
+Mass of | atom of sulphur is 32 amu .
+
+Mass of 4 atoms of oxygen is 16 x 4 = 64 amu
+
+So mass of H,SO, is 2 x 1 +32 + 16 x 4=98 amu
+
+Thus the molecular mass of a substance is the
+sum of the atomic masses of the constituent atoms
+present in one molecule of that substance.
+
+Example 7 : Calculate the relative molecular
+masses (or molecular weights) of the following
+compounds:
+
+_——— i)
+
+
+--- Page 15 ---
+(a) Copper sulphate crystals, CuSO,- 5H,O
+(b) Ammonium sulphate, (NH,),SO,
+(c) Cane sugar, C,,H,,0,,
+Given that the relative atomic masses of Cu = 63-5,
+S = 32, O = 16, N = 14 and C = 12
+Solution :
+(a) The relative molecular mass of CuSO,5H,O
+= 63-5 + 32 + (16 x 4) + 5(2 + 16)
+= 159-5 + 90 = 249-5
+(b) The relative molecular mass of (NH,),SO,
+= N,H,SO,
+=14x2+1x8+32+16x4
+= 28 + 8 + 32 + 64 = 132
+(c) The relative molecular mass of C,,H,,0,,
+=12x12+1%x224+16 x11
+= 144 + 22 + 176 = 342
+
+Ans.
+
+Ans.
+
+Ans.
+
+1.12 PERCENTAGE COMPOSITION
+Percentage composition of a compound, is the
+percentage by weight of each element present in it.
+
+Percentage of an element in a compound
+
+_ Total wt. of the element in one molecule 100
+~ Gram molecular weight of the compound *
+Example 8 : Calculate percentage of hydrogen
+in water.
+Given that the relative atomic masses of H = 1,
+O= 16.
+
+Solution :
+Relative molecular mass of H,O
+=1x2+16
+= 18
+
+Since 18 g of water contains 2 g of hydrogen
+
+2
+*. 100 g of water contains 18 x 100 = 11-11 g of
+Hydrogen
+
+Answer : Hydrogen in water is 11-1%
+
+Example 9 : Calculate the percentage of
+exyogen in urea NH,CONH>.
+
+Given : R.A.M. of N= 14,C = 12,0 = 16, H=1
+
+Relative molecular mass of urea NH,CONH, is
+
+Element No of atoms Atomic mass Total
+
+N 2 14 28
+
+Cc 1 12 12
+
+H 4 1 4
+
+O | 16 16
+co
+
+*, R.A.M. = 60
+. Wt. of nitrogen
+
+Percentage of nitrogen = x 100
+
+Total wt. of urea
+
+28
+= 6 x 100 = 46-666 or 46-67%
+
+_ Example 10 : Calculate the percentage
+composition of various elements in :
+Sodium carbonate, Na,CO;
+Given that the relative atomic masses of
+O = 16, Na = 23 and C = 12.
+Solution :
+Relative molecular mass of Na,CO,
+=23x2+12+16x3
+= 46+ 12 + 48 = 106
+Since 106 g of Na,CO, contains 46 g of sodium,
+46 x 100
+
+. 100 g of Na,CO; contains 106 of sodium
+= a“ = 43-4 g of Sodium
+Similarly, 106 g Na,CO, contains 12 g of carbon.
+” ” 12 x 100
+. 100 106
+_ 1200 _,,.
+= 706 7 11-3 g of Carbon
+Again, 106 g of Na,CO, contains 48 g of oxygen.
+” » 48 x 100
+. 100 106
+— 4800 _ yc.
+= 70 = 45:3 g of Oxygen
+
+Answer : In Na,CO; : Na = 43-4%,
+C = 11-3% and O = 45-3%
+
+Example 11 : Find the percentage mass of water
+in washing soda crystals NayCO; 10H,0.
+Solution :
+
+Relative molecular mass of
+
+Na,CO,. 10H,O
+
+—_—_—_— 15
+
+
+--- Page 16 ---
+=23x2+12+ 16x3+10(2+ 16) ~
+= 106 +180 = 286
+
+286 g of washing soda contains 180 g of water
+of crystallisation.
+
+. i » 180 x 100
+.. 100 786
+18000
+
+Answer : The % of H,O in Na,CO; - 10H,O = 62-9
+1.13 EMPIRICAL FORMULA OF A COMPOUND
+
+The empirical formula of a compound is
+the simplest formula, which gives the simplest ratio
+in whole numbers of atoms of different elements
+present in one molecule of the compound.
+
+For example, the empirical formula of hydrogen
+peroxide (HO) is HO. It indicates the simplest ratio
+(1 : 1) between the hydrogen and oxygen atoms in
+its molecule whereas its actual formula is H,Op.
+
+Similarly, the empirical formula of glucose
+(CgH,20,) is CH,O. It indicates that the ratio of C,
+H and O atoms in a molecule of glucose is 1: 2: 1.
+
+The empirical formula mass is the sum of
+atomic masses of various elements present in the
+empirical formula.
+
+Thus, for hydrogen peroxide (H,QO,), the
+empirical formula is HO and its empirical formula
+mass is 1 + 16 = 17.
+
+CHAPTER AT A GLANCE
+
+Symbol is the short form that stands for the atom of a specific element.
+
+Valency is the combining capacity of an atom or a radical. It is equal to the number of electron(s)
+lost/gained or shared while combining with another atom or radical. Some elements, like iron, mercury,
+
+lead, show variable valencies.
+
+Radical is an atom or a group of atoms of the same or different elements, that behave as a single: unit
+‘and has positive or negative charge. A radical with positive charge is a cation, e.g. NH,* (ammonium ion),
+Nat (sodium ion) and a radical with negative charge is an anion, e.g. Cl” (chloride), co, (carbonate).
+
+Molecular formula is a shorthand notation for the molecule of a substance in terms of symbols and
+
+numbers of atoms of each element present in it.
+
+Atomic mass unit (amu) is equal to one twelfth the mass of an atom of carbon-12 (atomic mass of
+
+carbon taken as 12).
+
+Molecular mass or relative molecular mass of a substance is the relative mass of its molecule as
+compared with the mass of a carbon —12 atom, taken as 12 units.
+
+Chemical equation is the symbolic representation of a chemical reaction using symbols and formulae
+of the substances involved in the reaction. Since matter is neither created nor destroyed in the course
+of a chemical reaction, so every equation needs to be balanced.
+
+Balanced chemical equation tells us (i) which substances take part is a chemical reaction (reactants)
+and which substances are formed (products) and (ii) the number of molecules of each substance
+
+involved.
+
+The relative atomic mass or atomic weight of an element is the number of times one atom of the
+
+element is heavier than 4 times of the mass of an atom of carbon-12.
+
+The relative molecular mass (or molecular weight) of an element or a compound is the number that
+represents how many times one molecule of the substance is heavier than 1/12 of the mass of an atom
+of carbon-12.
+
+The empirical formula of a compound is the simplest formula, which gives the simplest ratio in whole
+‘numbers of atoms of different elements present in one molecule of the compound.
+
+
+
+--- Page 17 ---
+EXCERCISE 1(C)
+
+1. Fill in the blanks :
+(a) Dalton used symbol ............... for OXYgen .............. for hydrogen.
+(b) Symbol represents ................000 atoms(s) of an element.
+
+(c) Symbolic expression for a molecule is called .................... .
+
+(d) Sodium chloride has two radicals. Sodium is a ............... radical while chloride is a ............... radical.
+(e) Valency of carbon in CH, is ............... 2 in CyHg eseeeeeseeee » in Cay weeeeeeeeeeee and in C,H, is ...........0 .
+(f) Valency of Iron in FeCl, is ............... and in FeCl, it is ............... .
+
+(g) Formula of iron (II) carbonate is ............... .
+2. Complete the following table.
+
+3. Sodium chloride reacts with silver nitrate to produce silver chloride and sodium nitrate
+(a) Write the equation.
+(b) Check whether it is balanced, if not balance it.
+(c) Find the weights of reactants and products.
+(d) State the law which this equation satisfies.
+
+4. What information does the following chemical equations convey ?
+(a) Zn + H,SO, > ZnSO, + H,
+(b) Mg + 2HC] — MgCl, + H,
+
+5. (a) What are poly-atomic ions ? Give two examples.
+(b) Name the fundamental law that is involved in every equation.
+
+6. What is the valency of :
+(a) fluorine in CaF, (b) sulphur in SF,
+(c) phosphorus in PH, (d) carbon in CH,
+(e) nitrogen in the following compounds :
+(i) N,0, (i)N,0;, (iii)NO, (iv) NO
+
+7. Why should an equation be balanced ? Explain with the help of a simple equation.
+
+8. Write the balanced chemical equations of the following reactions.
+(a) Sodium hydroxide + sulphuric acid + sodium sulphate + water
+(b) Potassium bicarbonate + sulphuric acid — potassium sulphate + carbon dioxide + water
+(c) Iron + sulphuric acid — ferrous sulphate + hydrogen.
+
+
+--- Page 18 ---
+(d) Chlorine + sulphur dioxide + water —» sulphuric acid + hydrogen chloride
+(e) Silver nitrate — silver + nitrogen dioxide + oxygen
+(f) Copper + nitric acid — copper nitrate + nitric oxide + water
+(g) Ammonia + oxygen — nitric oxide + water
+(h) Barium chloride + sulphuric acid — barium sulphate + hydrochloric acid
+(i) Zinc sulphide + oxygen —> zinc oxide + sulphur dioxide
+(j) Aluminium carbide + water — aluminium hydroxide + methane
+(k) Iron pyrites (FeS,) + oxygen — ferric oxide + sulphur dioxide
+(1) Potassium permanganate + hydrochloric acid — potassium chloride + manganese chloride + chlorine + water
+(m) Aluminium sulphate + sodium hydroxide — sodium sulphate + sodium meta aluminate + water.
+(n) Aluminium + sodium hydroxide + water — sodium meta aluminate + hydrogen
+(0) Potassium dichromate + sulphuric acid — potassium sulphate + chromium sulphate + water + oxygen.
+(p) Potassium dichromate + hydrochloric acid —> potassium chloride + chromium chloride + water + chlorine.
+(q) Sulphur + nitric acid — sulphuric acid + nitrogen dioxide + water.
+
+(r) Sodium chloride + manganese dioxide + sulphuric acid — sodium hydrogen sulphate
++ manganese sulphate + water + chlorine.
+
+9.(a) Define atomic mass unit.
+(b) Calculate the molecular mass of the following :
+(i) CuSO,5H,O (ii) (NH,),CO,
+(iii) (NH,),CO (iv) Mg,N,
+Given atomic mass of Cu = 63-5, H = 1, O = 16, C = 12, N = 14, Mg = 24, S = 32
+10. Choose the correct answer from the options given below.
+(a) Modern atomic symbols are based on the method proposed by
+
+(i) Bohr (ii) Dalton
+(iii) Berzelius (iv) Alchemist
+(b) The number of carbon atoms in a hydrogen carbonate radical is
+(i) one (ii) two
+(iii) three (iv) four
+(c) The formula of iron (III) sulphate is
+(i) Fe,SO, (ii) Fe(SO,),
+(ili) Fe,(SO,), (iv) FeSO,
+(d) In water, the hydrogen-to-oxygen mass ratio is
+(i) 1:8 (ii) 1:16
+(iii) 1:32 (iv) 1:64
+(e) The formula of sodium carbonate is Na,CO, and that of calcium hydrogen carbonate is
+(i) CaHCO,
+(ii) Ca(HCO,),
+(ili) Ca,HCO,
+
+(iv) Ca(HCO,),
+11. Correct the following statements
+(a) A molecular formula represents an element.
+
+(b) Molecular formula of water (HO) represents 9 parts by mass of water.
+
+nO Ww
+
+
+--- Page 19 ---
+(c) A balanced equation obeys the law of conservation of mass and so does an unbalanced equation.
+(d) A molecule of an element is always monoatomic.
+
+(e) CO and Co both represent cobalt.
+
+12. Calculate the relative molecular masses of :
+[For atomic masses, refer page no (v)]
+
+(a) CHCl, (b) (NH,), Cr,0,
+(c) CuSO, - 5H,O (d) (NH,),SO,
+(e) CH, COONa (f) Potassium chlorate
+
+(g) Ammonium chloroplatinate (NH,), PtCl,
+13. Give the empirical formula of :
+(a) Benzene (C,H,) (b) Glucose (C,H,,0,)
+(c) Acetylene (C,H,) (d) Acetic acid (CH,COOH)
+14. Find the percentage mass of water in the Epsom salt MgSO,-7H,O.
+
+15. Calculate the percentage of phosphorus in :
+(a) Calcium hydrogen phosphate Ca(H,PO,),
+(b) Calcium phosphate Ca,(PO,),
+16. Calculate the percentage composition of each element in Potassium chlorate, KCIO,.
+
+17. Urea is a very important nitrogenous fertilizer. Its formula is CON,H,. Calculate the percentage of carbon in urea.
+(C=12,0= 16, N = 14 and H= 1)
+
+(S50 es
+
+12. (a) 119-5 (b) 252 (c) 249-5 (d) 132 (e) 82 (f) 122-5 (g) 444
+15. (a) 265% (b) 20% 16. K = 31-83%, Cl = 28-98%, O = 39-18% 17.20%
+

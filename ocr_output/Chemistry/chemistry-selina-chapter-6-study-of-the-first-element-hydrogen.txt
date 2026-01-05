@@ -1,0 +1,1942 @@
+
+
+--- Page 1 ---
+>
+
+STUDY OF THE FIRST ELEMENT —
+HYDROGEN
+
+S
+
+SYLLABUS
+
+Position of the non-metal (Hydrogen) in the periodic table and general group characteristics with reference to
+valency electrons, buming, ion formation applied to the above mentioned element.
+
+(i) Hydrogen from: water, dilute acids and alkalis.
+(a) Hydrogen from water.“
+¢ The action of cold water on sodium, potassium and calcium.
+¢ The action of hot water on magnesium.
+¢ The action of steam on aluminium, zinc, and iron; (reversibility of reaction between iron and steam)
+* The action of steam on non-metal (carbon).
+Application of activity series for the above mentioned reactions.
+(b) Displacement of hydrogen from dilute acids:
+¢ The action of dilute sulphuric acid or hydrochloric acid on metals: Mg, Al, Zn and Fe
+(To understand reasons for not using other metals and dilute nitric acid )
+(c) Displacement of hydrogen from alkalis:
+© The action of Alkalis ((NaQH, KOH) on Al, Zn and Pb — unique nature of these elements.
+(ii) The preparation and collection of hydrogen by a standard laboratory method other than electrolysis.
+
+In the laboratory preparation, the reason for using zinc, the impurities in the gas, their removal and the
+precautions in the collection of the gas must be mentioned.
+
+(iii) Industrial manufacture of hydrogen by Bosch process:
+
+¢ Main reactions and conditions. ¢ Separation of CO, and CO from hydrogen.
+(iv) Oxidation and reduction reactions
+
+Differences in terms of addition and removal of oxygen/hydrogen.
+
+POSITION OF HYDROGEN IN PERIODIC
+TABLE
+
+Hydrogen is the first element in the periodic table.
+Its atomic number is 1, and it has only one electron in
+its valence shell. Therefore, it belongs to the first
+group and the first period of the periodic table.
+
+It is expected that the properties of hydrogen
+should be similar to those of the other members of the
+Ist group, but this is not the case. Ever since Mendeleev
+presented his periodic table, the position of hydrogen
+in the table has been a matter of controversy and
+debate. This is mainly because some of the properties
+
+Periodic Table 6.1
+3-12 13 14 15 16 17
+
+IWAIVA VA VIA V
+
+Hydrogen molecule
+
+Relative atomic mass =1
+Relative molecular mass =2
+
+Symbol =H
+
+Molecular formula = H,
+Valency = 1 Atomic number = 1
+Electronic configuration : 1 (K shell)
+
+Position in Periodic Table : 1st Period; 1A Group
+
+of hydrogen resemble the properties of the Group IA
+elements (alkali metals) while others are similar to
+those of the Group VII A (halogens) elements.
+Thompson suggested a separate position for hydrogen.
+He puts it at the top of the periodic table; that does
+not disturb the symmetry of the modern periodic table.
+
+sein 3p
+
+
+--- Page 2 ---
+Action of air : Alkali metals are so reactive that
+they get rapidly tarnished when exposed to air. This
+is due to the formation of oxides and hydroxides,
+and finally, carbonates, on their surface.
+
+Note ; Hydrogen shows a dual nature since it resembles
+
+the alkali metals of Group IA and the halogens of
+Group VII A (17).
+
+6.2 SIMILARITIES BETWEEN HYDROGEN AND
+
+ALKALI METALS Example :
+1. Electronic configuration: They have only one 4Na + O, > 2Na,O
+electron in their outermost orbits. Na,O + H,O — 2NaOH
+K LM N_ O P (Shells) 2NaOH + CO, > Na,CO, + H,O
+
+H (1) 1 Note : Due to their reactivity, alkali metals are
+Li (3) 2, 1 always stored in an inert organic solvent, such as
+Na (11) 2, 8, 1 kerosene oil. This inert solvent prevents them
+K (19) 2, 8 8 1 from coming in contact with air and moisture.
+Rb (37) 2, 8, 18, 8 1 7. Combination with non-metals : Hydrogen as well
+Cs (55) 2, 8, 18, 18, 8 1 as alkali metals react with non-metals like
+Fr (87) : 2, 8, 18, 32, 18, 8 1 oxygen, sulphur and chlorine to form respective
+
+. Valence electrons : All elements have one electron
+in their outermost orbit, i.e. their valency shell
+and so all of them have one valence electron.
+
+. Valency : All alkali metals, including hydrogen,
+have valency 1.
+
+. Ion formation : Each of them can form cation, i.e.
+positive ion, by loss of an electron.
+
+6.3
+
+compounds.
+
+Hydrogen — forms HO; H,S; HCl
+Sodium — forms Na,O; Na,S; NaCl
+and so on.
+
+SIMILARITIES BETWEEN HYDROGEN AND
+HALOGENS
+
+. 1. Electronic configuration : Hydrogen and
+H>H* +e halogens have one electron less than the nearest
+Na > Nat+e H = | (He = 2],
+
+As such all these elements have electropositive
+character.
+
+. Reducing power : Both the alkali metals
+and hydrogen act as reducing agents.
+
+CuO + H, — Cu+H,0
+CuO + 2Na — Cu + Na,O
+. Burning : Hydrogen burns in oxygen to form its
+oxide (water).
+2H, + O, > 2H,O
+Hydrogen burns with a pop sound.
+Alkali metals also burn vigorously when heated
+in oxygen to form their respective oxides.
+Lithium forms monoxide
+
+F = 2, 7 [Ne = 2, 8),
+Ci = 2, 8, 7 (Ar 2, 8, 8)
+
+. Valency : Both have valency 1.
+
+Thus, they accept one electron to attain the
+electronic configuration of the nearest inert gas.
+
+. Formation of ions : Both show a tendency to form
+
+anions since they are one electron short of the
+nearest inert gas configuration.
+
+H+e>H
+Cl+te + Chr
+
+. Electronegative character : Both halogens
+
+and hydrogen are non-metals. They show
+electronegative character.
+
+4Li + O, > 2Li,0 H+e3H
+Sodium forms peroxide F+e3F
+2Na + O, > Na,O, 5. Physical state : Like halogens (fluorine and
+
+while potassium, rubidium and caesium form
+superoxides having the general formula MO,
+(where M stands for metal).
+
+K +0, — KO,
+
+chlorine), hydrogen too is a gas.
+
+Atomicity : Hydrogen as well as halogens exist
+in the form of diatomic molecules (H,, F,, CL,
+Br,, I).
+
+
+--- Page 3 ---
+Properties of Hydrogen different from those of
+Alkali Metals and Halogens.
+
+1. Hydrogen atom has only one shell but alkali
+metals and halogens have two or more shells.
+
+2. Oxide of hydrogen, H,0, is a neutral oxide.
+Oxides of halogens like CLO, C1,0,, etc., are
+acidic in nature, while oxides of alkali metals like
+Na,O, K,O, etc. are basic in nature.
+
+6.4 DISCOVERY
+
+The credit for the discovery of hydrogen goes
+to Henry Cavendish (1766), although Robert
+Boyle had prepared the gas in 1672. Not only did
+Cavendish prepare the gas from iron and dilute
+acids, he also established its elementary nature and
+showed that water is formed when this gas burns
+in air, He called it inflammable air because of its
+combustible nature. It was on account of its ability
+to form water that Lavoisier, in 1783, named it
+hydrogen (Greek word meaning water former).
+
+6.5 OCCURRENCE
+Free state
+
+In free state, hydrogen is found in traces in the
+earth’s crust and atmosphere. Volcanic gases contain
+0:025% of it, the earth’s crust 0-98%, the earth’s
+atmosphere 0-01% and the atmospheres of the Sun and
+the stars contain 1.1% hydrogen.
+
+Combined state
+
+(i) Plant and animal tissues are made up of
+compounds of hydrogen with carbon, oxygen and
+nitrogen.
+
+(ii) Hydrogen is the characteristic constituent of
+acids, alkalis, hydrocarbons and proteins. In
+addition to these, sugar, starch, petroleum
+products, proteins, carbohydrates and also fats
+contain hydrogen.
+
+(iii) In water, it is 11-1% by weight.
+
+6.6 PREPARATION OF HYDROGEN
+Since water, acids and alkalis contain hydrogen,
+
+they form the cheapest raw materials for preparation
+
+and manufacture of hydrogen.
+
+6.6.1 Hydrogen from water
+
+Hydrogen from cold water and metals
+
+Reactive metals like potassium, sodium and
+calcium react with cold water forming their
+corresponding hydroxides and evolving hydrogen.
+Their reactions are exothermic.
+
+(a) Potassium :
+
+1. Potassium when added to water, floats on
+water (density 0-86 g/cc).
+
+2. It melts [at 62°C], forming a silver grey globule
+that darts about on the surface of the water.
+
+3. Reaction : 2K + 2H,O —> 2KOH + H,
+The reaction is highly exothermic and vigorous.
+
+4. It catches fire and burns with a lilac-coloured
+flame.
+
+5. Bubbles of hydrogen gas are seen, and the solution
+formed is colourless, soapy and alkaline.
+
+POTASSIUM
+
+COLD WATER
+
+Fig. 6.1 Action of potassium on cold water
+
+Although pure hydrogen burns with a pale blue
+flame, the colour of the flame is lilac due to the
+presence of traces of potassium vapour.
+
+Caution! Potassium readily catches fire in air
+because it reacts with water vapour. So it is kept in
+kerosene oil and handled carefully. Do not touch it
+with your hand, rather use a pair of tongs.
+
+(b) Sodium :
+
+1. It floats on water; density 0.97 g/cc; melting point
+97°C.
+
+2. It melts, forming a silvery globule, which darts
+about on the surface of the water.
+
+3. Reaction : 2Na + 2H,O —> 2NaOH + H,
+
+The reaction is less exothermic and less vigorous
+as compared to potassium.
+
+HYDROGEN
+
+Fig. 6.2 Action of sodium on water
+
+95
+
+
+--- Page 4 ---
+4. It catches fire and burns with a golden yellow
+
+flame.
+
+5. Bubbles of hydrogen gas are produced, and the
+solution formed is colourless, soapy, slightly warm
+and alkaline.
+
+Note : Sodium amalgam (alloy of sodium with
+mercury) and potassium amalgam react smoothly with
+water. Therefore hydrogen can be safely prepared
+from these amalgams.
+
+(c) Calcium :
+1. Calcium sinks in water.
+2. Reaction : Ca + 2H,O ——> Ca(OH), + H,
+Reaction is less vigorous than sodium.
+
+3. Bubbles of hydrogen are liberated, and the
+solution turns milky, turbid and alkaline. If red
+litmus is introduced in solution it turns blue.
+
+HYDROGEN
+GAS
+
+INVERTED
+FUNNEL
+
+WATER
+
+CALCIUM
+pe ~ METAL
+
+Fig. 6.3 Action of calcium on water
+
+Action of hot water and steam on metals
+
+(i) Magnesium reacts slowly with boiling water
+and forms a base, magnesium hydroxide
+liberating hydrogen gas.
+
+Mg + 2H,O > Mg(OH), + H,T
+
+(ii) Magnesium burns in steam with an intense
+white light, liberating hydrogen gas and white
+ash, i.e., magnesium oxide.
+
+Mg + H,O > MgO + H,T
+Magnesium oxide crumbles down due to
+heating, further exposing magnesium to steam
+results in the liberation of hydrogen gas.
+
+MAGNESIUM RIBBON SPIRAL
+
+BOILING
+
+WATER
+
+Fig. 6.4 Action of magnesium on steam
+
+Action of steam on metals
+(a) Aluminium :
+1. It reacts with steam to liberate hydrogen.
+
+2. It forms aluminium oxide, which makes it
+inactive, and liberates hydrogen. There is no
+further reaction due to the oxide coating.
+
+2Al + 3H,0 22, aL, + 3H,
+
+Steam
+3. At high temperature, however, the coating breaks
+and aluminium reacts with steam, liberating
+hydrogen.
+(b) Zinc:
+1. It is even less reactive i.e. it reacts only when it is
+heated and steam is passed over it.
+
+2. Hydrogen is liberated and zinc is converted to
+white zinc oxide.
+
+Zn + H,O > ZnO + H,
+
+3. Zinc oxide is yellow when it is hot but white when
+it is cold.
+
+(c) Iron:
+
+1. Iron is less reactive than zinc, but red hot iron
+reacts with steam, forming triferric tetra-oxide
+and hydrogen gas.
+
+2. This reaction is reversible. If the hydrogen
+formed is not removed, the iron oxide formed
+is reduced back to iron.
+
+3Fe + 4H,O0 —— Fe,0, + 4H,T
+
+6 pen
+
+
+--- Page 5 ---
+SILICA GLASS
+TUBE
+iM
+
+STEEL WOOL
+
+HYDROGEN
+
+Fig. 6.5 Action of iron on steam
+
+Note : In the beginning, the forward reaction
+is fast and the backward reaction is slow, since the
+speed of a reaction is directly related to the masses
+(or the concentrations) of the reacting substances.
+As the reactants get consumed, the forward reaction
+becomes slower. In other words, as the products
+are formed, the backward reaction becomes faster.
+There comes a time when the forward and
+backward reactions acquire the same speed.
+Thereafter, the reaction does not appear to move
+in a single direction, and the amounts of the
+reactants and the products do not change. This
+equilibrium stage is attained at 700°C.
+
+An equilibrium, that is attained through a chemical
+
+change is known as a chemical equilibrium.
+
+Note : When metals react with steam :
+
+(i) rate of reaction is fastest in the case of
+magnesium but it progressively decreases in
+the cases of aluminium, zinc and iron.
+
+(ii) in the case of magnesium, aluminium and
+
+zinc, the reactions stop after some time.
+This is because the oxides of these metals
+stick to the surfaces of the respective metals
+and thus do not allow steam to come into
+contact with the metal.
+
+Action of steam on non-metals
+
+Carbon : When steam is passed over red hot coke,
+water gas (CO + H,) is formed.
+
+C+H,O -— CO+
+H, H,
+
+Water gas
+
+6.7. APPLICATION OF ACTIVITY SERIES IN THE
+PREPARATION OF HYDROGEN
+
+Based on reaction with water, metals are arranged
+in decreasing order of reactivity.
+
+K
+
+Na Arrangement of metals in decreasing
+Me order of reactivity in the form of a
+Al series is called the activity or reactivity
+Zn series of metals.
+
+Fe
+
+Pb
+
+nm Thus, potassium being the most reactive
+Hg metal is placed at the top of the list, and
+Ag the least reactive metal being gold, is
+Au placed at the bottom of the list.
+
+Hydrogen, though it is a non-metal, is
+included in this series because it can form a
+positive ion. It would occupy a position based on
+formation of its positive ion.
+
+The ability of metals to reduce water to hydrogen
+decreases on going down the series.
+
+K > Na > Ca > Mg > Al > Zn.......0......
+
+Lead and the metals that are further below in the
+activity series : No reaction with water, even when the
+metal is hot and steam is used.
+
+6.7.1 Salient features of the Activity Series
+(i) Electropositive character decreases down the
+series.
+(ii) Reducing power of metals decreases down the
+
+series. Thus, potassium is the strongest reducing
+agent.
+
+_ (iti) Tendency of metals to lose valence electrons, i.e.
+tendency of metals to get oxidized, decreases
+down the series. Thus, potassium is the most
+readily oxidized metal.
+
+(iv) Metals above hydrogen displace hydrogen from
+water and dilute acid, but metals below hydrogen
+do not.
+
+2Na + 2H,O — 2NaOH + H,
+Cu + H,O — No reaction
+Zn + 2HCI (dil.) — ZnCl, + H,
+Cu + HCI (dil.) — No reaction
+
+(v) A metal higher up in the series displaces a metal
+below it from the salt solutions of the latter.
+
+CuSO,(aq) + Zn — ZnSO,(aq) + Cu
+Larger the difference in the positions of the
+
+91
+
+
+--- Page 6 ---
+metals in the activity series, more rapidly the
+displacement occurs.
+(vi) Oxides of metals K, Na, Ca, Mg and Al cannot
+be reduced by common reducing agents like H,,
+CO or C. They can be reduced only by electrolysis.
+Metal oxides below aluminium can be reduced by
+heating them in the presence of reducing agents.
+ZnO + C > Zn + CO
+PbO + C > Pb + CO
+
+@¢ When dilute sulphuric acid or dilute
+hydrochloric acid reacts with metals above
+hydrogen in the activity series, hydrogen is
+produced. But in the case of metals below
+hydrogen in the activity series, like copper.
+silver, etc., this does not happen.
+
+¢ Magnesium, aluminium, zinc and iron react
+with dilute HCI or dilute H,SO,, liberating
+
+PbO + CO > Pb + CO,
+PbO + H, > Pb + H,O
+
+(vii) Oxides and nitrates of less reactive metals like
+Hg, Ag and Au decompose on strong heating to
+give metals.
+
+2HgO — 2Hg + O,
+2AgNO, — 2Ag + 2NO, + O,
+(viii) Metals below copper do not rust easily.
+
+(ix) Since the reactivity series lists metals in
+decreasing order of electropositivity, it is
+expected that those at the top will combine with
+more electronegative elements in their minerals.
+For example, sodium and potassium occur
+mainly as their chlorides, aluminium as its oxide,
+and zinc, lead, copper, mercury and silver as
+their sulphides.
+
+6.7.2 Displacement of hydrogen from dilute acids
+
+Hydrogen is displaced from dilute hydrochloric
+acid and dilute sulphuric acid when the latter react with
+some metals which are more reactive than hydrogen.
+
+The extent to which these reactions occur for a given
+metal is also based on the activity series of metals.
+
+These displace hydrogen from dilute acids (HCI or
+H,SO,) with explosive violence
+
+These displace hydrogen from dilute acids (HCI or
+
+H,SO,) vigorously, but not violently forming
+their respective salts
+
+‘ These displace hydrogen from dilute acids (HC! or
+
+H,SO,) gently forming their respective salts
+
+These do not displace hydrogen from dilute acids
+at all
+
+hydrogen and forming their respective salts.
+
+Metal Acid [dil.] Salt Hydrogen
+
+1. Magnesium
+Mg +
+
+2HCl — MgCl, + 4H,
+
+2. Aluminium
+
+2Al + 3H,SO, — AL(SO,), + 3H,
+3. Zinc
+
+Zn + H,SO, — ZnSO, + 4H,
+4. Iron
+
+Fe + 2HCI — FeCl, + H,
+
+Zinc is the most preferred metal in laboratory
+preparation of hydrogen because of the following
+reasons :
+
+(i) Sodium and potassium react violently with
+acid.
+
+(ii) Calcium and magnesium are expensive.
+
+(iii) Aluminium forms a protective coating of
+Al,O, due to its great affinity for oxygen.
+So, it does not give hydrogen with acid after
+the reaction has occured for some time.
+
+(iv) Iron has to be heated, but then the
+hydrogen thus produced contains impurities
+
+like hydrogen sulphide and sulphur dioxide.
+
+(v) Lead reacts with dilute sulphuric or
+hydrochloric acid and forms an insoluble
+coating of lead sulphate or lead chloride.
+Therefore, further reaction is prevented.
+
+(vi) Hydrogen cannot be prepared from metals
+that are below it in the activity series of
+metals, such as copper and mercury, since
+only metals that are more reactive than
+hydrogen can displace it from acids.
+
+e.g., Cu + HCl — No reaction
+(dil.)
+
+
+
+--- Page 7 ---
+6.7.3 Displacement of hydrogen by alkalis
+
+Metals like zinc, lead and aluminium have a
+unique nature. They react with acids and can even
+react with hot concentrated alkalis to form hydrogen
+and a soluble salt.
+
+Metal [powdered] Alkali Salt Hydrogen
+Amphoteric [conc. soln.]
+
+1. Zine
+Zn + 2NaOH — Na,ZnO, + H,
+
+Sodium zincate
+
+Zn + 2KOH > K,Zn0, + H,
+Potassium zincate
+2. Lead
+Pb + 2Na0H -> Na,PbO, + H,
+Sodium plumbite
+Pb + 2KOH ~ K,PbO, + H,
+
+3. Aluminium
+
+2Al + 6NaOH — 2Na,Al0, + 3H,
+fused Sodium aluminite
+2A] + 2NaOH + 2H,O > 2NaAlIO, + 3H,
+
+Sodium meta aluminate
+
+2Al + 2KOH + 2H,O — 2KAIO, + 3H,
+
+Potassium meta aluminate
+
+Oxides and hydroxides of zinc, lead and
+aluminium are AMPHOTERIC, i.e., they react with
+both bases and acids to give salt and water.
+
+ZnO + 2HCl — ZnCl, + HO
+
+ZnO + 2NaOH — Na,Zn0, + H,O
+(Sodium (Sodium
+hydroxide) zincate)
+
+EXCERCISE 6(A)
+
+1. Justify the position of Hydrogen in the periodic table.
+2. Why does hydrogen show dual nature ?
+
+3. Compare hydrogen with alkali metals on the basis of :
+(i) Ion formation (ii) Reducing power
+(iii) Reaction with oxygen (iv) Oxide formation
+4. In what respect does hydrogen differ from :
+(i) alkali metals (ii) halogens ?
+5. Give the general group study of hydrogen with reference
+to
+(i) valence electrons (ii) burning
+(ili) reducing power.
+6. Why was hydrogen called ‘inflammable air ?
+7. State some sources of hydrogen.
+
+8. Compare hydrogen and halogens on the basis of :
+(i) physical state (ii)
+(iii) valency (iv)
+
+ion formation
+reaction with oxygen
+
+9. Which metal is preferred for preparation of hydrogen.
+(i) from water ? (ii) from acid ?
+
+10. (i) Write the reaction of steam with red-hot iron
+(ii) Why this reaction is considered as reversible
+reaction ?
+(iii) How the reaction can proceed continuously ?
+
+11. Explain the unique nature of zinc and aluminium.
+Give balanced equations to support your explanation.
+
+12. Write balanced equations for the following :
+(i) Iron reacts with dil HCl
+(ii) Zinc reacts with caustic soda solution
+(iii) Lead reacts with potassium hydroxide
+(iv) Aluminium reacts with fused sodium hydroxide.
+13. Write balanced equations and give your observations when
+the following metals react :
+(i) Sodium with cold water
+(ii) Calcium with cold water
+(iii) Magnesium with boiling water
+(iv) Magnesium with steam.
+14. (i)_~ Under what conditions iron reacts wth water.
+(ii) Give the balanced equation of the reaction.
+(iii) What is noticed if the products are not allowed to
+escape ?
+15. From the knowledge of activity series, name a metal which
+shows the following properties
+(i) It reacts readily with cold water
+(ii) It displaces hydrogen from hot water
+(iii) It displaces hydrogen from dilute HCl
+(iv) It forms a base which is insoluble in water.
+
+
+
+--- Page 8 ---
+6.8 LABORATORY PREPARATION OF
+HYDROGEN
+
+Reactants :
+Granulated zinc; dilute hydrochloric acid or
+dilute sulphuric acid.
+
+Procedure :
+
+Place some pieces of granulated zinc in a flat-
+bottom flask fitted with an air tight cork with two
+holes. Through one hole, pass a thistle funnel with a
+long stem, and through the other, a long delivery tube
+(Fig. 6.6).
+
+Pour dilute hydrochloric acid (or dilute sulphuric
+acid) through the funnel.
+
+Reaction :
+Zn + 2HCI > ZnCl, + H, T
+' Gilute)
+OR
+Zn + H,SO, > ZnSO, + H, T
+(dilute)
+
+DILUTE SULPHURIC ACID/
+in DILUTE HYDROCHLORIC ACID
+[
+
+THISTLE FUNNEL (OR DROPPING FUNNEL)
+
+Fig. 6.6 Laboratory preparation of hydrogen
+
+Zinc granules are preferred for this reaction over pure
+zinc because the impurity present in granulated zinc is
+
+copper, whose catalysing effect speeds up the rate
+of reaction.
+
+Observation :
+
+Reaction will gradually start in the form of
+effervescence and evolution of gas. When all the air
+from the apparatus has been expelled, collect the gas.
+
+Collection of hydrogen
+
+Hydrogen is collected by the downward
+displacement of water because :
+
+100
+
+(i) it is virtually insoluble in water (20 mL of
+hydrogen disolves in 1litre of water under normal
+conditions).
+
+(ii) it forms an explosive mixture with air and
+therefore cannot be collected by downward
+displacement of air even though it is lighter
+than it.
+
+Impurities present with hydrogen :
+
+(i) hydrogen sulphide (H,S)
+
+(ii) sulphur dioxide (SO,)
+
+(iii) oxides of nitrogen
+
+(iv) phosphine (PH,)
+
+(v) arsine (AsH,)
+
+(vi) .carbon dioxide
+
+(vii) water vapour
+
+Impurities can be removed from hydrogen by
+
+passing it through
+
+1. Silver nitrate solution [to remove arsine and
+phosphine].
+AsH, + 6AgNO, — Ag,As + 3AgNO, + 3HNO,
+PH, + 6AgNO, — Ag,P + 3AgNO, + 3HNO,
+2. Lead nitrate solution (to remove hydrogen
+sulphide].
+Pb(NO,), + H,S —» PbS + 2HNO,
+3. Caustic potash solution [to remove sulphur
+dioxide, carbon dioxide and oxides of nitrogen].
+SO, + 2KOH — K,SO, + H,O
+CO, + 2KOH > K,CO, + H,O
+2NO, + 2KOH — KNO, + KNO, + H,O
+
+Pure, dry
+
+H,S, CO,,
+hydrogen
+
+Impure SO,, H,O
+
+CO,,S0,H,0 4.9
+
+KOH
+solution
+
+AgNO,
+solution
+
+Pb(NO,),
+solution
+
+Anhydrous CaCi,
+
+Fig. 6.4 Purification of hydrogen.
+
+
+
+--- Page 9 ---
+4. A drying agent used to dry the gas. Common
+drying agents like fused calcium chloride, caustic
+potash stick and phosphorous pentoxide remove
+water vapour.
+
+Thus the gas is purified and dried, and then
+collected over mercury, because mercury has no
+reaction with it.
+
+Concentrated sulphuric acid is a good drying agent
+but it is not used to dry hydrogen as it reacts with
+hydrogen, thus defeating the purpose of the
+reaction.
+
+H,SO, + H, > 2H,0 + SO,
+
+Precautions :
+
+The following precautions must be taken while
+preparing the gas because a mixture of hydrogen
+and air explodes violently when it is brought near a
+flame.
+
+1. The apparatus should be airtight and there should
+be no leakage of gas.
+
+2. There should be no flame burning near the
+apparatus.
+
+3. The gas should be collected only after
+all the air in the apparatus has escaped. This
+can be ascertained by collecting some amount of
+gas in a test tube and taking it to a flame. If
+the gas burns quietly, then there is no more air in
+the flask.
+
+4. The end of the thistle funnel should be dipped
+under acid so as to prevent gas from escaping
+from the thistle funnel.
+
+Note:
+
+1. Nitric acid, even in its dilute form, is not used in
+preparation of hydrogen from metals because:
+
+Nitric acid is a powerful oxidizing agent, and the
+oxygen formed due to its decomposition oxidizes
+the hydrogen to give water, thus defeating the
+purpose of the reaction.
+
+3Zn + 8HNO, — 3Zn(NO,), + 4H,0 + 2NOT
+2. Magnesium [Mg] and manganese [Mn] are the only
+
+metals that react with very dilute nitric acid (1%
+nitric acid) to liberate hydrogen. The oxidizing
+
+w
+
+action of the acid is much reduced due to its over-
+dilution.
+Mg + 2HNO, -> Mg(NO,), + H,T
+3. Concentratcd sulphuric acid is not used in
+preparation of hydrogen as it will produce sulphur
+dioxide.
+
+Zn + 2H,SO, — ZnSO, + SO, + 2H,O
+
+TEST FOR HYDROGEN
+
+1. Hydrogen is combustible but it does not support
+combustion.
+
+2. It burns silently in air or oxygen with a pale blue
+flame, forming water.
+
+2H, + O, > 2H,O
+
+When it is premixed with air or oxygen, it
+explodes with a pop sound.
+
+6.9 MANUFACTURE OF HYDROGEN
+I. Bosch process :
+
+It consists of the following steps :
+(i) Steam is passed over hot coke (1000°C) in
+furnaces of a special design, called converters,
+giving water gas.
+
+c + Ho “SS Co+H)- A
+
+hot coke steam water gas
+The reaction is endothermic.
+(41) Water gas is mixed with excess steam and passed
+over heated ferric oxide, which acts as a catalyst,
+and chromic oxide Cr,O,, which acts as a promoter.
+
+Fe,0,
+(CO + H,) + HO ——— CO, + 2H, +A
+water gas steam orc
+The reaction is exothermic.
+(iii) Separation of carbon dioxide
+The above mixture, i.e. CO, + H,, is forced
+through cold water under pressure (30 atm), or
+through caustic potash solution, which dissolves
+the more soluble carbon dioxide, leaving hydrogen.
+2KOH + CO, > K,CO, + H,O
+(iv) Separation of carbon monoxide
+The mixture is passed through ammoniacal
+cuprous chloride solution in order to dissolve any
+uncombined carbon monoxide.
+CuCl + CO + 2H,0 — CuCl. CO. 2H,O0
+Thus, hydrogen gas is left behind.
+
+_—_——— 101)
+
+
+--- Page 10 ---
+Il. By electrolysis of water :
+
+Commercially hydrogen is also obtained by
+electrolysis of acidulated water.
+
+Water is a poor conductor of electricity. In order
+
+to make it a conductor, a very small amount of less
+volatile acid, sulphuric acid (H,SO,), is added.
+
+ACIDULATED WATER
+
+HYDROGEN
+
+OXYGEN
+
+CATHODE
+
+ANODE
++
+
+Fig. 6.5 Electrolysis of water.
+
+On passing electric current through acidulated
+water, water dissociates.
+
+H,O = Ht +OH-
+
+H* being positively charged, moves towards
+cathode (negatively-charged electrode).
+
+At cathode H* +e" — H
+H+H —- H,
+Hydrogen gas is evolved at the cathode.
+
+OH” being negatively charged, moves towards
+anode (positively-charged electrode).
+
+Anode OH--e — OH
+OH+OH — H,0+0
+0+0 > 0,
+Oxygen is evolved at the anode.
+
+Thus, water dissociates to give hydrogen and
+oxygen with the help of electric current.
+
+2H,0 «See, 2H, + OO,
+(acidulated) (at cathode) (at anode)
+
+The main advantage of this process lies in the
+fact that oxygen is simultaneously produced at the
+anode and both the gases are pure.
+
+EXCERCISE 6(B) |
+
+1. Hydrogen can be prepared with the metal zinc by using :
+(i) acid = (ii) alkali_—(iti) water
+Give an equation in each case.
+
+2. For laboratory preparation of hydrogen, give the
+following :
+
+(a) materials used
+(c) chemical equation
+
+(b) method of collection
+
+(d) fully-labelled diagram
+
+3. (a) Name the impurities present in hydrogen prepared in
+
+the laboratory.
+
+(b) How can these impurities be removed.
+
+4, Which test should be made before collecting hydrogen in a
+gas jar ?
+
+5. Why nitric acid is not used in the preparation of hydrogen.
+
+6. Why hot concentrated sulphuric acid is not used in
+preparation of hydrogen ?
+
+7. Hydrogen is manufactured by ‘Bosch Process’.
+(a) Give the equations with conditions.
+
+(b) How can you obtain hydrogen from a mixture of
+hydrogen and carbon monoxide ?
+
+8. Give equations to express the reaction between :
+(a) steam and red hot iron
+(b) calcium and water
+9. A small piece of calcium metal is put into a small
+
+trough containing water. There is effervescence and
+white turbidity is formed.
+
+(a) Name the gas formed in the reaction. How would you
+test the gas ?
+(b) Write an equation for the reaction.
+
+(c) What do you observe when a few drops of red litmus
+solution are added to the turbid solution ?
+
+(d) What happens if dilute hydrochloric acid is added to
+the turbid solution ? Write the equation for the reaction.
+10. Thin strips of magnesium, copper and iron are taken.
+(a) Write down what happens when these metals are
+treated as follows :
+(i) Heated in presence of air
+(ii) Heated with dil. HCl
+(iii) Added to an aqueous solution of zinc sulphate
+
+(b) Arrange these metals in descending order of
+reactivity.
+
+
+
+--- Page 11 ---
+6.10 PROPERTIES OF HYDROGEN
+6.10.1 Physical properties
+
+1. Colour : Colourless.
+2. Odour : Odourless.
+3. Taste : Tasteless.
+4. Physiological
+nature : Non-toxic.
+5. Density : 0-0899 g/mL. It is the lightest known
+
+gas. It is 14-4 times less dense than
+air.
+
+6. Solubility : Very slightly soluble in water.
+
+[1 L of water dissolves about 20 mL
+of the gas under normal conditions].
+
+: Liquefies at below -240°C under
+pressure of about 20 atmosphere.
+
+7. Liquefaction
+
+Occlusion : Hydrogen is readily adsorbed by
+palladium or platinum or nickel at room temperature.
+For example, one volume of finely divided palladium
+takes up 900 volumes of hydrogen at room temperature.
+This phenomenon is called occlusion or adsorption.
+
+1. Reaction of hydrogen with non-metals
+
+To prove that hydrogen is a very light gas -
+
+Experiment : Take soap solution in a ‘Betker
+and allow hydrogen to pass through it. To
+
+On passing hydrogen gas through the soap
+solution, soap bubbles filled with hydrogen fly higher
+and burst out. This behaviour proves that hydrogen
+is lighter than air.
+
+hydrogen
+
+diluted
+hydrochloric acid
+
+zinc granules
+
+Fig. 6.9 : Hydrogen filled soap bubbles rise
+upwards in the air
+
+6.10.2 Chemical properties
+
+Hydrogen is a reactive element; it reacts with
+non-metals, metals, metallic oxides and even organic
+compounds under appropriate conditions. It does not
+support combustion.
+
+Condition and observations
+
+Hydrogen burns (in presence of electric spark) with a ‘pop’ sound in oxygen, and
+with a pale blue flame, forming water. Pure hydrogen bums quietly in air (Fig. 6.10).
+
+Equal volumes of hydrogen and chlorine react slowly in diffused sunlight
+but explosively in direct sunlight.
+This is because a spontaneous reaction takes place, with release of a large amount
+
+of energy. However, hydrogen continues to burn in chlorine.
+
+Reactants Equations
+Reactants Products
+1. Oxygen [air] 2H,+O, —— > 2H,0
+and hydrogen (water)
+2. Chlorine and H,+ClL, —- 2HCl
+hydrogen (hydrogen
+chloride)
+3. Nitrogen and N,+3H, ==  2NH,
+hydrogen
+(Haber Process)
+4. Sulphur and H,+S — HS
+hydrogen
+Burning H, with
+blue flame
+
+Boiling tube
+
+Fig. 6.10 Hydrogen
+burns in air to form
+water.
+
+Water
+
+Three volumes of hydrogen and one volume of nitrogen react at temperature of
+(ammonia) 450-500°C, pressure 200-900 atm, in presence of catalyst finely divided iron
+with molybdenum as promoter.
+
+Hydrogen gas, when passed through molten sulphur, reacts to give another gas
+(hydrogen sulphide).
+
+Note : Hydrogen forms an explosive mixture with air
+(due to the oxygen present in air). If the amount of
+air is less in the mixture, the explosion is not
+dangerous, i.e. the gas burns with a pop sound only.
+But a large volume of mixture causes a dangerous
+explosion leading to serious damage and injuries.
+(Hydrogen-oxygen mixture is called detonating
+mixture).
+
+
+--- Page 12 ---
+2. Reaction of hydrogen with metals ~
+Reactants Equation
+Reactants Products
+
+2K + H, —*» 2KH
+
+2Na + H, —> 2NaH
+
+Ca + H, —*+ > CaH,
+
+Hydrogen and :
+1. Potassium
+2. Sodium
+
+3. Calcium
+
+Observation
+
+Dry hydrogen, when it is passed over heated metals {K, Na, Ca]
+reacts to give their corresponding hydrides, i.e.
+potassium or sodium or calcium hydride.
+
+CaH, + 2H,0 ———~> Ca(OH), +2H, The hydrides thus formed further react with water to form hydrogen.
+
+3. Reaction with metallic oxides
+(i) Hydrogen gas is a strong reducing agent.
+Hydrogen reduces the oxides of the less active
+metals, i.e. it removes oxygen from strongly
+
+heated metal oxides when passed over them and
+itself gets oxidized to water.
+
+Fig. 6.8 Reduction of copper oxide to copper metal
+
+Metallic + Hydrogen 4, Metal + Water Colour changes as
+
+oxide metal oxide changes
+to metal
+
+Fe,0, + 3H,
+Fe,0O, + 4H,
+PbO + 4H,
+CuQ + 4H,
+
+2Fe + 3H,O Brown to grey
+3Fe + 4H,O Brown to grey
+Pb + H,O Yellow to silvery grey
+
+Cu + H,O Black toreddish brown
+(see Fig. 6.11)
+
+4. In the presence of a catalyst like nickel,
+
+hydrogen directly combines with organic
+compounds that have double or triple bonds
+between two carbon atoms. This process is
+known as hydrogenation.
+H,C =CH, +H, >C,H, | HC=CH+2H, >C,H,
+ethylene ethane | acetylene ethane
+6.11 USES OF HYDROGEN
+1. Asa fuel : Because of its high heat of combustion,
+hydrogen is used as a fuel in the form of :
+(i) Coal gas,
+(ii) Water gas (CO + H,),
+(iii) Liquid hydrogen (non-polluting and easy to
+store).
+2. Oxy-hydrogen torch : A mixture of hydrogen
+and oxygen is burnt in a specially-designed
+
+apparatus called an oxy-hydrogen torch to
+produce temperatures touching 2500°C. The
+flame is used for cutting and welding metals, for
+melting platinum and quartz, and for fusing
+alumina to produce synthetic rubies and
+sapphires that are used as jewels in watches.
+
+. Atomic hydrogen torch : Creates high
+
+temperature (2800°C), which is used for welding
+alloys containing metals like tungsten,
+manganese and chromium.
+
+. Inself-lighting gas jets and automatic lighters.
+
+For manufacture of ammonia (Haber Process),
+hydrogen chloride, methyl alcohol :
+
+CO+ 2H, » CH,OH
+(Methyl alcohol)
+
+For hydrogenation of vegetable oil : Hydrogen
+is used in preparation of solid vanaspati ghee
+from liquid vegetable fats like groundnut oil,
+coconut oil, etc. This process is called catalytic
+hydrogenation of oils because it takes place in
+the presence of finely-divided nickel or platinum
+or palladium acting as catalyst. This process
+occurs at high pressure and at a temperature of
+about 200°C.
+
+For producing artificial petrol from coal
+Passage of hydrogen under high pressure over
+powdered coal in presence of a catalyst is known
+as hydrogenation of coal. It produces a product
+similar to petroleum but containing a higher
+proportion of hydrogen.
+
+. In extraction of metals : Hydrogen reduces
+
+heated metallic oxide to metals (less active metal
+oxides).
+Fe,O, + 3H, > 2Fe + 3H,O
+
+CuO + H, ~ Cu + H,O
+black red/brown
+
+(108 >
+
+
+--- Page 13 ---
+Note : Oxides of active metals like sodium, potassium,
+aluminium, calcium and magnesium have great affinity
+towards oxygen. These oxides do not get reduced by
+hydrogen into their corresponding metals.
+
+nN
+
+~
+
+9.
+
+In meteorological balloons to study weather
+conditions : Hydrogen is the lightest gas but
+inflammable; thus helium is preferred.
+
+EXCERCISE 6(C)
+
+. (a) State the position of hydrogen in the periodic table.
+(b) Explain its resemblance to the other members of its
+group.
+. Comment on the dual position of hydrogen in the periodic
+table.
+. (a) Where does hydrogen occur in free state ?
+(b) How did the name ‘hydrogen’ originate ?
+. Hydrogen can be prepared with the help of cold water. Give
+a reaction of hydrogen with :
+(a) a monovalent metal
+(b) a divalent metal.
+. Why are the following metals not used in the lab. preparation
+of hydrogen ?
+(a) calcium (b) iron (c) aluminium (d) sodium
+. What is the activity series of metals ?
+. Under what conditions can hydrogen be made to
+combine with
+(a) nitrogen ? (b) chlorine ?
+(c) sulphur ? (d) oxygen ?
+Name the products in each case and write the equation for
+each reaction.
+. Hydrogen may be prepared in the laboratory by the action
+of a metal on an acid.
+(a) Which of the metals copper, zinc, magnesium or
+sodium would be the most suitable ?
+Which of the acids dilute sulphuric, concentrated
+sulphuric, dilute nitric and concentrated nitric would
+you choose ? Explain why you would not use the
+acids you reject.
+How would you modify your apparatus to collect dry
+hydrogen ? Which drying agent would you employ
+for this purpose ?
+. If the following are kept in closed vessels at over 400°C,
+what would happen to them ?
+
+(b)
+
+(c)
+
+(a) iron filings and steam,
+(b) hydrogen and magnetic oxide of iron ?
+. (a) A metal in the powdered form reacts very slowly with
+
+boiling water, but it decomposes in steam. Name the
+metal.
+
+(b) Write a balanced equation for the reaction occurring
+in (a).
+
+I].
+
+When hydrogen is passed over a black solid compound A,
+the products are ‘a colourless liquid’ and ‘a reddish brown
+metal B.’
+
+Substance B is divided into two parts, each placed in
+separate test tubes.
+
+Dilute HCI is added to one part of substance B and dilute
+HNO, to the other.
+
+(a)
+(b)
+
+Name the substances A and B.
+
+Give two tests for the colourless liquid formed in the
+experiment.
+
+What happens to substance A when it reacts with
+hydrogen ? Give reasons for your answer.
+
+(c)
+(d) Write an equation for the reaction between hydrogen
+and substance A.
+
+Is there any reaction between substance B and dilute
+hydrochloric acid ? Give reasons for your answer.
+
+(e)
+
+. Hydrogen is evolved when dilute HCI reacts with
+
+magnesium, but nothing happens in the case of mercury
+and silver. Explain.
+
+. What do you observe when hydrogen gas is passed through
+
+soap solution ?
+
+. Bosch Process is used for large-scale production of
+
+hydrogen. Give necessary
+
+(a) Balanced equations (b) Conditions
+
+. Which metal is preferred for collecting hydrogen from :
+
+(a) cold water ?
+
+(b) hot water ?
+
+(c) steam ?
+
+Write balanced equation for each case.
+
+. Steam can react with metal and non-metal to liberate
+
+hydrogen. Give necessary conditions and equations for
+the same.
+
+. Hydrogen is obtained by displacement from :
+
+(a) dilute sulphuric acid
+
+(b) dilute hydrochloric acid
+
+Write equations using zinc and Iron.
+
+Why does copper not show similar behaviour ?
+
+. Name two alkalies that can displace hydrogen. Give
+
+balanced equations for the same. Why are the metals
+you have used considered to have unique nature.
+
+ene neneeermeeneeeneneornnamtretnennnnennentennnennennnnnenmewrsell 1 ()5 perme ere
+
+
+--- Page 14 ---
+19. Complete and balance the following reactions.
+
+(a) Na+H,O > +
+(b) Ca+H,O > +
+(c) Mg +H,O > +
+(d) Zn + H,O > +
+(e) Fe +H,O > +
+(f) Zn+HCl > +
+(g) Al+H,SO,> s+
+
+(h) Fe+HClo_ +
+(i) Zn + NaOH > +
+
+(j) Al+KOH+H,0 > +
+
+20. Give reason for the following :
+(a) Though lead is above hydrogen in the activity series, it
+does not react with dilute hydrochloric acid or dilute
+sulphuric acid.
+
+(b) Potassium and sodium are not used for reaction
+with dilute hydrochloric acid or dilute sulphuric acid
+in laboratory preparation of hydrogen.
+
+6.12 OXIDATION AND REDUCTION
+6.12.1 Oxidation
+
+In the electronic concept, oxidation is defined
+as a process in which an atom or an ion loses
+electron(s).
+
+Zn — Zn2+ + 2e-
+
+Oxidation is also defined as a chemical process
+that involves :
+
+(i) Addition of oxygen :
+
+Element + oxygen -—> oxide
+
+C+0, > CO,
+2Mg +O, — 2 MgO
+
+In the above reactions, by gaining oxygen carbon
+and magnesium, are oxidised to carbon dioxide, and
+magnesium oxide respectively.
+
+(ii) Addition of electronegative ion :
+2FeCl, + Clp — 2FeCl,
+Zn+2HC] > ZnCl, + Hy
+Ferrous chloride and zinc are oxidized to ferric
+chloride and zinc chloride, respectively, by gain of
+electronegative ion CI-.
+
+(iii) Removal of hydrogen :
+HS +Cl, + 2HCI+S
+Hydrogen sulphide is oxidized to sulphur by loss
+of hydrogen.
+
+(iv) Removal of electropositive ion (element) :
+
+2KI+H,0O, > 2KOH +I,
+Potassium iodide is oxidized to iodine by loss
+of electropositive ion K+.
+Oxidizing agents
+
+An oxidizing agent is one that oxidizes other
+substances either by accepting electrons or by
+providing oxygen or an electronegative ion, or by
+
+removing hydrogen or an electropositive ion. Thus,
+in the above examples (given in oxidation), oxygen,
+chlorine, hydrochloric acid and hydrogen peroxide
+are oxidizing agents.
+
+Some examples of oxidizing agents.
+
+(i) Solids : Manganese dioxide, red lead, lead
+dioxide, potassium permanganate (KMnQ,),
+potassium dichromate (K,Cr,07), bleaching
+powder, etc.
+
+(ii) Liquids : Hydrogen peroxide, conc. nitric acid,
+conc. sulphuric acid, bromine, etc.
+
+(iii) Gaseous : Oxygen, ozone, chlorine, etc.
+
+Tests for oxidizing agents
+Most oxidizing agents respond to the following tests:
+
+(i) On heating strongly, they liberate oxygen,
+which rekindles a glowing splinter.
+
+(ii) They may form a yellow precipitate of sulphur
+when hydrogen sulphide is bubbled through
+their solutions.
+
+(iii) On warming with conc. hydrochloric acid, they
+liberate chlorine, that bleaches moist litmus
+paper.
+
+(iv) On treating with acidified potassium iodide
+solution, they liberate iodine, which imparts a
+blue colour to a freshly-prepared starch solution
+(an oxidizing agent also turns potassium iodide
+paper brown due to liberation of iodine).
+
+6.12.2 Reduction
+
+In the electronic concept, reduction is defined
+as a process in which an atom or an ion gains
+electrons.
+
+Cu2+ + 2e- > Cu
+
+
+--- Page 15 ---
+- Reduction is also defined as a chemical process
+that involves :
+(i) Removal of oxygen :
+Oxide + element — metal
+Cu0+H, — Cu+H,0
+Zn0+C > Zn+CO
+Copper (II) oxide and zinc (II) oxide are reduced
+to copper and zinc respectively, by losing oxygen.
+(ii) Addition of electropositive ion :
+2HgCl, + SnClp > Hg Cl, + SnCl,
+
+Mercuric chloride is reduced to mercurous chloride
+by gain of electropositive ion Hg*.
+
+(iii) Addition of hydrogen :
+Cl, +H,S > 2HCl +S
+2NH; + 3Cl > N+ 6HCI
+Chlorine is reduced to hydrogen chloride by gain
+of hydrogen.
+(iv) Removal of electronegative ion :
+2FeCl, + H,S > 2FeCl, + 2HCI+S
+
+Ferric chloride is reduced to ferrous chloride by
+loss of electronegative ion Cl-.
+
+Reducing agents
+
+A reducing agent is one that reduces other
+substances either by providing electrons, or by
+providing hydrogen or an electropositive ion, or by
+removing oxygen or an electronegative ion. Thus, in
+the above examples (given in reduction), hydrogen
+sulphide, ammonia, stannous chloride, hydrogen and
+carbon are reducing agents.
+Some examples of reducing agents.
+
+(i) Solids : Carbon, metals like Zn, Al, Cu and
+Na, stannous chloride, glucose, etc.
+(ii) Liquids: Hydrogen peroxide, hydrogen iodide,
+hydrogen bromide, etc.
+(iii) Gaseous: Hydrogen sulphide, carbon monoxide,
+etc.
+Tests for reducing agents
+Reducing agents generally respond to the following
+tests :
+
+(i) They give out brown fumes of nitrogen dioxide,
+when warmed with nitric acid.
+
+(il) Lney cnange viack copper ul) oxide, on
+heating, to a red copper metal.
+
+(iii) They decolourise the pink colour of dilute
+potassium permanganate solution.
+
+(iv) They change the colour of acidified potassium
+dichromate solution from orange to green.
+
+(v) They change the light yellow colour of iron
+(III) salts in solution to a light green colour
+[due to the formation of iron (II) salts].
+
+REDOX (OXIDATION-REDUCTION) REACTIONS
+
+In a chemical reaction, if one substance is
+oxidized, the other substance must necessarily be
+reduced. This is because the electrons lost during
+oxidation are simultaneously gained during reduction,
+and vice versa.
+
+For example : When zinc reacts with copper
+sulphate solution to form zinc sulphate and copper:
+CuSO, + Zn — ZnSO, + Cu
+Cu*SO?' + Zn > Zn**SOF + Cu
+Writing half reaction
+Zn — Zn+ + 2e7 (oxidation)
+Cu2+ + 2e~ — Cu (reduction)
+They occur simultaneously as
+
+Cu2+ + Zn — Zn2+ +Cu
+| L oxidation
+Reduction
+Thus, oxidation and reduction always go side
+by side.
+
+A reaction in which oxidation and reduction take place
+simultaneously is known as REDOX REACTION. .
+
+Examples of redox reactions
+
+(1) Oxidized
+rT t~C~:::COY
+CuO + #£#H, > Cu+H,0
+
+Oxidizing agent Reducing agent
+
+Reduced
+
+In this reaction, hydrogen, the reducing agent,
+reduces the oxidizing agent Cu (II) oxide to copper.
+On the other hand, oxidation reaction is the
+oxidation of the reducing agent, hydrogen, to water,
+by the oxidizing agent, Cu (II) oxide. Thus the net
+reaction is a redox reaction.
+
+(107 >
+
+
+--- Page 16 ---
+(2) In the reactioft between nyarogen sulphide ana" ~~ > 7 > 7 7 xromea 7
+
+chlorine, hydrogen sulphide loses its hydrogen HS + Ch > 2HCI+S
+to chlorine and is thereby oxidized to sulphur; Reducing —_Oxidizing agent
+
+and chlorine, which gains hydrogen, is reduced agent eee
+
+to hydrochloric acid. Reduced
+
+Table 6.2: Differences between oxidation and reduction
+
+. Addition of oxygen Removal of oxygen
+
+. Removal of hydrogen Addition of hydrogen
+
+. Addition of electro-negative atom or ion Removal of electro-negative atom or ion
+. Removal of electro-positive atom or ion Addition of electro-positive atom or ion
+. Increase in positive valency Decrease in positive valency .
+. Decrease in negative valency Increase in negative valency
+
+. Loss of electrons Gain of electrons
+
+CHAPTER AT A GLANCE
+
+Hydrogen is placed in the Ist period and IA group of the periodic table. It shows dual nature as it
+
+resembles the alkali metals of group IA and also the halogens of Group VU A (17).
+
+Hydrogen is found in traces in the earth’s crust; thé sun and the stars contain 1-1% hydrogen. It is present in
+
+plant and animal tissues, acids, alkalies, water and hydrocarbons.
+
+Hydrogen is prepared from water by reacting active metals like potassium, sodium and calcium with cold
+
+water, magnesium with boiling water and zinc and red hot iron with steam.
+
+Dilute sulphuric acid and dilute hydrochloric acid displace hydrogen when they react with any metal above
+
+hydrogen in the activity series.
+
+Zinc, lead, aluminium are unique metals. They produce hydrogen by reacting with acids as well as
+
+alkalies.
+
+Hydrogen is prepared in the lab by reacting granulated zinc with dilute hydrochloric acid or dilute sulphuric
+
+acid, and it is collected by the downward displacement of water. This hydrogen contains impurities that are
+
+then removed.
+
+Impurities like H,S are removed by passing hydrogen through lead nitrate solution, CO,, SO, and oxides of
+
+nitrogen through KOH solution, PH, and AsH, through silver nitrate solution, and water vapour through a
+
+drying agent like fused calcium chloride.
+
+Magnesium and manganese are the only two metals that can react with very dilute nitric acid to
+
+produce hydrogen.
+
+On a large scale, hydrogen is obtained by
+
+(i) electrolysis of water; acidulated water (water + sulphuric acid) is electrolysed to get hydrogen at
+cathode and oxygen at anode.
+
+(ii) passing steam over red hot coke (Bosch process).
+
+Hydrogen is the lightest gas. It burns with a pop sound and is absorbed by metals like palladium.
+
+It reacts with metals and non-metals under appropriate conditions.
+
+It is a reducing agent and thus reduces metallic oxides to metals. For example, black copper oxide is
+reduced to brown copper and yellow lead oxide is reduced to silvery grey lead.
+
+Hydrogen is used as a fuel as well.
+
+ar Fea meee cme senate ance sar ] 08 }—-___—_—__-———————————— ee -
+
+
+--- Page 17 ---
+| EXCERCISE 6(D)
+
+. Describe briefly the ionic concept of oxidation and
+reduction. Give an equation to illustrate.
+
+. Is it essential that oxidation and reduction must occur side
+
+by side in a chemical reaction ? Explain.
+
+. State, giving reasons, whether the substances printed in
+bold letters have been oxidised or reduced.
+
+(a) PbO + CO > Pb+CO,
+
+(b) H,S + Cl, > 2 HC1+S
+
+State whether the following conversions are oxidation or
+reduction.
+
+(a) PbO, + SO, — PbSO,
+
+(b) K > Kt +e
+
+. In the following reaction : A+ + B — A + Bt. Write half
+reactions for this reaction and name :
+
+(a) oxidizing agent
+
+(b) substance oxidized
+
+(c) reducing agent.
+
+. Give a chemical test for :
+
+(a) an oxidizing agent
+
+(b) a reducing agent.
+
+. Complete the following word equations :
+
+(a) Sodium hydroxide + zinc — hydrogen + -.......... ese
+(b) Calcium + water — calcium hydroxide + ...........cccce
+
+. Give reasons :
+
+(a) Hydrogen is collected by the downward displacement
+of water and not of air, even though it is lighter
+than air.
+
+(b) A candle brought near the mouth of a jar containing
+hydrogen gas starts burning but is extinguished when
+pushed inside the jar.
+
+(c) Oxy-hydrogen flame is used for welding and cutting
+metals.
+
+(d) Apparatus for laboratory preparation of hydrogen
+should be air tight and away from a naked flame.
+
+. Select the odd one out and justify your answer.
+(a) Zn, Fe, Mg and Na
+
+(b) SO,, H,S, NH, and CO,
+
+(c) Fe, Zn, Cu and Mg
+
+(d) Fe, Pb, Al and Zn
+
+10. (a) Helium is preferred to hydrogen for filling balloons
+
+because it is :
+(i) lighter than air — (ii) almost as light as hydrogen
+(iii) non-combustible (iv) inflammable.
+
+(b) Reacting with water, an active metal produces
+
+(i) oxygen (ii) nitric acid
+(iii) a base (iv) none of these.
+(c) A metal oxide that is reduced by hydrogen is
+(i) Al,O, (ii) CuO
+(iii) CaO (iv) Na,O
+(d) Which of the following statements about hydrogen is
+incorrect ?
+
+(i) It is an inflammable gas
+(ii) It is the lightest gas.
+(iii) It is not easily liquefied.
+(iv) It is a strong oxidizing agent.
+(e) For the reaction PbO + H, — Pb + HO, which of the
+following statements is wrong ?
+(i) H, is the reducing agent.
+(ii) PbO is the oxidizing agent.
+(iii) PbO is oxidized to Pb
+(iv) H, is oxidized to H,O.
+(f) Which metal gives hydrogen with all of the
+following : water, acids, alkalis ?
+
+(i) Fe (ii) Zn
+(iii) Mg (iv) Pb
+(g) Which of the following metals does not give hydrogen
+with acids ?
+(i) Iron (ii) Copper
+(iii) Lead (iv) Zinc
+
+. Choose terms from the options given in brackets to complete
+
+these sentences.
+
+(a) When CuO reacts with hydrogen, ............... is reduced
+ANd ......eeeeees is oxidized to ............... .
+
+(CuO, H,, Cu, H,O)
+
+(b) Hydrogen is ............... soluble in water.
+(sparingly, highly, moderately)
+(c) Metals like ............... g ceessneeseseese AN oo...eeeeeeee give
+H, with steam.
+
+(iron, magnesium, aluminium, sodium, calcium)
+(d) Sodium .........0.... reacts smoothly with cold water.
+(metal, amalgam, in the molten state)
+
+(e) A metal... hydrogen in the activity series gives
+hydrogen with ............... ACId OF «0... eee acid.
+
+(above, below, dilute hydrochloric, concentrated
+hydrochloric, dilute sulphuric).
+
+a eran eee nnn eretpeeesneengeremnannssrenmmnrecmrensenensmenwedll 1.010) Rheeenennnereeer renee ener eempresere inerrant eneeenacntneeet
+
+
+--- Page 18 ---
+12. Correct the following statements : (b) a substance that oxidizes concentrated HCI to
+
+(a) Hydrogen is used as a fuel for rocket propulsion. chlorine.
+
+(b) All metals react with acids to give hydrogen. (c) a substance that will reduce aqueous Iron (III) ions
+to Iron (ID ions.
+
+(c) Metals adsorb hydrogen.
+
+. (d) a liquid that is an oxidizing as well as a reducing
+(d) The reaction between hydrogen and oxygen is
+
+' agent.
+exothermic.
+oo . (e) a gas that is an oxidizing as well as a reducing
+(e) Conc. H,SO, reacts with zinc to liberate hydrogen. agent.
+13. Name :
+
+(f) a solid that is an oxidizing agent.
+
+(a) an oxidizing agent that does not contain oxygen.
+
+sesenavenovennnnnensessennunernrereergugpaseeanunanentepasranvsaanpomnaergperperrsseensaessyeseasselll 1,11) Bresrsenresrrssseyseeneenpqewsnveqeoemenyusnennerennevenarenntentennnneenesatenttns tien ,

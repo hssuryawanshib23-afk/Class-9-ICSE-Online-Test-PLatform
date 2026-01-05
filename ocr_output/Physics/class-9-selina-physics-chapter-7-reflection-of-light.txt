@@ -1,0 +1,2921 @@
+
+Chapter 7 - Reflection of light
+--- Page 1 ---
+DEB SEM
+
+fi
+‘
+%
+SS
+sm ena
+
+Ri hicces
+
+REFLECTION OF LIGHT
+
+(i) Reflection of light; images formed by a pair of parallel and perpendicular plane mirrors.
+Scope ~ Laws of reflection; experimental verification; characteristics of images formed in a pair of
+mirrors (a) parallel and (b) perpendicular to each other; uses of plane mirrors.
+
+(ii) Spherical mirrors; characteristics of image formed by these mirrors (only simple direct ray diagrams are
+
+required).
+
+Scope — Brief introduction to spherical mirrors-concave and convex mirrors, centre and radius of curvature,
+pole and principal axis, focus and focal length, location of images from ray diagram for various positions
+of a small linear object on the principal axis of concave and convex mirrors; characteristics of images,
+f = R/2 (without proof); sign convention and direct numerical problems using the mirror formulae are
+included (Derivation of formula not required). Uses of spherical mirrors. Scale drawing or graphical
+representation of ray diagram not required.
+
+(A) LAWS OF REFLECTION & FORMATION OF IMAGE BY A PLANE MIRROR
+
+7.1. REFLECTION OF LIGHT
+
+When a beam of light strikes a surface, a part
+of it returns into the same medium. The part of
+light which is returned into the same medium is
+called the reflected light. Thus
+
+The return of light into the same medium
+after striking a surface is called reflection.
+
+The remaining part of light is either
+absorbed if the surface on which the light strikes
+is opaque or it is partly transmitted and partly
+absorbed if the surface is transparent.
+
+It is the reflection of light which enables us
+to see the different objects around us. An object
+is seen when light from it enters our eyes. The
+luminous bodies which emit light by themselves
+are directly seen, but the non-luminous objects
+are seen only when they reflect the light incident
+on them and the reflected light reaches our eyes.
+
+Different surfaces reflect light to different
+extent. A highly polished and silvered surface,
+such as a plane mirror, reflects almost the entire
+light falling on it.*
+
+A plane mirror is made from a few mm
+thick glass plate. One surface of glass plate is
+polished to a high degree of smoothness. This
+forms the front surface of mirror and the other
+
+* A plane mirror does not reflect cent percent light falling on it.
+
+(or back) surface is silvered (i.e., silver, mercury
+or some suitable material is deposited over it).
+The silvered surface is further coated with some
+Opaque material so as to protect the silvering
+on it. The two surfaces of plane mirror are
+shown in Fig. 7.1. Light enters from the side of
+polished surface and is strongly reflected from
+the silvered surface. The coating serves as an
+opaque surface and it does not reflect the light.
+
+REFLECTING
+SURFACE
+COATING
+SILVERED
+POLISHED SURFACE ——| SURFACE
+
+Fig. 7.1 Representation of a plane mirror
+
+Kinds of reflection : There are the following
+two kinds of reflection :
+
+(i) Regular reflection, and
+
+(ii) Irregular reflection.
+
+(i) Regular reflection : Regular reflection
+occurs when a beam of light falls on a smooth
+and polished surface, such as a plane mirror. In
+
+PLANE MIRROR ROUGH SURFACE
+(a) REGULAR REFLECTION (b) IRREGULAR REFLECTION
+Fig. 7.2 Regular and irregular reflection
+
+141
+
+
+--- Page 2 ---
+- Fig. 7.2(a), a parallel beam of light is incitlent |
+
+on a plane mirror. The reflected beam is also
+parallel and it is in a fixed direction. It can be
+seen only from a particular direction.
+
+(ii) Irregular reflection : Irregular reflection
+occurs when a beam of light falls on a rough
+surface such as the wall of a room, the page of a
+book or any other object. Although the wall of a
+room or the page of a book appears to be smooth,
+but actually it is quite uneven having many small
+projections over it. In Fig. 7.2(b) light rays fall at
+different points on a rough surface and each ray
+gets reflected from it obeying the laws of reflection
+of light. Due to uneven surface, at different points,
+light rays get reflected in different directions and
+give rise to the diffused or irregular reflection. As
+a result, the reflected light spreads over a wide
+area and it does not follow a particular direction.
+Thus the reflected light can be seen from anywhere.
+
+Sie,
+
+=e we.
+
+REFLECTION
+
+(i) Incident ray : The light ray striking a
+reflecting surface is called the incident ray.
+
+(ii) Point of incidence : The point at which
+the incident ray strikes the reflecting surface, is
+called the point of incidence.
+
+(iii) Reflected ray : The light ray obtained
+after reflection from the surface, in the same
+medium in which the incident ray is travelling,
+is called the reflected ray.
+
+(iv) Normal : The perpendicular drawn to
+the surface at the point of incidence, is called
+the normal.
+
+(v) Angle of incidence : The angle which
+the incident ray makes with the normal at the
+point of incidence, is called the angle of
+incidence. It is denoted by the letter i.
+
+(vi) Angle of reflection : The angle which
+the reflected ray makes with the normal at the
+point of incidence, is called the angle of
+reflection. It is denoted by the letter r
+
+(vii) Plane of incidence : The plane
+containing the incident ray and the normal, is
+called the plane of incidence.
+
+(viii) Plane of reflection : The plane
+containing the reflected ray and the normal, is
+called the plane of reflection.
+
+In Fig. 7.3, MM, is a plane reflecting
+surface (say, a plane mirror) kept perpendicular
+to the plane of paper. A light ray is incident in
+the direction AO at the point O on mirror. It is
+reflected along the direction OB. Thus, AO is
+the incident ray, O is the point of incidence and
+OB is the reflected ray.
+
+A
+CS
+SO
+Ca i= angle of incidence
+E r = angle of reflection
+
+NORMAL
+
+M 0 M,
+
+Fig. 7.3 Reflection at a plane surface
+
+Let ON be the normal (or perpendicular)
+drawn to the surface MM, at the point O. The
+angle i (= ZAON), which the incident ray makes
+with the normal, is the angle of incidence and the
+angle. r (= <BON), which the reflected ray makes
+with the normal, is the angle of reflection. The
+plane of paper is the plane of incidence.
+
+7.3 LAWS OF REFLECTION
+
+A light ray obeys the following two laws
+for reflection from a surface, which are called
+the laws of reflection.
+
+(2) The incident ray, the reflected ray and the |
+normal at the point of incidence, lie in the
+Same plane.
+
+In Fig. 7.3, AO, ON and OB are in one plane
+(i.e., the plane of paper).
+
+Reflection of a ray of light normally incident
+on a plane mirror
+
+For a ray incident normally on a plane mirror,
+
+the angle of incidence i = 0°, therefore the angle of
+reflection r = 0°. Thus, a ray of light AO incident
+
+142
+
+
+--- Page 3 ---
+normally on a mirror is reflected along the same
+path OA i.e., it retraces its path as shown in Fig. 7.4.
+
+A
+
+M M,
+0
+
+Fig. 7.4 Reflection of a ray of light normally
+incident on a plane mirror
+
+74 EXPERIMENTAL VERIFICATION OF
+THE LAWS OF REFLECTION
+
+Experiment : Fix a sheet of white paper on a
+drawing board and draw a line MM, as shown in Fig. 7.5.
+On this line, take a point O nearly at the middle of it and
+draw a line OA such that “MOA is less than 90° (say,
+<MOA = 60°). Then draw a normal ON on line MM, at
+the point O, and place a small plane mirror vertical by
+means of a stand with its silvered surface on the line MM).
+
+Now fix two pins P and Q at some distance (= 5 cm)
+apart vertically on line OA, on the board. Keeping eye on
+other side of normal (but on the same side of mirror), see
+clearly the images P’ and Q’ of the pins P and Q. Now fix
+a pin R such that it is in line with the images P’ and Q’ as
+observed in the mirror. Now fix one more pin S such that
+the pin S is in line with the pin R as well as the images P’
+and Q’ of pins P and Q.
+
+Draw small circles on paper around the position
+of pins as shown in Fig. 7.5. Remove the pins and
+draw a line OB joining the point O to the pin points S
+and R.
+
+A M
+@P’
+Tag
+N-------- (e)
+EYE KK B STAND
+
+Fig. 7.5 Verification of laws of reflection
+
+In Fig. 7.5, AO is the incident ray, OB is
+the reflected ray, ZAON = i is the angle of
+incidence and ZBON = r is the angle of
+reflection. The angles AON and BON are
+measured and recorded in the observation table.
+
+The experiment is repeated for the ZMOA
+equal to 50°, 40° and 30°.
+
+Observations
+
+From the above observation table, we find
+that in each case, angle of incidence is equal
+to the angle of reflection. This verifies the first
+law of reflection.
+
+The experiment is being performed on a
+flat drawing board, with mirror normal to the
+plane of board on which white sheet of paper
+is being fixed. Since the lower tips of all the
+four pins lie on the same plane (i.e., the plane
+of paper), therefore the incident ray, the
+reflected ray and the normal at the point of
+incidence, all lie in one plane. This verifies the
+second law of reflection.
+
+7.5 FORMATION OF
+REFLECTION
+
+From each point of an illuminated object,
+rays of light travel in all directions. To find the
+position of image of an object formed by a
+mirror after reflection, we need to consider at
+least two rays of light incident on the mirror
+from a point of object. Each incident ray gets
+reflected obeying the laws of reflection. The
+point where the two reflected rays actually meet
+or they appear to meet (when produced
+backwards), gives the position of image of that
+point of object. Thus we can obtain the
+positions of image of different points of the
+object. By joining these points, complete image
+of the object can be obtained.
+
+Types of image : The image can be of
+two types : (a) real image, and (b) virtual
+image.
+
+(a) Real image : The image which can be
+obtained on a screen, is called a real image. It
+is formed when light rays after reflection
+actually intersect. It is inverted. For example,
+
+IMAGE BY
+
+143
+
+
+--- Page 4 ---
+for a distant object, the image formed by a
+concave mirror is real.
+
+(b) Virtual image : The image which
+cannot be obtained on a screen, is called a
+virtual image. It is formed when light rays
+after reflection do not actually intersect, but
+they appear to diverge from the image*.
+Geometrically, they intersect when they are
+produced backwards. It is erect. For example,
+the image of an object formed by a plane
+mirror or by a convex mirror is virtual.
+
+Distinction between a real and virtual image
+
+1. A real image is
+formed due to
+actual intersection
+of the reflected rays.
+
+obtained on a screen.
+
+3. A real image is
+inverted with respect
+to the object
+
+of a distant object
+formed by a concave
+mirror
+
+7.6 IMAGE OF A POINT OBJECT FORMED
+BY A PLANE MIRROR
+In Fig. 7.6, let MM, be a plane mirror in
+front of which a point object O is placed. From
+the object O, rays of light travel in all directions.
+To show the formation of image by the plane
+mirror, we consider two rays from the object O
+
+No “fe
+
+N,
+)
+
+'
+
+1
+
+1
+
+'
+
+'
+
+Fig. 7.6 Formation of image of a point
+object by a plane mirror
+
+* When these diverged rays enter our eye, they converge to
+form an image on our retina and the image is seen by us.
+
+which fall on mirror MM,. Let OA and OB be
+two rays incident from the object O which get
+reflected from the mirror MM, in directions AC
+and BD respectively such that ZCAN, = ZOAN,
+and ZDBN, = ZOBN,. Here AN, and BN, are
+the normals at the points A and B.
+
+When seen from a position between C and
+D, the rays between C and D appear to come from
+some point / behind the mirror. The point J is the
+image of the object O. To locate the position of J,
+reflected rays AC and BD are produced backwards
+and the point where they meet, gives the position
+of image /. The image is virtual because the reflected
+rays AC and BD do not actually meet at J, but to
+our eye they appear to come from the point /.
+
+7.7. IMAGE OF AN EXTENDED OBJECT
+FORMED BY A PLANE MIRROR
+
+In Fig. 7.7, let MM, be a plane mirror in front
+of which an extended object AB is placed. From all
+points of the object, light rays travel in all
+directions. We consider only two rays incident on
+the plane mirror from the end points A and B of the
+object. Let AP and AQ be the two rays incident on
+the mirror from the point A of the object which get
+reflected from the mirror as PP’ and QQ'
+respectively. These reflected rays when produced
+backwards, meet at a point A’. Thus A’ is the virtual
+image of point A. Similarly, from the point B of
+object, BR and BS be the two incident rays on the
+mirror which are reflected as RR’ and SS'
+respectively. The reflected rays RR’ and SS’ meet
+at a point B’ when produced backwards. Thus, B’ is
+the virtual image of point B. Similarly, for all other
+points of the object AB, virtual images are formed
+between A’ and B’. Thus A'‘B’ is the virtual image
+
+Fig. 7.7 Image of an extended object
+formed by a plane mirror
+
+144
+
+
+--- Page 5 ---
+of the object AB. It is erect and of size equal to that
+of the object. The normal distance of each point of
+image behind the mirror is same as the normal
+distance of the corresponding object point in front
+of the mirror (i.e., BN = B'N).
+
+7.8 POSITION OF IMAGE
+
+The image I is as far behind the mirror as
+the object O is in front of it i.e., the perpendicular
+distance of image from the mirror is equal to the
+perpendicular distance of object from the mirror.
+
+Proof : Fig. 7.8 shows the formation of
+image of a point object O by a plane mirror MM,.
+A ray OF incident normally on the mirror gets
+reflected by the mirror along the same path (i.e.,
+along FO), since Zi = 0°, therefore <r = 0°. The
+other incident ray OA gets reflected along AC,
+such that ZOAN = ZNAC where AN is the normal
+drawn at the point A on mirror MM;,. The reflected
+rays FO and AC meet at a point J when they are
+produced backwards. The point / is the virtual
+image of the point object O. We are to prove
+that JF = OF.
+
+Fig. 7.8 Formation of image of a point object due to
+reflection at a plane mirror
+For the incident ray OA reflected as AC,
+ZOAN = angle of incidence i
+ZCAN = angle of reflection r
+By the law of reflection,
+angle of incidence = angle of reflection
+or ZOAN = ZCAN ...(7.2)
+
+But <OAN = ZAOF (Alternate angles)
+
+and <CAN = ZAIF (Corresponding angles)
+ZAOF = ZAIF (7.3)
+
+Now consider the triangles AOF and AIF
+ZAOF = ZAIF
+
+ZAFO = ZAFI (= 90°)
+
+and FA is the common side.
+
+Therefore, the triangles AOF and AIF are
+
+congruent.
+
+Hence, OF = IF wee (7.4)
+
+Since OF is the normal drawn from the
+object O on the mirror, so the normal distance of
+the object from the mirror is equal to the normal
+distance of image from the mirror. Thus,
+
+The image is situated on the normal drawn from
+the object on the mirror and it is as far behind
+
+the mirror as the object is in front of it.
+
+7.9 LATERAL INVERSION
+
+In our daily experience while looking in a
+mirror, we notice that a ring on the finger of our
+left hand appears to be in the finger of the
+right hand of our image as shown in Fig. 7.9.
+Similarly, the pocket on the left appears to be on
+the right in the image. This interchange of the left
+and right sides is called the lateral inversion. Thus,
+
+The interchange of the left and right sides
+
+in the image of an object in a plane mirror
+is called lateral inversion.
+RING RING
+PLANE
+MIRROR IMAGE
+
+Fig. 7.9 Image of a ring on the finger of left hand
+in a plane mirror
+Fig. 7.10 shows
+the image formation of
+a letter P in a plane
+mirror. The letter P
+
+appears in a plane ‘\
+. . . N
+mirror as 4. Similarly, \
+. ‘N
+the letter F will appear a
+s AY
+as 4. a ‘.
+Note : (1) The Ny
+. . s
+lateral inversion ° “y
+produced by a plane \ 44
+mirror is similar to ers
+the inversion that “SA!
+
+occurs on a blotting
+paper used to dry
+
+. . eos Fig. 7.10 Lateral inversion
+ink while writing. 8
+
+145
+
+
+--- Page 6 ---
+The individuai ever optamen on tne plotung paper
+cannot be read directly, but it can be read by seeing
+its image in a plane mirror.
+
+(2) The lateral inversion of letters such as A,
+
+H, I, M, O, T, U, V, W, X and Y is not noticeable.
+
+since their image remains unchanged (because each
+of these letters has a symmetry about a vertical line
+passing through the mid point of the letter).
+
+(3) It is because of the lateral inversion that
+it becomes difficult to read the text of a page
+from its image formed by a plane mirror. But
+one can easily read the text written in ‘laterally
+inverted letters' formed by seeing its image in
+a plane mirror. It is why the letters on the front
+of an ambulance are written laterally inverted
+like FOVAIUSMA, So that the driver of the
+vehicle moving ahead of the ambulance reads the
+word laterally inverted as AMBULANCE, in his
+rear view mirror, and gives side to pass the
+ambulance first.
+
+(4) The image formed by a spherical
+mirror is also laterally inverted.
+
+7.10 CHARACTERISTICS OF THE IMAGE
+FORMED BY A PLANE MIRROR
+The image formed by a plane mirror has
+the following characteristics :
+(i) upright (or erect), (ii) virtual,
+(iii) of same size as the object, and
+(iv) laterally inverted.
+
+“" "" "Ene locaton ortie image is given by the
+
+fact that, the image is situated at the same
+perpendicular distance behind the mirror as the
+object is in front of it.
+
+Note : If the object is shifted by a distance d
+towards the mirror, the image will also shift by
+the same distance d towards the mirror i.e., the
+separation between the object and image will
+decrease by 2d. Similarly, if an object moves with
+a speed v towards (or away) from a mirror, the
+image to him will appear to move with a speed 2v
+towards (or away from) him.
+
+Example : A boy standing at a distance 5 m
+away from a plane mirror at A, finds his image at a
+distance 10 m from him at A’. Now if he moves to
+the position B by a distance 2 m still farther away
+from the mirror, his distance from the mirror will
+become 7 m and then to him, his image B’ will
+appear to be at a distance 14 m from him as shown
+in Fig. 7.11.
+
+7m 7m
+
++ —_—_——_
+—_ oit*_—
+5m 5m
+
++>
+
+OBJECT A A’
+em —__—_
+B 10m B
+14m
+
+Fig. 7.11 Displacement of image in a plane mirror
+when the object moves
+
+1. In a dark room, a parallel beam of light falls
+on a plane mirror and another parallel beam
+of light falls on a white wall. The light
+reflected by the mirror can be seen only in a
+certain direction, but the reflected light from
+the wall can be seen from anywhere. Give
+reason.
+
+The plane mirror has a plane smooth reflecting
+surface, so regular reflection takes place and the
+reflected light goes in a fixed direction. Therefore,
+the reflected light can be seen only in a certain
+direction.
+
+On the other hand, the wall is a rough surface
+so irregular reflection takes place, and reflected
+light gets diffused in all directions. Therefore, the
+reflected light from the wall can be seen from
+anywhere.
+
+2. Complete the diagram = w
+in Fig. 7.12 to form the
+image A’B’ of the 5
+object AB by the plane
+mirror MM,. State 4
+in words how have
+you completed the My
+diagram. Measure the Fig. 7.12
+perpendicular distance
+of the points A and B of the object from the
+mirror and also the perpendicular distance of
+the points A’ and B’ of the image from the mirror
+and state how are they related.
+
+The completed diagram is shown in Fig. 7.13.
+
+To complete the diagram, rays AP and BQ are
+made incident normally on the mirror MM, from
+the points A and B of the object, which retraces
+
+146
+
+
+--- Page 7 ---
+4
+
+5
+
+8
+
+their path after
+reflection. The other
+rays AP’ and BQ’ get
+reflected from the plane
+mirror obeying the laws
+of reflection Each of 4
+the reflected ray is
+produced backwards to
+get the image AB’.
+Perpendicular distance AP of A from the
+mirror = 1-5 cm = Perpendicular distance A’P
+of A’ from the mirror.
+
+Perpendicular distance BQ of B from
+the mirror = 1-1 cm = Perpendicular distance
+BQ of B’ from the mirror.
+
+B
+
+Fig. 7.13
+
+. An object is at a distance 25 cm in front of
+a plane mirror. The mirror is shifted 5 cm
+away from the object. Find : (i) the new
+distance between the object and its image,
+and (ii) the distance between the two
+positions of the image.
+
+Fig. 7.14 shows the images B and B’ the object
+A, by the mirror in its initial and new postions.
+
+Initially, the distance of the object A in front of
+plane mirror M is AM = 25 cm, therefore the image
+
+. What do you mean by reflection of light ?
+
+. State which surface of a plane mirror reflects most
+of the light incident on it : the front smooth surface
+or the back silvered surface.
+
+Ans. Back silvered surface.
+. Explain the following terms :
+(a) plane mirror, (b) incident ray,
+(c) reflected ray, (d) angle of incidence, and
+(e) angle of reflection.
+Draw diagram/diagrams to show them.
+
+. With the help of diagrams, explain the difference
+between the regular and irregular reflection.
+
+. Differentiate between the reflection of light from
+a plane mirror and that from a plane sheet of paper.
+
+. State the two laws of reflection of light.
+
+. State the laws of reflection and describe an
+experiment to verify them.
+
+. A light ray is incident normally on a plane mirror.
+
+(a) What is its angle of incidence ?
+
+NEW
+INTIAL POSITION
+ry
+
+POSITION
+
+Nasgeet Hage et
+see 2
+
+tate
+
+OBJECT M & MW’ IMAGE NEW
++—\ 25 cm——_>+——__- 25 cm —_—_> IMAGE
+
+Fig. 7.14
+
+B is at a distance MB = 25 cm from the mirror M
+behind it. Distance between the object A and its
+image B = 25 cm + 25 cm = 50 cm.
+
+On shifting the mirror by 5 cm away from the
+object, the new distance of object A from the mirror
+M’ becomes AM’ = 25 + 5 =30cm. The new image
+B’ is now at a distance M’B’ = 30 cm behind the
+mirror M’. Hence
+
+(i) The new distance AB’ between the object A and
+
+the image B’ = 30 cm + 30 cm = 60 cm.
+
+(ii) Taking the position of the object A as reference
+
+9.
+
+10.
+
+147
+
+point, the distance between the two positions of
+the image, BB’ = new distance of image from
+the object, AB’ — initial distance of image from
+the object, AB = 60 — 50 = 10 cm.
+
+(b) What is the direction of reflected ray ? Show
+it on a diagram.
+Ans. (a) 0°, (b) same as incident ray
+Draw a diagram to show the reflection of a ray of
+light by a plane mirror. In the diagram, label the
+incident ray, the reflected ray, the normal, the
+angle of incidence and the angle of reflection.
+
+Fig. 7.15 shows an incident ray AO and the normal
+ON on a plane mirror. The angle which the
+incident ray AO makes with the mirror is 30°.
+(a) Find the angle of incidence. (b) Draw the
+reflected ray and then find the angle between the
+incident and reflected rays.
+N
+A
+
+30°
+O
+Fig. 7.15
+Ans. (a) 60°, (b)120°
+
+
+--- Page 8 ---
+‘IL. The diagram in Fig. 7.16 shows m Multiple choice type :
+
+a point object P in front of a ‘ !. According to the law of reflection :
+
+plane mirror MM,.
+
+(a) Complete the diagram by
+taking two rays from
+the point P to show the
+formation of its image.
+
+(b) In the diagram, mark the M,
+
+position of eye to see the
+image.
+(c) Is the image formed real or virtual ? Explain
+why ?
+Ans. (c) Virtual because the reflected rays meet
+only when they are produced backwards
+
+Fig. 7.16
+
+(a) i/r = constant
+(b) sin i/sin r = constant
+(c) i+ r=constant
+
+(d)i=r Ans. (d)i=r
+
+2. The image formed by a plane mirror is :
+
+(a) erect and diminished
+(b) erect and enlarged
+(c) inverted and of same size
+(d) erect and of same size.
+Ans. (d) erect and of same size
+
+3. The image formed by a plane mirror is :
+
+12. The diagram below in Fig. 7.17 shows an object (a) real
+XY in front of a plane mirror MM,. Draw on the (b) virtual
+diagram, path of two rays from each point x (c) virtual with lateral inversion
+and Y of the object to show the formation of its (d) real with lateral inversion.
+image. M Ans. (c) virtual with lateral inversion
+y Numericals :
+
+1. A ray is incident on a plane mirror. Its reflected
+ray is perpendicular to the incident ray. Find the
+angle of incidence. Ans. 45°
+
+x
+. Aman standing in front of a plane mirror finds his
+image at a distance 6 metre from himself. What is
+the distance of man from the mirror? Ans. 3 m
+My . An insect is sitting in front of a plane mirror at a
+Fig. 7.17 distance 1 m from it.
+13. (a) Write three characteristics of the image (a) Where 8 the image of the insect formed :
+formed by a plane mirror ? (b) What is the distance between the insect and
+. we . its image ?
+(b) How is the position of image related to the Ans. (a) 1 m behind the mirror (b) 2 m
+position of the object ? , ;
+
+; ; ; ; . An object is kept at 60 cm in front of a plane
+14. Differentiate between a real and a virtual image. mirror. If the mirror is now moved 25 cm away
+15. What is meant by lateral inversion of an image in a from the object, how does the image shift from
+
+plane mirror ? Explain it with the help of a ray its previous position ?
+diagram. Ans. 50 cm away.
+16. The letters on the front of an ambulance are . An optician while testing the eyes of a patient
+written laterally inverted like JOVA.IUa&MA.Give keeps a chart of letters 3 m behind the patient
+reason. and asks him to see the letters on the image of
+17..Why is it difficult to read the image of the text of chart formed in a plane mirror kept at distance
+
+a page formed due to reflection by a plane
+Ans. Due to lateral inversion.
+
+mirror ?
+
+2 m in front of him. At what distance is the chart
+
+seen by the patient ? Ans. 7 m.
+
+148
+
+
+--- Page 9 ---
+(B) IMAGES FORMED IN A PAIR OF MIRRORS
+
+7.11 IMAGES FORMED
+
+INCLINED MIRRORS
+For an object kept in between the two inclined
+plane mirrors, we get many images of the object.
+This is because the light rays after reflection from
+one mirror fall on the other mirror. In other words,
+the image formed by one mirror acts as an object
+for the other mirror. This continues till no more
+reflection can occur on any mirror.
+
+The object and the images sapien ib hel
+
+IN TWO
+
+ome of object from the pard wersettion
+
+The number of images formed depends on
+the angle 6° between the two mirrors. Following
+two cases are possible :
+
+Case (1):
+
+If angle 6° between the mirrors is
+such that n = * is odd,
+
+(i) the number of images is n, when the
+object is placed asymmetrically between
+the mirrors.
+
+(ii) the number of images is n — 1, when the
+object is placed symmetrically (i.e., on the
+bisector of the angle) between the mirrors.
+
+Example : If @ is 72°, then n= = = 5, So
+
+images formed will be n = 5 for the object placed
+asymmetrically between the mirrors and images
+formed will be (n — 1) = 4, if the object is placed
+symmetrically (on the bisector) between the
+mirrors because two images now overlap.
+
+360°
+Case (2): If n= eo is even, the number of
+images is always n — 1 for all
+positions of object in between the
+mirrors.
+Example : If the angle between two mirrors
+360°
+is 60°, n = v7 6, the number of images is
+
+(n — 1) =5, ie. five images will be formed for all
+positions of the object in between the mirrors..
+
+We shall now consider image formation in
+two special cases :
+
+(a) When the two mirrors are parallel to each
+other.
+
+(b) When the two mirrors are perpendicular to
+each other.
+
+IMAGES FORMED IN A PAIR OF
+MIRRORS PLACED PARALLEL TO
+EACH OTHER
+
+When two mirrors are kept parallel to each
+
+7.12
+
+Ginfinite), so the number of images of an object
+kept in between the two parallel mirrors will be
+infinite. Thus
+
+For two mirrors kept parallel to each other,
+
+an infinite number of images are formed for
+an object kept in between them.
+
+In Fig. 7.18, AM and BM, are the two plane
+mirrors placed parallel to each other. An object P
+is placed in between them. The image of P formed
+by reflection from mirror AM is I, and by reflection
+from mirror BM, is J’. The ray diagram for the
+formation of image /' is not shown in Fig. 7.18.
+Now /; acts as a virtual object for mirror BM, and
+the image J, is formed. Similarly, J’ acts as the
+virtual object for mirror AM and the image /" is
+formed. In this manner, many images are formed.
+But the brightness of the remote images keeps on
+decreasing because at each reflection, some light
+is absorbed, thus not more than few images are
+seen. Fig. 7.18 shows the ray diagram for the
+formation of one set of images only (i.e, 1), h,
+
+Fig. 7.18 Images formed in two parallel mirrors
+
+149
+
+
+--- Page 10 ---
+" Js,...). The formation of other set of images (i.e.,
+
+I’, I", ....) can similarly be obtained. All images lie
+
+on the perpendicular drawn from the base of object
+
+on the mirrors.
+
+Use : In a showroom and in a barber’s shop,
+mifrors are arranged in this manner.
+
+Note : A thick plane mirror also forms a
+multiple number of images due to multiple
+reflections within the glass from front surface and
+back reflecting surface. Out of these, the second
+image formed due to reflection from the back
+reflecting surface is brightest.
+
+7.13 IMAGES FORMED BY TWO MIRRORS
+PLACED PERPENDICULAR TO EACH
+OTHER
+
+When two mirrors are kept perpendicular
+to each other, i.e., 8 = 90°, then
+
+.. for an object placed in between the two
+perpendicular mirrors, the number of images
+formed will be n — 1 = 3. Thus
+
+For two mirrors kept perpendicular to each
+other, three images are formed for an abject
+kept in between them. —
+
+In Fig. 7.19, AO and OB are the two plane
+mirrors kept mutually perpendicular to each other.
+Let P be an object in between the two mirrors.
+The image of object P formed by reflection from
+the mirror OB is P» and by reflection from the
+mirror OA is P|. Fig. 7.19 shows ray diagram for
+the formation of image P only. Now the image
+P, acts as the virtual object for the mirror OA
+since rays after reflection from mirror OF fall on
+
+Fig. 7.19 Images formed in two perpendicular mirrors
+
+the mirror OA. For this, the image formed by
+mirror OA is P3. Similarly, P; acts as the virtual
+object for the mirror OB since the rays after
+reflection from the mirror OA fall on mirror OB
+(they are not shown in figure). For this, the image
+formed by mirror OB is P, which is at the same
+point as P; (i.e., the image P, of P, in mirror OB
+overlaps with the image P3; of P, in mirror OA).
+As such, three images of object are formed in
+this case. In Fig. 7.19, ray diagram for the
+formation of images P, and P3 is shown.
+Similarly, we can draw the ray diagram for the
+formation of images P, and P,. Geometrically it
+can be seen that the images P,, P2, P3 and the
+object P, all lie on a circle whose centre is at O
+(the point of intersection of the two mirrors OA
+and OB) and radius is OP.
+
+7.14 USES OF PLANE MIRROR
+The plane mirrors find wide applications
+
+in our daily life. Some of the applications of a
+
+plane mirror are given below.
+
+(1) The most common and wide use is as a
+looking glass.
+
+(2) In the optician’s room to increase the effective
+length of the room. It is done by keeping a
+plane mirror on the front wall and the sign
+board on the opposite wall, just behind the
+patient. For the patient, the sign board is at
+nearly double the length of the room.
+
+(3) In the barber’s shop for seeing the hairs at
+the back of head. Here two mirrors facing
+each other are fixed on the opposite walls at
+the front and back of the viewer.
+
+(4) In a periscope, two parallel plane mirrors each
+inclined at 45° with the vertical walls are placed
+facing each other.
+
+(5) In a kaleidoscope, three plane mirrors inclined
+with each other at 60° are used. If small
+coloured bangle pieces are kept between the
+mirrors, beautiful hexagonal patterns are seen
+on rotating the tube.
+
+(6) In solar heating devices such as solar cooker,
+solar water heater, etc., a plane mirror is used
+to reflect the incident light rays from sun on
+the substance to be heated.
+
+150
+
+
+--- Page 11 ---
+EXERCISE 7(B)
+
+1. Two plane mirrors are placed making an angle 0
+in between them. Write an expression for the
+number of images formed if an object is placed
+in between the mirrors. State the condition, if any.
+
+oO
+
+360
+Ans. n if n= — is odd and object is
+
+asymmetrically placed, n — 1 if n is even
+or odd if object is placed symmetrically.
+
+2. Two plane mirrors are placed making an angle 6°
+in between them. For an object placed in between
+the mirrors, if angle is gradually increased from
+0° to 180°, how will the number of images change:
+increase, decrease or remain unchanged ?
+
+Ans. Decrease
+
+3. How many images are formed for a point object
+kept in between the two plane mirrors at right
+angles to each other ? Show them by drawing a
+tay diagram. Ans, 3
+
+4. Two plane mirrors are arranged parallel and facing
+each other at some separation. How many images
+are formed for a point object kept in between
+them ? Show the formation of images with the
+help of a ray diagram.
+
+5. State two uses of a plane mirror.
+
+Ans. Infinite
+
+Multiple choice type :
+1. Two plane mirrors are placed making an angle
+60° in between them. For an object placed in
+between the mirrors, the number of images
+
+formed will be :
+(a) 3 (b) 6
+(c) 5 (d) infinite. Ans. (c) 5
+
+2. In the barber's shop, two plane mirrors are
+placed :
+(a) perpendicular to earth other
+(b) parallel to each other
+(c) at an angle 60° between them
+(d) at angle 45° between them.
+Ans. (b) parallel to each other
+Numericals :
+1. State the number of images of an object placed
+between the two plane mirrors, formed in each
+
+case when the mirrors are inclined to each other
+at (a) 90°, and (b) 60°. Ans. (a) 3, (b) 5
+
+2. An object is placed (i) asymmetrically
+(ii) symmetrically, between two plane mirrors
+inclined at an angle of 50°. Find the number of
+images formed. Ans. (i) 7, (ii) 6
+
+(C) SPHERICAL MIRRORS, IMAGE FORMATION AND THEIR USES
+
+7.15 SPHERICAL MIRRORS
+
+A spherical mirror is made by silvering a
+part of a hollow glass sphere. Thus
+
+Types of spherical mirrors : Depending on
+whether the inner or outer surface of the sphere
+is silvered, spherical mirrors are of two types:
+
+i
+REFLECTING ! ' SILVERED
+SURFACE Au---. A, SURFACE
+a i)
+' SILVERED !
+
+1 SURFACE '
+
+1 '
+‘REFLECTING!
+' SURFACE !
+
+CONVEX CONCAVE
+MIRROR ' ' MIRROR
+
+Fig. 7.20 Spherical mirrors
+
+(i) the concave mirror, and (ii) the convex mirror.
+In Fig. 7.20, the nght part X of a hollow sphere
+is silvered and coated on its outer surface, and it
+forms the concave mirror, while the left part Y of
+the sphere is silvered and coated on its inner
+surface, and it forms the convex mirror.
+
+(i) Concave mirror
+
+A concave mirror is made by silvering the
+outer (or bulging) surface of the piece of a
+hollow sphere such that the reflection takes place
+
+REFLECTING A SILVERED REFLECTING A SILVERED
+
+SURFACE SURFACE SURFACE SURFACE
+—_—_—_—_ oe
+LIGHT LIGHT
+——$» ——
+—_—_——s ——»
+B
+(a) CONCAVE MIRROR (b) CONVEX MIRROR
+
+Fig. 7.21 Concave and convex mirrors
+
+151
+
+
+--- Page 12 ---
+from the hollow (or concave) surtace as shown 1n
+Fig. 7.21 (a).
+(ii) Convex mirror
+
+A convex mirror is made by silvering the
+inner surface of the piece of a hollow sphere
+such that the reflection takes place from the outer
+(or bulging) surface as shown in Fig. 7.21 (b).
+
+7.16 BRIEF INTRODUCTION OF TERMS
+RELATED TO A SPHERICAL MIRROR
+
+(1) Centre of curvature
+
+of the sphere. of which the minor pe
+In Fig. 7.22, it is represented by the symbol C.
+The normal at any point of the mirror
+passes through the centre of curvature C. In other
+words, a line joining any point on the surface
+of mirror to the centre of curvature C will be
+normal to the surface of mirror at that point.
+
+(2) Radius of curvature
+
+The radius of sphere of which thé:
+mirror is a part, is called the. ‘rigglius of
+
+curvature of the mirror.
+
+Thus, it is the distance of centre of
+curvature C from any point on the surface of
+mirror. In Fig. 7.22, distance PC is the radius
+of curvature. It is represented by the symbol R.
+
+/ PRINCIPAL PRINCIPAL)
+' AXIS *—R p R—* axis
+i t
+‘ c i
+‘ ?
+é
+.Y 7
+a al B Wee o”
+(a) CONCAVE MIRROR (b) CONVEX MIRROR
+
+Fig. 7.22 Centre of curvature, radius of curvature,
+pole, aperture and principal axis
+
+(3) Pole
+
+It is the central point of the surface of the
+mirror. It is represented by the letter P as shown
+in Fig. 7.22.
+
+(4) Aperture ’
+The plane surface area of the mirror through
+
+which the light rays enter and fall on the
+mirror is called its aperture.
+
+Thus for the mirror shown in Fig. 7.22, AB
+is the diameter of aperture.
+
+(5) Principal axis
+
+It is the straight line joining the pole of the
+mirror to its centre of curvature.
+
+In Fig. 7.22, the line PC represents the
+principal axis. It can extend on either side.
+
+7.17 REFLECTION OF LIGHT RAY FROM
+A SPHERICAL MIRROR
+
+From a spherical mirror, reflection of light
+follows the same laws of reflection as for the
+plane surface (i.e. angle of incidence i = angle of
+reflection r and the incident ray, reflected ray and
+the normal lie in same plane).
+
+Note : In a spherical mirror, to obtain the
+direction of reflected ray for a given incident
+ray, first draw a normal at the point of
+incidence. For this, draw a line joining the point
+of incidence to the centre of curvature C*. Then
+draw a line on the other side of the normal,
+making an angle (i.e., the angle of reflection)
+equal to the angle of incidence. This line
+represents the reflected ray.
+
+Example : In Fig. 7.23, we are to find the
+direction of reflected ray for an incident ray AD
+on a concave mirror and convex mirror for
+which C is the position of centre of curvature.
+
+(a) CONCAVE MIRROR
+
+Fig. 7.23 Reflection of a ray of light from
+a spherical mirror
+
+(b) CONVEX MIRROR
+
+* The line joining the point of incidence to the centre of
+curvature is normal to the tangent drawn on the spherical
+surface at the point of incidence, so it becomes normal at
+the point of incidence.
+
+152
+
+
+--- Page 13 ---
+For this, the point of incidence D is joined to
+the centre of curvature C to get the normal DC
+on the mirror at the point of incidence D. Then
+the reflected ray DB is drawn such that
+ZBDC = ZADC in concave mirror and
+ZBDC’ = ZADC in convex mirror.
+
+7.18 FOCUS AND FOCAL LENGTH
+
+For concave mirror : In Fig. 7.24, the rays
+of light are incident parallel to its principal axis
+on a concave mirror. Each ray gets reflected
+from the mirror obeying the law of reflection
+(i.e, angle of incidence i = angle of
+reflection r) for which the dotted line joining the
+point of incidence to the centre of curvature C
+acts as normal at the point of incidence. We note
+that in Fig. 7.24, concave mirror converges the
+rays on reflection and the rays after reflection
+pass through a point F on the principal axis. This
+point is called the focus of concave mirror. Thus
+a concave mirror has a real focus because the
+reflected rays actually meet at this point. The
+focus is represented by the ° Symbos F. Thus
+
+| reflection from 1 the | mitrot:
+
+PRINCIPAL
+AXIS
+
+Fig. 7.24 Focus and focal length
+of a concave mirror
+
+The distance of focus F from the pole P of
+the mirror is called its focal length. i.e., focal
+
+length f = PF
+
+For convex mirror : In Fig. 7.25, the rays
+of light are incident parallel to the principal
+axis on a convex mirror. Each ray after
+reflection appears to diverge and the reflected
+rays do not meet at any point, but they appear
+to come from a point F on the principal axis,
+behind the mirror. This point is called the focus
+of the convex mirror. This point is obtained
+geometrically, when the reflected rays are
+
+produced backwards. Thus a convex mirror has
+a virtual focus. Thus,
+
+The focus of a convex mirror is a point on the
+principal axis from which, the light rays
+incident parallel to the principal axis, appear
+to come, after reflection from the mirror.
+
+Fig. 7.25 Focus and focal length of
+a convex mirror
+
+The distance of the focus F from pole P
+of the mirror is called its focal length i.e.,
+focal length f= PF.
+
+Focal plane : A plane passing through the
+focus and normal to the principal axis of the mirror,
+is called focal plane. A parallel beam of light
+inclined to the principal axis get focused at a point
+in this plane [Fig. 7.26(a) and Fig. 7.26(b)]. It is
+the point where the ray passing through the centre
+of curvature meets the focal plane.
+
+,FOCAL PLANE
+
+PRINCIPAL
+AXIS
+
+(a) Concave mirror
+
+(b) Convex mirror
+Fig. 7.26 (b) Focal plane
+
+153
+
+
+--- Page 14 ---
+7.19 CONVENIENT RAYS FOR’ THE
+CONSTRUCTION OF IMAGE BY RAY
+DIAGRAM
+
+Although from each point of an object,
+infinite number of rays travel in all directions, but
+to find the position and nature of image formed
+due to reflection from a spherical mirror by
+drawing, we need to consider at least two rays
+incident on the mirror from the same point of the
+object. Any two of the following rays are taken as
+the convenient incident rays :
+
+(1) Aray passing through the centre of curvature,
+(2) A ray parallel to the principal axis,
+
+(3) A ray passing through the focus,
+
+(4) A ray incident at the pole.
+
+(1) A ray passing through the centre of curvature
+
+A line joining the centre of curvature to any
+point on the surface of mirror is normal to the
+mirror at that point, therefore a ray AD passing
+through the centre of curvature C (or appearing
+to pass through the centre of curvature C) is
+incident normally on the spherical mirror. Since
+its angle of incidence is zero, therefore the angle
+of reflection will also be zero and the ray AD
+gets reflected along its own path DA as shown in
+Fig. 7.27. Thus
+
+A ray ‘passing through (or directed towards $)
+the centre of curvature of a spherical within i is
+reflected back along its own path. -
+
+=D
+
+- (a) CONCAVE MIRROR (b) CONVEX MIRROR
+
+Fig. 7.27 A ray passing through the centre of
+curvature is reflected back along its own path
+(2) A ray parallel to the principal axis
+A ray of light AD incident parallel to the
+principal axis, after reflection passes either
+through the focus F (in a concave mirror) or will
+
+appear to come from the focus F (in a convex
+mirror) along DB as shown in Fig. 7.28 . Thus
+
+A ray incident parallel to the principal axis,
+after reflection from a spherical mirror either
+Passes or appears to be coming from focus.
+
+PRINCIPAL
+AXIS
+
+(a) CONCAVE MIRROR
+Fig. 7.28 A ray parallel to the principal axis
+either passes or appears to pass through focus
+after reflection
+
+(b) CONVEX MIRROR
+
+(3) A ray passing through the focus
+
+A ray of light AD incident on the mirror
+passing through the focus F (in a concave
+mirror) or converging at the focus F (in a convex
+mirror) after reflection becomes parallel to the
+principal axis as DB (Fig. 7.29). Thus
+
+A ray either incident from the focus (or
+converging at the focus), after reflection from
+
+a spherical mirror becomes parallel to the
+
+PRINCIPAL F
+axis N
+
+(a) CONCAVE MIRROR
+
+(b) CONVEX MIRROR
+
+Fig. 7.29 A ray passing through the focus
+gets reflected parallel to the principal axis
+
+(4) A ray incident at the pole
+
+A ray AP incident at the pole P of the
+mirror gets reflected along a path PB such that
+the angle of incidence ZAPC is equal to the
+angle of reflection ZBPC in a concave mirror
+(or ZAPC’ = ZBPC’ in a convex mirror) as
+shown in Fig. 7.30. In this case, principal axis
+itself is the normal at the pole. Thus
+
+154
+
+
+--- Page 15 ---
+For a ray incident at the pole of a spherical
+mirror, the reflected ray is at an angle of
+
+reflection equal to the angle of incidence with
+principal axis as normal.
+
+PRINCIPAL AXIS
+
+(a) CONCAVE MIRROR
+
+(b) CONVEX MIRROR
+
+Fig. 7.30 Reflection of a ray incident at the pole
+
+7.20 RAY DIAGRAMS FOR FORMATION
+OF IMAGES IN A CONCAVE MIRROR
+
+We shall now find the position, size and
+nature of image by drawing the ray diagram for
+a small linear object placed on the principal axis
+of a concave mirror at different positions.
+
+Case (i) : When the object is at infinity
+
+When the object (e.g. sun) is at infinity, the
+rays of light reaching the concave mirror even
+from the different points of the object subtend
+nearly the same angle at each point of the mirror,
+so they can be treated to be parallel to each other.
+In Fig. 7.31, let two rays AD and BE from the
+same point of object are incident on the concave
+mirror, parallel to its principal axis CP. They after
+reflection from the concave mirror pass through
+its focus F as DF and EF respectively. The two
+reflected rays DF and EF meet at the focus F.
+Hence a real and point image is formed at the
+focus. Thus
+
+whe the focus F- It is (i) Real, (ii) He
+(iti) Diminished ‘to a point.
+
+Fig. 7.31 When the object is at infinity
+
+Case (ii) : When the object is at a far distance
+
+Consider two rays AP and BD from the
+same point of an object (e.g. a tree) incident on
+a concave mirror, parallel to each other as
+shown in Fig 7.32. The incident ray AP striking
+at the pole P is reflected along PA,, such that
+ZAPC = ZA,PC (i.e, Zi = Zr ). Similarly the
+other ray BD is reflected along DA, such that
+ZBDC = ZA,DC (since DC is normal at the
+point D). The reflected rays PA, and DA,
+intersect at a point A, which is the image of the
+point of the object. The point A, lies on the focal
+plane of the mirror. Similarly, the rays from other
+points of the object also converges in the focal
+plane thus forming the image along A,F. Hence
+AjF is an inverted, real and highly diminished
+image formed in the focal plane of the concave
+mirror. Thus
+
+When object is at a far distance, image is in
+the focal plane of the mirror. It is (i) Real,
+(ii) Inverted, and (iii) Highly diminished.
+
+Fig. 7.32 When the object is at far distance
+
+Case (iii) : When object is beyond the centre of
+curvature
+
+In Fig. 7.33, AB is an object placed beyond
+the centre of curvature C. Consider two light rays
+from a point A of the object. A ray AD incident
+parallel to the principal axis, after reflection from
+the concave mirror passes through its focus F
+along DA,. Another ray AE passing through the
+centre of curvature C is incident normally on the
+mirror, so it gets reflected back as EA. The two
+reflected rays DA, and EA intersect at a point A,
+to form the image. Similarly, the image is formed
+at points between A, and B, for other points of
+the object between A and B. So image A,B, is
+obtained between the focus F and the centre of
+curvature C. The image is real, inverted and
+diminished. Thus
+
+155
+
+
+--- Page 16 ---
+When object is beyond the centre of curvature
+C, the image is between the focus F and
+
+the centre of curvature C. It is (i) Real,
+(ii) Inverted, and (iti) Diminished.
+
+Ee
+
+Fig. 7.33 When the object is beyond centre
+
+of curvature C
+
+Case (iv) : When object is at the centre of
+curvature C
+
+In Fig. 7.34, AB is an object placed at the centre
+of curvature C. An incident ray of light AD being
+parallel to the principal axis, passes through its focus
+F along DA, after reflection. The other ray AE, being
+incident on the concave mirror through focus F,
+becomes parallel to the principal axis as EA), after
+reflection. The two reflected rays DA, and EA, meet
+at a point A, to form the image. Similarly, the image
+is formed for other points of the object and B,A, is
+the image of the object AB formed at the centre of
+curvature C itself. It is real, inverted and of same size
+as the object. Thus
+
+When the object is at the centre of ciirvature C,
+the image is also at the centre of curvature C.
+It is (i) Real, (ii) Inverted, and (ii):Stze
+
+as that of the object. oe
+
+Fig. 7.34 When the object is at centre of curvature C
+
+_ Case (v) : When object is between the centre of
+curvature C and focus F
+In Fig. 7.35, AB is an object placed between
+Cand F. An incident ray of light AD from the point
+A of the object is parallel to the principal axis, so
+it passes through its focus F after reflection along
+DA,. Another ray AE, being incident on the
+concave mirror through focus F, becomes parallel
+
+to the principal axis as EA, after reflection. The
+two reflected rays DA, and EA, intersect at a point
+A, to form the image of point A of the object.
+Similarly, the image is formed on A,B, for the other
+points on the object AB, thus the image A,B, is
+formed beyond the centre of curvature C which is
+real, inverted and magnified. Thus,
+
+When the object is between the centre of
+curvature C and the focus F, the image is
+beyond the centre of curvature C. It is (i) Real,
+(ii) Inverted, and (iii) Magnified.
+
+Fig. 7.35 When the object is between
+centre of curvature C and focus F
+
+Case (vi) : When object is at the focus F
+
+In Fig. 7.36, AB is an object placed at the
+focus F. A ray of light AD is incident on the
+mirror parallel to the principal axis and so it
+gets reflected along DF, passing through its focus
+F. The other ray AE moving in direction CA,
+appears to be coming from the centre of
+curvature C, so it gets reflected back along FA.
+The two reflected rays DF and EA are parallel
+to each other which are assumed to meet at
+infinity, so image is formed at infinity. In this
+case image is real, inverted and highly
+magnified. Thus
+
+When the object is at the focus F, the image
+is at infinity. It is (i) Real, Gi) Inverted, and:
+(iii) Highly magnified. oe
+
+Fig. 7.36 When the object is at focus F
+
+Case (vii) : When the object is between the
+focus F and the pole P
+In Fig. 7.37, AB is an object placed between
+
+156
+
+
+--- Page 17 ---
+pole P, and focus F. A light ray AD incident
+parallel to the principal axis, gets reflected along
+DF passing through its focus F and the incident
+ray AE coming from the centre of curvature C
+gets reflected back along EA. The two reflected
+rays DF and EA do not intersect each other, but
+they appear to diverge from a point A, (when
+produced backwards). For an eye between C and
+F, the reflected rays appear to come from A,
+which is the virtual image of A. Similarly, image
+is formed for other points on the object and an
+image A,B, is formed behind the mirror which is
+virtual, upright and magnified. Thus
+
+When the object is between the focus F and
+pole P, the image is behind the mirror. It is
+
+(i) Virtual (ii) Upright, and (iii) Magnified.
+
+Fig. 7.37 When the object is between focus
+F and pole P
+
+Note : In this case, as the object AB moves
+towards its pole P, image A,B, formed behind the
+mirror, also shifts towards the pole P and its size keeps
+on decreasing, but it remains bigger than the object AB.
+Finally when the object AB comes very close to the
+pole P of the mirror, the virtual image will be at the
+pole and it is of size same as of object.
+
+Inference : In case of a concave mirror, the
+image formed can be real as well as virtual; it
+can be diminished, of the same size as well as
+magnified. The nature and size of the image
+depends on the position of object. For the object
+situated beyond focus, the image is always real
+and inverted, whereas for the object situated
+between the focus and pole, the image is upright
+and virtual. The image is diminished when the
+object is beyond centre of curvature, but it
+becomes magnified as the object comes within
+the centre of curvature. The image is of size of
+the object when the object is at the centre of
+curvature.
+
+The table below gives the position, size and
+
+nature of the image formed by a concave murror
+corresponding to the different positions of the
+object.
+
+Position, size and nature of the image formed by a
+concave mirror for different positions of the object.
+
+Position of | Position of | Size of | Nature of
+the object | the image | the image | the image
+
+At infinity foo the Diminished | Real &
+
+to a point inverted
+
+2 | At very Z “Focal Highly Real &
+distacce plane diminished | inverted
+
+3 | Beyond the | Between the Real &
+inverted
+
+4 | At the centre} At centre | Same size Real &
+of curvature | of curvature inverted
+Between the | Beyond the | Magnified Real &
+inverted
+
+At focus At infin Highly Real &
+magnified inverted
+7. | Between the! Behind | Magnified | Virtual and
+focus and | the mirror upright
+pole
+
+7.21 RAY DIAGRAM FOR FORMATION OF
+
+IMAGE IN A CONVEX MIRROR
+
+In Fig. 7.38, AB is a linear object placed in
+front of a convex mirror. Consider two rays
+starting from a point A of the object. A ray of
+light AD, incident parallel to the principal axis is
+reflected along DM such that it appears to
+diverge from its focus F. The other ray AE
+travelling towards the centre of curvature C, falls
+normally on the mirror, so it is reflected back as
+EA along the same path. The two reflected rays
+DM and EA meet at a point A, when they are
+produced backwards. In other words, the
+reflected rays appear to come from a point A,
+
+Fig. 7.38 Image formation in convex mirror
+
+157
+
+
+--- Page 18 ---
+which is the virtual image of A. Similarly, for the
+rays incident from the other points of the object,
+a Virtual image is formed along A,B, which is
+situated between the pole and focus. The image
+is virtual, erie and diminished. Thus
+
+pare the other side ee thet me
+G). Virmih,. Gi) Upright, and @ii
+
+Note : When the object, in front of a
+convex mirror, is at a distance equal to the
+focal length of mirror, the image is exactly at
+the midpoint between its pole and focus.
+
+Inference : In a convex mirror, the image
+formed is always virtual, upright, and diminished,
+It is always situated between its pole and focus,
+irrespective of the distance of object in front of
+the mirror. As the object comes closer to the
+mirror from a far distance, its image shifts from
+focus towards the pole and increases in size.
+
+The table below gives the position, size
+and nature of image formed by a convex mirror
+for the different positions of the object.
+
+Position, size and nature of image formed
+by a convex mirror
+
+7.22 RELATIONSHIP BETWEEN THE
+FOCAL LENGTH AND RADIUS OF
+CURVATURE
+
+Proof* :
+
+In Fig. 7.39 and Fig. 7.40, P is
+the pole, C is the centre of curvature and F is
+the focus of the mirror. The distance PF is equal
+
+* Not included in the syllabus
+
+to the focal length f the distance PC is equal to
+the radius of curvature R of the mirror.
+
+For concave mirror —
+
+In Fig. 7.39, a ray light BD, parallel to the
+principal axis PC, is incident on the concave
+mirror PD. After reflection, it goes along DR
+passing through its focus F.
+
+Fig. 7.39 Relationship between f and R
+for a concave mirror
+
+Then <BDC = ZDCF (alternate angles)
+and ZBDC = ZCDF
+
+(law of reflection, Zi =r)
+Hence ZDCF = ZCDF
+
+*, A FDC is isosceles. Hence DF = FC
+If aperture of the mirror is small, the
+point D is very close to the point P, then DF = PF
+PF=FC or PF + PF = PF + FC
+or 2PF=PC
+
+1 1
+or PF=5 PCorf=,R
+
+For convex mirror —
+
+In Fig. 7.40, a ray of light BD incident on
+the convex mirror, parallel to the principal axis
+PC, after reflection appears to come from its
+focus F. At the point of incidence D, the normal
+on mirror is DC.
+
+Fig. 7.40 Relationship between f and R
+for a convex mirror
+
+Then <BDN = ZFCD (corresponding angles)
+ZBDN = ZNDR (law of reflection, Zi = Zr)
+
+and ZNDR = ZCDF vertically opposite angles)
+
+158
+
+
+--- Page 19 ---
+Hence ZFCD = “CDF
+.. A FDC is isosceles. Hence, DF = FC
+
+If the aperture of the mirror is small,
+the point D is very close to the point P. Then
+DF = PF
+
+PF =FC or PF + PF = PF + FC
+
+or 2PF=PC
+
+Examples : (1) A concave mirror of radius
+of curvature 20 cm has its focal length equal to
+10 cm.
+
+(2) A convex mirror of focal length 15 cm
+has its radius of curvature equal to 30 cm.
+
+7.23 SIGN CONVENTION FOR THE
+MEASUREMENT OF DISTANCES
+
+To specify the position of object and image,
+we need a reference point and sign convention.
+We follow the cartesian sign convention,
+according to which the rules are :
+
+(i) All distances are measured from the pole
+of the mirror taken as origin. The rays are made
+incident from the left.
+
+(ii) The distances measured along the
+principal axis in the direction of incident light,
+are positive while those opposite to the incident
+light, are negative.
+
+(iii) The distances above the principal axis
+are taken positive and those below the principal
+axis are taken negative.
+
+This convention gives the focal length of
+a concave mirror to be negative (since in
+Fig. 7.24. PF is the distance measure opposite to
+the incident rays), and that of convex mirror to
+be positive (since in Fig. 7.25, PF is the distance
+measured in the direction of incident rays). For
+convenience, the object is placed to the left of
+the mirror so that the graphical convention of
+sign comes into operation.
+
+Fig. 7.41 shows the sign convention in
+concave and convex mirror.
+
+POSITIVE
+INCIDENT i Os
+
+LIGHT
+
+NEGATIVE
+
+—
+J POSITIVE
+4+
+
+NEGATIVE
+
+OPPOSITE TO
+THE DIRECTION ——_
+OF INCIDENT ~ DIRECTION OF
+LIGHT INCIDENT LIGHT
+
+Y;
+(a) CONCAVE MIRROR
+
+Y
+| POSITIVE
+
+INCIDENT
+LIGHT
+
+—
+
+NEGATIVE POSITIVE
++
+OPPOSITE TO —-» DIRECTION OF
+THE DIRECTION INCIDENT LIGHT
+OF INCIDENT
+LIGHT NEGATIVE
+
+1
+(b) CONVEX MIRROR
+
+Fig. 7.41 Sign convention
+
+7.24 FORMULAE FOR THE SPHERICAL
+MIRROR
+(1) The expression relating the distance of
+object u, distance of image v and focal length f
+for a spherical mirror, is called the formula for
+spherical mirror. It is gives as :
+
+(7.6)
+
+In the above relation, the values of known
+quantities out of u, v and f are substituted with
+their proper sign. For a concave mirror, the
+values of u and f are always negative, while the
+value of v is negative for a real image and
+positive for a virtual image. For a convex mirror,
+the value of u is always negative and the values
+of v and f are always positive.
+
+(2) If the length of the object and image are
+measured perpendicular to the principal axis, the
+ratio of length of the image to the length of the
+object, is called linear magnification. If length of
+the image is / and that of the oject is O, then
+
+159
+
+
+--- Page 20 ---
+; ; Length of the image (/)
+Magnification m = Length of the object (O)
+Distance of image (v)
+= Distance of object (u)
+
+or .(7.7)
+
+For the real image, u and v both are
+negative, so linear magnification m is negative.
+For virtual image, u is negative and v is positive,
+so linear magnification m is positive. A real
+image is always inverted, while a virtual image
+is always errect.
+
+7.25 USES OF SPHERICAL MIRRORS
+Uses of a concave mirror
+
+(1) As a shaving mirror : When a concave
+mirror is held near the face (such that face is
+between the pole and focus of mirror), it gives an
+upright and magnified image as shown in
+Fig. 7.37 and hence even the tiny hairs on the face
+can easily be seen. For this, a concave mirror of
+large focal length (so that the face always lies
+between its focus and the pole) and large
+aperature (so as to view the entire face) is used.
+
+(2) As a reflector : In torch, search light,
+and head light of automobiles, cars or cycles etc.,
+a concave polished metallic surface is used as a
+reflector to obtain a parallel beam of light. For
+this, the source of light (i.e., bulb) is placed at the
+focus of concave reflector. The rays of light from
+the bulb fall on the concave reflector which after
+reflection form a parallel beam (Fig. 7.42).
+
+BULB
+
+CONCAVE
+MIRROR
+
+Fig. 7.42 Use of a concave mirror as a reflector
+
+(3) As a dentist’s head mirror : If a
+parallel beam of light is incident on a concave
+mirror, it focuses the beam to a point
+[Fig. 7.26(a)]. This fact enables us to use it as a
+doctor’s head mirror to concentrate a light beam
+on a small area of the body part (such as teeth,
+nose, throat, ear, etc.) to be examined. For this,
+a parallel beam of light is made to fall on a
+
+concave mirror attached to the band tied at the
+fore-head of doctor examining the body part.
+
+Uses of a convex mirror
+
+. (1) As a reflector in street lamps : A
+convex polished metallic surface is used in street
+lamp as a reflector so as to diverge light over a
+larger area.
+
+(2) As a rear view mirror : A convex mirror
+diverges the incident light beam and always forms
+a virtual, small and erect image between its pole
+and focus. This fact enables the driver to use it
+as a rear view mirror in vehicles to see all the
+traffic approaching from behind. Although a plane
+mirror can also be used for the purpose, but a
+convex mirror provides a much wider field of view
+as compared to a plane mirror of the same size.
+The ray diagrams in Fig. 7.43 show how a convex
+mirror provides a wider field of view than a plane
+mirror of the same aperture. Here D is the position
+of the driver of the vehicle.
+
+(b) CONVEX MIRROR
+Fig. 7.43 Use of a convex mirror as a rear view mirror
+
+7.26 DISTINCTION BETWEEN A PLANE
+MIRROR, CONCAVE MIRROR AND
+
+CONVEX MIRROR
+
+TOUCHING)
+
+To distinguish between a plane mirror,
+concave mirror and convex mirror, the given
+mirror is held near the face and image is seen.
+
+(WITHOUT
+
+160
+
+
+--- Page 21 ---
+There can be the following three cases :
+
+Case (i) : If image is upright, of same size
+and it does not change in size by moving the
+mirror towards or away from the face, the mirror
+is plane.
+
+Case (ii) : If image is upright, magnified,
+and increases in size on small movement of the
+mirror away, the mirror is concave.
+
+Case (iii) : If image is upright, diminished
+and decreases in size on small movement of the
+mirror away, the mirror is convex.
+
+7.27 DIFFERENCE BETWEEN A CONCAVE AND CONVEX MIRROR
+Difference between a concave and convex mirror
+
+. ks mad by siverng the ctr of pr of
+the hollow sphere, so reflection :
+the imner surface.
+
+. The light rays incident on it converge after
+reflection.
+
+. The image formed by it is real as well as virtual.
+For all positions of the object at or beyond the
+
+focus, the image is real, while for positions.of the
+object between the focus and pole, the image i
+. For object away from the centre of curvature, the
+image is diminished, for object at centre of
+curvature, image is of same size and,for object
+within the centre of curvature, image-ix stagnified.
+
+1. It is made by silvering the inner surface of a part
+of the hollow sphere, so reflection takes place
+from the bulging surface. |
+
+2. The light rays incident on it diverge after
+reflection.
+
+3. The image formed by it is always virtual for all
+positions of the object in front of it.
+
+4. The image is always diminished for all positions
+of the object in front of it.
+
+1. Complete the ray
+diagram shown in
+Fig. 7.44 to show the
+formation of image for
+parallel rays incident on
+a concave mirror. State
+position, nature and size
+of the image formed.
+
+The completed ray
+diagram is shown in
+Fig. 7.45. The image is
+formed at the focus F. It
+is real, inverted and
+diminished.
+
+2. Complete the ray
+diagram shown in
+Fig. 7.46 to show
+the formation of Fe
+image for parallel
+rays incident on a
+convex mirror. Fig. 7.46
+State position, nature and size of the image
+formed.
+
+161
+
+The completed
+ray diagram
+is shown in
+Fig. 7.47. The
+image is formed at
+the focus F
+(behind the
+mirror). It is virtual, erect and diminished.
+
+3. In case of a convex mirror, if object is moved
+away from the mirror, how do the position,
+size and nature of image change ?
+
+Fig. 7.47
+
+As the object is moved away from a convex
+mirror, the distance of virtual image from the
+mirror (formed behind it between pole and focus)
+increases i.e., the image shifts from the pole
+towards the focus and the size of the image
+gradually decreases. When the object is at infinity
+(very far), the image is at its focus. The image
+is always erect and virtual.
+
+4, An object is brought from a far distance
+towards a concave mirror. How do the nature,
+position and size of image change ?
+
+
+--- Page 22 ---
+When object is very tar trom the concave mfrror, a.
+
+its image is at the focus and it is real, diminished,
+and inverted. As the object is brought towards
+the mirror, the image shifts away from the mirror
+and its size increases, but it remains smaller than
+the object. When the object is at centre of
+curvature of the mirror, the image is also at the
+centre of curvature and it is of size equal to the
+size of the object. By further bringing the object
+towards the mirror, the image gets magnified and
+it moves away from the centre of curvature.
+When object is at focus of mirror, the image is
+at infinity. The image remains real and inverted.
+If the object is further moved towards the mirror,
+the image now becomes virtual, erect and
+magnified and it is formed behind the mirror.
+
+. You are given a concave mirror of focal length
+
+10 cm, a point source of light and a screen | 10.
+
+placed at distance 30 cm in front of mirror.
+How can you obtain a bright patch of light
+on screen, of size equal to that of the aperture
+of mirror ? Draw diagram to explain your
+answer.
+
+By placing the point source of light at the focus
+of the concave mirror, it is possible to obtain a
+bright patch on the screen, of size equal to that
+of the aperture of the mirror. The completed ray
+diagram is shown in Fig. 7.48.
+
+CONCAVE
+MIRROR
+
+SCREEN
+
+Fig. 7.48
+
+. What is the focal length of a concave mirror | 1.
+of radius of curvature 16-0 cm ?
+
+Given, radius of curvature = 16-0 cm
+
+Focal length = ; x Radius of curvature
+= 5 x 16:0 cm = 8-0 cm
+
+). A concave mirror is a part of hollow sphere
+of radius 40 cm. What will be the focal length
+of concave mirror ?
+
+Given : radius of curvature R = 40 cm
+
+Radius of curvature R
+2
+
+= 20 cm
+
+Focal length f =
+40
+2
+
+162
+
+9.
+
+ine rocal lengin or a convex murror is 10 cm.
+Find the radius of curvature of mirror.
+
+Given: Focal length f = 10 cm
+“. Radius of curvature R = 2 x focal length f
+= 2x 10=20 cm
+
+For an object placed at a distance 20 cm from
+a concave mirror, the image is formed at the
+same position. What is the focal length of the
+mirror ?
+
+For an object placed at the centre of curvature
+of a concave mirror, the image is formed at the
+centre of curvature itself. Thus radius of
+curvature R = 20 cm
+
+Radius of ture R
+Focal length f adius of curvature K
+
+2
+20
+= > “ =10cm
+The image of an object placed at a distance
+of 30 cm on the principal axis of a concave
+mirror from its pole, is formed on the object
+itself. Find (a) the focal length and (b) linear
+
+magnification of mirror.
+
+Since the image of an object placed at the
+centre of curvature of a concave mirror is
+formed at the centre of curvature, hence
+according to the question, radius of curvature of
+mirror R = 30 cm.
+
+1
+(a) Focal length f = > x Radius of curvature
+
+= ; x 30 cm = 15 cm
+
+(b) Now u = 30 cm (negative),
+v = 30 cm (negative)
+.. Linear magnification
+v_ _{ 730) _
+m= an (=) =-]
+An object is placed at a distance of 48 cm in
+front of a concave mirror of focal length
+24 cm.
+(a) Find the position of image.
+(b) What will be the nature of image ?
+Given: f= 24 cm (negative),
+u = 48 cm (negative)
+1 1
+
+. 1
+(a) From relation 7 + y= Ff
+
+1 1 41 1 1
+
+vf uw 24) 7 (48)
+
+1 -2+) =I =_48
+or v 48 = 48 or v=-— cm
+
+Alternative : The object is at the centre of
+curvature of concave mirror, so image will form
+on itself i.e., at distance 48 cm in front of mirror.
+
+
+--- Page 23 ---
+12.
+
+13.
+
+14.
+
+(b) The image is at a distance 48 cm in front
+of mirror. The image is inverted, real and
+of same size as object.
+
+An object is placed at a distance of 15 cm in
+front of a convex mirror of radius of
+curvature 10 cm. (a) Where will the image
+form ? (b) Find the magnification m. (c) What
+will be the nature of image real or virtual ?
+
+R
+Given: R= 10cm, f= 3 = 5 cm (positive),
+
+u = 15 cm (negative), v = ?
+
+1 1 1
+(a) From relation ay + y= f?
+1 1 41
+vt G15) = 5
+Poi i _4
+oF v5 °15 ~ 45
+or y= 2 23-75 em
+
+Thus the image will form at a distance
+3°75 cm behind the mirror.
+
+(b) Magnification m = -— = - (15) = 4
+Thus the size of image is one-fourth the size of
+the object.
+
+(c) The image will be virtual and erect.
+
+When an object is placed at a distance of
+40 cm from a concave mirror, the size of
+image is one fourth that of the object.
+(a) Calculate the distance of image from the
+mirror. (b) What will be the focal length of
+the mirror ?
+
+Given: u = 40 cm (negative),
+
+1
+m= (negative for the real image)
+
+v 1 v
+(a) From m= —7 | =-(40) or v = -10 cm
+Thus the image is formed at a distance 10 cm
+in front of the mirror.
+— to ad dt
+(b)Now from relation 7 + va Of?
+1 1 1
+
+f ~ 40) * €10)
+_ 2
+~ 40
+-  _ gs
+or = 5 =- cm
+
+ie., the focal length of concave mirror is 8 cm.
+
+At what distance in front of a concave mirror
+of focal length 10 cm, an object be placed so
+
+163
+
+15.
+
+16.
+
+that its real image of size five times that of
+the object is obtained ?
+
+Given: f= 10 cm (negative),
+m = 5 (negative for the real image)
+But m =—— . -§=-~ or v = Su
+u u
+11 1
+Now from relation — + — = ;,
+uo»s ff
+Pod tt
+u* Su -10
+§ _-l
+or su 10
+or u=-l12 cm
+
+Thus the object should be placed at a distance
+12 cm in front of the mirror.
+
+At what distance in front of a concave mirror
+of focal length 10 cm, an object be placed so
+that its virtual image of size five times that of
+the object is obtained?
+
+Given: f= 10 cm (negative),
+m = 5 (positive for the virtual image)
+But m=-— . 5=-~ or v = —5u
+u u
+1 41 1
+Now from relation — + — = 7,
+u v ff
+i oe
+u * (-5u) ~ 10
+4 _ci
+or su ~ 10
+or u=-8cm
+
+Thus the object should be placed at a distance
+8 cm in front of the mirror.
+
+A convex mirror forms the image of an object
+placed at a distance 40 cm in front of mirror,
+at distance 10 cm. Find the focal length of
+mirror.
+Given: u = 40 cm (negative),
+
+v = 10 (positive), f = ?
+
+since the image formed by a convex mirror is
+always virtual, erect and on other side of mirror.
+
+1 1 I
+From relation ~— + — = |,
+u vs ff
+1 1 1
+(-40) * 10 ~ f
+1 -1+4
+or f = 40
+1 3
+or f= 40
+40
+or f= 37 13-33 cm
+
+
+--- Page 24 ---
+17.
+
+18.
+
+The focal length of a convex mirror is 40 cm.
+A point source of light is kept at distance
+40 cm from the mirror. Find the distance of
+
+image from the mirror.
+Given: f= 40cm (positive),
+
+u = 40 (negative)
+
+From relation i + ul = +
+uoeos# ff
+1 1 1
+(-40) * ¥ = 40
+1 1 1 1
+oS = 9t8 = 20
+or v = 20cm
+
+i.e., the image is formed at distance 20 cm
+behind the mirror.
+
+A convex mirror forms an erect image of an
+object of size one-third the size of object. If
+radius of curvature of convex mirror is 36 cm,
+find the position of object.
+
+w
+
+1
+Given: m= 3 (positive) for the erect (or
+
+virtual) image, R = 36 cm (positive).
+
+R
+.. From relation f = > = 18 cm (positive).
+
+1 1
+
+a * Cal) ~ 18
+2 1
+ua 18
+
+Thus the object is at a distance 36 cm in front
+of the mirror.
+
+Vv
+From relation m = a?
+1 ll __!
+3 = vege
+. oy 1 1 I
+From mirror’s formula — + — = —,
+u v f
+1
+
+or or u=-36cm
+
+. What is a spherical mirror ?
+. Name the two kinds of spherical mirrors and
+
+distinguish between them.
+
+. Define the terms pole, principal axis and centre
+
+of curvature with reference to a spherical mirror.
+
+. Draw suitable diagrams to illustrate the action
+
+of (i) concave mirror, and (ii) convex mirror,
+on a beam of light incident parallel to the
+principal axis.
+
+. Name the spherical mirror which (i) diverges
+
+(ti) converges the beam of light incident on it.
+Justify your answer by drawing a ray diagram
+in each case.
+
+. Define the terms focus and focal length of a
+
+concave mirror. Draw diagram to illustrate your
+answer.
+
+. Explain the meaning of the terms focus and focal
+
+length in case of a convex mirror, with the help
+of a suitable ray diagram.
+
+. State the direction of incident ray which after
+
+reflection from a spherical mirror retraces its
+path. Give a reason to your answer.
+
+Ans. Incident ray is directed towards
+
+the centre of curvature
+
+Reason : The ray is normal to the spherical mirror,
+
+9.
+
+so Zi=0, “. Zr=0.
+(i) Name the mirrors shown in Fig. 7.49 (a)
+and (b).
+(ii) In each case (a) and (b), draw the reflected
+rays for the given incident rays and mark
+focus by the symbol F
+
+164
+
+(a) Fig. 7.49 (b)
+
+Ans. (i) (a) convex mirror (b) concave mirror
+
+10. Complete the following diagrams in Fig. 7.50 by
+drawing the reflected rays for the incident rays
+1 and 2.
+
+(a) Fig. 7.50 = (b)
+
+. Complete the following diagrams shown in
+
+Fig. 7.51 by drawing the reflected ray for each
+of the incident ray A and B.
+
+Fig. 7.51
+
+
+--- Page 25 ---
+12.
+
+16.
+
+18.
+
+State the fvo convenient rays that are chosen to
+construct the image by a spherical mirror for a
+given object ? Explain your answer with the help
+of suitable ray diagrams.
+
+. Fig. 7.52 shows a concave mirror with its pole
+
+at P, focus F and centre of curvature C. Draw
+ray diagram to show the formation of image of
+an object OA. -
+
+Fig. 7.52
+
+. Fig. 7.53 shows a concave mirror with its pole
+at P, focus F and centre of curvature C. Draw
+ray diagram to show the formation of image of
+
+an object OA.
+
+Fig. 7.53
+
+. The diagram below in Fig. 7.54 shows a convex
+
+mirror. C is its centre of curvature and F is its
+focus. (i) Draw two rays from A and hence locate
+the position of image of object OA. Label the
+image JB. (ii) State three characteristics of the
+image.
+
+CONVEX MIRROR
+
+Fig. 7.54
+Ans. (ii) Erect, virtual and diminished
+
+Draw a ray diagram to show the formation of
+image by a concave mirror for an object placed
+between its pole and focus. State three
+characteristics of the image.
+
+. Draw a ray diagram to show the formation of
+
+image by a concave mirror for the object beyond
+its centre of curvature. State three characteristics
+of the image.
+
+Draw a ray diagram to show the formation of
+image of an object kept in front of a convex
+mirror. State three characteristics of the image.
+
+19.
+
+Name the mirror which always produces an erect
+and virtual image. How is the size of image
+related to the size of object ?
+
+Ans. Convex mirror, image is shorter than the object
+
+20,
+
+21.
+
+(a) For what position of object, the image formed
+by a concave mirror is magnified and erect ?
+(b) State whether the image in part (a) is real
+or virtual ?
+Ans. (a) Between pole and focus, (b) virtual
+(a) State the position of object for which the
+image formed by a concave mirror is of same
+size.
+
+(b) Write two more characteristics of the image.
+
+Ans. (a) At centre of curvature. (b) Real and inverted
+
+22.
+
+23.
+
+24.
+
+25,
+
+26.
+
+27.
+
+28.
+
+(a) What is a real image ?
+(b) What type of mirror can be used to obtain a
+real image of an object ?
+
+(c) Does the mirror mentioned in part (b) form
+real image for all locations of the object ?
+
+Ans. (a) A real image is one which can be
+
+obtained on a screen, (b) Concave, (c) No
+
+Discuss the position and nature of image formed
+by a concave mirror when an object is moved from
+infinity towards the pole of mirror.
+
+Discuss the position and nature of image formed
+by a convex mirror when an object is moved from
+infinity towards the pole of mirror.
+
+Name the kind of mirror used to obtain :
+(a) areal and enlarged image,
+(b) a virtual and enlarged image,
+(c) a virtual and diminished image,
+(d) a real and diminished image.
+Ans.(a) concave, (b) concave,
+(c) convex, (d) concave
+
+How is the focal length of a spherical mirror
+1
+related to its radius of curvature ? Ans. f = >R
+
+Write the spherical mirror's formula and explain
+the meaning of each symbol used in it.
+Ans. 1 + i =
+u v
+What is meant by magnification ? Write
+its expression. What is its sign for the (a) real
+(b) virtual, image ?
+
+fe
+
+29.At what maximum distance the image in a convex -
+
+30.
+
+165
+
+mirror can be obtained ? What will be the location
+of object then ? Ans. focal length, infinity
+At what maximum distance from a concave mirror, .
+the image can be obtained ? What will be the
+location of object for it? Ans. infinity, focus.
+
+
+--- Page 26 ---
+31.
+
+32.
+33.
+
+34.
+
+35.
+
+36.
+
+How will you distinguish between a plane mirror,
+a concave misror and a convex mirror, without
+touching them ?
+State two uses of a concave mirror.
+State the kind of mirror used
+(a) by a dentist, (b) as a search-light reflector.
+Ans. (a) concave, (b) concave
+(a) When a concave mirror is used as a shaving
+mirror, where is the person's face in relation
+to the focus of mirror ?
+(b) State three characteristics of the image seen
+in part (a).
+Ans, (a) Between pole and focus.
+(b) Erect, virtual and magnified
+Which mirror will you prefer to use as a rear
+view mirror in a car : plane mirror or convex
+mirror ? Give one reason.
+Why does a driver use a convex mirror instead
+of a plane mirror as a rear view mirror ? Illustrate
+your answer with the help of a ray diagram.
+
+Multiple choice type :
+
+l.
+
+For an incident ray directed towards centre of
+curvature of a spherical mirror, the reflected
+ray:
+(a) retraces its path
+(b) passes through the focus
+(c) passes through the pole
+(d) becomes parallel to the principal axis.
+Ans. (a) retraces its path
+The image formed by a convex mirror is :
+(a) erect and diminished
+(b) erect and enlarged
+(c) inverted and diminished
+(d) inverted and enlarged.
+Ans. (a) erect and diminished
+A real and enlarged image can be obtained by
+using a:
+(a) convex mirror
+(c) Concave mirror
+(d) either convex or plane mirror.
+Ans. (c) concave mirror
+
+(b) plane mirror
+
+Numericals :
+
+‘1.
+2.
+
+3.
+
+The radius of curvature of a convex mirror is
+40 cm. Find its focal length. Ans. 20 cm.
+
+The focal length of a concave mirror is 10 cm.
+Find its radius of curvature. Ans. 20 cm.
+
+An object of height 2 cm is placed at a distance
+20 cm in front of a concave mirror of focal
+
+12.
+
+13.
+
+166
+
+length 12 cm. Find the position, size and nature
+of the image.
+
+Ans. 30 cm in front of mirror, 3 cm high,
+
+real, inverted and magnified
+
+. An object is placed at 4 cm distance in front of
+
+a concave mirror of radius of curvature 24 cm.
+Find the position of image. Is the image
+magnified ? Ans. 6 cm behind the mirror, Yes
+
+. At what distance from a concave mirror of focal
+
+length 25 cm should an object be placed so that
+the size of image is equal to the size of the
+object. Ans. 50 cm
+
+. An object 5 cm high is placed at a distance
+
+60 cm in front of a concave mirror of focal
+length 10 cm. Find (i) the position and (ii) size,
+of the image.
+
+Ans. (i) 12 cm in front of the mirror, (ii) 1 cm
+
+. A point light source is kept in front of a convex
+
+mirror at a distance of 40 cm. The focal length
+of the mirror is 40 cm. Find the position of
+image.
+
+Ans. Behind the mirror at a distance 20 cm
+
+. When an object of height 1 cm is kept at a distance
+
+4 cm from a concave mirror, its erect image of
+height 1-5 cm is formed at a distance 6 cm behind
+the mirror. Find the focal length of mirror.
+
+Ans. 12 cm
+
+. An object of length 4 cm is placed in front of a
+
+concave mirror at distance 30 cm. The focal length
+of mirror is 15 cm. (a) Where will the image form?
+(b) What will be the length of image ?
+
+Ans. (a) 30 cm in front of mirror, (b) 4 cm.
+
+. A concave mirror forms a real image of an object
+
+placed in front of it at a distance 30 cm, of size three
+times the size of object. Find (a) the focal length
+of mirror (b) position of image.
+
+Ans. (a) 22-5 cm, (b) 90 cm in front of mirror.
+
+. A concave mirror forms a virtual image of size
+
+twice that of the object placed at a distance 5 cm
+from it. Find : (a) the focal length of the mirrror
+(b) position of image.
+
+Ans. (a) 10 cm, (b) 10 cm behind the mirror.
+The image formed by a convex mirror is of size
+one-third the size of object. How are u and v
+
+1
+related ? Ans, v = 3 u oru=-—3v
+
+The erect image formed by a concave mirror is of
+size double the size of object. How are u and v
+related ? Ans. v = 2u
+
+. The magnification for a mirror is —3. How are u and
+
+v related ? Ans. v = —3u

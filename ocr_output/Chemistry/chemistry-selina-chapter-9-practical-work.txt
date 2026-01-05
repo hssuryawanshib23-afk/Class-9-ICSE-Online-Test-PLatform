@@ -1,0 +1,1281 @@
+
+
+--- Page 1 ---
+TN
+
+PRACTICAL WORK
+
+SYLLABUS
+
+Candidates will be asked to observe the effect of reagents and/or of heat on substances supplied to them. The
+exercises will be simple and may include the recognition and identification of certain gases listed below.
+Gases: Hydrogen, Oxygen, Carbon dioxide, Chlorine, Hydrogen chloride, Sulphur dioxide, Hydrogen sulphide,
+Ammonia, Water vapour, Nitrogen dioxide.
+Candidates are expected to have completed the following minimum practical work.
+Simple experiments on:
+(i) Action of heat on the following compounds:
+(a) copper carbonate, zinc carbonate (b}) washing soda, copper sulphate crystals
+(c) zinc nitrate, copper nitrate, lead nitrate © (d) ammonium chloride, iodine, ammonium dichromate
+Make observations, identify the products and make deductions where possible.
+(i) Action of dilute sulphuric acid on the following substances. (warm if necessary)
+(a) a metal (b) a carbonate (c) a sulphide (d) a sulphite
+Make observations, identify the gas evolved and make deductions.
+(iii) Apply the flame test to identify the metal in the unknown substance.
+(a) a sodium salt (b) a potassium salt (c) a calcium compound
+(iv) Simple experiments based on hard water and soft water — identification of hardness — simple softening —
+by heating the temporary hard water, using washing soda and advantage of using detergents over soap
+in hard water.
+(v) Find out the sources of pollution of water bodies in the locality. Suggest preventive steps to control it.
+
+I. RECOGNITION AND IDENTIFICATION OF GASES
+1. Hydrogen
+Preparation : Add dilute HCI or dilute H,SO4 to reactive metals (metals above
+hydrogen in the activity series) like magnesium, zinc, iron, etc.
+Active metal+ dil Acid — Salt + Hydrogen
+
+Mg + H,SO, - MgSO, + H,T
+Zn + 2HCl —- ZnCl, + H,T
+
+Recognition and Identification of Gas
+
+(a) The evolved gas is colourless, odourless
+
+(b) Neutral to litmus.
+
+(c) Pure hydrogen burns with a pale blue flame when a burning splint is brought near it.
+
+2H, + O, — 2H,0
+(d) Hydrogen mixed with air burns with a pop sound when a burning taper is brought near it.
+
+2. Oxygen
+Preparation : Heat heavy metallic oxides
+Heavy metal oxide _4 , Metal oxide/Metal + Oxygen
+2Pb;0, A, 6PbO + O,T
+2PbO, A, 2PbO + oO, T
+2HgO A, 2Hg + oO, T
+
+rr Oe rrenpenenaemnenmemmaesaceeanensnenseeeeemessameaanemeal
+
+
+--- Page 2 ---
+Recognition and Identification of Gas
+
+(a) The gas is colourless, odourless and neutral to litmus.
+
+(b) It rekindles a glowing wooden splinter.
+
+(c) The gas is absorbed in colourless alkaline solution of pyrogallol and turns it dark brown.
+
+3. Carbon dioxide
+
+Preparation : Heat metallic carbonate (except sodium carbonate and potassium carbonate) or add dilute
+acid to any carbonate or hydrogen carbonate.
+
+Metallic carbonate _4 , Metal oxide + carbon dioxide
+ZnCO, Ay, ZnO + Co, T
+CuCO; A, CuO + co, T
+
+Metal carbonate/+ Acid — Salt + Water +Carbon
+hydrogen carbonate (dil) dioxide
+
+CaCO; + 2HCl -> CaCl + H,O +CO,T
+NaHCO, + HCl — NaCl + 4H,O +CO,T
+
+Recognition and Identification of Gas
+(a) The gas is colourless and odourless.
+(b) It turns moist blue litmus faint red.
+(c) When the gas is passed through lime water, it turns milky due to the formation of white precipitate of
+calcium carbonate.
+Ca(OH), + CO, ~— CaCO,t + HO
+The milkiness disappears when CO, is passed in excess.
+CaCO; + CO, + HO > Ca(HCQ;),
+
+ppt (Soluble)
+(d) The gas has no effect on filter paper dipped in acidified K,Cr,O, or KMnQy.
+4. Chlorine
+
+Preparation : Add conc. HCI to oxidizing agents like Pb304, PbO2, MnOz, etc.
+Oxidizing agent + Conc. HCl -—» Metal chloride + Water + Chlorine
+Pb30, + 8HCl ae 3PbCl, + 4H,O + CLT
+MnO, +  4HCI ~ MnCl, + 2H,O + CLT
+Recognition and Identification of Gas
+(a) The gas is greenish yellow with a sharp pungent choking odour.
+(b) It turns moist blue litmus paper red and finally bleaches, i.e. decolourizes it.
+
+Cl, + H,0 > HCl + HClO
+HC1O > HCl + [O}
+Colouring matter + [O] > Colourless or bleached product
+(c) It turns moist starch iodide paper (Kl + starch solution) blue black.
+Cl, + 2KI 2 2KCl + l,
+Starch + 1, > Blue black colour
+
+(d) Pass the gas through silver nitrate solution, a white precipitate (of silver chloride) is formed.
+5. Hydrogen chloride
+Preparation : Add conc. H,SO, to metal chlorides like NaCl, KCl, etc.
+Metal chloride + Conc. sulphuric acid — Metal sulphate + Hydrogen chloride
+NaCl + H,SO, > NaHSO, + HCI T
+KCl + H,SO, + KHSO, + Hci T
+
+————_$ == 131
+
+
+--- Page 3 ---
+Recognition and Identification of Gas
+(a) The gas 1s colourless and has a pungent choking odour.
+
+(b) The gas turns moist blue litmus paper red.
+(c) If a rod dipped in ammonia solution is brought near the gas, dense white fumes of ammonium chloride
+
+are formed.
+NH;(aq) + HCl — NH,Cl
+(d) When the gas is passed through silver nitrate solution, a white precipitate of silver chloride is formed.
+AgNO,(aq) + HCl —~ AgCW + HNO,
+
+The precipitate dissolves in excess NH,OH.
+6. Sulphur dioxide
+Preparation : Add dil. HCI or dil. H»SOq to metallic sulphites.
+
+Metal\Hydrogen sulphite + dil. Acid — Salt + Water + Sulphur dioxide
+Na,SO; + 2HCl] — 2NaCl + #£4H,0 + so, T
+Na,SO; + H,SO, — NaSO, + 4H,0 + SO, T
+
+2NaHSO, + H,SO, — NaSO, + 2H,O-) + 2SO, T
+
+Recognition and Identification of Gas
+(a) The gas is colourless with smell of burning sulphur, (a suffocating odour).
+(b) Burning wooden splinter is extinguished in sulphur dioxide.
+(c) It turns moist blue litmus red and finally bleaches it. This bleaching is temporary.
+(d) The gas turns lime water turbid (milky). (Similar to carbon dioxide).
+
+Ca(OH), + SO, > CaSO;l + H,O
+
+Milkiness disappears on passage of excess of sulphur dioxide.
+
+CaSO, + H,O0 + SOQ, 7 Ca(HSO;), (soluble)
+(d) It decolourizes pink acidified potassium permanganate solution.
+
+2KMnO, + 2H,0 + 5SO, — K,SOQ, + 2MnSO, + 2H,SO,
+
+(pink) (colourless)
+(e) It changes orange/yellow solution of acidified potassium dichromate green.
+K,Cr,0, + H)SO, + 380, — Cr(SO4)3 + K,SO, + HO
+(orange) (green)
+(f) It has no effect on lead acetate paper.
+7. Hydrogen sulphide
+Preparation : Add dil. HCI or dil. H>SO4 to metallic sulphides like ZnS, FeS, etc.
+Metal sulphide + dil. Acid —> Salt + Hydrogen sulphide
+FeS + H,SO, -— FeSO, + HS T
+ZnS + 2HCl -— ZnCl, + HS T
+
+Recognition and Identification of Gas
+(a) The gas is colourless with a foul smell as of rotten eggs.
+(b) It turns moist blue litmus red.
+(c) It turns lead acetate paper black.
+(CH,;COO),Pb + H,S > PbSL + 2CH,COOH
+
+(colourless) (black)
+(d) It also turns lead nitrate solution black.
+Pb(NO3), + H, —> PbSl + 2HNO,
+(colourless) (black)
+
+Note : HS also turns acidified potassium permanganate from pink to colourless and acidified potassium
+dichromate from orange to green but as yellow sulphur is also present the solution is not clear.
+
+
+--- Page 4 ---
+' 8 Ammonia
+Preparation : Add alkali to ammonium salt like ammonium chloride or ammonium sulphate.
+
+Ammonium salt + Alkali => Salt + Water + Ammonia
+2NH,Cl + Ca(OH), - CaCl, + 2H,O + 2NH; T
+NH,Cl + NaOH -—- NaCl + 4H,O + = NH;T
+
+Recognition and Identification of Gas
+(a) The gas is colourless with a characteristic sharp, pungent smell.
+(b) It turns moist red litmus blue.
+
+(c) If a rod dipped in conc. HCI is brought near the gas, dense white fumes of ammonium chloride are
+formed.
+
+(d) The gas turns colourless Nesslers reagent, i.e. (KyHgl,) potassium mercuric iodide, brown.
+(e) On passing the gas through a solution of copper sulphate, pale blue precipitate is formed, on passing
+excess ammonia this precipitate dissolves to form a dark blue solution.
+9. Water vapour
+Preparation : Heat a crystalline substance like hydrated sodium carbonate or hydrated copper sulphate.
+Hydrated salt 4, Anhydrous salt+ Water vapour
+Na,CO;:10H,0 —a-, Na,CO; + 10H,0
+CuSO,-5H,0 —s-, CuSO, + 5H,0
+(blue) (white)
+Recognition and Identification of Gas
+(a) Colourless and odourless vapours condense to form a clear liquid on the cooler part of the test-tube.
+(b) The liquid is neutral to litmus.
+(c) This liquid turns anhydrous copper sulphate from white to blue.
+
+(white) (blue)
+
+(d) It turns blue cobalt chloride paper pink.
+CoCl, + 2HO0 7 CoCl-2H,0 .
+(blue) (pink)
+10. Nitrogen dioxide
+Preparation : Heat a heavy metal nitrate like copper nitrate or lead nitrate.
+Metal nitrate —4, Metal oxide + Oxygen + Nitrogen dioxide
+2Cu(NO3).  —A-» 2Cu0 +) Oy + 4NO, T
+2Pb(NO3), —45 2PbO + OQ, + 4NO, T
+Note : Sodium nitrate and potassium nitrate do not produce nitrogen dioxide when they are heated.
+Recognition and Identification of Gas
+(a) The gas is brown in colour, has an irritating (pungent) odour and is non-combustible.
+(b) It tums moist blue litmus paper red.
+(c) It liberates iodine (violet vapours) from potassium iodie (K1) solution or tums potassium iodide paper
+brown.
+2K1 + 2NOQ, 7 2KNO, + LT
+(d) It tums green acidified ferrous sulphate solution brown.
+
+eS
+
+nh 139 ee eee
+
+
+--- Page 5 ---
+Hydrogen (H,)
+
+Oxygen (O,)
+
+Carbon dioxide (CO,)
+Chlorine (CL)
+
+Hydrogen chloride (HCI)
+Sulphur dioxide (SO,)
+Hydrogen sulphide (H,S)
+Ammonia (NH,)
+
+Water vapour (HO)
+
+Nitrogen dioxide (NO,) Brown
+
+Colourless
+Colourless
+Colourless
+Greenish yellow
+Colourless
+‘Colourless
+Colourless
+Colourless
+
+Colourless
+
+Odourless Neutral
+
+Odourless Neutral
+
+Odourless Acidic
+
+Pungent Acidic
+Pungent Acidic
+Burning sulphur Acidic
+Rotten eggs Acidic
+
+Sharp pungent Basic
+Odourless Neutral
+
+Irritating
+
+Acidic
+
+EXCERCISE 9 (A) |
+
+1. (a) Give a chemical test to identify the following gases.
+(i) Ammonia (ii} Sulphur dioxide
+(iii) Hydrogen chloride (iv) Chlorine
+(v) Carbon dioxide (vi) Oxygen
+(vii) Hydrogen
+(b) Select a basic gas mentioned in Q.1 (a). How is the
+basic nature verified ?
+(c) Select acidic gases from the gases mentioned in
+Q.1(a). How is the acidic nature verified ?
+(d) State the gas responsible for the bleaching action.
+(e) Which gas turns blue cobalt chloride paper light
+pink ?
+2. What is observed on performing the following :
+
+Hydrogen | Oxygen | Carbon
+dioxide
+
+Litmus test
+
+a ee
+roe] |_|
+splint to the gas
+ommratee fT
+
+3. Give a chemical test to distinguish between the following
+gases.
+
+(a) H, and CO,
+(c) CO, and SO,
+
+(b) H, and O,
+(d) HCl and H,S
+
+(e) HCl and Cl,
+(g) SO, and Cl,
+4. Name the gas that
+(a) turns moist starch iodide paper blue black.
+(b) tums moist red litmus blue.
+(c) does not affect acidified K,Cr,O, paper but turns lime
+water milky.
+(d) affects acidified K,Cr,O, paper and also turns lime
+water dirty milky.
+5. What do you observe when
+(a) CO, is passed through lime water first and then a little
+in excess.
+(b) HCl is passed through silver nitrate solution.
+(c) H,S is passed through lead nitrate solution.
+(d) Cl, is passed through potassium iodide (KI) solution.
+(e) Cobalt chloride paper is introduced in water vapour.
+
+(f) NH, and HCI
+(h) NH, and SO,
+
+Write balanced equations for each of the above.
+6. Name:
+(a) Two carbonates that do not produce carbon dioxide
+on heating.
+(b) Two nitrates that do not produce nitrogen dioxide on
+heating.
+(c) A brown gas.
+(d) A greenish yellow gas.
+(e) A gas with rotten egg smell.
+
+
+--- Page 6 ---
+“Ti. ACTION OF HEAT ON A GIVEN (UNKNOWN) SUBSTANCE
+
+On heating, salts undergo characteristic changes. Some give off water of crystallization, while some
+decompose to give off gas/vapour. Some salts change their colour on heating, while some others sublimate.
+Careful observation of changes and identification of gases evolved give information that helps to identify
+the salt.
+
+Light green amorphous powder turns to black, on strong heating. A
+ii) Gives off a colourless, odourless gas that extinguishes a CuCO; —> CuO + COZ
+burning wooden splinter. (Black)
+iii) Turns lime water milky. Residue is copper oxide.
+The gas has no effect on acidified K,Cr,O, or acidified KMnO,,. Gas evolved is carbon dioxide.
+Deduction : Light green powder is copper
+
+carbonate.
+
+On strong heating, the light amorphous white solid, changes to
+pale yellow.
+
+ii) Gives off a colourless and odourless gas that turns lime
+water milky. The milkiness disappears on passing excess of gas.
+
+iii) The gas has no effect on acidified KCr,O, or acidified KMnO,,.
+
+iv) The residue, on cooling, changes to a white colour.
+
+znCO, 4 ZnO + CO,
+
+Residue is zinc oxide.
+
+Gas evolved is carbon dioxide.
+
+Deduction : White powder is zinc
+carbonate.
+
+ie. residue is yellow when hot and white when cold.
+
+White crystalline solid, on strong heating, swells and then melts, A
+giving steamy vapours. Na,CO, . 10H,0 —> Na,CO; + 10H,O
+Steamy vapours condense on the cooler parts of the test tube to (steam)
+form tiny droplets of a colourless liquid. Residue is sodium carbonate.
+Colourless liquid, when added to white anhydrous copper
+sulphate, turns it blue .
+
+Colourless liquid turns blue coloured cobalt chloride paper
+pink.
+
+On cooling, a white amorphous residue is left. Substance is washing soda crystals.
+
+Gas evolved is water vapour.
+
+Blue crystalline solid, on heating, crumbles to form a white
+amorphous powder.
+
+ii) Gives off steamy vapours, which, on condensing on the cooler _~
+
+parts of the test tube, form a colourless liquid (water).
+
+iii) The liquid turns blue-coloured cobalt chloride paper pink.
+
+iv) On strong heating, a black solid is formed and a gas is evolved.
+
+v) The evolved gas turns moist blue litmus red and changes colour
+of acidified K,Cr,O, solution from orange to green.
+
+CuSO, . 5H,0 4 CuSO, + 5H,O
+Residue is copper sulphate.
+Gas evolved is water vapour.
+
+2CuSO, 4+ 2CuO + 280, + O,
+On strong heating residue is black copper
+oxide
+
+Gases evolved are sulphur dioxide and
+oxygen.
+
+Substance is blue vitriol.
+
+White crystalline deliquescent solid.
+_ii) On heating, it melts to form a white sticky mass and gives off
+: steamy vapours.
+iii) On heating strongly, the white residue gives off reddish brown fumes
+that turn moist blue litmus paper red.
+iv) A glowing wooden splint held in the reddish brown gas (NO,)
+bursts into flame. This reddish brown gas is mixed with oxygen.
+v) The residue is pale yellow, when it is hot, but on cooling, it
+changes to a white colour.
+
+Zn(NO,), . 6H,O—44 Zn(NO,), + 6H,0
+
+2Zn(NO3), 44 2ZnO + 4NO,7T + 0,7
+The residue is zine oxide.
+
+Gases evolved are water vapour, nitrogen
+dioxide and oxygen.
+
+Substance is zinc nitrate hexahydrate.
+
+—_———— 1: >-
+
+
+--- Page 7 ---
+Bluish green crystalline solid, on heating, melts to
+form a bluish green mass and gives off steamy vapours that
+condense on the cooler parts of the test tube to form droplets of
+liquid (water).
+
+On further heating, the bluish green mass changes to a black
+residue, i.e. copper (II) oxide.
+
+It gives off a reddish brown gas.
+
+It also gives a gas that rekindles a glowing splinter, i.e.
+oxygen.
+
+Heavy white crystalline solid, on strong heating, crumbles with
+a crackling noise.
+
+It gives off a reddish brown gas, which turns moist blue litmus
+paper red.
+
+When a glowing wooden splinter is held in the reddish brown
+gas, it relights showing the presence of oxygen.
+
+The residue is reddish brown when hot. On cooling, it changes
+to yellow, partly fuses in glass, and stains it yellow.
+
+White crystalline solid, on strong heating, sublimates to form a
+basic gas (NH,) and an acidic gas (HCI).
+
+The dense white fumes are noticed which form a white mass on
+the cooler parts of the test tube.
+
+No residue is left behind.
+
+Violet crystalline solid, on strong heating, sublimates to form
+violet vapours. These vapours settles down on cooler part of
+the test tube to form violet crystals.
+
+No residue is left at the bottom of the test tube.
+
+A filter paper dipped in starch solution tums blue when it is
+brought in contact with the vapour.
+
+These vapours (fumes) turn paper dipped in silver nitrate
+solution yellow.
+
+Orange red crystalline solid, on strong heating, swells up and
+decomposes violently with flashes of light leaving greenish
+residue. It also gives off steamy fumes, which condense on the
+cooler parts of the test tube to form tiny droplets of water.
+The colourless liquid turns cobalt chloride paper pink.
+Greenish grey mass of chromium oxide is left behind.
+
+A colourless, odourless gas is given out, which is neither
+combustible nor supports combustion. It does not turn lime water
+milky. The gas is nitrogen.
+
+Cu(NO;),.6H,0 4 Cu(NO,), + 6H,O
+
+2Cu(NO;), 4 2Cu0 + 4NO,T + O,T
+Residue is copper oxide.
+
+Gases evolved are water vapour, nitrogen
+dioxide and oxygen.
+
+Substance is copper (II) nitrate hexahydrate.
+
+2Pb(NO;), Ay 2PbO + 4NO, + O,
+Residue is lead (11) oxide.
+
+Gases evolved are nitrogen dioxide and
+oxygen.
+Substance is lead (ID) nitrate.
+
+NHC <> NH; + HCIT
+Substance is ammonium chloride.
+
+1 “& at
+
+(violet) (vapour)
+
+Substance is iodine.
+
+(NH,),Cr,0, 4 Cr0, + N,T + 4H,0T
+(orange red) (greenish-
+
+grey)
+Gases evolved are water vapour and
+
+nitrogen.
+
+Substance is ammonium dichromate.
+
+——— 12.) On eee
+
+
+--- Page 8 ---
+S.NO. SUBSTANCE’'AND TTS’COLOUR ['**~"' ""PRODUCTS AFTER ‘FREATING
+
+Residue left Colour of residue | Gas produced
+
+Copper carbonate (CuCO,) Copper (II oxide} Black solid Carbon dioxide
+Green solid CuO (CO,)
+
+Zinc carbonate (ZnCO,) Zinc oxide Yellow when hot, Carbon dioxide
+White solid ZnO white when cold (CO,)
+
+Washing soda (Na,CO,°10H,O) Anhydrous White powder Water vapour
+White crystals Na,CO, (H,0)
+Copper sulphate (CuSO,°5H,O) Anhydrous Dirty white Water vapour
+Blue crystals CuSO, (H,0)
+
+Zinc nitrate (Zn(NO,),) i i Yellow when hot, Nitrogen dioxide and
+White solid white when cold Oxygen (NO, + O,)
+
+Copper nitrate (Cu(NO,),) Copper (II) oxide | —_ Black solid Nitrogen dioxide and
+Green solid CuO Oxygen (NO, + O,)
+
+Lead nitrate (Pb(NO,),) Lead oxide Yellow solid Nitrogen dioxide and
+White solid PbO Oxygen (NO, + O,)
+
+Ammonium chloride (NH,CI) No residue White sublimate Hydrogen chloride and
+White solid Ammonia (HCI + NH,)
+
+Iodine (L,) Violet solid No Residue Violet sublimate Iodine vapours
+
+Ammonium dichromate ((NH,),Cr,O,) | Chromium (III) Green solid Water vapour and
+Orange solid oxide Cr,O, Nitrogen (H,O + N,)
+
+III. Action of dilute sulphuric acid on a given substance.
+
+a. Add dilute sulphuric acid to the given (unknown) substance and Gas evolved is hydrogen.
+warm it. There is vigorous effervescence, and a colourless, odourless Given substance may be a reactive
+gas evolves. metal like zinc, iron, magnesium, etc.
+e.g. (i) Mg+H,SO,->MgSO,+H, ii) Zn + H,SO, > ZnSO, +H,
+The gas burns with a pop sound when a burning splint is brought
+near it.
+
+. Add dilute sulphuric acid to the given (unknown) substance and
+warm it. A colourless gas is evolved with brisk effervescence, and
+the gas on passing through lime water turns lime water milky.
+e.g. (i) Na,CO, + H,SO, > Na,SO, + H,O + CO,
+
+(ii) 2NaHCO, + H,SO, > Na,SO, + 2H,0 + CO,
+The gas has no effect on acidified potassium dichromate paper.
+
+Gas evolved is carbon dioxide.
+Substance may be a carbonate or
+hydrogen carbonate.
+
+. Add dilute sulphuric acid to the given (unknown) substance and warm
+it. A colourless gas with a foul smell, as of rotten eggs, is evolved.
+e.g. (i) FeS +H,SO, > FeSO,+H,S (ii) ZnS +H,SO, > ZnSO, +H,S
+
+Gas evolved is hydrogen sulphide.
+Substance may be a sulphide.
+
+. Add dilute sulphuric acid to the given (unknown) substance and
+warm it. A colourless gas with suffocating smell of burning sulphur Gas evolved is SO,,.
+is evolved. Gas turns lime water milky and turns acidified potassium Given substance is a sulphite.
+dichromate paper green. The gas turns lead acetate paper black.
+e.g. (i) Na,SO, + H,SO, — Na,SO, + H,O+CO,
+
+(ii) K,SO, + H,SO, — K,SO, + 2H,0 + CO,
+43
+
+
+--- Page 9 ---
+EXCERCISE 9 (B) |
+
+1. Distinguish by heating the following in dry test tube. 3. Distinguish by dilute sulphuric acid.
+(a) zinc carbonate, copper carbonate and lead carbonate (a) Sodium sulphite and sodium carbonate ?
+(b) zinc nitrate and copper nitrate (b) Copper and magnesium ?
+(c) copper and copper carbonate (c) Sodium sulphide and sodium sulphite ?
+(d) ammonium chloride and iodine 4. Write your observation and a balanced equation in the case
+2. Match the following : of the following substances being heated.
+Column A Column B (a) Ammonium dichromate
+(a) Pb(NO,), (i) rotten egg smell (b) Copper nitrate
+(b) CO, (ii) bums with pop sound (c) Copper carbonate
+(c) (NH,),Cr,0, (iii) suffocating smell of sulphur (d) Zinc carbonate
+(d) HCl (iv) lime water turns milky (e) Ammonium chloride
+(e) NO, (v) crackling sound 5. State the original colour of the following substance and
+(f) O, (vi) residue swells up colour of residue obtained after heating.
+(g) H, (vii) brown gas (a) ammonium dichromate (b) copper carbonate
+(i) HAS (viii) supports combustion (c) lead nitrate (d) zinc carbonate
+(j) SO, (ix) fumes in moisture
+Iv. FLAME TEST
+— FLAME
+
+Compounds of certain metals impart a characteristic colour
+to a flame. The procedure to detect the colour imparted is as
+follows.
+
+A thin platinum wire is first thoroughly cleaned by dipping
+it in concentrated hydrochloric acid. It is then heated in the non-
+luminous flame of the burner. The process is repeated. When the
+wire imparts no colour to the flame, it is ready for use.
+
+PLATINUM
+
+Now, the wire is first dipped in concentrated hydrochloric
+acid and then into a small amount of the BURNER @}
+substance being investigated, so that a little — gatt scone. HCL ;
+of the substance may stick to it. It is then
+introduced into the non-luminous part of the
+flame, and the colour imparted to the flame
+
+. Fig. 9.1 Performing flame test
+is observed. 8 us ef
+
+Table V — Colour imparted to a flame by salts of different metals
+
+Colour imparted to the flame Colour seen through a blue glass Name of metal.
+(Colour observed with naked eyes)
+
+(a) . Golden yellow (persistent) Yellow colour vanishes Sodium (Nat)
+(b) Violet (Lilac) Violet or Pink Potassium (K*)
+(c) _ Brick red (fugitive, i.e. comes and goes). Light green Calcium (Ca**)
+Bluish green Copper (Cu?*)
+
+(d) Peacock bluish green
+(Wire slowly gets corroded)
+
+1
+
+
+--- Page 10 ---
+The colours imparted to the flame by various salts are given in Table-V
+
+FLAME TESTS — COLOURS
+
+Vo
+
+SODIUM SALT POTASSIUM SALT CALCIUM SALT COPPER SALT
+Golden Yellow Flame Lilac Flame Brick Red Flame Peackock Bluish .
+Green Flame
+
+Fig. 9.2 Colour imparted to the flame by salts
+
+REGONITION OF SUBSTANCES BY COLOUR, ODOUR, PHYSICAL STATE AND ACTION OF HEAT
+
+A. Colour: Suspected ion | 3B. Odour:
+1. Blue or bluish green colour. Cu* 1. Smell of ammonia gas. NH,’
+2. Light green colour. Fe** 2. Smell of hydrogen sulphide gas. S*
+
+|
+3. Yellow or yellowish brown. Fe* | 3. Smell of sulphur dioxide gas. so,”
+
+4. White colour (or colourless). Pb**, Zn**, Ca** Na*, K*, or NH,*
+C. = State:
+
+1. Amorphous salt. co,”
+
+2. Hygroscopic or deliquescent nature. Cl or NO,
+D. Action of Heat :
+
+1. Ammonium salt when heated with alkali (except ammonium hydroxide) produces Ammonia gas
+
+Ammonium nitrate and Ammonium chloride (explosive) leaves no residue behind on heating
+
+Ammonium dichromate on heating leaves greenish grey mass
+
+(NH,),Cr,0, —*> Cr0, + N, + 4H.
+
+(orange) greenish grey
+PbO,, Pb,0,, HgO, KNO,, NaNO, on heating produce oxygen gas
+Carbonate and bicarbonate on heating evolve carbon dioxide (except K,CO, and Na,CO,)
+Hydrated salts on heating produce water vapour
+Sulphites and some sulphates when heated produce sulphur dioxide gas
+Lead compounds decompose to give lead monoxide PbO (litharge)
+PbO is brown when hot, yellow when cold and sticks to the glass.
+7. Zine compounds decompose on heating to give zinc oxide. ZnCO, > ZnO + CO,
+Zinc oxide is yellow when hot white when cold.
+
+f
+
+RWP WN
+
+ZnO —~ ZnO
+wae Cool
+white yellow
+
+8. Copper compounds decompose to give black copper oxide CuO.
+
+Ccuco, —4, CuO + CO,
+(green) (black)
+
+Note: Dry test involves — colour, density, physical state, dry heating and flame test.
+Wet test involves adding reagents to identify the substance.
+
+
+
+--- Page 11 ---
+~~ "Fable of solubility of salts and bases in water ~~ 7 ~~
+(Roman numerals indicate the valency of the radical or metal)
+
+Cation—>
+Anion
+L
+
+Note: S: Soluble N: Insoluble — : Does not exist Sp : Sparingly soluble
+
+le lelolelelelele le =
+
+Identification of solids by the action of heat
+
+Result ofthe tet
+
+PbO,,, Pb,0,, HgO, KNO,, NaNO, Oxygen gas is evolved
+
+Carbonate and bicarbonate Carbon dioxide is evolved
+(except K,CO, and Na,CO;)
+
+Hydrated salt Water vapour evolved
+Sulphite or sulphate Sulphur dioxide gas is evolved
+
+Lead compounds decompose to give lead monoxide; PbO Brown when hot, yellow when cold
+Zinc compounds decompose on heating to give zinc oxide Yellow when hot white when cold
+Copper compound decomposes to give black copper oxide CuO Black residue
+
+Some naturally occurring acids
+
+Acetic acid Vinegar Lactic acid Sour milk
+Citric acid Citrus fruits (oranges; lemons) Malic acid Apples ;
+Butyric acid Rancid butter Oleic acid Olive oil
+
+Hydrochloric acid | Gastric jui Stearic acid Fats
+¥ one acy asic Juice Tartaric acid Grapes; tamarind; apples
+
+Formic acid Sting of bees and ants Uric acid Urine
+
+Vv. SIMPLE EXPERIMENTS BASED ON magnesium is called hard water. This water does not
+HARD WATER AND SOFT WATER. form lather with ordinary soap. Examples : sea
+
+Hard Water : Water that contains dissolved water, river water, lake water, etc.
+bicarbonates, sulphates and chlorides of calcium and
+
+———— 6 >
+
+
+--- Page 12 ---
+Sojt water does not contain dissolved calcium
+and magnesium salts. This water forms lather with
+ordinary soap. Examples : distilled water and rain
+water.
+
+Types of Hardness
+
+Permanent Hardness
+Contains Ca and
+
+Mg chlorides and sulphates
+Removal : by addition of
+(i) washing soda
+
+(ii) caustic soda.
+
+Temporary Hardness
+
+Contains Ca and
+Mg bicarbonates
+
+Removal : by boiling
+followed by filtration.
+
+Differentiating hard water from soft water.
+
+Experiment I : Two unknown samples A and
+B, one containing hard water and the other containing
+soft water, are taken separately in beakers. Ordinary
+soap is rubbed by the hands into the two samples.
+
+Observation : One sample forms lather easily,
+while the other sample does not lather.
+
+Conclusion : The sample that lathers easily with
+ordinary soap is soft water.
+
+Differentiating between
+permanent hard water
+
+temporary and
+
+Experiment II : Provide two unknown samples
+to the students, one containing temporary and the other
+containing permanent hard water, in separate beakers.
+
+The given samples of water are boiled slowly,
+and then filtered. Ordinary soap is rubbed by the
+hands into each filtered sample.
+
+Observation : One sample lathers with soap, but
+the other one does not.
+
+Conclusion : The boiled and filtered sample that
+lathers with soap is temporary hard water.
+
+bicarbonate present
+is temporary
+
+Temparary hard water contains bicarbonate,
+which gives precipate of insoluble carbonate on
+boiling. This precipitate is removed by filtration and
+water becomes soft.
+
+The other sample is permanent hard water.
+
+Object : Softening temporary and permanent hard
+water by addition of washing soda.
+
+Experiment LI : Take samples of temporary
+and permanent hard water in separate beakers and
+add washing soda to both samples. The two solutions
+are filtered to remove any precipitate formed.
+
+Ordinary soap is rubbed into the filtered
+solutions.
+
+Observation : Both samples lather easily with
+ordinary soap.
+
+Conclusion : (i) Temporary hard water is
+softened by using washing soda.
+
+Bicarbonate present Washing
+is temporary Soda
+
+(ii) Permanent hard water is softened by using
+washing soda since permanent hardness is due to the
+presence of sulphate and chlorides of calcium and
+magnesium.
+
+Sulphate present Precipitate
+in hard water
+
+Soap and detergents
+
+Soap : It is the sodium or potassium salt of an
+organic fatty acid. It reacts with hard water forming
+scum, which is why ordinary soap is wasted.
+
+CaSO, + 2NaSt (soap) —> CaSt, + Na,SO,
+
+sodium sterate Scum
+Detergents : They are the sodium salts of alkyl
+sulphonic acids. Detergents contain a sulphonic acid
+group (SO3H) instead of a carboxylic group (- COOH).
+They can lather even with hard water, since due
+to the solubility of their calcium and magnesium salts
+in water they do not form scum.
+
+Comparing the effects of soaps and detergents on
+hard water
+
+Experiment IV : Take two beakers containing
+samples of hard water. In one beaker, ordinary
+soap is rubbed into the water, while in the other
+beaker, a detergent is rubbed into the water.
+
+Observation : Lather is formed in the. beaker
+in which detergent is used, but lather does not form
+when ordinary soap is rubbed.
+
+Conclusion : Detergents form lather even with
+hard water, while ordinary soap is wasted due to
+formation of scum.
+
+————_—_————_____—— 14»)
+
+
+--- Page 13 ---
+| EXCERCISE 9 (C) j
+
+1. What do you observe when dilute sulphuric acid is added
+to the following :
+(a) Sodium Sulphide
+(c) Zinc granules
+
+(b) Sodium Carbonate
+
+2. Match column A with column B.
+
+Column A Column B
+(a) Blue salt changes to (i) Ammonium
+white and then black dichromate
+
+(b) Orange-coloured compound (ii) Iodine
+changes to green.
+
+(c) Red compound changes to
+brown and then yellow.
+
+(d) White to yellow when hot
+and white when cold.
+
+(e) Violet solid changes to
+violet vapours.
+
+(iii) Zinc Nitrate
+(iv) Copper Sulphate
+
+(v) Red Lead
+
+3. (a) How is a flame test performed ?
+(b) How will you distinguish :
+(i) sodium chloride, potassium chloride and calcium
+chloride ?
+(ii) between soft water and hard water.
+(iii) temporary hard water and permanent hard water?
+
+9. Complete the following table and write your observations.
+
+Shake the gas with red litmus solution
+Apply a burning splint to the gas
+
+4. (a) What do you understand by :
+(i) temporary hardness ?
+(iii) permanent hardness ?
+
+(b) How are temporary and permanent hardness removed ?
+
+(ii) soft water ?
+
+5. (a) What are soaps and detergents ?
+(b) Why do they differ in their actions ?
+(c) Explain their cleansing actions.
+
+6. Compare the effect of soaps and detergents on hard
+water.
+
+7. Copy and complete the following table that refers to the
+action of heat on some carbonates :
+
+Colour of residue on cooling
+
+“a So
+
+Lead carbonate
+Copper carbonate
+. Identify the following substances :
+(a) An alkaline gas A which gives dense white fumes
+with hydrogen chloride.
+(b) Gas C that has an offensive smell as of rotten eggs.
+(c) Gas D that is colourless and can be used as a
+bleaching agent.
+
+o
+
+VI. WATER POLLUTION
+
+Water pollution is the introduction of
+substances of such character and in such quantity
+that alter the natural quality of water and impair
+its usefulness.
+
+It affects the health of living organisms and may
+offend the sense of sight, taste or smell. It refers to
+
+Fig. 9.2 Sources of water pollution
+
+eevensanansnconeerrerennnierarcarerentranseatinnceastsstntasematsaraecanneenarsecwncentrermeeo dd AR Pp mesnntrnntmrnrnenereemenitcennncnnnsnmenstinnennenaeeennnennementrnanremenensttten
+
+any type of aquatic contamination which renders the
+water unusable for living organisms.
+Polluted water can be identified by the following:
+(i) Foul smell from water
+(ii) Bad taste of drinking water
+(iii) Oil and grease floating on the surface of water
+(iv) Excessive growth of algae and weeds in water.
+All over the world, freshwater resources are
+threatened not only by over-exploitation and poor
+management but also by ecological degradation.
+The main reasons for fresh water pollution are:
+¢ Discharge of untreated waste
+¢« Dumping of industrial effluents
+¢ Run-off from agricultural fields
+* Industrial growth, urbanization
+* Increasing use of synthetic organic substances.
+
+
+--- Page 14 ---
+It is generally accepted that developed countries
+suffer from problems of chemical discharge into
+water sources and developing countries face problems
+of agricultural run-off into water sources. Polluted
+water causes water-borne diseases and leads to other
+health-related problems.
+
+SOURCES OF WATER POLLUTION
+
+The main sources of water pollution are :
+
+(i) Household detergents that are used for
+washing purposes.
+(ii) Sewage and domestic wastes.
+
+(iii) Industrial wastes contain heavy metals,
+their salts and organic compounds. All these
+get accumulated in marine food chains.
+
+(iv) Oil spills poison sea life.
+
+(v) Thermal pollution raises the temperature
+of water and depletes the oxygen present in
+it, killing fishes and other aquatic organisms.
+
+WATER QUALITY
+Determination of water quality may be done in
+two ways :
+1. Select a water body and survey its specific
+parameters throughout the year.
+
+2. Select a specific parameter from the list given
+below and measure it in different types of water
+bodies.
+
+Fig. 9.3 Polluted water
+
+ACIDIC NATURE INCREASES
+0 1 2 3 4 5 6
+
+RED
+PINK
+YELLOW
+
+NEUTRAL
+7
+
+e pH value e Bacteria present
+
+e Hardness of water Dissolved oxygen
+
+e Biological Oxygen Demand (BOD)
+
+e Turbidity
+
+These parameters and their effects on water
+bodies are described below.
+pH VALUE
+
+The acidic and basic strengths of solutions are
+measured on the hydrogen ion scale or pH scale,
+which gives them a value called pH value.
+
+Concentration of H+ ions present in solution
+decides whether it is acidic or alkaline or neutral.
+
+PH value is obtained with the help of a universal
+indicator that changes colour at different pH values,
+as shown below.
+
+PH can be studied with the help of a pH
+meter. pH value can also be read by matching a
+wet paper with a standard printed colour scale.
+
+¢ a solution of pH 7 is neutral (water)
+* a solution of pH less than 7 is acidic
+
+* a solution of pH more than 7 is basic
+
+Fig. 9.4 pH papers
+
+¢ the higher the pH above 7, the stronger the
+base, and the lower the pH below 7, the
+stronger the acid.
+
+ACIDIC NATURE DECREASES
+8 9 10 11 12 13 14
+
+Zz Ww i
+i > 8 Ww
+WwW Ad = aa
+iva a fa) fe)
+O = >
+
+Fig. 9.5 Colour changes in a universal indicator at different pH values
+
+
+
+--- Page 15 ---
+Pollution can change the pH of water, which
+in turn can harm animals and plants living in it. For
+instance, water coming out of an abandoned coal
+mine can have a pH value as low as 2, which means
+it is very acidic and would thus affect any creature
+surviving in or on it.
+
+Non-polluted water is one that has pH value 7
+or close to 7. Thus, if the pH value of water is much
+higher or lower than 7, that water is polluted and
+potentially harmful.
+
+For general information
+
+Hydrochloric acid
+Sulphuric acid
+Citric acid
+
+Lime juice
+
+Acetic acid
+Carbonic acid
+
+Pure water
+
+Human blood
+
+Sodium bicarbonate solution
+Milk of magnesia
+
+Sodium carbonate solution
+Sodium hydroxide
+
+Bacteria
+
+Biological water quality assessment can also be
+done by measuring growth of bacteria in a water
+body.
+
+Growth of bacteria can be measured by taking
+a sample of water in a petri dish and observing it
+under a microscope 3 or 4 times at regular intervals.
+
+Water free of bacteria is non-polluted water,
+whereas water with bacterial growth is considered
+polluted.
+
+Hardness
+
+When water produces little or no lather with
+soap, it is considered hard water. Hard water is
+unsuitable for washing clothes, geysers as well as
+for drinking. Hard water is regarded as polluted
+water.
+
+Dissolved oxygen
+
+Dissolved oxygen is responsible for survival of
+aquatic life in water. Dissolved oxygen is breathed
+by fish and other aquatic life.
+
+Moving water, such as we see in mountain
+streams and large rivers, tends to contain a lot of
+
+dissolved oxygen, but stagnant water contains little
+of it.
+
+If quantity of oxygen dissolved in stream or
+river water is less than quantity of dissolved oxygen
+in normal water, it is said to be polluted.
+
+Quantity of dissolved oxygen can be measured
+with the help of an instrument called Oxygen Flow
+Meter.
+
+Fig. 9.6 Instrument for measuring dissolved oxygen
+
+Biological Oxygen Demand (BOD)
+
+Biological oxygen demand is a measure of the
+oxygen utilized by micro-organisms during oxidation
+of organic substances. Micro-organisms present in
+a polluted water sample use oxygen to oxidize
+waste, and thus BOD increases in polluted water.
+Amount of oxygen present in pure water is
+measured first, and then in polluted water. Decrease
+in the amount of oxygen is the BOD value.
+Biological oxygen demand increases in polluted
+water.
+
+Turbidity
+
+Turbidity is the amount of particulate matter
+suspended in water.
+
+Turbidity measures the scattering effect that
+suspended solids have on light; the higher the
+intensity of scattered light, the higher the turbidity.
+Materials that are responsible for turbidity include:
+
+e clay
+e waste matter containing insoluble substances
+® microscopic organisms
+
+As turbidity of water increases, its ability to
+support aquatic life decreases.
+
+nnn | 5) err
+
+
+--- Page 16 ---
+WAY TO CONTROL WATER POLLUTION:  — © Heavier floating solids can be removed by
+
+¢ Sewage should be treated fully before we release gravity settlement and screening.
+its into water bodies. * Organic matter should be removed by oxidation
+or precipitation.
+
+¢ Chemicals released from factories should be
+treated to neutralize their toxic contents. ¢ Pathogens can be destroyed by ultraviolet
+radiation.
+
+OBJECT :
+_ To find out the sources of pollution of water bodies in one’s locality and determine the quality of
+water.
+Procedure : In this project, survey of a locality is done where a DRAIN exists. The following datas
+are collected.
+The major sources of water pollution were found and they are :
+(i) Household wastes. (ii) Detergents from clothes people wash.
+(iii) Wastes from shops. (iv) Animals excreta accumulated by the sweeper.
+(v) Wastes generated by a restaurant near (vi) Washes of nearby hospital.
+the drain, including plastic packaging,
+bottles, cans, food stuff and clothing.
+(vii) Wastes from factories.
+In order to determine the quality of water,
+* 100 cm? of water is taken in a beaker for finding its pH value
+* 500 cm? of water is taken in another beaker for measuring the oxygen dissolved in it.
+Data obtained is as follows :
+
+[Ment [Ane iy Fns [Fa | Ane [See
+
+Conclusion :
+1. If pH of water is less than 7, i.e. water is acidic, it would affect all living creatures present there. Acidity
+results mainly from discharge of industrial effluents.
+2. When Dissolved Oxygen (DO) decreases in a water body, mainly due to the carbon-containing matter
+present in it, it becomes difficult for aquatic organisms that take dissolved oxygen to survive.
+
+Thus, water quality is considered to be good when there is more dissolved oxygen, and it is considered
+bad when there is less dissolved oxygen.
+
+rn 140, W a

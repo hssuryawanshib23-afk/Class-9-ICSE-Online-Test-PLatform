@@ -1,0 +1,1802 @@
+
+
+--- Page 1 ---
+we
+
+THE PERIODIC TABLE
+
+SYLLABUS
+
+Dobereiner’s Triads, Newland’s law of Octaves, Mendeleev’s contributions; Modern Periodic Law, the Modern
+
+Periodic Table. (Groups and periods)
+
+¢ General idea of Dobereiner’s triads, Newland’s law of Octaves, Mendeleev’s periodic law.
+* Discovery of Atomic Number and its use as a basis for Modern Periodic law.
+* Modem Periodic Table (Groups 1 to 18 and periods 1 to 7).
+
+¢ Special reference to Alkali metals (Group 1), Alkaline Earth metals (Group 2) Halogens (Group 17) and
+Zero Group (Group 18)
+
+INTRODUCTION
+
+It is a human instinct to classify, i.e. to put things of one kind in one group and of another kind in
+
+another group.
+
+Towards the end of the 18 and the beginning of the 19% centuries, more and more elements began to be
+discovered, and their individual properties and compounds had begun to be studied. Soon, the need arose for
+classifying them so as to make their comparative study easier.
+
+5.1 REASONS FOR
+OF ELEMENTS
+
+1. It helps in studying the elements in an organized
+manner.
+
+CLASSIFICATION
+
+2. It helps in correlating the properties of elements
+with the fundamental properties of all states of
+matter.
+
+3. It helps in defining the relationship of one
+element with another.
+
+In the beginning, attempts were made by chemists
+to classify elements on the basis of factors such as
+density, malleability, ductility, etc., and also to consider
+whether they were metals or non-metals. But none
+of these early classifications proved satisfactory
+because :
+
+(i) the number of elements falling in a particular
+group were so large that it did not serve the
+purpose of generalization.
+
+(ii) some of the characteristics being considered
+varied under differing conditions.
+
+(iii) certain elements showed metallic as well as
+non-metallic characteristics.
+
+Obviously, scientists were in search of
+characteristics of an element that would never change.
+It was William Prout who discovered that the atomic
+mass of an element never differs and that it could
+therefore, form a truly scientific basis for a
+satisfactory scheme of classification.
+
+5.2 DOBEREINER’S TRIADS
+
+J. W. Dobereiner a German chemist observed
+that certain elements displayed similar properties and
+that they could be placed in groups of three elements
+each. These groups of three elements each were
+called triads.
+
+The three elements of a particular triad had
+similar chemical properties. In fact, Dobereiner was
+the first scientist to show the clear relationship
+between properties of an element and its atomic
+mass.
+
+The atomic mass of the middle element of a triad
+was approximately equal to the arithmetic mean
+(average) of the atomic masses of the other two
+elements of that triad.
+
+
+
+--- Page 2 ---
+The following examples will make this point
+clear.
+(a) Take three elements, calcium, strontium and
+barium. These elements have following similarities:
+(i) All are metals;
+(ii) Each has an oxide that is alkaline in nature;
+(iii) Each has valency 2.
+
+Since these elements have similar chemical
+properties, they were put together in one group
+(or family) to form a triad called Dobereiner’s triad.
+
+The atomic mass of calcium is 40, strontium is
+88 and barium is 137. It is noticed that the middle
+element, strontium, has atomic mass approximately
+equal to the average i.e., mean value of the atomic
+masses of calcium and barium.
+
+The mean of the atomic masses of calcium and
+40+137 _ 177 _ge5
+
+2 2
+This is nearly the same as the atomic mass of
+
+strontium (88).
+
+barium =
+
+(b) Take three elements chlorine (35-5), bromine
+(80) and iodine (127); they also form a triad because:
+
+(i) all are non-metals;
+(ii) all react with water to form acids
+(iii) all have valency 1.
+
+The mean of the atomic masses of Cl and
+
+the same as the atomic mass of bromine.
+
+Reasons for discarding the law of triad
+
+(i) Dobereiner failed to arrange all the then known
+elements in the form of triads.
+
+(ii) The law did not fully apply even within the same
+family.
+
+For example, taking halogens, viz. the first
+three members, Fluorine (19), Chlorine (35-5)
+and Bromine (80), it is observed that the mean
+of the atomic masses of Fluorine and Bromine is
+5 (19 + 80) = 49-5, not 35:5.
+
+So, Dobereiner’s scheme of classification of
+elements was not very successful, though it did
+contain important insights and principles.
+
+5.3. NEWLAND’S LAW OF OCTAVES
+
+John Newland (a scientist and a lover of music)
+
+arranged elements in ascending order of atomic mass
+
+and found that every eighth element had properties
+similar to the properties of the first element, just as
+the eighth note of a musical octave is the same as
+its first note. Based on this observation, Newland
+gave his law of octaves for classification of elements.
+
+According to Newland’s law of octaves, when
+elements are arranged by increasing atomic mass, the
+properties of every eighth element starting from any
+element are a repetition of the properties of the
+Starting element.
+
+Newland divided the elements into horizontal
+rows of seven elements each, as shown above [the
+noble, i.e. inert, gases were not known at that time].
+
+Merits of Newland’s classification
+1. This system worked quite well for the lighter
+elements. For example, lithium, sodium and
+potassium were brought together.
+2. It relates the properties of the elements to their
+atomic masses.
+3. For the first time, it was shown that there is
+a distinct periodicity in the properties of elements.
+Newland was honoured in 1887
+The Royal Society presented the Davy Medal to
+Newland in 1887 for his work on classification of
+elements.
+
+Reasons for discarding the law of octaves
+
+¢ This classification did not work with heavier
+elements, i.e. those lying beyond calcium. As
+more and more elements were discovered, they
+could not be fitted into Newland’s Octaves.
+
+¢ Newland adjusted two elements cobalt (Co) and
+nickel (Ni) in the same slot and these were placed
+in the same column as fluorine, chlorine and
+
+
+--- Page 3 ---
+bromine which have very different properties
+than these elements.
+
+e Iron, which resembles cobalt and nickel in
+properties, has been placed far away from these
+elements.
+
+5.4 MENDELEEV’S PERIODIC TABLE
+
+In 1869, Dmitri Ivanovich Mendeleev, a
+Russian chemist, arranged all the 63 elements
+known at that time in increasing order of their
+atomic mass. Elements with similar properties were
+put one after the other in the same vertical column
+(group), with blank spaces where the expected
+periodicity of the properties was disrupted, i.e.,
+
+where the properties of an element did not tally
+with the properties of the element placed above it.
+He observed that elements with similar properties
+occurred at regular intervals. This he called as
+periodicity of properties of elements.
+
+Based on this, he propounded a law that is called
+Mendeleev’s Periodic Law.
+
+Mendeleev’s Periodic Law
+Physical and chemical properties of elements
+are a periodic function of their atomic masses.
+
+Periodic table is a chart of elements prepared
+in such a way that elements with similar
+properties occur in the same vertical column
+(or group). It is called periodic because elements
+with similar properties occur at fixed intervals
+(or periods); and it is called a table because
+elements are arranged in tabular form.
+
+Essential features of Mendeleev’s periodic table :
+
+Mendeleev’s Periodic table contains vertical
+
+columns, called ‘groups’ and horizontal rows called
+‘periods’.
+¢ There are in all eight groups, i.e. Group I to Group
+VIII. Each of these groups from I to VII is divided
+into two sub-groups : A and B. Group VIII has no
+sub group. Inert gases were not known at that time.
+All elements of a sub-group (or of Group VIII,
+which has no sub-group) have similar properties
+and show the same valency, which is equal to the
+group number (for upto Group IV) or group number
+subtracted from eight (for Groups V-VII).
+In a period, elements gradually change from
+metallic to a non-metallic character or metallic
+character decreases as one moves from left to nght
+across the horizontal row.
+
+Table 5.1. Mendeleev’s periodic table
+
+Ni
+55.85 58.93 58.71
+
+Pd
+
+Ru
+101.07 102.91 106.4
+
+Rh
+
+Os Ir
+190.2 192.2
+
+Pt
+195.2
+
+Mendeleev’s Periodic Table was published in a German journal in 1872. He used letter “R’ to represent
+the element of that particular group. Hydride of any element of group IV is written as RH4. For example
+hydride of carbon is CH4. Oxide of any element of the same group is RO, (CO,).
+
+70
+
+
+
+--- Page 4 ---
+Merits of Mendeleev’s table ‘
+
+(1) Grouping of elements. He generalized the study
+of the elements then known to a study of mere
+eight groups.
+
+(2) Gaps for undiscovered elements. In order
+to make sure that elements having similar
+properties fell in the same vertical column or
+group, Mendeleev left some gaps in his
+periodic table. These gaps were left for
+subsequent inclusion of elements not known at
+that time. Mendeleev correctly thought that
+such elements would be discovered later.
+
+(3) Prediction of properties of undiscovered
+elements. He predicted the properties of the
+then unknown elements on the basis of
+properties of elements lying adjacent to the
+vacant slots. He actually predicted the properties
+of some undiscovered elements in 1871.
+
+For example :
+
+(i) Eka aluminium (means one place below
+aluminium in the group); its atomic mass and
+chemical properties are quite similar to those
+of the element gallium discovered in 1876.
+
+(ii) Properties of eka-silicon are the properties of
+germanium.
+
+Atomic mass
+Density
+
+Melting point
+
+Valency
+
+Formula
+of oxide
+
+(4) Incorrect atomic mass corrected. He was able
+to correct the values of atomic mass of
+elements like gold and platinum by placing these
+elements strictly on the basis of similarities in their
+properties.
+
+Defects in Mendeleev’s periodic table
+(1) Anomalous pairs :
+The following pairs of elements did not follow
+Mendeleev’s principles :
+(i) Argon with atomic mass 39-9 preceeds
+potassium with atomic mass 39-1.
+(ii) Cobalt with atomic mass 58-9 preceeds nickel
+with atomic mass 58-6.
+
+fo 73 2 -
+
+(in) Tellumnum with atomic mass 1!2/-0 preceeds
+iodine with atomic mass 126-9.
+
+(2) Position of isotopes :
+
+Isotopes of an element are atoms of that element
+having similar chemical properties but different
+atomic masses.
+
+According to Mendeleev’s periodic law, isotopes
+of an element must be given separate places in the
+periodic table since they have different atomic
+masses. But they were not assigned separate places.
+
+(3) Grouping of chemically dissimilar elements:
+Elements such as copper and silver bear no
+resemblance to alkali metals (lithium, sodium, etc.)
+but they have been placed together in the first
+group.
+(4) Separation of chemically similar elements :
+Elements that are chemically similar, such as
+gold and platinum have been placed in separate
+groups.
+
+(5) Electron arrangement :
+
+It does not explain the electron arrangement of
+elements.
+
+(6) Position of hydrogen :
+
+Hydrogen was not given a fixed position. It was
+considered in Group IA as well as in Group VIIA
+because it forms both a positive ion, viz. in HCl, and
+a negative ion, viz. in NaH.
+
+5.55 ATOMIC NUMBER AS BASIS FOR MODERN
+PERIODIC LAW
+
+The magnitude of positive charge present in the
+nucleus of an atom was determined by Henry
+Moseley, an English physicist.
+
+In 1913. Moseley used anodes of different metals
+in a discharge tube and subjected them to attack by
+cathode rays. He found, that when cathode rays struck
+anodes of different metals, the wavelength of the rays
+produced change. The wavelength of these rays was
+found to decrease in a regular manner on changing
+the metal of the anode in order of their position in
+the periodic table. By this, he concluded that the
+number of positive charge present in the nucleus of
+an atom is the most fundamental property of an atom.
+
+
+
+--- Page 5 ---
+The number of unit positive charge present in
+the nucleus of an atom of a particular element is
+called the atomic number of that element.
+
+Some of the positive charge present in the
+nucleus is due to protons, the number of protons is
+equal to the atomic number of that element.
+
+Thus, Henry Moseley found that atomic
+number is a better fundamental property of elements
+compared to atomic mass. This led to the modern
+periodic law.
+
+Modern periodic law : Physical and chemical
+
+properties of elements are a periodic function of
+their atomic numbers.
+
+If elements are arranged in order of their
+increasing atomic number, those with similar
+properties are repeated after regular intervals,
+i.e. periodicity in the periodic table occurs based on
+the atomic numbers (number of protons)
+
+Explanations for anomalies in Mendeleev’s
+classification of elements
+
+1. Position of isotopes
+
+Since all isotopes of an element have the same
+number of protons, their atomic number is also the
+same. And since all isotopes of an element have the
+same atomic number, they can be put at the same
+position in the periodic table.
+
+2. Position of argon and potassium
+
+The atomic number of argon is 18 and its mass
+number is 40 while the atomic number of potassium
+is 19 and its mass number is 39. Now, according to
+the Modern periodic law, elements are arranged in
+increasing order of their atomic number. So argon,
+with its lower atomic number, should come first, and
+potassium, with its higher atomic number, should
+come later.
+
+EXCERCISE 5(A) |
+
+1. What is the need for classification of elements?
+
+Ww
+
+. What was the basis of the earliest attempts made for
+
+classification and grouping of elements ?
+
+3. (a) A, Band C are the elements of a Dobereiner’s triad. If
+the atomic mass of A is 7 and that of C is 39, what
+should be the atomic mass of B?
+
+(b) Why was Dobereiner’s triad discarded ?
+
+4. Explain ‘Newland’s law of Octaves.’ Why was the law
+discarded ?
+
+5. Did Dobereiners triads also exist in the columns of
+Newland’s Octaves ? Compare and find out.
+
+6. (a) Lithium, sodium and potassium elements were put in
+one group on the basis of their similar properties.
+What are those similar properties ?
+
+(b) The elements calcium, strontium and barium were put
+in one group or family on the basis of their similar
+properties.
+
+What were those similar properties ?
+
+7. (a) What was Mendeleev’s basis for classification of
+elements ?
+(b) Mendeleev’s contributions to the concept of periodic
+table laid the foundation for the Modern Periodic
+Table. Give reasons.
+
+8. State Mendeleev’s periodic law.
+9. Use Mendeleev’s Peridic Table to predict the formula of
+(a) hydrides of carbon and silicon
+(b) oxides of potassium, aluminium and barium.
+10. Which group of elements was missing from Mendeleev’s
+original periodic table ?
+11. State the merits of Mendeleev’s classification of elements.
+
+12. Why did Mendeleev leave some gaps in his periodic table
+of elements ? Explain your answer with an example.
+
+13. The atomic number of an element is more important to the
+chemist than its relative atomic mass. Why ?
+
+14. Consider the following elements : Be, Li, Na, Ca, K. Name
+the elements of (a) same group (b) same period.
+
+15. (a) Name an element whose properties were predicted
+on the basis of its position in Mendeleev’s periodic
+table.
+
+(b) Name two elements whose atomic weights were
+corrected on the basis of their positions in Mendeleev’s
+periodic table.
+
+(c) How many elements were known at the time of
+Mendeleev’s classification of elements ?
+
+$$ 9
+
+
+--- Page 6 ---
+~~ GMGON NIATPUSY, “ay maar UwMAZONTD) wayseg p Les r Tan Odd, “aL.
+ON PW ed
+col zor | 101 ‘6 oO 7 ue G06 G i
+mar 7 “on "at UunreTjopEL aruseures red pa
+“v1 ‘WL g's a ws a
+O lz ob O09 |oO "30 aa Yo a9 oO bo Oo 8lo “yo 010 és aoe
+
+mansaosa.g amnunua lamuseuadojnencteooy| _ umn aeysuieg | wntane umissey | umuyog fumndogesg] woruqng aa
+“ion ld mp “uD sd on SH Ya 3s qd aay
+SI vil €Il ell Ol 801 Lol 901 sol Ol £OT-68 [o's $8
+peoy amgeqy, | Amey | prog | umumeg | ampuy ee wayrary,
+: d LL 3H ay ld q] eL i, center a
+ajohion on Gg wee O w!OD 18 Q 98 Oe ise | pee an os chee LD te co % lZ-<s | 9s
+“we wnnupeg | ans | unpepeg | wrspoyy | ummapngy| YOR Li umuspqsioyy} uIIgOIN | uMrUOSITZ | UINUNA | wWaRUORS | UMpGNYy
+PD By | Pd wa ny aL ow aN qZ A Ig wm
+5. 6h 8h ig dy jor ios ig Of |p oO lv Oo 1D 6 /D 8 OH
+IN | eqog uosy « jasouwSuey | ummuan| urupeuea | umrunE | cmpoess | UNDE | unrssmiog
+IN ie) ad UW ID A Ww Ss 0] D>: f
+C392 | sz or jo & [Ow | CL iz Oo jC 6
+aA cmmissubey] |) mNTpOS
+SW ®N
+- : Ow i|ou
+(se3 youl) spejoul-uoN fj i”
+(suado[e}) speiaul-uoKN, 7 mnbr Q og fat z
+sjeiow-UoN [pee oO oO ¢ o &
+: . a
+
+oLL
+ug
+(os
+
+‘VAI VU splo][RIeW
+syeyoul AAeoH
+
+(sjejow yes ouyey|y % sjerew yey)
+sjelaw aanoy
+
+81 LI 91 SI tl €Il ZI I Ol 6 8 L 9 ¢ v € €¢ |
+— |
+yoorq - d yoolq - d PClq - P Wg - s
+sases aiqon syusWay Iayeyuasaiday S[e}IJAL UOTISUBLL SJUIWIITY eayBzuasaiday
+
+sano
+SLNHWA TH AO ATAVE OIGOldad JO WAOd ONO'T AHL
+
+$$$ 80
+
+
+--- Page 7 ---
+5.6 PERIODICITY IN THE MODERN PERIODIC
+TABLE
+
+When elements are arranged according to increasing
+atomic number, those having an equal number of
+valence electrons occur at regular intervals (or periods).
+And, since the numbers of valence electrons of elements
+show periodicity (regular repetition), chemical properties
+show corresponding periodicity.
+
+Consider a group of the periodic table, for
+example, the first group of elements. Lithium,
+sodium, potassium, rubidium, caesium and francium,
+respectively. They have atomic numbers 3, 11, 19,
+37, 55 and 87.
+
+They :
+
+(i) are good reducing agents.
+(ii) form unipositive ions.
+(iii) are soft metals.
+(iv) are very reactive and are thus found mainly in
+combined state.
+(v) impart colour to the flame when they burn.
+(vi) form hydrides with hydrogen.
+(vii) form basic oxides with oxygen.
+
+(viii) react with water to form metal hydroxides and
+hydrogen.
+
+All these elements have one electron each in
+their outermost shell (Refer 5.14), and so they have
+similar properties.
+
+It is noticed that elements with similar electronic
+configurations have similar properties. Thus, the cause
+of periodicity is same number of electron(s) in
+outermost orbit i.e., recurrence of similar electronic
+configuration.
+
+Salient features of the modern periodic table
+Vertical columns in the periodic table are called
+groups and the horizontal rows are called periods.
+
+GROUPS
+
+(1) The modern periodic table has eighteen vertical
+columns, comprising of groups (I to VIII and
+zero). Note that groups, I to VII are divided into
+sub-groups thereby making a total of eighteen
+groups.
+
+(2) Elements of sub-group A, i.e. of IA, TIA, TTA,
+IVA, VA, VIA and VIIA, (Group number 1, 2,
+
+According to the recommendation of International Union of Pure and Applied Chemistry (IUPAC), the
+groups are numbered from I to 18 replacing the older notation of GROUPS IA.. VIIA, VIII, IB... VIB
+and 0. However, for the examination, both notations will be accepted.
+
+notation
+
+Table 5.2 : Salient features of periods
+
+Period ber of | Atomic no. of | No. of
+peed elements elements shell (s)
+
+Elements in Group
+
+IA- _ WIA IVA VA VIA VIHA
+1 13 14 15 16 «17
+
+UuS UyO
+117118
+
+
+--- Page 8 ---
+13, 14, 15, 16 and 17) are known as main group
+elements or representative elements or the
+normal elements. These elements have their
+outermost shells incomplete.
+
+(3) Elements of Group number 3, 4, 5, 6, 7, 8, 9, 10,
+11 and 12 are known as transition elements.
+They have their two outermost shells incomplete.
+
+(4) Elements in the Zero group (Group number 18)
+are called noble gases because owing to their
+stable electronic configurations, they hardly react
+with other elements. (Eight electrons in the
+outermost orbit, except in the case of Helium
+which has 2 electrons).
+
+PERIODS
+There are seven horizontal rows in the modern
+periodic table, each called a period. The number of
+
+shells present in an atom determines its period, as is
+clear from Table 8.2.
+
+(1) Elements with electrons increasing arithmetically
+in their outermost shell, i.e. one by one, till an
+octet is attained, are placed in the same period.
+The last element of each period has eight
+electrons, except the first period He (2 electrons).
+
+(2) The first period contains only two elements,
+(atomic nos. 1 and 2). It is the shortest period.
+
+(3) The second and third periods contain eight
+elements each (atomic nos. 3-10 in the second
+and atomic nos. 11-18 in the third period). These
+are short periods.
+
+(4) The fourth and fifth periods contain eighteen
+elements each (atomic nos. 19-36 in the fourth
+and atomic nos. 37-54 in the fifth period). These
+are long periods.
+
+(5) The sixth period contains 32 elements (atomic
+nos. 55-86). It is the longest period.
+
+(6) The seventh period (atomic nos. 87 and onward)
+is as yet an incomplete period.
+
+(7) In Group IIIB (Group number 3) of the sixth
+period, there is a set of elements with atomic
+numbers 57 to 71 (La - Lu), beginning with
+lanthanum (La-57). These element are known as
+lanthanides (rare earths).
+
+(8) In Group IIIB (Group number 3) of the
+seventh period, there is a set of elements with
+atomic numbers 89 to 103 (Th — Lr), beginning
+with actinium (Ac-89). These elements are
+known as actinides (radioactive elements).
+
+Lanthanides and actinides have similar properties because
+they belong to the same group, Group III B. But they are
+shown at the bottom of the periodic table because they are
+large in number, and showing them in the main body of the
+table will distort its shape.
+
+5.7 TYPES OF ELEMENTS
+Elements can also be classified in the following
+four types :
+1. Representative elements
+2. Transition elements
+3. Inner transition elements
+4. Inert gases or noble gases
+Classification according to s, p, d and f blocks is
+based on electronic configuration, which you will
+study in higher classes.
+5.7.1 Representative elements
+(s and p-block elements) : They include all
+elements of :
+Group 1 : Alkali metals — form strong alkalis
+with water;
+Group 2 : Alkaline earth metals — form weaker
+alkalis compared to IA group elements;
+Group 13 : Boron family — boron is the first
+member of the group;
+Group 14 : Carbon family — carbon being the
+first member;
+Group 15 : Nitrogen family, nitrogen being the
+first member;
+Group 16 : Oxygen family, oxygen being the first
+member;
+Group 17 : Halogens, they are salt formers.
+
+The alkali metals (Group I) are the most reactive metals that
+occur. They are known as the alkali metals because they react
+vigorously with water to produce hydrogen and an alkali
+
+solution.
+Halogens (Group 17) are most reactive non-metals. They
+form salts on reacting with metals.
+
+Main characteristics of representative elements:
+
+(a) They include both metals and non-metals. There
+is a regular gradation from metallic to non-
+metallic character as one moves from left to night
+across the period.
+
+(b) They form electrovalent as well as covalent
+compounds with non-metals.
+
+(c) Metallic nature increases, moving down any of
+these seven groups.
+
+Moon We
+
+
+--- Page 9 ---
+(d) Metals, which are good conductors of hdat
+
+and electricity, are present in groups | and 2.
+Non-metals, which are present in groups 16 and
+17, are poor conductors of heat and electricity.
+
+(e) Some heavier elements, like tin and lead, exhibit
+variable valencies.
+
+5.7.2. Transition elements (d-block elements) :
+They are included in Groups 3, 4, 5, 6, 7, 8, 9,
+10, 11 and 12
+
+Main characteristics of transition elements :
+
+(a) All these elements are metals with high melting
+and boiling points.
+
+(b) They are good conductors of heat and electricity.
+
+(c) Some of these elements are attracted towards a
+magnet.
+
+(d) Most of these elements are used as catalysts.
+
+(e) Most of these elements exhibit variable valencies.
+
+(f) Most of these elements form coloured ions and
+coloured compounds.
+
+5.7.3. Inner transition elements (f-block elements) :
+The elements of the sixth and seventh periods of
+
+Group 3, i.e. the lanthanides and the actinides, are
+
+collectively known as inner transition elements.
+
+Main characteristics of inner transition elements :
+(a) They are heavy metals with high melting and
+boiling points.
+(b) They show variable valencies.
+(c) They form coloured ions.
+(d) Actinides are all radioactive by nature.
+
+5.7.4. Inert gases (or noble gases)
+Elements of the Zero group, which is the 18"
+vertical column, are known as inert gases or noble gases.
+They have 8 electrons in their outermost orbits
+(except He, which has only 2). They do not react with
+other elements and are, therefore, inert. (Refer 5.11.4.)
+
+Bridge elements : Elements of the second period show
+resemblance in properties with elements of the next group
+of the third period, leading to a diagonal relationship.
+Such elements are called bridge elements, viz. Li and Mg;
+Be and Al; B and Si.
+
+Group > 1 2 13 14
+
+Period 2 Li Be B Cc
+Period 3 wa “ig N aN Si
+
+2 Wa ee rerare
+
+mony ee
+
+Typical elements
+The third period elements, Na, Mg, Al, Si, P, S and Cl,
+summarize the properties of their respective groups and are
+called typical elements.
+
+5.8 MERITS OF THE MODERN PERIODIC TABLE
+
+(1) It is based on atomic number, which is an
+even better fundamental property compared
+to atomic mass.
+
+(2) Position of an element in the table is related
+to its electronic configuration.
+
+(3) It shows regular changes in properties of
+elements on moving across a period or down
+a group.
+
+Properties that reappear at regular intervals, or in
+which there is gradual variation, i.e. increase or
+decrease at regular intervals, are called periodic
+properties and the phenomenon is known as
+periodicity of elements.
+
+Cause of periodicity is recurrence of similar
+electronic configuration.
+
+In a particular group, the number of electrons in
+the outermost orbit remains the same, i.e. electronic
+configuration is similar. Valency also remains the
+same. So elements of the same group have similar
+properties, though the number of shells increases
+down a group.
+
+(4) Modern periodic table is easier to remember,
+understand and reproduce.
+5.9 DEFECTS OF THE MODERN PERIODIC
+TABLE
+1. Position of hydrogen is still not satisfactory,
+as its properties relate to both Group | and
+Group 17.
+
+2. It fails to accommodate the inner transition
+elements, i.e. the lanthanides and the actinides,
+into the main body of the periodic table.
+
+5.10 GENERAL TRENDS OF THE MODERN
+PERIODIC TABLE
+
+GROUPS
+
+(1) Numbers of shells and valence electrons :
+
+Number of shells increases arithmetically and
+number of valence electrons remains equal to the
+number of the group to which the element belongs.
+Also, number of electron shells in a given element
+
+
+
+--- Page 10 ---
+CYyuals WO RULIDED UL UI pelo tO WITICTT 10 OCIONPS.’ ~
+
+Consider halogens (Group 17), as shown below.
+
+No. of shells
+equals the period
+number
+
+Electronic
+configuration
+
+Element
+of group
+
+17
+F
+cl
+Br
+I
+At
+
+(2) Valency :
+
+Valency of an element equals the number of
+electrons present in its valence shell. Since elements
+in a particular group have an equal number of
+electrons in their respective valence shells, valency
+of all elements in a given group is the same. For
+example, valency of any alkali metal is 1, as shown
+in the table below.
+
+2,7
+2, 8,7
+
+2, 8, 18, 7
+
+2, 8, 18, 18, 7
+
+2, 8, 18, 32, 18, 7
+
+Element | Group Electronic No. of valence
+configuration electrons
+
+1
+Lithium Li
+Sodium Na
+Potassium K
+
+Valency of group IA elements is 1
+
+Valency of group IIIA elements is 3
+(Group number 13, 13 — 10 = 3)
+Valency of group IVA elements is 4
+(Group number 14; 14 — 10 = 4)
+Valency of group VA elements is 3
+(Group number 15; 18 — 15 = 3)
+Valency of group VIA elements is 2
+(Group number 16; 18 — 16 = 2)
+Valency of group VIIA elements is 1
+(Group number 17; 18 — 17 = 1)
+Valency of group Zero (or Group number 18)
+elements is 0.
+
+Valency of group IIA elements is 2
+
+(3) Properties of elements :
+
+Elements in a given group possess similar
+electronic configurations. Because the number of
+electrons in their respective outermost shells is the same
+hence, they have very similar physical and chemical
+properties, which change uniformly down that group.
+
+EXAMpPles co
+(a) Alkali metals (Group 1) are all very reactive,
+and degree of reactivity further increases down
+the group.
+Li<Na <K<Rb<Cs
+Reactivity increases
+(b) Halogen atoms also are very reactive. But there
+degree of reactivity decreases as we move from
+fluorine to iodine.
+F>Cl >Br>I
+
+Reactivity decreases
+
+KOC
+
+(4) Atomic size :
+
+As one moves down a
+group, size of atoms of
+successive elements increases.
+This is because of progressive
+increase in the number of shells.
+For example, in Group 1, atomic
+size increases as one moves
+from lithium to caesium.
+
+Li< Na<K<Rb<Cs
+Atomic size increases
+
+n
+a.
+c
+3
+th
+a
+
+©)
+
+Potassium : 2, 8, 8, 1
+
+©)
+
+Rubidium : 2, 8, 18, 8, 1
+
+©)
+
+(5) Metallic character :
+
+Metallic character increases Caesium : 2,8, 18,18, 8.1
+as one moves down a group. For example, in
+Group 15, nitrogen and phosphorus are non-metals,
+arsenic and antimony are metalloids, and bismuth is
+a typical metal.
+Elements of Group 15:
+Character :
+
+As; Sb Bi
+metal
+
+N; P
+
+non—metals metalloids
+
+It is on account of gradual increase in metallic
+character of elements from top to bottom that oxides
+of elements become increasingly basic in character
+moving in the same direction.
+
+The oxides of the elements
+
+of Group 15: NO,;P,0,; As,O,; Sb,0, Bi, O,
+3 3
+Oxide character: acidic amphoteric basic
+
+Note : Hydrogen has been placed at the top of Group
+1, above the alkali metals of that group, because the
+electronic configuration of hydrogen is similar to those
+of the alkali metals. Both hydrogen and alkali metals
+have 1 valence electron. However, hydrogen atom is
+very small in size, and therefore, many of its properties
+
+re OA i
+
+
+--- Page 11 ---
+are different from those of alkali metals. As such,
+while discussing the alkali metals of group 1,
+hydrogen is ignored. However, in some periodic
+tables, hydrogen is not placed in any group. It is
+treated as a very special element, and thus placed alone
+at the head of the periodic table.
+
+PERIODS
+(1) Number of shells :
+
+On moving from left to right in a given period,
+number of shells remains the same.
+
+For example, in the 3rd period, number of shells
+remains three, i.e. equal to the number of period.
+
+(2) Number of electrons in valence shell :
+
+In a given period, number of electrons in valence
+shell increases from left to right.
+(3) Valency :
+
+Valency of elements, with respect to hydrogen,
+increases arithmetically from | to 4 and back to 1.
+
+But valency of elements, with respect to oxygen,
+increases from | to 7.
+
+(4) Size of atoms :
+
+Size of atom decreases when moving left to
+right in a period (increase in the number of protons
+increases nuclear pull which decreases the size). Thus,
+in a particular period, alkali atoms have the largest
+size and halogen atoms are the smallest.
+
+Li>Be>B>C>N>O>F
+YC xD ro NZ PO pT
+=7 nf as as om % ME
+Fed < 38 QD 9 7) 3
+= E = 2 2 3
+Cc pu m
+=
+
+(5) Properties of elements :
+
+Properties of an element depend upon the
+number of electrons in its outermost orbit. Since
+in a period, number of electrons in valence shell
+changes, properties of elements in a period
+differ significantly. Reactivity first decreases up
+to Group 14 and then increases. Thus Group 1
+elements are the most reactive metals while those
+of Group 17 are the most reactive non-metals.
+
+(6) Metallic character :
+
+On moving from left to right in a given period,
+metallic character gradually decreases, i.e. it changes
+from metallic to non-metallic. The last element of
+each period is inert.
+
+Elements of the 2nd period
+Li, Be, B, C, N, O, E Ne
+
+| L
+Metal Metalloid
+
+Non-metal
+
+Oxides of elements : Oxides of elements in a
+particular period become progressively less basic and
+finally change to an acidic character. For example,
+consider the oxides of the third period elements.
+
+Oxides of the 3rd period
+Na,O, MgO, ALO,, SiO,, P,O;, SO, Cl,O,
+(Acidic character increases)
+
+—>
+
+8 >}
+
+
+--- Page 12 ---
+EXCERCISE 5(B) | °
+
+. (a) State the modern periodic law.
+
+(b) How many periods and groups are there in the modern
+periodic table ?
+
+. What is the main characteristic of the last elements in the
+
+periods of a periodic table ? What is the general name of
+such elements ?
+
+. What is meant in the periodic table by :
+
+(a) a group, and
+(b) a period ?
+
+. From the standpoint of atomic structure, what determines
+
+which element will be the first and which the last in a period
+of the periodic table ?
+
+. (a) What are the following groups known as ?
+
+(i) Group 1 (ii) Group 17 (iii) Group 18
+(b) Name two elements of each group.
+
+. What is the number of elements in the :
+
+(a) Ist period, and
+(b) 3rd period, of the modern periodic table ?
+
+. How does number of (i) valence electrons (ii) valency;
+
+vary on moving from left to right :
+(a) in the second period of a periodic table ?
+(b) in the third period of a periodic table ?
+
+. How do atomic structures (electron arrangements) change
+
+in a period with increase in atomic numbers moving left to
+right ?
+
+. This question refers to elements of the periodic table with
+
+atomic numbers from 3 to 18. In the table below, some
+elements are shown by letters, even though the letters are
+not the usual symbols of the elements.
+
+3 4 5 6 7 8 9 10
+AB Cc D E F G H
+
+I J K L M N OO P
+(a) Which of these is :
+(i) a noble gas ?
+(ii) a halogen ?
+(iii) an alkali metal ?
+
+(iv) an element with valency 4 ?
+
+7.11 STUDY OF SPECIFIC GROUPS
+
+7.11.1 Group I ( Alkali Metals)
+
+The elements such as lithium (Li), sodium (Na),
+
+potassium (K), rubidium (Rb), caesium (Cs) and
+francium (Fr) have one electron in their outermost
+
+ma
+
+(b) If A combines with F, what would be the formula of
+the resulting compound ?
+
+(c) What is the electronic arrangement of G ?
+
+10. Sodium and aluminium have atomic numbers 11 and 13,
+respectively. They are separated by one element in the
+periodic table, and have valencies | and 3 respectively.
+Chlorine and potassium are also separated by one element in
+the periodic table (their atomic numbers being 17 and 19,
+respectively) and yet both have valency 1. Explain.
+
+11. Helium is an unreactive gas and neon is a gas of extremely
+low reactivity. What, if anything, do their atoms have in
+common.
+
+12. In which part of a group would you separately expect the
+elements to have :
+(a) the greatest metallic character ?
+(b) the largest atomic size ?
+
+13. What happens to number of valence electrons in
+atoms of elements as we go down a group of the periodic
+table ?
+
+14. The position of elements A, B, C, D and E in the periodic
+table are shown below :
+
+Group | Group 2 Group 17 Group 18
+
+— — — D
+_ B Cc —
+A — — E
+(a) State which are metals, non-metals and noble gas in
+
+this table.
+(b) State which is most reactive (i) metal (ii) non-metal
+
+(c) Which type of ion will be formed by element A, B
+and C.
+
+(d) Which is larger in size (i) D or E (ii) B or C.
+
+—_
+a
+
+. Write electronic configuration of element ,T*.
+(a) What is the group number of T ?
+(b) What is the period number of T ?
+(c) How many valence electrons are there in an atom of
+T?
+(d) What is the valency of T ?
+(e) Is it a metal or a non-metal ?
+
+(f) State number of protons and neutrons in T.
+
+orbit and therefore show one valency. So they are
+placed in [A group (the first column on the left) of
+the Periodic Table. They are known as alkali metals,
+as they react with water to form their hydroxides
+which are strong alkalies (bases soluble in water).
+
+or
+
+
+--- Page 13 ---
+2M + 2H,0 -—- 2MOH + #H,
+(Alkali metal) (Alkali)
+
+Where M is any metal of IA group.
+
+Characteristics
+1. Electronic configuration
+
+-Hiement| K}LTM{N|O}P 1 Q|
+
+18 3
+18 | 18 5
+18 | 32 | 18
+
+2. Occurrence : All of them are very reactive and
+do not occur in free state.
+
+3. Nature : They are soft (can be cut with a knife) and
+have low melting and boiling points.
+4. Bonding : All alkali metal salts (except some
+salts of lithium) are ionic in nature.
+5. Action of air : They react rapidly with oxygen
+and water vapour in the air.
+4Na + O, > 2Na,0
+Na,O + H,0 > 2NaOH
+Reactivity of these metals increases down the
+group.
+6. Action of water : They react violently with water
+and produce hydrogen.
+2M + 2H,O — 2MOH + H,
+(Any Alkali metal)
+7. Action of acids : They react violently with dil
+HC] and dil. H,SO,, to produce hydrogen
+2M + 2HCI — 2MCl + H,
+(Any Alkali metal)
+8. They form unipositive ion easily.
+M(g) - e- > M!*(g)
+They are strong reducing agents.
+9. When freshly cut, they show typical silvery white
+
+metallic lustre but soon they turn dull (tamish)
+because of their reaction with air.
+
+10. All alkali metal salts impart colour to the flame,
+e.g., lithium (crimson red), sodium (golden
+yellow), potassium (pale violet).
+
+11. Alkali metals are obtained by electrolysis of their
+molten salts.
+
+5
+8
+8
+8
+8
+
+5.11.2. Group II (Alkaline Earth Metals)
+
+The elements such as beryllium (Be), magnesium
+(Mg), calcium (Ca), strontium (Sr), barium (Ba) and
+radium (Ra) are known as alkaline earth metals, because
+their oxides occur in the earth’s crust and their
+hydroxides are weak alkalies.
+
+All the elements of this group have two electrons
+in their outermost orbit and show the valency two,
+so they are placed in IIA group of the Periodic Table.
+
+Characterstics
+1. Electronic configuration
+
+[| Element] K|L[M[N/O|P|Q|
+Be 2
+
+They are reactive metals (less
+
+2. Occurrence :
+reactive than alkali metals); hence they do not
+occur in free state in nature.
+
+3. Nature : They are greyish white in colour and
+harder than the alkali metals.
+
+4. Bonding : All the alkaline earth metal salts
+except beryllium are ionic compounds.
+
+5. Action of air : They are less reactive than alkali
+metals.
+Their reactivity increases on moving down the
+group.
+
+6. Action of water : They react with water to
+
+produce hydrogen.
+M + 2H,0 + M(OH), + H,
+(Any alkaline (Alkali)
+metal)
+
+7. Action of acids : They react with dil HCl and
+dil H,SO, to produce hydrogen.
+M + 2HCI > MCI, + Hy
+M + H,SO, — MSO, + H,
+8. They form dipositive ion.
+M-2e 73 M2
+They are also strong reducing agents.
+9. Melting points and boiling points are
+comparatively low but these are higher than the
+alkali metals.
+
+Deemer CUSSUID eeeete
+
+
+--- Page 14 ---
+1U. EXCept beryllium and magnesium, all other
+
+alkaline earth metals impart colour to the flame
+like Calcium — brick red, Strontium — Crimson,
+Barium — Apple green, Radium — Crimson.
+
+11. They are obtained by the electrolysis of their
+molten salts.
+
+5.11.3 Group VIIA or Group 17 (The hologens)
+
+Group VIIA or Group 17 elements are known
+as halogens. The name halogens (Greek halo = Sea
+saltogens = producing, meaning sea salt former).
+Characterstics
+1. These elements have 7 electrons in their
+
+outermost orbit.
+
+Bienen) Tt ote ta
+
+2. They are the most reactive non-metals. Their
+reactivity decreases down the group. For
+example, Fluorine is the most reactive and iodine
+the least reactive halogen.
+
+3. There is a steady increase in melting points and
+boiling points as we go down the group. Fluorine
+is a gas, chlorine is a gas, Bromine is liquid and
+iodine is solid.
+
+Astatine is highly radioactive and a rare element.
+The intensity of the colour of the element also
+increases from pale to dark.
+
+Fluorine is a pale yellow gas, chlorine is a
+greenish yellow gas, Bromine is a reddish brown
+liquid and iodine is a violet solid.
+
+4. They are all poisonous and have a similar strong
+pungent and unpleasant odour.
+
+5. They all form diatomic molecules F), Cl) 1), Br.
+
+6. They all have a valency 1 and form compounds
+with similar formulae, for example, hydrogen
+chloride (HCl), hydrogen bromide (HBr),
+Hydrogen iodide (HI).
+
+7. They produce a series of compounds with other
+elements chloride, bromides and iodides, together
+they are known as halides.
+
+8. The halogens themselves can react directly with
+metals to form metal halides (or salts).
+
+y. hey all torm negative ions carrying a single
+charge [Fluoride ions F-, Chloride ions CI-,
+Bromide ions Br-, Iodide ions 1-].
+
+5.11.4 Group Zero or 18 group (Noble gases)
+
+When Mendeleev first constructed his table,
+there was no indication that a whole group of
+elements (Group zero) remained to be discovered.
+Because of their lack of reactivity. There was no clear
+sign of their existence. However,analysis of the gases
+in air led to the discovery of argon. Helium was first
+detected by spectroscopy of light from the sun during
+an eclipse and the other noble gases were isolated.
+William Ramsay isolated these gases. He was
+awarded the Nobel prize for this major contribution.
+
+These gases (Helium, neon, argon, krypton,
+xenon and radon) are refered to as inert gases
+meaning they do not react at all. In 1960s some
+compounds of xenon and krypton have been made
+and their name was changed to noble gases.
+
+Characterstics
+
+1. Electronic configuration
+
+Bement} K{t{M{N{O}P 1a!
+
+Is
+18 18 8
+18 | 32] 18
+
+Helium has 2 electrons in its shell, all the other
+members have eight electrons in outermost orbit
+i.e., their electronic arrangment is very stable, so
+that they are unreactive.
+
+2. All are colourless, tasteless, odourless gases. They
+are neither inflammable nor supporter of
+combustion.
+
+3. They are monoatomic because their electronic
+configuration is stable.
+
+4. Noble gases are liquifted with great difficulty.
+5. These gases are slightly soluble in water and on
+moving from He to Rn solubility increases.
+
+6. These gases emit coloured light when an
+electrical discharge is passed through them.
+
+7. Their melting points and boiling points are
+extremely low. Helium has the lowest melting
+point of any element, and cannot be solidified
+
+8
+8
+-8
+8
+8
+
+38
+
+
+--- Page 15 ---
+by cooling alone (pressure is needed also). All
+these properties point to the atoms of the noble
+gases being particularly stable.
+
+The uses of noble gases depend on their
+unreactive nature. Helium is used in airships and
+balloons because it is both light and unreactive.
+Argon is used to fill light bulbs because it will
+not react with the filament even at high
+temperatures. The best known use of the noble
+gases is, perhaps, its use in ‘neon’ lights. The
+brightly coloured advertising light works, when
+an electric discharge is passed in a tube
+containing a little of a noble gas. Different gases
+impart different colours.
+
+Note : The elements of Group zero (18) are between
+the two most reactive groups of elements [Groups
+I and VIIA (17)]. Indeed, it is their closeness to
+these groups with stable electron arrangments that
+makes the alkali metals and the halogens so reactive.
+They can easily achieve a noble gas electron
+structure. The Group VIIA (17) elements gain or
+share an electron while group IA lose an electron
+to achieve a noble gas electron arrangment.
+
+5.12 USES OF PERIODIC TABLE
+
+1. Periodic table has been useful in predicting the
+existence of new elements.
+
+. It has been useful in the past in correcting the
+properties of elements.
+
+. Study of elements and their compounds has
+become systematic and easier to remember.
+
+. Position of an element in the periodic table reveals
+its
+
+(i) atomic number _ (ii) electronic configuration
+
+(iii) number of valence electrons
+(iv) properties
+
+. Nature of chemical bond, formula of compound formed
+and properties of that compound can all be predicted
+from the periodic table.
+For example : Elements present in groups
+1, 2 and 3 (metals) lose electrons to form positive
+ions, while elements of groups 15, 16 and 17 (non-
+metals) gain electrons to form negative ions. When
+these positive and negative ions combine, they form
+a compound, that is electrovalent in nature.
+If elements of groups 14, 15, 16 and 17 combine
+with those of 15, 16 and 17, i.e. non-metals with
+non-metals, they form covalent compounds.
+
+6. Position of an element in the periodic table reveals
+
+(i) Valency of an element.
+
+(ii) whether the element is a metal or a non-metal —
+metals occupy the extreme left positions at the
+bottom of the periodic table while non-metals are
+at the extreme right of the periodic table.
+
+CHAPTER AT A GLANCE
+
+(i) Ca (40), Sr(88), Ba(137):
+
+40 +137
+2
+
+Doberiener grouped the elements in triads (groups of three elements) such that the middle element of the triad had both atomic mass
+and properties roughly equal to the average equivalent figures for the other two elements of the triad.
+
+Examples : :
+
+7+39
+
+= 88-5 (ii) Li(7),  Na(23), K (39) : =23
+Le
+
+2
+
+However, this method was soon discarded since only a few elements then known could be arranged in such triads.
+
+Newland gave the law of octaves. According to it, when elements are arranged in increasing order of atomic mass,
+every eighth element beginning from any element resembles the first in its physical and chemical properties. [Like the
+eighth note on a musical scale resembling the first note].
+
+This method too was soon discarded since it failed to accommodate the heavier elements and left no space for elements
+that were discovered later. Moreover, after the discovery of the noble gases, the idea of octaves simply did not work.
+
+In 1871, Russian chemist Dmitri Mendeleev published a table of elements, and proposed a periodic law. It states that
+“the properties of elements are the periodic functions of their atomic masses.” He arranged the elements in increasing order
+of their atomic mass. This arrangement enabled Mendeleev to place elements in vertical columns known as groups and
+horizontal rows known as periods. He even predicted the existence of some yet to be discovered elements. But even this
+method could not explain the positions of certain elements like the rare earth metals and existence of isotopes.
+
+These defects were removed when Moseley found that atomic numbers are the fundamental property that best explained
+the periodic properties of elements. He then put forward the idea of the modern periodic table.
+
+—_——— 9
+
+
+--- Page 16 ---
+1. MODERN PERIODIC LAW
+Physical and chemical properties of elements are periodic functions of their ‘atomic numbers. ,
+
+Period] Type of No. of | Atomic 13 14 15 16 17
+period jelements| number IA WIA | WA | VA | VIAT VIHA
+Li, = Ne4y
+21 2,2 2, 4 2, 5 2, 6 2, 7 2,8
+Short 10} 11 12 | Al,, Sig
+2, 8. 1 1B IVB VB VIB ViIB vill IB IIB | 2,8,3 2,8,6
+Long Ky Ca,,
+2.8,8,1| 2,8,8,2 TRANSITION ELEMENTS
+
+SN OE
+ame Sosa ee fe
+Fe
+
+Lanthanide Ce,,
+
+series TRAN st
+pono wie [me | | | | |
+
+Group 17 Halogens
+
+Group 18 Inert gases
+
+Group IIIB 6” period panmanides Transiti
+Group IIIB 7" period Actinides nner Transition Elements
+
+Group 1 are Alkali metals
+
+(except hydrogen)
+Group 2 Alkaline earth metals
+Group 3 to 12 Transition elements
+
+2. FEATURES OF THE MODERN PERIODIC TKELE
+
+Periods :
+
+Period - 1 : Shortest period — ~ consists of 2 elements — ,H and 5He.
+
+Period -2 : Short period — contains 8 elémentis — ~ gLi, Be, .B, .C, 7N, 20, oF, jpNe-
+
+Period ~ 3 : Short period — contains 8 cléenionis Na, Me, AL 4Si isP. 165) 19 igAt-
+
+Periods—4 &5 : Long periods - — contain. 18°€léih ‘efits each. . ee
+Period ~ 6 : Longest period — contains 32-eléinents. . =
+Period -—7 : Incomplete period.
+
+Characteristics of periods :
+
+There are seven horizontal periods. ga
+
+AL Elements of the same period have the sania f
+2. Electrons in the outermost shell increase progressively:
+There are 18 vertical columns numbered 1 to 18. = ;
+© Group 0 [zero] or group 18 — contains noble gases': He, Ne, Ar, Kr, Xe and Rn.
+
+Group 1 — contains hydrogen and alkali metals Li;Na,‘K, Rb, Cs and Fr.
+
+Group 2 - contains alkaline earth metals. “
+
+Group 3 to group 12 ~ contain transition metals. Tn Group 3, period 6 and period 7 are known as Inner Transition metals
+
+(Lanthanides and Actinides)
+
+e Group 17 — contains halogens : BCL Br Land At
+
+Characteristics of groups :
+
+@ Elements of the same group have the same number of valence electrons, i.e. they have the same valency and thus show
+
+similar chemical properties.
+
+
+--- Page 17 ---
+(ii) Electron shells increase down a group.
+Metallic and non-metallic character
+Metallic character decreases across a period (ft to right) and increases down a group (top to bottom).
+
+Non-metallic character increases across @.petiod (left to right) and decreases down a group (top to bottom).
+© Uses of the periodic table : Position: of eli nts, their properties, nature of compounds formed can be determined.
+
+EXCERCISE 5(C)
+
+. Element P has atomic number 19. To which group and (e) Group whose elements have zero valency.
+period, does P belong ? Is it a metal or a non- metal ? . ;
+Why ? (f) Acovalent compound formed by an element in Period
+
+. 2 and a halogen.
+
+. An element belongs to the 3rd period and Group IITA (13)
+of the periodic table. State : (g) Non-metallic element present in Period 3 of Groups
+(a) the number of valence electrons, 15 and 16.
+(b) the valency, (h) An electrovalent compound formed by an alkaline
+(c) if it is a metal or non-metal ? earth metal and a halogen.
+
+(d) the name of the element. . . .
+. ; (i) Bridge elements of Period 3 of Group 1, 2 and 3.
+. Name or state the following with reference to the elements
+
+of the first three periods of the periodic table. (j) Alkali metal in Period 3 that dissolves in water giving
+(a) Noble gas with duplet arrangement of electrons. a strong alkali.
+(b) Metalloid in Period 3. (k) Typical elements of Groups 14 and 15.
+(c) Valency of elements in Group 14 and 15. (I) Alkaline earth metal in Period 3.
+(d) Noble gas having electronic configuration :
+2, 8, 8.
+- Match column A with column B
+Column A Column B
+(a) Elements short by 1 electron in octet (i) Transition elements
+(b) Highly reactive metals (ii) Noble gases
+(c) Non-reactive elements (iii) Alkali metals
+(d) Elements of groups 3 to 12 (iv) Alkaline earth metals
+(e) Radioactive elements (v) Halogens
+
+(f) Elements with 2 electrons in the outermost orbit (vi) Actinides
+
+Select element of the same group
+
+. awe the a
+
+(Ca/N/K)
+(Ba/N/ Rb)
+(F/CI/O)
+(Ca/C1/K)
+- Write down the word that will correctly complete the (d) Moving left to right in the second period, number of
+following sentences: valence electrons ..........
+(a) Relative atomic mass of a light element up to calcium (e) Moving down in the second group number of valence
+is approximately .......... its atomic number. electrons ..........
+(b) The horizontal rows in a periodic table are called 7. (a) Name the alkali metals. How many electrons(s) they
+seseeneeee have in their outermost orbit.
+(c) Going across a period left to right, atomic size .......... (b) Take any one alkali metal and write its reaction with
+
+(i) oxygen (ii) water (iii) acid.
+
+
+--- Page 18 ---
+(b
+
+—
+
+(b)
+(b)
+ll. (a)
+
+(b)
+
+12. (a)
+
+Name the method by which alkali metals can be
+extracted.
+
+What is the colour of the flame of sodium and
+potassium ?
+
+Name the first three alkaline earth metals.
+
+Write their reactions with dil hydrochloric acid.
+How do alkaline earth metals occur in nature ?
+Write the electronic configuratrion of the first two
+alkaline earth metals.
+
+What is the name given to group 17 elements ? Why
+are they called so ? ;
+Comment on the (i) reactivity (ii) colour (iii) physical
+state of group 17 elements.
+
+State the nature of compounds formed when group
+17 elements combine with (i) metals (ii) non-metals.
+
+13.
+
+14.
+15.
+
+(b) Why group 17 elements are highly reactive ?
+(a) How many electrons do inert gases have in their
+valence shells ?
+
+(b) Name an element of group 18 which can form
+compounds.
+
+Give use of (i) helium gas (ii) neon gas.
+
+An element A has 2 electrons in its fourth shell. State :
+(a) its atomic number
+
+(b) its electronic configuration
+
+(c) its valency
+
+(d) position in the periodic table
+
+(e) is it a metal or non metal
+
+(f) is it an oxidising or reducing agent
+

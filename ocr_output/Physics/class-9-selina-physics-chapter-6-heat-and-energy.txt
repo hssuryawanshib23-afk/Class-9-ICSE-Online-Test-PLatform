@@ -1,0 +1,2508 @@
+
+Chapter 6 - heat and energy
+--- Page 1 ---
+HEAT AND ENERGY
+
+(i) Concepts of heat and temperature.
+Scope — Heat as energy; SI unit, joule, 1 cal = 4-186 J exactly.
+
+(ii) Anomalous expansion of water.
+
+Scope — Anomalous expansion of water, graphs showing variation of volume and density of water with
+temperature in the 0 to 10°C range. Hope's experiment and consequences of anomalous expansion.
+
+(iii) Energy flow and its importance.
+Scope — Understanding the flow of energy as linear and linking it with the laws of thermodynamics —
+‘energy is neither created nor destroyed’ and ‘no energy transfer is 100% efficient’.
+
+(iv) Energy sources. Renewable versus non-renewable sources (elementary ideas with example), energy
+degradation.
+
+Scope — Solar, wind, water and nuclear energy (only qualitative discussion of steps to produce electricity).
+Renewable energy : Bio gas, solar energy, wind energy, energy from falling of water, run-of-the river
+schemes, energy from waste, tidal energy, etc. Issues of economic viability and ability to meet demands.
+Non-renewable energy : Coal, oil, natural gas, inequitable use of energy in urban and rural areas, use of
+
+hydroelectrical power for light and tube-wells.
+Energy degradation : Meaning and examples..
+(v) Green house effect and global warming.
+
+Scope — Meaning and impact on the life on earth; projections for the future; what needs to be done.
+
+(A) HEAT AND TEMPERATURE; ANOMALOUS EXPANSION
+
+6.1 CONCEPT OF HEAT (HEAT AS ENERGY)
+
+It is our common experience that on rubbing
+our palms, they get heated ; on passing electric
+current in a metallic wire, the wire gets heated;
+on burning coal, we get heat; on pumping air in
+a bicycle tube, the barrel of pump gets heated. In
+all these cases, heat is produced either by doing
+work or by providing energy in some form other
+than heat. On rubbing palms and on pumping air
+in a bicycle tube, heat is produced by doing work
+i.e., from mechanical energy, while on passing
+current in a metallic wire, heat is obtained from
+electrical energy and on burning coal, heat is
+obtained from chemical energy. Thus heat is also
+a form of energy.
+
+Each body is made up of molecules. The
+‘molecules are in random motion and each
+molecule exerts a force of attraction on other
+molecules. Thus molecules possess energy and
+the heat energy of a body is the internal energy*
+
+* Total internal energy is equal to the sum of internal kinetic
+
+energy due to molecular motion and internal potential
+energy due to molecular attractive forces.
+
+of its molecules. A hot body has more internal
+energy than an identical cold body. When a hot
+body is kept in contact with a cold body, the cold
+body warms up and the hot body cools down i.e.,
+the internal energy of cold body increases and
+that of the hot body decreases. Thus energy is
+transferred from the hot body to the cold body
+when they are placed in contact. The energy
+which flows from hot body to the cold body is
+called the heat energy or simply the heat.
+
+On touching, a body appears hot to us when
+heat energy flows from that body to our hand,
+while it appears cool to us when heat energy flows
+from our hand to the body.
+
+Example : If we touch warm water, we feel
+hot because heat energy from warm water passes
+to our hand. Similarly, if we touch a cube of ice,
+we feel cool because heat energy from our hand
+passes to the cube of ice.
+
+Thus we can define heat as follows :
+
+Heat is the internal energy of molecules
+constituting the body. It flows from a hot body
+to a cold body.
+
+119
+
+
+--- Page 2 ---
+Unit of heat
+
+The unit of heat is same as that of energy.
+The S.I. unit of heat is joule (abbreviated as J)
+and its C.GS. unit is erg, where
+
+1 J = 10’ erg (6.1)
+
+Other units of heat are calorie (cal) and
+kilocalorie (kcal), where
+
+...(6.2)
+The units calorie and joule are related as :
+1 cal = 4-186 J (or nearly 4-2 J) ...(6.3)
+
+6.2 CONCEPT OF TEMPERATURE
+
+When a hot body is kept in contact with a
+cold body, it is noticed that after some time, the
+hot body becomes less hot and the cold body
+becomes less cold. Obviously, this is because of
+the flow of heat from hot body to the cold body.
+The body which imparts heat is said to be at a
+higher temperature than the body which receives
+heat. Thus, temperature determines the direction
+of flow of heat.
+
+When a body receives heat energy, the
+particles constituting the body start vibrating more
+vigorously and its temperature rises provided its
+physical state or dimensions remain unchanged.
+
+Thus temperature is defined as below.
+
+1 kilocalorie = 1000 calories
+
+Temperature is a quantity which tells the
+thermal state of a body (i.e., the degree of
+hotness or coldness of the body). It determines
+the direction of flow of heat when two bodies
+at different temperatures are placed in contact.
+
+Difference between heat and temperature
+
+. Heat is a form of energy obtained due to random
+motion of molecules in a substance
+
+. The SL. unit of heat is joule (J)
+
+. The amount of heat contained in a body depends
+_ On mass, temperature and material of body.
+
+. Heat is measured by the principle of calorimetry.
+
+. Two bodies having same. quantity of heat may
+differ in their temperature.
+
+. When two bodies are placed in contact, the total
+amount of heat is equal to the sum of heat of the
+individual bodies.
+
+If there is no transfer of heat between the
+two bodies placed in contact, they are said to be
+at the same temperature, but it does not mean that
+they have equal amount of heat in them. In fact,
+temperature alone does not tell us the quantity of
+heat energy contained in a body. Experimentally,
+we find that by imparting same quantity of heat
+energy to different bodies, they get heated to
+different temperatures. The amount of heat energy
+contained by a body depends on its mass,
+temperature and the material of the body.
+
+Unit of temperature
+
+The S.J. unit of temperature is kelvin
+(symbol K). The other most common unit of
+temperature is degree celsius (symbol °C) and
+degree fahrenheit (symbol °F).
+
+The temperature on Celsius scale and Kelvin
+scale are related as :
+
+T K = 273 + 14°C ...(6.4)*
+
+Thus, by adding 273 to the temperature in
+degree celsius, we get the temperature in Kelvin.
+Actually a degree on both the Kelvin and Celsius
+scales is equal.
+
+The ice point is 0°C on Celsius scale, 32°F
+on Fahrenheit scale and 273 K on the Kelvin
+scale. The steam point is 100°C on Celsius scale,
+212°F on Fahrenheit scale and 373 K on the
+Kelvin scale. Thus there are 100 equal degrees
+between the ice point and steam point on both
+the Celsius and Kelvin scales, but 180 equal
+divisions on the Fahrenheit scale. Thus 1 degree
+
+9
+on Celsius scale is 5 degree on Fahrenheit scale.
+
+* More precisely T K = 273-15 + 4 °C
+
+. Temperature is a quantity which determines the
+direction of flow of heat on keeping the two bodies
+at different temperatures in contact.
+
+. The S.1. unit of temperature is kelvin (K).
+
+. The temperature of a body depends on the average
+kinetic energy of its molecules due to their random
+motion. .
+
+. Temperature is measured by a thermometer.
+
+. Two bodies at same temperature may differ in
+the quantities of heat contained in them.
+
+. When two bodies at different temperatures are
+
+placed in contact, the resultant temperature is a
+temperature in between the two temperatures.
+
+120
+
+
+--- Page 3 ---
+The zero of the Kelvin scale is called absolute
+zero and it is at a temperature when molecular
+motion ceases. It is at -273°C i.e. 0 K = -273°C.
+
+The temperature on Celsius and Fahrenheit
+
+Cc F -32
+scales are related as : 5779. ...(6.5)
+
+6.3 THERMAL EXPANSION
+Almost all substances (solids, liquids and
+gases) expand on heating and contract on cooling.
+
+The expansion of a substance on heating is
+called the thermal expansion of that substance.
+
+A solid has a definite shape, so when a solid
+is heated, it expands in all directions ie., the
+length, area and volume, all increase on heating.
+The increase in length is called the linear
+expansion, the increase in area is called the
+superficial expansion and the increase in volume
+is called the cubical expansion. The liquids and
+gases do not have a definite shape, so they have
+only the cubical (or volume) expansion. On
+heating, liquids expand more than the solids, and
+gases expand much more than the liquids.
+
+Some substances such as water from 0°C
+to 4°C, silver iodide from 80°C to 141°C and
+silica below —80°C contract on heating and
+expand on cooling. The expansion of a substance
+on cooling in a certain range of temperature is
+called the anomalous expansion of that
+substance. Here we shall study the anomalous
+expansion of water.
+
+6.4 ANOMALOUS EXPANSION OF WATER
+If we take some water at 0°C and start heating
+it, we find that it contracts (instead of expanding)
+in the temperature range from 0°C to 4°C. On
+heating it further above 4°C, it expands. Similarly,
+if water initially at a temperature above 4°C is
+cooled, it contracts till the temperature of water
+reaches 4°C. On further cooling it below 4°C to
+O°C, it expands. This unusual expansion of water
+on cooling it in the temperature range 4°C to 0°C,
+is called anomalous expansion of water. Thus,
+The expansion of water when it is cooled
+Jrom #C to OC, is known as anomalous
+expansion of water.
+
+Fig. 6.1 shows the variation in volume of
+1 g of water with temperature in the range
+
+121
+
+i¢] 2 4 6 8 10
+TEMPERATURE IN °C ——+
+
+VOLUME OF tg OF WATER IN cm?
+
+Fig. 6.1 Variation in volume of water in range of
+temperature 0°C to 10°C
+from 0°C to 10°C. The volume of water first
+decreases on heating it from 0°C to 4°C and then
+increases on further heating it from 4°C to 10°C.
+The volume of water is thus minimum at 4°C. For
+1 g of water, the volume at 4°C is 1-0000 cm?.
+Fig. 6.2 shows the variation in density of
+water with temperature in the range from 0°C to
+10°C. When water is heated from 0°C, the density
+of water first increases from 0°C to 4°C and then
+decreases above 4°C to 10°C. On the other hand,
+on cooling water from 10°C, the density of water -
+first increases up to 4°C and then decreases when
+it is cooled further below 4°C to 0°C. Thus the
+density of water is maximum at 4°C which is
+equal to 1 g cm™ (or 1000 kg m7).
+Y
+
+DENSITY OF WATER (g cm7*)
+
+1
+‘
+t
+‘
+'
+'
+'
+'
+t
+{
+t
+'
+'
+4
+
+6 8 10
+TEMPERATURE IN °C ——e
+
+Fig. 6.2 Variation in density of water with
+temperature in range 0°C to 10°C
+
+HOPE'S EXPERIMENT TO
+DEMONSTRATE THE ANOMALOUS
+EXPANSION OF WATER
+
+In 1805, the scientist T.C. Hope devised a
+simple arrangement, known as Hope's apparatus
+for demonstrating the anomalous expansion of
+water. Fig 6.3 shows the Hope's apparatus.
+
+6.5
+
+The apparatus consists of a tall metallic
+cylinder provided with two side openings P near
+the top and Q near the bottom, fitted with
+thermometers 7, and 7, respectively. The central
+
+
+--- Page 4 ---
+FREEZING
+MIXTURE
+
+TROUGH
+
+WATER
+
+METALLIC
+CYLINDER
+
+Fig. 6.3 Hope's apparatus
+
+part of the cylinder is surrounded by a cylindrical
+trough containing a freezing mixture of ice and salt.
+The cylinder is filled with pure water at room
+temperature. The temperature recorded by both
+the thermometers is observed at a regular
+interval of time.
+
+Observations : (i) Initially both the
+thermometers 7, and T, show same temperature,
+(i.e., room temperature).
+
+(ii) First the temperature recorded by
+lower thermometer 7, starts decreasing and
+finally it becomes steady at 4°C, while the
+temperature recorded in upper thermometer 7;
+remains almost unchanged during this time.
+
+(iii) While the temperature recorded by
+lower thermometer 7, remains constant at 4°C,
+the upper thermometer 7, shows a continuous
+fall in temperature up to O°C and then it also
+becomes steady.
+
+Thus finally the temperature recorded by
+upper thermometer T, is 0°C and that by lower
+thermometer T> is 4°C.
+
+Fig. 6.4 shows the variation in temperature
+recorded by thermometers 7, and T> with time.
+
+t For Ty T For Te
+
+@ ,,.jRoom temperature oO
+
+2 42 P 2 12h Room temperature
+£ =
+
+2 2
+
+9. o 4
+
+& =
+
+Co) @D
+
+FO -
+
+Time (in minutes)>
+(a) Temperature-time graph
+for thermometer T,
+
+Time (in minutes)—>
+(b) Temperature-time
+graph for thermometer T,
+
+Fig. 6.4 Variation in temperature with time recorded
+by the thermometers T, and T,
+
+Explanation : Initially water in cylinder is
+at room temperature (say 12°C) which is indicated
+by the point A in the graphs. As the freezing
+mixture cools water in the central portion of the
+cylinder, water contracts and its density increases.
+Consequently the cooled water sinks to the bottom
+and warm water from the bottom rises up to take
+its place. Thus by convection, water of the lower
+part cools, so the reading of the lower
+thermometer T> falls rapidly. The reading of upper
+thermometer 7; does not change because the
+temperature of water in the upper part does not
+change. This continues till temperature of entire
+water below the central portion reaches at 4°C.
+This is shown by the part AB in graphs (a) and
+(b). Now the reading of lower thermometer 7,
+becomes steady. On further cooling below 4°C,
+due to anomalous expansion, water of the central
+portion now expands, so its density decreases
+and hence it rises up. To take its place, water
+from top descends down and by convection, water
+above the central portion cools. So the reading
+of upper thermometer 7; now falls rapidly till
+0°C and water near the top freezes to form ice at
+0°C. Now the thermometer 7, shows the steady
+temperature 0°C. This is shown by the part BC
+in graphs (a) and (b). At this stage, the lower
+thermometer T, shows the temperature 4°C at
+which water has the maximum density while the
+upper thermometer T, shows the temperature of
+water and ice at 0°C.
+
+6.6 CONSEQUENCES OF ANOMALOUS
+
+EXPANSION OF WATER
+(i) The anomalous expansion of water helps in
+preserving the aquatic life during the very cold
+weather
+
+In cold weather (or winter), when the
+atmospheric temperature starts falling well
+below 0°C, water at the surface of a pond (or
+lake) initially at temperature above 4°C, begins
+to radiate heat to the atmosphere, so the
+temperature of water starts falling upto 4°C.
+When temperature of water at the surface falls,
+water contracts, so its density increases and
+therefore, it sinks to the bottom. This continues
+till temperature of entire water reaches to 4°C.
+Now, further cooling of top layers below 4°C
+results in expansion of water and so its density
+decreases. As a result, water does not sink
+
+122
+
+
+--- Page 5 ---
+ATMOSPHERE BELOW 0°C
+
+ICE AT 0°C
+
+Fig. 6.5 Formation of ice at the top in a pond
+
+further, but it remains on the surface. When the
+temperature of atmosphere falls below 0°C,
+water on the surface rejects heat to the
+atmosphere and gradually freezes into ice, but
+water well below the ice layer remains at 4°C.
+The water layer just below the ice in contact
+with it will be at 0°C. Fig. 6.5 shows the
+formation of ice at the surface of pond (or
+lake). Since ice is a poor conductor of heat, so
+ice now prevents the flow of heat from water
+of pond (or lake) to the atmosphere. Thus
+temperature of water in contact with ice is at
+
+0°C, while the temperature of water layers
+below the ice gradually increases to 4°C. As a
+result, fish and other aquatic creatures remain
+alive in water of the pond (or lake), though
+water on the surface has frozen into ice. Nature
+thus protects the aquatic life during the winter
+season. .
+
+(ii) The anomalous expansion of water is
+responsible for the burst of water pipe lines, and
+destruction of crop during the very cold nights
+
+In winter nights, as the atmospheric
+temperature starts falling below 4°C, water in
+pipe lines expands and it exerts large pressure
+on the pipes, causing them to burst. Plants also
+die for the same reason as their capillaries burst
+when water expands below 4°C.
+
+To protect the plants, the field is filled with
+water.
+
+1. What is heat ? Write its S.I. unit.
+
+2. Two bodies at different temperatures are placed
+in contact. State the direction in which heat will
+flow. Ans. From the body at high temperature
+
+to the body at low temperature.
+
+3. Name the S.I. unit of heat and how is it related
+to the unit calorie ?
+
+Ans, joule (J), 1 J = 0-24 cal (nearly)
+
+4. Define temperature and write its S.I. unit.
+
+5. Why does a piece of ice when touched with
+hand, appear cool ? Explain.
+
+Ans. On touching ice, heat passes from
+our hand to the ice.
+
+6. Distinguish between heat and temperature.
+
+7. What do you understand by thermal expansion
+of a substance ?
+
+8. Name two substances which expand on heating.
+
+Ans. Brass, Iron
+
+9. Name two substances which contract on heating.
+
+Ans. Water from 0°C to 4°C,
+
+silver iodide from 80°C to 141°C.
+
+10. What do you mean by anomalous expansion of
+
+water ?
+
+Ans. Expansion of water on cooling it
+
+from 4°C to 0°C.
+
+11. At what temperature the density of water is
+maximum ? State its value.
+
+Ans. At 4°C, 1000 kg m7?
+
+Ne
+
+12. State the volume changes observed when a
+given mass of water is heated from O0°C to 10°C.
+Sketch a temperature-volume graph to show the
+behaviour.
+
+13. Draw a graph to show the variation in
+density of water with temperature in the
+temperature range from 0°C to 10°C.
+
+14. A given mass of water is cooled from 10°C to 0°C.
+State the volume changes observed. Represent
+these changes on a temperature-volume graph.
+
+15. Describe an experiment to show that water has
+maximum density at 4°C. What important
+consequences follow from this peculiar property
+of water ? Discuss the importance of this
+phenomenon in nature.
+
+16. Deep pond of water has its top layer frozen
+during winter. State the expected temperature of
+water layer (i) just in contact with ice, (ii) at the
+bottom of pond. Ans. (i) 0°C (ii) 4°C
+
+17. Draw a diagram showing the temperature of
+various layers of water in an ice covered pond.
+
+18. Explain the following :
+
+(a) Water pipes in colder countries often burst
+in winter.
+
+(b) In winter, water tank (or ocean) starts freezing
+from the surface and not from the bottom.
+
+
+--- Page 6 ---
+(c) Fishes survive in ponds even when the
+atmospheric temperature is well below
+orc.
+
+(d) A hollow glass sphere which floats with its
+entire volume submerged in water at 4°C,
+sinks when water is heated above 4°C.
+
+(e) A glass bottle completely filled with water
+and tightly closed at room temperature, is
+likely to burst when kept in the freezer of a
+refrigerator.
+
+Multiple choice type :
+1. Calorie is the unit of :
+(a) heat (b) work
+
+(c) temperature (d) food
+Ans. (a) heat
+
+2. 1 J equals to: °
+(a) 0-24 cal (b) 4-18 cal
+(c) I cal (d) 1 kcal
+
+Ans. (a) 0-24 cal
+3. S.I. unit of temperature is :
+(a) cal (b) joule
+(c) celsius (d) kelvin
+Ans. (d) kelvin
+4. Water is cooled from 4°C to O°C. It will :
+
+(a) contract
+
+(b) expand
+
+(c) first contract, then expand
+
+(d) first expand, then contract. Ans. (b) expand
+5. Density of water is maximum at :
+
+(a) 0°C
+
+(c) 4°C
+
+(b) 100°C
+(d) 15°C Ans. (c) 4°C
+
+(B) ENERGY FLOW AND ITS IMPORTANCE
+
+6.7 ENERGY FLOW IN AN ECOSYSTEM
+
+A unit composed of biotic components
+(i.e., producers, consumers and decomposers)
+and abiotic components (i.e., light, heat, rain,
+humidity, inorganic and organic substances) is
+called an ecosystem.
+
+The existence of living beings such as
+plants and animals depends on the flow of
+energy in them. Energy is needed for all the
+biotic activities. The most significant source of
+energy for all ecosystems is the sun.
+
+The energy received on the earth from the
+sun is utilised in different ways. Nearly 56-60%
+part of the incident energy is absorbed by the
+atmosphere, nearly 10% is utilised in heating of
+water and land, and only 8% falls on plants.
+Plants absorb most of the energy falling on
+them. Out of the absorbed energy, plants use
+only 0-02% in photosynthesis for producing
+their food. They are called the producers.
+
+Food chain : In ecosystem, photosynthetic
+plants and bacteria act as producers. The food
+synthesized by producers is utilised by primary
+consumers (such as krill). The primary
+consumers are eaten by the secondary consumers
+(such as small fish) and in turn they are
+consumed by the tertiary consumers (such as
+large fish). The tertiary consumers may be eaten
+by man. The man may be the last consumer in
+
+this chain of energy transfer when he eats the
+fish. This simple food chain is shown in Fig. 6.6.
+
+a
+
+Secondary
+consumer
+
+Tertiary
+
+rif lerig
+oe 7 Large fish
+
+Fig. 6.6 The simple food chain
+
+Energy flow Fig. 6.7 shows the
+energy flow in the ecosystem. The producers
+(photosynthetic plants) synthesize organic
+substances by the process of photosynthesis (i.e.,
+they bind the simple compounds with the help
+of solar energy into the complex organic
+substances). The chemical energy so stored in
+plants is called the gross primary production.
+The producers themselves first use the
+
+Man
+
+124
+
+
+--- Page 7 ---
+synthesized organic substances in the process of
+respiration in which some energy is used in
+oxidation of organic substances. The rest of the
+energy, called the net primary production, is
+stored for the growth, development and
+important metabolic processes. In Fig. 6.7, the
+gross primary production by the producers is
+20,810 cal energy, out of which 11,977 cal
+energy is used in the respiration and the net
+primary production is 8,833 cal energy.
+
+6,612 cal 14,198 cal
+
+DECAY
+
+Respiration (metabolism)
+
+“" 11,977 cal
+Fig. 6.7 Energy flow in ecosystems
+
+Next the primary consumers (herbivores)
+obtain their food from the producers, so they
+obtain only a small part of energy from the
+producers and the rest is wasted in decay of
+producers. A small part of the energy obtained by
+the primary consumers is utilized in respiration
+through which they perform metabolic processes
+of their body and the remaining part is stored in
+them as food. In Fig. 6.7, the primary consumers
+obtain only 3,368 cal energy from the producers
+and rest of the energy 5,465 cal is wasted in their
+decay. Then out of 3,368 cal energy which the
+primary consumers obtain from the producers,
+1,890 cal energy is used up in respiration and
+1,478 cal energy is stored as food.
+
+Afterwards, a small part of the energy stored
+as food in the primary consumers is obtained by
+
+the secondary consumers (carnivores). They again
+make use of a part of the energy in respiration and
+rest is stored in them as food. In Fig. 6.7, the
+secondary consumers obtain only 383 cal energy
+from the primary consumers and rest of the
+energy 1,095 cal is wasted in their decay. The
+secondary consumers utilise 316 cal energy in
+respiration and rest of the energy 67 cal is stored
+in them as food.
+
+By repeating the sequence, the tertiary
+consumers (carnivores) obtain energy as food
+from the secondary consumers and utilise a small
+part of it in respiration and remaining energy is
+wasted in their decay and decomposition. In
+Fig. 6.7, the tertiary consumers obtain only 21 cal
+energy from the secondary consumers and rest of
+the energy (i.e., 46 cal) is wasted in their decay.
+Out of the 21 cal energy obtained by the tertiary
+consumers, 15 cal energy is used in respiration
+and 6 cal energy is wasted in their decay.
+
+The energy flow in ecosystems is thus linear
+i.e., it moves in a fixed direction. At the end, the
+energy reaches to the degraded (or unuseful) state.
+
+{ory Solar energy
+
+Heat of evaporation,
+
+conduction and
+convection
+Respiration
+11977 cal
+Death
+5465 cal
+Energy toss in gs
+excretion Reseanon
+Death
+1095 cal
+Energy loss in Respiration
+excretion 316 cal
+Death
+46 cal
+Respiration
+15 cal
+
+Death
+6 cal
+
+Fig. 6.8 Energy flow in ecosystem in form of a food chain
+
+125
+
+
+--- Page 8 ---
+It does not return to the sun to make the process
+cyclic.
+
+The energy flow in the ecosystem can also
+be understood in form of a food chain shown
+in Fig. 6.8.
+
+6.8 APPLICATION OF LAWS OF
+
+THERMODYNAMICS IN ENERGY
+
+FLOW
+
+The flow of energy in the process of entrance,
+transformation and diffusion in ecosystem is
+governed by the laws of thermodynamics.
+
+According to the first law of thermodynamics,
+the energy can be transformed from one form to the
+other form, but it can neither be created nor
+destroyed. When certain amount of one form of
+
+energy is destroyed, then fhe same amount of another
+form of energy is created as shown in Fig. 6.7
+According to the second law of thermo-
+dynamics, when energy is put to work, a part of
+it is always converted in unuseful form as heat
+mainly, due to friction and radiation. In all such
+cases the total sum of useful and unuseful energy
+remains constant. In Fig. 6.7, the energy used in
+respiration and in decay (or death) appears as
+unuseful heat energy because this energy does
+not reach to the consumer of next stage. So just
+like a machine, in ecosystem also the energy
+transfer is not 100% efficient, a portion of the
+transferred energy always goes to unuseful form
+in accordance with the second law of
+
+thermodynamics.
+
+1. What is an ecosystem ? Name its two
+components.
+
+2. What is the source of energy for all ecosystems ?
+
+3. State the importance of green plants in an
+ecosystem.
+
+4. Differentiate between the producers and
+consumers.
+
+5. State the functions of decomposers in an
+ecosystem.
+
+What is a food chain ?
+Draw a simple diagram showing a food chain.
+Describe the energy flow in an ecosystem.
+
+ean an
+
+State the law which governs the energy flow in
+an ecosystem.
+
+10. Show that the energy flow in an ecosystem is
+linear.
+
+11. Draw a simple diagram showing the energy flow
+in a food chain.
+
+12. Draw a diagram to show that the energy flow
+in an ecosystem is governed by the law of
+conservation of energy.
+
+Multiple choice type :
+
+1. Food chain begins with :
+(a) respiration (b) photosynthesis
+(c) decomposition (d) decay.
+Ans. (b) photosynthesis.
+2. The source of energy in an ecosystem is :
+(a) sun (b) decayed bodies
+(c) green plants (d) sugar.
+Ans. (a) sun.
+3. Energy enters in a food chain through :
+(a) primary consumers
+(b) secondary consumers
+(c) tertiary consumers
+(d) producers.
+Ans. (d) producers.
+4. The place of human being in food chain in an
+ecosystem is as a:
+(a) producer
+(c) decomposer
+
+(b) consumer
+(d) both (a) & (b).
+Ans. (b) consumer.
+
+126
+
+
+--- Page 9 ---
+(C) ENERGY SOURCES
+
+6.9 SOURCES OF ENERGY
+
+We require energy in every activity of our
+life. For example, energy is required to cook
+food, to light homes, to run gadgets, to move
+vehicles, to run T.V., cinema, radio, etc. We
+need energy for production in factories and also
+for crops in fields. To meet most of these
+requirements, the energy needed is in form of
+heat and electricity. For example, we need heat
+energy for cooking food and this heat energy is
+obtained by burning the fuels such as coal,
+wood, kerosene or cooking gas. We need
+electricity to run electric motors, fans, etc. and
+it is obtained from coal, hydro-energy or
+nuclear energy.
+
+Characteristics of a source of energy : A
+source of energy should be such that it can
+provide an adequate amount of useful energy at
+a steady rate over a long period of time. It should
+be safe and convenient to use, economical and
+easy to store and transport.
+
+Classification of sources of energy : From
+the point of view of availability, the energy
+sources are divided into the following two groups:
+
+(1) renewable or non-conventional sources
+of energy, and
+non-renewable or conventional sources
+of energy.
+
+6.10 RENEWABLE OR THE NON-
+CONVENTIONAL SOURCES OF
+ENERGY
+
+(2)
+
+A natural source providing us energy
+continuously is called a renewable (or non-
+conventional) source of energy. Sun is the main
+source of energy for us on the earth. The energy
+harnessed from the natural sources like wind,
+flowing water, tides, ocean waves and biogas is
+directly or indirectly derived from the energy of
+the sun. We can use these sources as long as
+the earth continues to receive heat and light
+from the sun. Apart from these sources, geo-
+thermal energy and nuclear energy are the other
+sources of energy which can provide us energy
+over a long period of time. These sources of
+
+energy can be used again and again and will
+never get exhausted.
+
+Although the wood, obtained from trees, is
+also considered a renewable source of energy,
+but trees usually take more than 15 years to
+grow fully, therefore, renewal of wood as source
+of energy takes a long time. Further, cutting of
+trees on a large scale causes depletion of
+forests which results in global warming and
+environmental imbalance. Hence use of wood as
+a source of energy must be avoided.
+
+Thus, the main sources of renewable energy
+are : (i) Sun (ii) Wind (iii) Flowing water
+(Hydro) (iv) Bio mass and bio fuels from waste
+(v) Tides (vi) Oceans (vii) Geo-thermal spots
+and (viii) Nuclear fuel.
+
+(i) Sun as source of energy : Sun is the
+main source of various types of energy. The
+energy obtained from sun is called the ‘solar
+energy. In the interior of the sun, nuclear fusion
+reactions generate huge amount of energy which
+is radiated out continuously in all directions in
+space. Since the sun is very far from the earth,
+we receive only a very small fraction of the
+total solar energy.
+
+The solar energy that reaches earth is
+neither uniform nor equal at all places. It
+changes daily even at one place. It also varies
+during a day. The average solar energy reaching
+the upper atmosphere of earth per second on an
+area of 1 metre? is called the solar constant and
+it is estimated to be nearly 1-34 kW m™~. The
+solar energy reaching the earth is absorbed by
+land, plants and water bodies like rivers, lakes
+and oceans. The solar energy absorbed by land
+and water bodies cause winds, storms, rains,
+snow falls and sea waves, etc. while the solar
+energy absorbed by plants is utilized by them in
+preparing their food by the process of
+photosynthesis.
+
+(ii) Wind as source of energy : The
+large mass of moving air is called wind. Due
+to motion, it has kinetic energy. The kinetic
+energy of wind is called the wind energy.
+
+127
+
+
+--- Page 10 ---
+Indirectly wind energy comes trom Solar
+energy. The sun rays falling on earth heat
+different areas of earth unequally. Due to
+(i) unequal heating of different areas of earth,
+(iil) rotation of earth and (iii) local convection
+currents, we have different wind cycles.
+
+From the very early days, we have been
+using energy possessed by wind for various
+purposes such as in removing husk from grains,
+in propelling sail boats in rivers and seas, in
+moving vehicles for transportation and in
+windmills to draw water from the ground and
+to grind grains.
+
+(iii) Flowing water as a source of energy:
+The kinetic energy possessed by the flowing
+water is called the hydro energy.
+
+Hydro energy too comes indirectly from the
+sun. The solar energy is responsible for water
+cycle in nature. Water in oceans, rivers, lakes,
+etc. absorbs solar energy and it then evaporates
+to form clouds. The clouds move due to air
+currents and ultimately water comes back on
+earth in the form of rain and snow.
+
+Man has been utilizing for centuries the
+energy of flowing water in rivers for rotating
+the wheels of water mill used to drive the flour
+mill in remote hilly areas and for transporting
+heavy logs of wood from forests in hilly areas
+to the downstream areas in planes.
+
+(iv) Bio mass as source of energy : The
+wastes and dead parts of living beings like
+plants, trees and animals, is called bio mass.
+They contain carbon compounds. The chemical
+energy stored in the bio mass is called the bio
+energy. Thus, bio energy also comes from solar
+energy. Bio mass such as wood, cattle dung,
+crop residues and agriculture wastes like
+bagasse have been traditionally used as fuel to
+produce heat energy for domestic as well as
+commercial purposes.
+
+Bio mass is also used to produce bio gas
+by its decomposition in the absence of oxygen.
+The main constituent of bio gas is methane
+(65%) and rest is a mixture of carbon dioxide,
+hydrogen and hydrogen sulphide. Bio gas is
+used as a fuel to run engines and for generating
+
+electricity. In India, we uSe two types of bio gas
+plants : (1) the floating gas holder type and
+(2) the fixed dome type. They are also called
+Gobar gas plants because the main bio mass
+used in these plants is called slurry which is
+the mixture of animal dung (or gobar) in water.
+
+(v) Tides as source of energy : The rise
+of ocean water near the coast is called high tide
+and fall of ocean water is called low tide. This
+rise and fall of tidal waves occur twice a day
+in oceans. The energy possessed by rising and
+falling water in tides is known as tidal energy.
+
+Tidal energy is harnessed for producing
+electricity by constructing a dam across a
+narrow opening to the sea. But this is not a
+major source of energy because of the following
+two reasons :
+
+(1) The rise and fall of sea water during
+tides is not enough to generate
+electricity on a large scale.
+
+(2) There are very few sites which are
+suitable for building the tidal dams.
+
+(vi) Oceans as source of energy :
+Water in oceans possesses energy in two
+forms (a) ocean thermal energy and
+(b) oceanic (or sea) waves energy.
+
+(a) Ocean thermal energy : Water at the
+surface of an ocean gets heated by absorbing
+the heat of sun, while water at its deeper levels
+remains cold. Thus, there is a difference in
+temperature of water at the surface and at
+deeper levels of an ocean. This difference in
+temperature is found to be up to 20°C. The
+energy available due to the difference in
+temperature of water at the surface and at
+deeper levels of ocean is called the ocean
+thermal energy (OTE). Obviously, this energy
+also comes indirectly from the sun.
+
+Ocean thermal energy is harnessed for
+producing electricity by a device called ocean
+thermal energy conversion power plant
+(OCTEC power plant).
+
+(b) Oceanic (or sea) waves energy : Due
+to the wind blowing on the surface of oceans,
+waves move at high speed on its surface which
+are called the oceanic waves (or sea waves). Due
+
+128
+
+
+--- Page 11 ---
+to their high speed, they carry tremendous
+amount of kinetic energy with them. Thus, the
+kinetic energy possessed by such fast moving
+oceanic (or sea) waves is called the oceanic (or
+sea) waves energy. This energy also comes
+indirectly from the sun.
+
+Sea waves energy can also be harnessed to
+produce electricity, but so far it has not become
+possible to produce electricity from sea waves
+energy on a large scale. However, models have
+been made to generate electricity from oceanic
+waves.
+
+(vii) Geo thermal spots as source of
+energy : At some places, rocks below the surface
+of earth are very hot. Such places are known as
+hot spots. The heat energy possessed by rocks
+inside the earth is called the geo thermal energy.
+
+Geo thermal energy is harnessed to produce
+electricity. The rocks present at hot spots, heat
+the underground water and turn it into steam,
+which gets compressed at high pressure between
+the rocks. By drilling holes into the earth up
+to the hot spots, steam is extracted through
+pipes which is utilized to rotate the turbine
+connected to the armature of an electric
+generator to produce electricity.
+
+In India, there are very few places where
+geothermal energy is harnessed to produce
+electricity. One such place is in Madhya
+Pradesh. However, in USA and Newzealand,
+there are a number of geo thermal energy based
+power plants.
+
+(viii) Nuclear fuel as source of energy :
+When uranium nucleus is bombarded with a
+slow neutron, it splits into two nearly equal
+light nuclei and a large amount of energy is
+released. This phenomenon is called nuclear
+fission, Similarly, when two light nuclei
+combine to form a heavy nucleus at a very high
+_ temperature. (= 10’ K) and high pressure, a
+tremendous amount of energy is released. This
+phenomenon is called nuclear fusion. In both
+these processes, the origin of energy is the loss
+in mass i.e., the sum of masses of the products
+of reaction is less than the sum of masses of
+reactants and this loss in mass is converted into
+
+energy E according to the Ejinstein’s mass-
+energy equivalence relation E = mc*, where
+c (=3 x 108 m s-!) is the speed of light and m
+is the loss in mass. This energy is known as
+nuclear energy.
+
+In fission reaction of one uranium nucleus,
+nearly 200 MeV energy is released and two or
+three neutrons are also emitted. If number of
+uranium nuclei present are more, each neutron
+emitted in the fission reaction of a uranium
+nucleus causes fission in the new uranium
+nuclei and thus a chain of nuclear fission
+reactions occurs, which once started continues
+till the entire uranium is exhausted. As a result
+of such an uncontrolled chain reaction, more
+and more energy is produced which may cause
+an explosion. An atom bomb is based on this
+principle. But to utilize the energy produced in
+the process of fission for constructive use (such
+as to produce electricity), the chain reaction is
+controlled by absorbing some neutrons with the
+help of cadmium rods. This is done in a
+nuclear reactor.
+
+So far it has not become possible to harness
+energy by the process of nuclear fusion.
+
+6.11 NON-RENEWABLE OR
+CONVENTIONAL SOURCES
+ENERGY
+
+The sources of energy which have
+accumulated in nature over a very long period
+and cannot be quickly replaced when exhausted,
+are called the non-renewable or conventional
+sources of energy. Coal, petroleum and natural
+gas known as fossil fuels are non-renewable
+sources. They are formed by the decomposition
+of the remains of plants and animals buried
+under the earth, millions of years ago. Thus, the
+formation of fossil fuels have occurred over
+millions of years due to certain very slow
+changes under special circumstances. If they are
+being used extensively, their known reserves
+will soon deplete and once exhausted, they
+cannot be regenerated soon.
+
+THE
+OF
+
+The common non-renewable sources of
+energy are : (i) coal, (ii) petroleum and
+(iii) natural gas.
+
+FO 129
+
+
+--- Page 12 ---
+(i) Coal : Coal is a non-renewable source
+made up of complex compounds of carbon,
+hydrogen and oxygen along with some free
+carbon and compounds of nitrogen and sulphur.
+It is found in deep mines under the surface of
+earth. In India, coal mines are found in
+Jharkhand, West Bengal, Orissa and
+Chattishgarh. Since coal is found in abundance
+
+-in our country, it is the most common source
+of energy for us.
+
+(ii) Petroleum : Petroleum is a dark
+coloured viscous liquid also called crude oil. It
+is a non-renewable source of energy which is
+found under the earth’s crust trapped in rocks.
+It is called petroleum because petroleum means
+rock oil. /t is a complex mixture of many
+hydrocarbons with water, salt, earth particles
+and other compounds of carbon, oxygen,
+nitrogen and sulphur. It is lighter than water
+and does not mix with it. Petroleum is obtained
+by drilling oil wells into the earth’s crust at its
+reservoirs. In India, the reservoirs of petroleum
+have been found in Assam and Mumbai.
+
+The crude petroleum extracted from wells
+is not suitable to be used as a fuel in its natural
+form. It has to be purified (or refined) to obtain
+different useful components. The process of
+
+_ separating useful components from crude
+
+petroleum is called refining which is done by
+fractional distillation in big oil refineries set up
+for this purpose.
+
+The petroleum gas obtained as a by-product
+from the fractional distillation of petroleum
+contains mainly the butane and a small amount
+of propane and ethane. These gases burn readily
+and produce a lot of heat. Hence the petroleum
+gas can be used as a good fuel.
+
+Butane, propane and ethane are in gaseous
+states at ordinary pressure, but they can be
+easily liquefied under pressure. The petroleum
+gas liquefied under pressure is called the
+liquefied petroleum gas (or LPG) which is used
+in domestic gas stoves as fuel for heating
+purposes. It is stored in gas cylinders after
+mixing a strong smelling substance called ethyl
+mercaptan (C,H,SH) so that the gas leakage, if
+any, from the cylinder can easily be detected.
+
+(iii) Natural gas : Natural gas is also a
+non-renewable source of energy which is found
+deep under the earth’s crust either alone or
+above the petroleum reservoirs. It is also
+obtained by digging wells into the earth. From
+some wells we can extract only the natural gas,
+while from others both the natural gas and
+petroleum. In India, there are a number of
+natural gas fields such as in Tripura, Jaisalmer,
+off shore area of Mumbai and in the Krishna-
+Godavari delta. The main component of natural
+gas is methane (up to 95%) along with small
+quantities of ethane and propane. It easily burns
+to produce heat.
+
+Distinction between the renewable and the
+non-renwable sources of energy
+
+1. These are the sources
+from which energy
+can be obtained can not be
+continuously over a continuously obtained
+long period of time. over a long period of
+
+time.
+
+. They are the
+
+conventional sources.
+
+. These are the natural
+
+sources which will
+
+get exhausted with
+the time.
+
+These sources can
+
+not be regenerated.
+
+Examples Coal,
+
+petroleum and natural
+
+gas.
+
+1, These are the sources
+from which energy
+
+. They are the non-
+conventional sources.
+
+. These are the natural
+sources which will
+not get exhausted.
+
+4, These sources can be} 4.
+regenerated.
+Examples : Sun, wind,
+flowing water (hydro),
+bio mass (waste), tides,
+oceans, geo thermal
+spots and nuclear fuel.
+
+6.12 JUDICIOUS USE OF ENERGY
+
+It is not possible to harness energy sufficent
+for our requirement from the non-conventional
+sources, so we have to make use..of the
+conventional sources also. But the conventional
+sources of energy (i.e., fossil fuels) are limited
+and non-renewable, so the constant use of them
+will create an energy crisis in the coming
+future. Therefore the following measures must
+be taken for the judicious use of energy.
+
+(1) The fossil fuels such as coal, petroleum,
+etc. should be used only for limited
+
+130
+
+
+--- Page 13 ---
+purposes when no other alternative
+source of energy is available.
+
+(2) Wastage of energy should be avoided.
+
+(3) Cutting of trees must be banned and
+more and more trees should be planted.
+
+(4) Efforts must be made to make use of
+energy in community (or groups).
+
+(5) The use of energy in urban areas is
+much more than in the rural areas. In
+rural areas, the use of renewable sources
+of energy is easier than in urban areas.
+In rural areas, we can use bio gas, wind
+energy, hydro energy for running lights
+and tube wells.
+
+(6) Such techniques should be developed
+by which in near future, we may make
+use of the renewable sources such as
+solar energy, wind energy, hydro energy.
+bio energy, ocean energy, etc. as much
+as possible to meet our requirements.
+
+(7) Efforts must be made to obtain nuclear
+energy by the controlled nuclear fusion
+of deuterium nuclei present in heavy
+water available in sea. This will then
+become an endless source of energy.
+
+In our daily life both in urban and rural
+area, we need energy mostly in form of
+electricity, so we shall now study the methods
+of producing electricity from the renewable
+sources of energy.
+
+6.13 PRODUCTION OF ELECTRICITY
+FROM SOLAR ENERGY
+
+The sun is the most vast and direct source
+of energy. To obtain electricity from the solar
+energy, two devices are used : a solar cell
+and a solar power plant. The device which
+converts solar energy directly into the electricity
+is called a solar cell. On the other hand, a
+solar heating device used to generate electricity
+from solar energy, is called a solar power
+plant.
+
+(i) Solar cell : About a hundred years ago,
+it was discovered that when sunlight falls on a
+thin layer of selenium, an electric current is
+produced. Since only 0-6% of the solar energy
+incident on selenium could convert into electric
+
+energy, So no serious efforts were then made to
+produce electricity from solar energy. The first
+solar cell was made in 1954 which had an
+efficiency of only 1%. But nowadays solar cells
+have been made with an efficiency of up to
+30%.
+
+The solar cells are usually made from
+semiconductors like silicon and gallium. A
+semiconductor has conductivity less than that of
+a metal, but more than that of an insulator. At
+ordinary temperature, a semiconductor has a
+very low conductivity, but its conductivity
+increases either with the rise in temperature or
+when some impurities are added in it. If
+sunlight is made incident on an impurity added
+semiconductor, a potential difference is
+produced between its surfaces. This forms a
+solar cell. Due to this potential difference, a
+current flows in the circuit connected between
+the opposite faces of the semiconductor. Such
+a single solar cell of area 4 cm? produces a
+potential difference of nearly 0-4 volt to 0-5 volt
+due to which a current of nearly 60 milli-
+ampere can be obtained. To increase the
+efficiency, a large number of such cells are
+arranged over a large area so that they could
+collect a large amount of solar energy to
+produce sufficient electricity. Such an
+arrangement of solar cells is called a solar
+panel. ,
+
+A solar panel gives electricity so long as
+sunlight is falling on it. Therefore a solar panel
+cannot produce electricity at night. To overcome
+this difficulty, the storage battery (or secondary
+cell) is charged by a solar panel during the day
+time and it can then be used at night to provide
+electricity. The solar panels are used to supply
+electricity in the artificial satellites and for
+
+Water
+pump
+
+Electric.
+motor
+
+Underground water
+
+Fig. 6.9 Solar panel used for running a water pump
+
+131
+
+
+--- Page 14 ---
+“running water pumps, street ughting, radio and
+television sets in remote, inaccessible and
+isolated areas where conventional sources of
+energy are not available. Small solar cells are
+used in watches and calculators. Fig. 6.9 shows
+a solar panel used for running a water pump.
+
+Advantages of using solar panels :
+
+1. They do not require any maintenance.
+
+2. They last over a long period of time.
+
+3. Their running cost is almost nil.
+
+4. They are most suitable for the remote,
+inaccessible, and isolated places where
+electric power lines cannot be laid.
+
+5. They do not cause any pollution in the
+environment.
+
+Disadvantages of using solar panels :
+
+1. The initial cost of a solar panel is sufficiently
+high.
+
+2. The efficiency of conversion of solar energy
+to electricity is low.
+
+3. A solar panel produces d.c. electricity which
+cannot be directly used for many household
+purposes.
+
+(ii) Solar power plant : A solar power
+plant is a device in which heat energy of sun
+is used to generate electricity. The sun rays after
+reflection from a large concave reflector get
+concentrated at its focus. The rays have
+sufficient heat energy which can boil water, if
+it is placed at the focus of the reflector. This
+principle is used in a solar power plant.
+
+A solar power plant consists of a number of
+big concave reflectors, at the focus of which there
+are black painted water pipes. The reflectors
+concentrate the heat energy of sun rays on the
+pipes due to which water inside the pipes starts
+boiling and produces steam. The steam thus
+produced is used to rotate a steam turbine which
+drives a generator producing electricity. Such a
+solar power plant of capacity 50 kW has been
+installed at Gurgaon in Haryana.
+
+6.14 PRODUCTION OF ELECTRICITY
+FROM WIND ENERGY
+
+Nowadays wind energy is used in a wind
+generator to produce electricity by making use
+
+of a windmill (or wind turbine) to drive a wind
+generator.
+Armature
+= Electric generator (dynamo)
+
+Fig. 6.10 Wind generator
+
+Fig. 6.10 shows a wind generator in which a
+small electric generator (or dynamo) is placed at
+the top of a pillar. The armature of the dynamo is
+connected to the shaft attached with the blades
+of a wind mill. When the blowing wind strikes
+the blades of the wind mill (or turbine), the kinetic
+energy of wind changes into the rotational kinetic
+energy of the blades. The rotation of blades of
+the turbine rotates the armature of the dynamo in
+the magnetic field between the pole pieces N and
+S of a strong magnet, thus an alternating e.m.f. is
+produced between the terminals T, and T,.
+
+The electric power generated by a single wind
+mill generator is small. So to generate a sufficient
+amount of electric power, a large number of such
+wind generators are arranged over a big area
+called a wind farm, and then the electric power
+generated by each generator is combined together
+for supply to the consumers. At present in India,
+we are generating more than 1025 MW electric
+power by this technique in coastal areas of
+Gujarat and Tamil Nadu. It is planned to produce
+electric power up to 20,000 MW in our country
+by the use of wind energy.
+
+Advantages of using the wind energy : (i) It
+does not cause any kind of pollution. (ii) It is an
+everlasting (i.e., renewable) source.
+Limitations of using the wind energy : (i) The
+wind farms can be established only at places near
+the coastal areas where wind blows around the
+year steadily with a speed not less than 15 km h7!.
+(ii) A large area of land is needed for, the
+establishment of a wind farm. (iii) The
+establishment of a wind farm is expensive.
+
+6.15 PRODUCTION OF ELECTRICITY
+FROM WATER (or hydro) ENERGY
+
+The most important use of hydro energy is to
+
+132
+
+
+--- Page 15 ---
+convert it into the electrical energy by using a
+turbine. The electricity so obtained is called the
+hydroelectric power.
+
+River water
+
+Armature
+Fig. 6.11 Hydroelectric plant
+
+Fig. 6.11 shows the principle of a
+hydroelectric power plant. The flowing water of
+river is collected in a dam at high altitude. The
+water stored in the dam has the potential energy.
+When water from dam falls on the water turbine,
+the potential energy of the water stored in dam
+changes into its kinetic energy and this kinetic
+energy of water is transferred to the blades of
+turbine as the rotational kinetic energy. As the
+turbine rotates, it rotates the armature of the
+generator (or dynamo) in the magnetic field
+between the pole pieces N and S of a strong
+magnet, due to which an alternating e.m-f. is
+produced between the terminals 7, and T,. Such
+a mini hydroelectric power plant can be
+constructed on the rivers in hilly areas across a
+small dam of height nearly 10 m. At present in
+India we are generating hydro-electricity which
+is only 23% of the total electricity generated
+by us. However, it is planned to produce nearly
+
+Uranium
+rods exchanger
+Graphite Nt Pump
+block A\
+Z
+Heavy ~&
+water & Ly Z
+CALS OCLC MSE —— Concrete wall
+
+Cold gas (Coolant) Nuclear reactor
+
+4 x 10!! kWh electrical energy from the hydro
+energy.
+
+Advantages of using the hydro energy :
+(i) It does not produce any environmental
+pollution. (ii) It is a renewable source of energy.
+(iit) The dams constructed over rivers help us in
+
++, utigation and control of floods in rivers.
+1
+
+Limitations of using hydro energy : (i) The
+flowing water is not available every where.
+(ii) Due to the construction of dams over the
+rivers, plants and animals of that place get
+destroyed or killed. (iii) The ecological balance
+in the downstream areas of rivers gets disturbed.
+
+6.16 PRODUCTION OF ELECTRICITY
+FROM NUCLEAR ENERGY
+
+It is possible to produce electricity from the
+nuclear energy by the controlled chain reaction
+of nuclear fission of a radioactive substance like
+uranium-235 (or plutonium-239). The set up used
+is called the nuclear power plant.
+
+Fig. 6.12 shows the arrangment of a nuclear
+power plant in which the main part is the nuclear
+reactor. In a nuclear reactor, the chain reaction
+of nuclear fission of uranium-235 (or plutonium-
+239) is controlled by the cadmium rods. The heat
+energy released in the process, is absorbed by
+the coolant which then passes through the coils
+of a heat exchanger containing water. The water
+in heat exchanger gets heated and converts into
+steam. The steam is used to rotate the turbine
+
+Hot gas (Coolant)
+
+Generator
+
+Turbine
+
+ys SVASSSSASSSAASSSACR
+
+\
+
+\Nwe
+
+Fig. 6.12 Nuclear power plant
+
+133
+
+
+--- Page 16 ---
+which in turn rotates the armature of a generator
+in a magnetic field and thus electricity is
+produced.
+
+In India, we have four nuclear power plants :
+(i) at Tarapur in Maharashtra, (ii) at Rana Pratap
+Sagar near Kota in Rajasthan, (iii) at Kalpakkam
+in Tamil Nadu and (iv) at Narora in Uttar Pradesh,
+where electricity is generated by the use of
+nuclear energy. At present only about 3% of the
+total electrical power generated in India is
+obtained from the nuclear power plants.
+
+Advantages of using the nuclear energy :
+(i) A very small amount of nuclear fuel (such as
+uranium-235) can produce a tremendous amount
+of energy. (ii) Once the nuclear fuel is loaded
+into a nuclear power plant, it continues to release
+energy over a long period.
+
+Limitation of use of nuclear energy : (i) It
+is not a clean source of energy because very
+harmful nuclear radiations are produced in the
+process which are highly energetic and
+penetrating. These radiations cause ionisation and
+are very harmful to the human body, so a high
+standard of protection is needed for the persons
+working in the power plant and also for the
+environment. (ii) The waste obtained from the
+nuclear power plants causes a high degree of
+environmental pollution.
+
+6.17 ENERGY DEGRADATION
+
+In our daily life we require to transform one
+form of energy to the other required form of
+energy. By the law of conservation of energy, the
+given form of energy must be completely
+converted into the desired useful form without
+any loss of it. In practice, it has been observed
+that in transformation of energy from one form
+to the other desired form, the entire energy does
+not change into the desired form, but a part of it
+changes either to some other undesirable form
+(usually heat due to friction) or is lost to the
+surroundings due to radiation which is not useful.
+This conversion of energy to the undesirable (or
+non-useful) form is called the dissipation of
+energy. Since this part of energy is not available
+to us for any productive purpose, so we call this
+as the degraded form of energy. With more and
+
+more use of energy, the degraded form of energy
+will gradually increase, while the energy available
+for productive purpose will gradually decrease
+(since total energy remains constant).
+
+The gradual decrease of useful energy due to
+radiation loss, friction, etc. is called the
+
+degradation of energy.
+
+Examples :
+
+(i) When we light a bulb using electricity, less
+than 25% of the electrical energy converts
+into the light energy. The remaining part of
+electrical energy changes into the heat in the
+filament and the other invisible radiations.
+This energy is ultimately imparted to the
+atmosphere in the form of vibrational
+kinetic energy of air molecules. The energy
+in this form is not useful to us.
+
+When we run a vehicle, only a part of
+energy obtained from its fuel is used up in
+
+running the vehicle, major part of it is
+wasted in heating the moving parts of
+machine, in doing work against friction
+
+between the ground and its tyres and in the
+form of sound.
+
+(iit) When we cook food over a fire, the major
+part of heat energy obtained from the fuel
+is radiated out in the atmosphere. This
+radiated energy is of no use to us. It is thus
+the degraded form of energy.
+
+When electrical appliances are run by
+
+electricity, an appreciable part of electrical
+
+energy is wasted in the form of heat energy.
+
+In transmission of electricity from the power
+
+generating station, a lot of electrical energy
+
+is wasted in the form of heat energy in the
+line wires used for transmission.
+
+All machines have efficiency less than 1,
+
+which implies that only a fraction of input
+
+energy is used for doing useful work and rest
+of the input energy is wasted or goes to the
+degraded form.
+
+From the above examples, we conclude that in
+
+all processes of transfer of available form of
+
+energy to the useful form, a good fraction of
+energy changes to the non-productive or
+degraded form.
+
+(ii)
+
+(iv)
+
+(v)
+
+(vi)
+
+134
+
+
+--- Page 17 ---
+10.
+
+11.
+
+12.
+
+13.
+
+EXERCISE 6(C)
+
+State two characteristics which a source of
+energy must have.
+
+Name the two groups in which various sources
+of energy are classified. State on what basis are
+they classified.
+
+What is meant by the renewable and non-
+renewable sources of energy ? State two
+differences between them, giving two examples of
+each.
+
+Select the renewable and non-renewable sources
+of energy from the following :
+(a) Coal (b) Wood (c) Water
+(d) Diesel (e) Wind (f) Oil
+Ans. Renewable — (b), (c) and (e)
+Non-renewable — (a), (d) and (f)
+Why is the use of wood as a fuel not advisable
+although wood is a renewable source of
+energy ?
+Name five renewable and three non-renewable
+sources of energy.
+What is (i) tidal, (ii) ocean and (iii) geo thermal
+energy ? Explain in brief.
+What is the main source of energy for earth ?
+Ans. Sun
+What is solar energy ? How is the solar energy
+used to generate electricity in a solar power
+plant ?
+What is a solar cell ? State two uses of solar
+cells. State whether a solar cell produces a.c.
+or d.c. Give one disadvantage of using a solar
+cell.
+
+State two advantages and two limitations of
+producing electricity from solar energy.
+
+What is wind energy ? How is wind energy used
+to produce electricity? How much electric power
+is generated in India using the wind energy ?
+State two advantages and two limitations of
+using wind energy for generating electricity.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+21.
+
+22.
+
+What is hydro energy ? Explain the principle
+of generating electricity from hydro energy.
+How much hydro electric power is generated
+in India ?
+
+State two advantages and two disadvantages of
+producing hydro electricity.
+
+What is nuclear energy ? Name the process used
+for producing electricity using the nuclear
+energy.
+
+What percentage of total electrical power
+generated in India is obtained from nuclear
+power plants ? Name two places in India where
+electricity is generated from nuclear power
+plants.
+
+State two advantages and two disadvantages of
+using nuclear energy for producing electricity.
+
+State the energy transformation in the following :
+(i) electricity is obtained from solar energy.
+(ii) electricity is obtained from wind energy.
+
+(iii) electricity is obtained from hydro energy.
+(iv) electricity is obtained from nuclear energy.
+State four ways for the judicious use of energy.
+
+What do you mean by degradation of energy ?
+Explain it by taking two examples of your daily
+life.
+
+The conversion of part of energy into an unuseful
+
+form of energy is called ............ .
+Ans. Degradation of energy
+
+Multiple choice type
+
+1.
+
+The ultimate source of energy is :
+(a) wood (b) wind
+
+(c) water (d) sun.
+Renewable source of energy is :
+(a) coal (b) fossil fuels
+
+(c) natural gas (d) sun. Ans. (d) sun
+
+Ans. (d) sun
+
+(D) GREEN HOUSE EFFECT AND GLOBAL WARMING
+
+6.18 GREEN HOUSE EFFECT
+
+house effect. Jt is the process of warming of
+
+In 1824, Joseph Fourier discovered the green
+
+planet's surface and its lower atmosphere by
+absorption of infrared radiations of long
+
+wavelength emitted out from the surface of
+planet.
+
+The solar radiations coming from sun have
+
+high energy radiations such as gamma rays,
+X-rays, ultra-violet rays and low energy radiations
+
+135
+
+
+--- Page 18 ---
+such as visible light, infrared radiation and radio
+waves. Our earth's atmosphere is transparent only
+for visible light and infrared radiation of short
+wavelength. Gamma rays, X-rays, ultraviolet rays
+are absorbed by the ozone layer surrounding the
+earth while infrared radiation of long wavelength
+and radio waves are reflected back into the space
+by the uppermost layer of earth's atmosphere i.e.,
+ionosphere and the polar ice-caps.
+
+The solar radiations which travel through the
+atmosphere of the earth, are absorbed by the
+clouds, earth's surface and sea water due to which
+earth's surface gets heated up. Now earth's surface
+radiates infrared radiations of long wavelength.
+For these radiations, the earth's atmosphere is
+opaque, so they are reflected back by the clouds
+and are absorbed by the gases present above the
+earth's surface Thus the clouds and gases prevent
+the long wavelength infrared radiation from
+escaping into the space, and keeps the earth's
+surface warm. Fig. 6.13 shows the green house
+effect.
+
+Radio waves and infrared
+radiations of long wavelength from the sun
+
+Visible light
+and infrared
+radiations of
+short
+wavelength
+
+Earth's
+
+Infrared radiations atmosphere
+
+of long wavelength
+
+Earth's surface
+Fig. 6.13 Green house effect
+
+The gases which are the good absorber of
+long wavelength infrared radiation are called the
+green house gases. They are : carbon dioxide, water
+vapours, methane and chlorofluorocarbons. These
+gases contribute in trapping the heat energy within
+the atmosphere. The naturally occuring green
+house gases have an average warming effect of
+nearly 33°C so that the average temperature on
+earth's surface is about 15-5°C (or 60°F). In
+absence of the green house gases in atmosphere,
+entire heat energy radiated from the earth's surface
+and objects on it, would escape out into the space
+and then the average temperature on earth would
+
+be —18°C (or O°F) instead of being 15-5°C (or
+60°F). On the other hand, if there is an increase in
+proportion of green house gases in atmosphere,
+the average temperature on earth will rise and it
+will be above 15-5°C (or 60°F).
+
+Future projections : In the recent decades,
+it has been observed that the effective
+temperature of earth’s surface has risen by
+0-74 + 0-18°C per decade for the last 50 years
+since 1900. The rate of increase is 2-5°C per
+decade (nearly three times since 1970) and since
+2000, it is much more. So it is expected that by
+the end of this century, the earth’s temperature
+will rise up to 64°C. The reason for this is the
+increase in the proportion of the green house
+gases present in the earth’s atmosphere. Due to
+their increase, more heat radiations radiated from
+the earth’s surface are trapped in its atompshere.
+It is believed that the human activities are
+responsible for the increase in the green house
+gas namely the carbon dioxide in the earth’s
+atmosphere. The main human activities
+responsible for increase of the carbon dioxide
+gas are given below:
+
+(i) The burning of fuels, deforestation,
+transportation and industrial production
+(particularly cement factories).
+
+Increase of population (human beings emit
+nearly 32 giga tonnes of carbon dioxide
+each year).
+
+Imbalance of carbon dioxide cycle (the
+ocean does not absorb full amount of
+carbon dioxide and the vegetables are not
+able to change all the carbon dioxide into
+oxygen).
+
+The increase in the concentration of carbon
+dioxide due to above human activities is
+responsible for 60% increase in green house
+effect. Apart from this, rice cultivation, animal
+husbandry, natural gas exploration, burning of
+bio-mass in clearing of forests and leakage in
+natural gas pipe line has doubled the
+concentration of methane which is also
+responsible for the increase in green house effect.
+
+Thus, the increase in green house gases in
+the atmosphere enhances the green house effect
+and this causes the global warming.
+
+(ii)
+
+(111)
+
+136
+
+
+--- Page 19 ---
+6.19 GLOBAL WARMING
+
+Global warming means the increase in
+average effective temperature near the earth's
+surface due to an increase in the amount of
+green house gases in its atmosphere.
+
+Our earth gets heated up due to absorption
+of visible and short wavelength infrared radiations
+received from the sun. The green house gases,
+namely the carbon dioxide, water vapours,
+methane and chlorofluorocarbons, trap the
+infrared radiations of long wavelength emitted
+from the earth's surface and thus keep the earth's
+surface warm at an average temperature of
+15-5°C. It has been observed in recent decades
+that over a period of 50 years in the 20th century,
+the average temperature of earth's atmosphere has
+risen at a rate of 0-74 + 0-18°C per decade. Now
+the rate of increase of temperature of earth's
+atmosphere is much more and it is expected that
+the earth's average temperature will reach to 64°C
+by the year 2100. An increase in average
+temperature of the earth implies an increase in the
+amount of green house gases present in its
+atmosphere so that they could trap more heat
+radiated from the earth's surface. It is believed
+that the human activities such as burning of fossil
+fuels, industrial growth, clearing of forests, use of
+automobiles etc., have played a significant role in
+increasing the green house gases (particularly
+carbon dioxide) in the earth atmosphere.
+
+Cause of global warming : The cause of
+global warming is the increase in concentration
+of green house gases present in the atmosphere
+of earth due to human activities. The increase
+in different green house gases is as follows :
+
+(i) The concentration of carbon dioxide has
+increased up to 25% due to industrial
+growth, combustion of fossil fuels,
+clearing of forests etc.
+
+(ii) The concentration of methane has doubled
+due to agricultural sources such as rice
+cultivation and animal husbandry, natural
+gas exploration, burning of biomass,
+clearing of forests and leakage in natural
+gas pipe lines.
+
+(iii) The concentration of chlorofluorocarbons
+has increased at a rate of 5% per year.
+
+Thus increase in green house gases in
+atmosphere enhances the green house effect and
+hence causes global warming.
+
+Impacts of global warming on life on the
+earth :
+
+The increase in proportion of green house
+gases in the atmosphere has the following impacts
+on the life on earth :
+
+(1) The variable changes in the climate in
+different parts of the world which has
+created difficulties and forced the people and
+animals to migrate from one place to the
+other.
+
+The change in blooming season of
+different plants.
+
+The change in regional climate which has
+an immediate effect on simple organisms
+and plants.
+
+(4) The change in the world’s ecology.
+
+(5) The increase in the heat stroke deaths.
+
+Future predictions : With the present rate
+of increase of green house effect and global
+warming, it is predicted that the average
+temperature of earth’s surface will become 64°C
+by the end of the year 2100. Although it is not
+possible to make very accurate predictions on
+its impact for the future, but still looking at the
+changes in some natural phenomenon which we
+are facing now, following predictions can be
+made.
+
+(2)
+
+(3)
+
+(1) Dislocation and disappearance of
+plant and animal species : At the present rate
+of increase of green house effect, it is expected
+that nearly 30% of the plant and animal species
+will vanish by the year 2050 and up to 70% by
+the end of the year 2100. This will disrupt
+ecosystem. The animals from the equatorial
+region will shift to higher latitude in search of
+ice and cold region. The absorption of carbon
+dioxide by ocean will cause acidification due to
+which marine species will migrate.
+
+(2) Warming of ocean : The temperature of
+ocean water will increase due to which many
+species in the ocean will either die or they will
+disappear, while various other species which
+prefer warm water will increase tremendously.
+
+137
+
+
+--- Page 20 ---
+(3) Melting of glacier : Due to global
+warming, the frozen tundra in Siberia has started
+melting. Greenland has experienced 32 glacial
+earth quakes in one year. The Arctic snow cover
+is expected to be ice-free by the end of September
+2037. The global average sea level has risen at a
+rate of 3-1 mm per year. This rate of rise is
+expected to increase in future. It is also expected
+that the amount of oxygen dissolved in ocean will
+decrease which will have adverse effect on the
+marine life.
+
+(4) Shift in farming region : In the near
+future, warming of nearly 3°C will result in poor
+yield in farms in low latitude regions and will
+increase the rise of malnutrition. The crop yield
+is expected to increase in middle and high latitude
+regions. Therefore farmers will have to shift their
+farming region from low latitude to high latitude.
+
+(5) Increase in new diseases and heat
+related deaths : Due to global warming, many
+new diseases will emerge because bacteria can
+survive better in increased temperature and they
+can multiply faster. It will extend the distribution
+of mosquitoes due to increase in humidity levels
+and their frequent growth in warmer atmosphere.
+This will result in increase of many new diseases.
+Apart from it, the deaths due to heat stroke will
+also increase.
+
+(6) Change in regional climate : It is
+expected that the warming over land will increase
+and it will be maximum at high northern latitudes
+while minimum over the southern ocean. The
+frequency of hot extremes, heat waves and heavy
+precipitation will also increase.
+
+(7) Variable changes in the climate : The
+variable changes in the climate will result in
+increase in the number of people suffering from
+death diseases and injuries from floods, storms
+and droughts.
+
+(8) Increase in cost of air conditioning : Due
+to warming effect, the cost of air conditioning will
+increase as it will consume more electric energy.
+
+(9) Change in sea level : Due to melting of
+ice, the area of sea ice around both the poles is
+shrinking. It is expected that in the next 50 years,
+the ice at both the poles will melt completely and
+therefore the sea level will rise. Buildings and
+
+roads in the coastal areas will get flooded and they
+could suffer damage from hurricans and tropical
+storms.
+
+6.20 WAYS TO MINIMISE THE IMPACT
+OF GLOBAL WARMING
+
+To minimise the impact of global warming,
+following three main measures must be taken :
+(1) Technological measures, (2) Economic
+measures and (3) Policy measures. These
+measures are inter-related and must be taken
+simultaneously.
+
+(1) Technological measures
+
+The economic growth and population growth,
+each increases consumption of fuel and hence
+both are responsible for the release of green house
+gases. We need to check them and use the
+following three technological measures :
+
+(a) Use of renewable sources of energy
+to generate electricity in place of generating
+electricity from the fossil fuels based power
+plants, (b) Change of transportation vehicles, and
+(c) Use of bio-char stoves for cooking.
+
+(a) Use of renewable sources of energy for
+generation of electricity in place of electricity
+from the fossil fuel based power plants : The
+fossil fuel based power plants are the main
+source of generation of the green house gases.
+They produce nearly 21-3% of the total green
+house gases. Therefore alternate energy sources
+such as wind energy, solar energy, tidal energy,
+geo thermal energy, etc. must be used to generate
+electricity in place of fossil fuel based power
+plants. The fossil fuel based power plants must
+be banned.
+
+(b) Change of transportation vehicles :
+Vehicles such as lorry, truck etc. that are
+presently in use for transportation are run by the
+internal combustion engine and they contribute
+nearly 14% of the total green house gas
+emission. Such vehicles must be switched to
+battery operated vehicles which will reduce
+carbon dioxide emission drastically. For charging
+the battery, electricity generated from renewable
+sources must be used. Further the vehicles must
+be used at their full capacity and the size of
+vehicles must be reduced.
+
+138
+
+
+--- Page 21 ---
+(c) Use of bio-char stoves for cooking : In
+developing countries, bio-mass is mostly used for
+cooking which also contributes significantly in the
+increase of green house gases. For burning the
+bio-mass, new technology must be used to burn
+it in absence of air in a specially constructed stove
+known as bio-char stove. It will release the
+smokeless combustible gases methane and
+hydrogen, leaving a charcoal residue which can
+be buried in soil.
+
+(2) Economic measures
+
+The industrial growth and deforestation for
+population growth have caused the increase in
+green house effect. To check them, following two
+economic measures are needed : (a) Reforestation
+and sustainable use of land, and (b) Industries to
+pay carbon tax.
+
+(a) Reforestation and sustainable use of
+land : In developing countries, the pressure of
+population and industrial growth has resulted in
+unsustainable agricultural practices which are
+responsible for 90% of deforestation. These
+countries must be asked to reforest and maintain
+forest habitats. Their loss must be verified by
+satellite imaging before compensating them by
+the international agencies.
+
+(b) Industries to pay carbon tax : Since
+industries emit carbon dioxide to a good extent,
+so to check them, they must be asked to pay
+carbon tax. This tax can be calculated on the basis
+of carbon emission from the industry, number of
+employee hour and turn over of the industry. This
+will encourage the industry to use the energy
+efficient offices and to avoid the travelling of its
+employees by having tele-conferencing.
+
+(3) Policy measures
+
+To check global warming, Government must
+
+take the following two policy measures :
+(a) Educating children to live sustainable life style,
+and (b) Controlling population through family
+planning, welfare reforms and the empowerment of
+women.
+
+(a) Educating children to live sustainable
+life style : We need to educate children that
+genuine happiness lies in a less competitive and
+more cooperative society. Consuming more and
+buying more must not be the aim of life. For a
+sustainable life, we must make full use of what
+we have. The materialistic gain gives a temporary
+pleasure.
+
+(b) Controlling population through family
+planning, welfare reforms and_ the
+empowerment of women : The world population
+is expected to increase from 7-1 billion in the year
+2012 to 9-15 billion by the year 2050 with most
+of the growth taking place in the developing
+countries. This needs to be controlled. Population
+growth can be controlled through various
+measures such as (i) free and easy access to family
+planning, (ii) welfare provisions to encourage
+smaller families, and (iii) the empowerment of
+women through education and freedom to choose
+their future career (because the educated women
+are more conscious about family planning due to
+their career commitments).
+
+Recently in ‘the 21st yearly 2015 United
+Nations Climate Change conference CUP21/
+CMP11’ held in Paris from November 30 to
+December 12, 2015 each nation has expressed a
+deep concern on the present rate of increase of
+green house gases and it is committed to limit the
+global warming to below 2-0°C compared to
+pre-industrial level by the year 2100 for which a
+goal of zero carbon emission is to be achieved
+between 2030 to 2050.
+
+' J. What do you mean by green house effect ?
+2. Name three green house gases.
+
+3. Which of the following solar radiations pass
+through the atmosphere of the earth :
+
+X-rays, ultraviolet rays, visible light rays, infrared
+radiation.
+Ans. Visible light rays and infrared radiation
+
+4. Name the radiation which are absorbed by the
+
+green house gases.
+Ans. Infrared radiation of long wavelength
+
+5. What results in the increase of carbon dioxide
+contents of earth's atmosphere ?
+
+6. What would have been the temperature of earth's
+atmosphere in absence of green house gases in
+it? :
+
+139
+
+
+--- Page 22 ---
+12.
+
+13.
+14.
+15.
+
+16.
+
+. State the effect of green house gases on the
+
+temperature of earth's atmosphere.
+
+. What do you mean by global warming ?
+
+. What causes the rise in atmospheric temperature ?
+. State the cause of increase of green house effect.
+. What will be the effect of global warming at the
+
+poles ?
+
+State the effect of global warming in coastal
+regions.
+
+How will global warming affect the sea level.
+How will global warming affect the agriculture ?
+State two ways to minimise the impact of global
+warming.
+
+What is carbon tax ? Who will pay it ?
+
+Multiple choice type :
+
+I.
+
+The green house gas is :
+(b) nitrogen
+(d) carbon dioxide.
+Ans. (d) carbon dioxide
+
+(a) oxygen
+(c) chlorine
+
+The increase of carbon dioxide gas in
+atmosphere will cause :
+(a) decrease in temperature
+(b) increase in temperature
+(c) no change in temperature
+(d) increase in humidity.
+Ans. (b) increase in temperature
+Without green house effect, the average
+
+temperature of earth’s surface would have
+been :
+
+(a) -18°C (b) 33°C
+(c) 0°C (d) 15°C
+Ans, (a) —18°C
+
+. The global warming has resulted in :
+
+(a) the increase in yield of crops
+(b) the decrease in sea levels
+(c) the decrease in human deaths
+(d) the increase in sea levels.
+Ans. (d) the increase in sea levels.
+

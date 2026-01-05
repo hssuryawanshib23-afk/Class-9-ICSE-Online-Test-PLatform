@@ -1,0 +1,2808 @@
+
+
+--- Page 1 ---
+WN
+
+BONDING
+
+S
+
+ATOMIC STRUCTURE AND CHEMICAL
+
+SYLLABUS
+(i) Structure of an Atom mass number and atomic number, Isotopes and Octet Rule
+
+¢ Definition of an atom;
+
+* Constituents of an atom — nucleus (protons, neutrons) with associated electrons; mass number, atomic
+
+number.
+
+¢ Electron distribution in the orbits — 2n? rule. Octet rule. Reason for chemical activity of an atom.
+¢ Definition and examples of isotopes (hydrogen, carbon, chlorine).
+(ii) _Electrovalent and covalent bonding. Structures of various compounds — orbit structure.
+
+(a) Electrovalent bond
+NaCl, MgCi,, CaO
+
+: © Definition « Atomic orbit structure for the formation of electrovalent compounds
+
+(b) Covalent bond: ¢ Definition « Atomic orbit structure for the formation of covalent molecules on the basis
+of duplet and octet of electrons (examples: hydrogen, chlorine, oxygen, nitrogen, hydrogen chloride,
+water, ammonia, carbon tetrachloride, methane).
+
+INTRODUCTION
+Many attempts have been made to know as to what
+is the ultimate particle of matter. The idea of the smallest
+unit of matter was first given by Maharshi Kanada in
+the 6th Century B.C. in India. According to him, matter
+consisted of indestructible minute particles called
+paramanus (param means ultimate and anu means
+particle) now called atoms”. A paramanu does not exist
+in free state, rather it combines with other paramanus
+to form a bigger particle called anu (now known as a
+molecule). There are different types of paramanus. Each
+one of them exhibits specific properties.
+The Greek philosopher Democritus (460 B.C.
+— 370 B.C.) called the paramanu an “atom”, which
+comes from the Greek word, meaning indivisible. But
+the first scientific theory about the structure of matter
+was given by John Dalton (in 1808). It considered
+atoms as indivisible particles that are the fundamental
+building blocks of matter. The existence of different
+types of matter is considered to be due to different
+types of atoms constituting them.
+The main postulates of Dalton’s atomic theory are:
+1. Matter consists of very small and indivisible
+particles called atoms.
+2. Atoms can neither be created nor be destroyed.
+3. The atoms of an element are alike in all respects
+but they differ from the atoms of other elements.
+4. Atoms of an element combine in small numbers
+to form molecules.
+
+5. Atoms of one element combine with atoms of
+another element in a simple ratio to form
+molecules of compounds.
+
+6. Atoms are the smallest units of matter that can take
+part in a chemical reaction.
+
+Note : The latest research on atoms has proved that
+most of the postulates of Dalton’s atomic theory are
+
+incorrect except that atoms take part in chemical
+reactions.
+
+One of the first indications that atoms consist of
+subatomic particles, i.e. they are made up of charged
+particles has been put forward by the studies of static
+electricity* and the conditions under which
+electricity is conducted by different substances. In
+1833, Faraday showed that the flow of electricity is
+due to the flow of charged particles. GJ. Stoney (in
+1874) first suggested the name electron for this
+electrical particle. However, it was J. J. Thomson who
+showed the existence of these charged particles and
+thus discovered electrons, negatively charged
+particles. E. Goldstein, a German scientist discovered
+protons, positively charged particles in atom. Later
+on, James Chadwick discovered neutrons. The
+electrons, protons and neutrons are called the
+fundamental particles of an atom. These particles are
+the building blocks of all atoms of an element.
+
+* Electrification of objects by rubbing with each other is
+called static electricity or frictional electricity.
+
+
+--- Page 2 ---
+4.1 DEFINITION OF AN ELEMENT
+
+An element is a substance which is made up
+of only one type of atoms.
+
+Element is a pure substance that can neither
+be decomposed into, nor formed from simple
+
+substances by ordinary physical or chemical
+methods. .
+
+For example : Carbon is an element because it
+cannot be split up into two or more simpler
+substances by ordinary methods like heating, breaking
+or passing electricity.
+
+Note : Radioactivity* the processes of radioactive
+decay and high energy nuclear reaction can transfer
+one elementary substance into another.
+
+4.2 DEFINITION OF AN ATOM
+
+“An atom is the smallest particle of an element
+that exhibits all the properties of that element. It may
+or may not exist independently but takes part in every
+chemical reaction.
+
+Example : Take a small piece of zinc and
+grind it into smaller pieces. All these pieces show
+properties of zinc. On grinding them further they
+break up into very fine particles which still show
+the properties of zinc. But, there comes a stage
+when the particles cannot be further subdivided
+into particles exhibiting properties of zinc. These
+indivisible particles are the atoms of zinc.
+
+“In other words an atom is the smallest possible
+unit of an element”.
+
+4.3, CONSTITUENTS OF AN ATOM
+Discovery of electrons
+
+William Crooke, a British scientist, noted that
+gases are ordinarily poor conductors of electricity.
+However, when a high voltage (10,000 volts)
+charge from an induction coil is applied to tubes
+filled with gases at very low pressure (0.01 mm Hg),
+the gases become good conductors of electricity
+and begin to flow from cathode to anode in the
+form of rays. Since these rays originate from the
+negative plate, i.e. the cathode and travel from
+the cathode towards the anode, they are called
+cathode rays.
+
+* The phenomenon due to which certain elements spontaneously
+emit highly penetrating rays called radiation.
+
+Later J.J. ‘Uhomson Studied the characteristics
+and the constituents of cathode rays. The apparatus
+used by him is called a discharge tube or a
+cathode ray tube shown in Fig. 4.1.
+
+PRESSURE 0-01 mm OF MERCURY
+CATHODE RAYS
+
+TO VACUUM
+PUMP
+
+INDUCTION COIL
+
+Fig. 4.1 Discharge tube with flowing electrons
+
+A discharge tube is a hard glass tube fitted with
+two metal plates known as electrodes, one of which
+is connected to the positive terminal of battery and
+is called anode (positive electrode) while the other
+electrode which is connected to the negative terminal
+of the battery is called cathode (negative electrode).
+It has a side tube through which gas can be pumped
+out by using a vacuum pump to create vacuum.
+
+When electrical discharge of 10,000 volts
+is passed through gases at very low pressures
+(0-01 mm), cathode rays are produced.
+
+Properties of Cathode Rays
+
+1. They travel from the cathode to the anode in
+straight lines.
+
+2. They cause a greenish yellow fluorescence on
+a soda-glass screen placed in the tube.
+
+3. They are affected by electric field, i.e. they are
+inflected towards the positive field and
+deflected from the negative field. This shows
+that they carry negative charge. (Fig. 4.2).
+
+NEGATIVELY CHARGED PLATE
+
+INDUCTION COIL
+Fig. 4.2 Deflection of cathode rays.
+
+
+--- Page 3 ---
+4. When a beam of cathode rays is made to fall
+upon hard metallic targets like tungsten, X-rays
+are produced.
+
+5. They penetrate through matter.
+
+6. They cause ionization of the gas through which
+they pass. )
+
+7. The ratio of the charge(e) to mass(m) of the
+particles constituting cathode rays remains the
+same (e/m = 1-76 x 10"! coulomb/kg) irrespective
+of the nature of the gas taken and of the metal
+forming the cathode.
+
+8. They produce the shadow of an opaque object
+placed in their path and make a light paddle wheel
+rotate.
+
+Thomson concluded that :
+(i) cathode rays consist of negatively charged
+
+particles, now called electrons.
+[The name ‘electron,’ meaning ‘atom of negative
+electricity,’ was given by Johnson Stoney].
+
+(ii) these negatively-charged particles are an integral
+part of all atoms.
+
+(iii) electrons have both definite mass and definite
+electric charge, both of which are independent
+of the nature of the gas in the discharge tube.
+
+Properties of Electrons
+
+1. Electrons from all sources are alike, having
+identical mass.
+
+2. They are a constituent part of all atoms.
+
+3. The mass of an electron is 1/1837 the mass of a
+hydrogen atom (or 9-108 x 10?! kg).
+
+4. An electron carries unit negative charge of
+magnitude —1-602 x 107’? coulombs.
+
+5. The electron is extremely small; its radius is less
+than 1 x 10-5 m.
+
+An electron may be defined as a subatomic particle
+having a unit negative charge and a mass equal to
+1/1837 of hydrogen atom. It is denoted by the
+symbol _,e°. The superscript 0 represents its mass and
+subscript —1 represents its electrical charge.
+Atoms are found to be electrically neutral, so
+they must contain, in addition, particles that are
+positively charged, such that the total negative
+charge of the electrons is equal to the total
+positive charge. This realization led to the discovery
+of positively charged subatomic particles protons.
+
+Note : When a high voltage current is passed
+through a gas taken in the discharge tube, electrical
+energy breaks up the atoms of the gas into
+negatively charged particles (electrons) and
+positively charged particles (protons) are formed
+by the removal of one or more electrons from
+the gaseous atoms.
+
+4.4. DISCOVERY OF PROTONS
+
+Goldstein noticed another set of rays travelling
+in a direction opposite to that of the cathode rays,
+i.e. from anode towards cathode, when a perforated
+cathode was used in the above discharge tube
+(shown in Fig. 4.3). He called these rays as canal
+rays since these rays passed through holes or
+‘canals’ in the cathode. These rays were named as
+positive rays or anode rays.
+
+POSITIVE
+RAYS
+
+CATHODE
+RAYS
+
+ANODE
+
+PERFORATED
+CATHODE
+
+Fig. 4.3 Production of anode rays
+
+Properties of Anode Rays
+1. Anode rays travel in a straight line.
+
+2. They consist of minute material particles and
+hence produce mechanical effects.
+
+3. They are made up of positively charged
+particles.
+
+4. Positive rays are deflected by electric and
+magnetic fields but in a direction opposite to
+that of the cathode rays. This means that
+these rays consist of positively charged
+particles called the protons.
+
+5. These rays produce fluorescence on a zinc
+sulphide screen.
+
+6. Their e/m i.e. charge to mass ratio, differs from
+gas to gas. Its value is much less than that of
+an electron and is maximum when hydrogen is
+taken in the discharge tube.
+
+
+--- Page 4 ---
+Proton may be defined as a subatomic
+particle having mass 1 amu, i.e. equal to
+hydrogen atom and has unit positive charge.
+
+It is denoted as _,P', the superscript 1
+represents its mass 1 amu and the subscript +1
+represents one unit positive charge.
+
+Proton is formed by the loss of an electron
+from a hydrogen atom.
+
+H - e&
+(hydrogen atom)
+
+—> HH
+(proton)
+
+Properties of Protons
+
+1. A proton possesses a unit positive charge +1
+(plus one) of the value 1-602 x 10° coulombs.
+
+2. Its mass is the same as that of a hydrogen
+atom (1 a.m.u., i.e., 1837 times the mass of an
+electron, which is 1-672 x 10-4 g).
+
+3. The proton resides in the central part of an
+atom, i.e. in the nucleus.
+
+After the discovery of electrons and protons
+J.J. Thomson proposed ‘plum pudding’ model of
+the atom.
+
+According to this model :
+
+1. An atom is considered to be a sphere of
+
+uniform positive charge and electrons are
+embedded into it.
+
+2. The total positive charge is equal to the total
+negative charge so that an atom as a whole is
+electrically neutral.
+
+3. The mass of an atom is considered to be
+uniformly distributed.
+
+©
+olen
+5 O°
+
+SPHERE OF
+UNIFORM
+POSITIVE
+
+CHARGE
+
+ELECTRONS
+
+Fig. 4.4 J.J. Thomson’s plum-pudding model
+of the atom.
+
+4.55 DISCOVERY OF NUCLEUS
+
+In 1911, Lord Rutherford, a scientist from
+New Zealand, directed a stream of alpha-particles*
+
+* An a-particle is a doubly charged helium ion He?t, containing
+two protons and two neutrons. It is formed by removing 2 electrons
+from helium atom.
+
+towards a very thin (one millionth of a centimetre)
+gold foil. He selected a gold foil because he wanted
+as thin a layer as possible and gold is the most
+malleable metal.
+
+He observed that :
+
+(1) Most of the alpha particles passed straight
+through the foil.
+
+(2) Some alpha particles were slightly
+deflected from their straight path.
+
+(3) Very few (nearly one in ten thousand)
+alpha particles were either deflected by
+very large angles or completely bounced
+back.
+
+POSITIVELY CHARGED NUCLEUS
+
+DEFLECTED &-PARTICLE
+
+BEAM OF ALPHA PARTICLES
+
+GOLD LEAF
+SCREEN
+
+Fig. 4.5 Deflection of a particle by a gold leaf.
+1. bounced back: 2. deflected slightly; 3. straight through
+
+Later, Rutherford generalised these results
+of alpha particles scattering experiment and
+suggested a model of the atom that is known as
+Rutherford’s Atomic Model.
+
+Note : Heavy metals such as platinum will
+show the same observation with alpha (a) particles
+as shown by gold foil, but if light nuclei like
+lithium is used then fast moving o-particles
+may even push the light nucleus aside and may not
+be deflected back.
+
+
+
+--- Page 5 ---
+4.5.1 Rutherford’s atomic model
+According to this model :
+
+1.
+
+nN
+
+The atom contains a large empty space (extra-
+nuclear space). This is why most of the
+Q-particles pass through the metal foil without
+deviating from their path.
+
+. There is a positively charged mass at the
+
+centre of the atom, known as the nucleus, in
+which the entire mass of the atom is
+concentrated. Therefore, the nucleus is the
+densest part of the atom. The electrically
+positive nature of the nucleus is supported by
+the fact that the positively charged o-particles
+approaching the nucleus get deflected. This
+proved that the nucleus contained protons.
+
+. The size of the nucleus is very small
+
+compared to the size of an atom. This is
+proved by the fact that most of the o-particles
+pass straight through the gold foil.
+
+. The electrons revolve around the nucleus at
+
+large distances from each other and from
+nucleus (in circular orbits found in the empty
+space of the atom).
+
+. An atom as a whole is electrically neutral,
+
+because the total positive charge of the nucleus
+is balanced by the total negative charge of the
+electrons, i.e., the number of protons and
+electrons in an atom are equal.
+
+. Electrons revolve around the nucleus in
+
+close circular paths (ORBITS). The force
+of attraction between the negatively charged
+
+ELECTRONS
+
+Fig. 4.6 Rutherford’s model of the atom was somewhat
+like that of the solar system
+
+electrons and the positively charged nucleus is
+counter balanced by the centrifugal force
+acquired by the revolving electrons.
+
+Rutherford’s model of atomic structure is similar
+to the structure of the solar system. Just as in the solar
+system, the Sun is at the centre (having the maximum
+mass) and the planets revolve around it, similarly in
+an atom the nucleus contains the main mass and the
+electrons revolve around it in orbits or shells.
+
+4.5.2 Drawback of Rutherford’s atomic model
+
+The comparison of electrons with planets in
+the solar system is the main drawback of
+Rutherford’s atomic model. According to the
+classical laws of mechanics and electrodynamics, if
+an electrically charged particle is in motion, it
+inevitably radiates energy. Thus, an electron, when
+moving round the nucleus continually, should
+radiate energy, i.e. loses energy. As a result, it
+should be gradually pulled towards the nucleus and
+end up colliding with it. This should result in the
+total collapse of the atom (Fig. 4.7).
+
+NEGATIVELY CHARGED
+ELECTRON
+
+POSITIVELY CHARGED
+NUCLEUS
+
+Fig. 4.7 Showing an atom losing energy
+
+If it was so, the atom should be highly
+unstable and hence matter would not exist in the
+form that we know. However, we know that an
+atom is structurally stable.
+
+Thus Rutherford’s model failed to explain
+the stability of an atom.
+
+4.6 BOHR’S ATOMIC MODEL
+
+In 1913, Niels Bohr, a Danish physicist,
+explained the causes of the stability of the atom in
+a different manner.
+
+Main postulates of Bohr’s atomic model
+(1) The electrons revolving around the nucleus are
+
+confined to certain fixed orbits called shells or
+
+
+--- Page 6 ---
+energy levels, each of which is associated with
+a fixed amount of energy.
+
+(2) While it is revolving around the nucleus in an
+orbit, an electron neither loses nor gains energy.
+
+(3) An electron revolving in a particular orbit, on
+gaining a certain amount of energy, jumps to
+the next orbit and vice versa. Since each orbit
+is associated with a fixed amount of energy,
+Bohr called it an energy level.
+
+For convenience, these energy levels are labelled
+K, L, M, N or I, I, III, IV, etc. The orbit closest to
+the nucleus is the K shell. It has the least amount of
+energy and the electrons present in it are called K
+electrons, and so on with the successive shells and
+their electrons.
+
+Third energy level (M shell)
+
+223
+you w
+
+op BAD
+
+Second energy level (L shell)
+
+=
+
+First energy level (K shell)
+
+2
+om
+
+Nucleus
+
+7
+
+VOZZOA
+
+Fig. 4.8 Energy levels around the nucleus of
+an atom : Bohr’s Model.
+4.7 DISCOVERY OF NEUTRONS
+By now we know that an atom contains
+electrons and protons, and that the atomic mass of
+an electron is negligible. Therefore, an atom of
+helium, which contains 2 protons should have a
+mass = 2 x | a.m.u. = 2 a.m.u.
+
+But the atomic mass of a helium atom was found
+to be approximately 4-0 a.m.u. It was, therefore,
+
+proposed that, in the nucleus of an atom, there
+must be another particle. This particle should not
+possess any electrical charge and must be equal in
+mass to the proton.
+
+In 1932 Chadwick discovered these particles
+by bombarding light nuclei like beryllium with
+*alpha (a) particles i.e. helium nuclei.
+
+Be? + ,He* (a) > .C? + gn!
+(neutron)
+
+These particles are found to be neutral, so
+
+named neutrons.
+
+4
+
+A neutron is a sub-atomic particle or fundamental
+particle of an atom with no charge and mass
+almost equal to the mass of the proton i.e.
+
+hydrogen atom. Neutron is denoted by gn!. The
+superscript 1 represents its mass and subscript 0
+represents its electrical charge.
+
+Properties of Neutrons
+1. This particle was not found to be deflected by
+any magnetic or electric field, proving that it
+is electrically neutral.
+2.Its mass is equal to 1-676 x 10-4 g (1 amu).
+
+After the discovery of electrons, protons and
+
+neutrons (subatomic particles) it was found that
+
+all atoms have a similar following basic structure.
+
+¢ Electrons are negatively charged particles that
+are found outside the nucleus.
+
+¢ Protons are positively charged particles that
+are found in the nucleus of an atom.
+
+¢ Neutrons are electrically neutral particles that
+are also found in the nucleus. Neutrons are
+
+slightly heavier than protons.
+
+Table 4.1 : Comparison of Dalton’s atomic theory with the modern atomic theory
+
+Modern atomic thor
+
+(i) Atoms are indivisible particles.
+
+(ii) Atoms can neither be created nor destroyed.
+
+(iii) The atoms of an element are alike in all respects,
+but they differ from the atoms of other elements.
+
+(iv) Atoms follow the laws of chemical combination
+to form compounds.
+
+Atoms are divisible into sub-atomic particles
+like protons, electrons and neutrons.
+
+Atoms can be created and destroyed by nuclear
+fusion and fission.
+
+The atoms of an element may not be alike in all
+respects, as is seen in the case of isotopes.
+
+In the formation of organic compounds, the laws of
+chemical combination are not always followed.
+
+* An alpha particle consists of two protons and two neutrons. It is same as Helium atom that has lost its both electrons.
+
+
+
+--- Page 7 ---
+EXCERCISE 4(A) :
+
+_
+
+. What is the contribution of the following in Atomic
+structure.
+(a) Maharshi Kanada
+
+. State Dalton’s atomic theory.
+
+. What is an o (alpha) particle ?
+
+What are cathode rays? How are these rays formed?
+
+. (a) What is the nature of charge on cathode rays ?
+(b) State the properties of cathode rays.
+
+. How are X-rays produced ?
+
+(b) Democritus
+
+Ak Wh
+
+. Why were anode rays also called as ‘canal rays’ ?
+How does cathode rays differ from anode rays ?
+
+© 0% DH
+
+. State one observation which shows that atom is not
+indivisible.
+10. (a) Name an element which does not contain neutron.
+(b) If an atom contains one electron and one proton, will
+it carry any charge or not ?
+11. On the basis of Thomson’s model of an atom, explain how
+an atom as a whole is neutral.
+
+12. Which sub-atomic particle was discovered by
+(a) Thomson (b) Goldstein (c) Chadwick.
+
+13. Name the sub-atomic particle whose charge is :
+
+(a) +1 (b) -1 (c) 0.
+
+14. (a) Which metal did Rutherford selected for his o particle
+scattering experiment and why ?
+
+(b) What do you think would be the observation of
+a-particle scattering experiment if carried out on
+(i) heavy nucleus like platinum (ii) light nuclei |
+like lithium.
+
+15. On the basis of Rutherford’s model of an atom, which
+subatomic particle is present in the nucleus of an atom ?
+
+16. Which part of atom was discovered by Rutherford.
+
+17. How was it shown that atom has empty space ?
+
+18. State one major drawback of Rutherford’s model.
+
+19. In the figure given alongside :
+
+(a) Name the shells denoted B
+by A, B and C. Which
+shell has least energy ?
+
+(b) Name X and state the
+charge on it.
+
+(c) The above sketch is of ............ model of an atom.
+
+x >
+
+20. Give the postulates of Bohr’s atomic model.
+
+4.8 ATOM — ITS STRUCTURE
+
+The atom is built up of a number of sub-atomic
+particles*. The three sub-atomic particles of great
+importance in understanding the structure of an atom
+are electrons, protons and neutrons, the properties of
+which are given in Table 4.2.
+
+Table 4.2 Properties of sub-atomic particles
+
+Particle Symbol - Charge mass mass
+(electronic unit)(amu) (grams)
+
+1/1840 9.1.x 10°78 g
+\Horpé +1 1 1.6 x 10° g
+
+1.6 x 10° g
+
+1. Electron _je°ore™ -1
+2. Proton
+
+3, Neutron jnorn 0
+
+There are two structural parts of an atom, the
+nucleus and the empty space in which there are
+imaginary paths called orbits.
+
+Orbits (electrons revolve
+in orbits or shells)
+
+Nucleus
+(contains protons and neutrons)
+
+Fig. 4.9 Showing structure of an atom
+
+* Modern theories about the atom include the existence of over
+200 subatomic particles such as positron, neutrino, etc.
+
+Nucleus The protons and neutrons
+[collectively called nucleons] are found in the
+central part or nucleus of the atom.
+
+Orbits : It is the imaginary path where electrons
+revolve around the nucleus of the atom.
+
+4.9 ATOMIC NUMBER [Z]
+
+« An atom of an element has its own
+characteristic number of protons in its nucleus,
+which distinguishes it from the atoms of other
+elements.
+
+¢ This characteristic number (number of protons)
+is called the atomic number of the element.
+
+¢ Atomic number is denoted by Z.
+
+¢ The atomic number is, therefore, equal to the
+number of electrons in the atom of an element
+as well, since in a neutral atom,
+
+no. of protons = no. of electrons.
+
+¢« Number of protons gives the total positive
+charge present in the nucleus of an atom.
+
+The atomic number of an element is the number of :
+
+* protons present in the nucleus of its atom.
+
+¢ electrons present in its neutral atom.
+
+* positive charge in the nucleus of its atom.
+
+
+
+--- Page 8 ---
+Symbolic representation of Element | Atomic Number (Z]
+
+X denotes the symbol of the element’
+Superscript A = Mass number
+Subscript Z = Atomic number
+
+4
+
+~. Z=pze
+
+Mass Number [A]
+
+¢ Mass number of an element is the total number
+of protons and neutrons present in its nucleus.
+Mass number is denoted by A.
+
+¢ Mass number, however, is a whole number
+approximation of the atomic mass calculated in
+atomic mass units.
+
+DISTRIBUTION OF ELECTRONS IN THE
+ORBITS — BOHR-BURY SCHEME
+
+Distribution of electrons in different shells is called |
+electronic configuration.
+
+Distribution of electrons into different shells
+(orbits) of an atom was suggested by Bohr and Bury.
+
+4.10
+
+The following rules are followed for writing
+the number of electrons in different energy levels
+or shells.
+
+1. The maximum possible number of electrons
+in a particular shell is given by the formula 2n?,
+where n denotes the serial number of that shell.
+
+First or K shell has (2 x 12) = 2 electrons
+Second or L shell has (2 x 22) = 8 electrons
+Third or M shell has (2 x 32) = 18 electrons
+Fourth or N shell has (2 x 42) = 32 electrons
+and so on.
+
+2. Electrons are not accomodated in a given shell,
+unless the inner shells are filled. In other words
+the shells are filled in stepwise manner.
+
+3. The outermost shell of an atom cannot
+accommodate more than 8 electrons, even if it
+has the capacity to accommodate more electrons.
+For example electronic arrangement in Calcium
+having 20 electrons is
+
+K L M N
+2 8 8 2
+
+Atomic number [Z]}
+
+{ = no. of protons [p]
+= no. of electrons {e]
+
+Mass Number [A]
+
+Mass number [A]
+= no. of neutrons (n] + no. of protons [p]
+
+~A=n+p
+[-: p=Z) -. no. of neutrons [n] = A - Z
+
+Atomic number [Z] =p =e = 17
+Mass number
+No. of neutrons ([n] =A-Z= 18
+
+[A] =n+p=35
+
+The maximum capacity of M shell is
+18 electrons but only 8 electrons are filled in it.
+This is due to the fact that the elements
+become stable only after acquiring 8 electrons
+in the outermost shell.
+
+4. The outermost shell of a chemically stable
+atom can accommodate a maximum of 8
+electrons, except Helium atom, which has only
+one shell, and can thus accommodate a
+maximum of 2 electrons only.
+
+Structure of Magnesium atom
+
+Magnesium has atomic
+number 12 and atomic mass 24.
+Hence its nucleus has 12 protons
+and (24 — 12) = 12 neutrons. It is
+surrounded by 12 electrons that Fig. 4.10 The structure
+are allotted to different shells as oF the magnesium atom
+follows.
+
+K shell or I shell = 2 electrons
+L shell or II shell = 8 electrons
+M shell or III shell = 2 electrons
+
+So its electronic configuration is 2, 8, 2.
+
+In lighter elements, up to argon (atomic number
+18), each inner shell is completely filled before any
+electron can occupy an outer shell. However, in
+elements heavier than argon, the situation changes.
+Although the third shell can accommodate up to
+18 electrons, yet the fourth shell begins to be filled
+after it has only 8 electrons.
+
+For example, potassium (atomic number 19)
+has 19 electrons. Its electronic configuration is :
+
+K L M N
+2 8 8 1
+
+
+--- Page 9 ---
+ORBITAL DIAGRAMS OF ATOMS OF THE FIRST TWENTY ELEMENTS
+
+Atom of Hydrogen |H
+
+Electronic Config. 1
+Valency = 1
+
+Atom of Boron '\B
+
+Electronic Config. 2,3
+Valency = 3
+
+Atom of Fluorine UF
+
+Electronic Config. 2,7
+Valency = —1
+
+Atom of Aluminium 7Al
+
+Fleet conn. 2,8,3
+
+Atom of Helium $He
+
+Electronic Config. 2
+
+Atom of Lithium {Li
+
+Electronic Config. 2,1
+Valency = 1
+
+Atom of Nitrogen ‘*N
+
+Electronic Config. 2,5
+Valency = -3
+
+Atom of Beryllium {Be
+
+Electronic Config. 2,2
+Valency = 2
+
+Atom of Oxygen ‘80
+
+8p
+8n
+
+Electronic Config. 2,6
+Valency = -2
+
+Atom of Carbon %C
+
+Electronic Config. 2,4
+Valency = 4
+
+Atom of Neon “Ne
+
+Electronic Config. 2,8
+Valency = 0
+
+Atom of Silicon “Si
+
+Electronic Config. 2,8,4
+Valency = 4
+
+Atom of Argon “Ar
+
+Atom of Sodium “Na _ |Atom of Magnesium “Mg
+
+Electronic Config. 2,8,1
+Valency = 1
+
+Electronic Config. 2,8,2
+Valency = 2
+
+Atom of Sulphur {{S
+
+Electronic Config. 2,8,6
+Valency = -2
+
+Atom of Phosphorus 4}P
+
+Electronic Config. 2,8,5
+Valency = -3
+
+Atom of Chlorine *Cl
+
+Electronic Config. 2,8,7
+Valency = —1
+
+Atom of Potassium 3K
+
+Electronic Config. 2,8,8,1
+Valency = 1
+
+Atom of Calclum $Ca
+
+©
+
+Electronic Config. 2,8,8,2
+Valency = 2
+
+Electronic Config. 2,8,8
+Valency = 0
+
+57
+
+
+
+--- Page 10 ---
+Main features of the structure of atoms :
+
+(i) Atoms of all the elements (except hydrogen) are made up of three fundamental (sub-atomic)
+particles: electrons, protons and neutrons. (Hydrogen atom lacks neutrons).
+
+(ii) The nucleus is located at the centre of the atom. It contains protons and neutrons, which account
+for the total mass of that atom.
+
+(iii) The nucleus is positively charged due to the presence of protons in it.
+
+(iv) The electrons are outside the nucleus and have negligible mass.
+
+(v) The number of electrons in an atom is equal to the number of protons in it, hence the atom is
+electrically neutral.
+
+(vi) The electrons revolve rapidly in fixed circular paths around the nucleus. These circular paths are
+called energy levels or shells or orbits.
+
+(vii) The atoms of different elements contain different numbers of electrons, protons and neutrons.
+
+Table 4.3 Arrangement of electrons in atoms of elements eee atomic number from 1 to 20
+
+Distribution | Distribution of Electrons Electrons oe at /
+Istor | 2ndor| 3rdor | 4thor
+K-shell | L-shell | M-shell | N-shell nn gas
+
+Hydrogen Non-metal
+Helium Noble gas
+
+Metal
+
+—
+
+Lithium
+
+Beryllium Metal
+Boron Non-metal (solid)
+Carbon Non-metal (solid)
+Nitrogen Non-metal (gas)
+Oxygen Non-metal (gas)
+
+Fluorine
+
+oO YN A WD & WwW WY
+
+Non-metal (gas)
+
+—_
+oO
+
+Neon Noble gas
+Metal (solid)
+Metal (solid)
+
+Metal (solid)
+
+—
+
+Sodium
+
+_
+N
+
+Magnesium
+
+—
+ww
+
+Aluminium
+
+—
+>
+
+Silicon Non-metal (solid)
+
+—_
+wa
+
+Phosphorus Non-metal (solid)
+
+—_
+n
+
+Sulphur Non-metal (solid)
+
+-_
+~
+
+Chlorine Non-metal (gas)
+
+—
+oo
+
+Argon Noble gas
+
+—
+‘Oo
+
+Potassium Metal (solid)
+
+2
+2
+2
+2
+2
+2
+2
+2
+2
+il 2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+
+co Cc Gao oO 06 #0 #08 068 O68 co©F © “SI DBD DA S&S WW WH
+o co Oo SN BD A SF WY NY
+
+Ne
+Qo
+
+Calcium Metal (solid)
+
+
+
+--- Page 11 ---
+EXCERCISE 4(B) |
+
+1. (a) Name the three fundamental particles of an atom. Give
+the symbol and charge of each particle.
+
+(b) Draw the orbital diagram of %Ca* ion and state the
+number of three fundamental particles present in it.
+
+2. Complete the table given below by identifying P, Q, R
+and S.
+
+3. The atom of an element is made up of 4 protons,
+5 neutrons and 4 electrons. What are its atomic number
+and mass number ?
+
+4. The atomic number and mass number of sodium are 11
+
+and 23 respectively. What information is conveyed by this
+statement?
+
+5. Write down the names of the particles represented by the
+following symbols and explain the meaning of superscript
+and subscript numbers attached.
+
+1 al 20
+1P > gM» _1€
+
+6. From the symbol *4Mg, state the mass number, the atomic
+number and electronic configuration of magnesium.
+
+7. Sulphur has an atomic number 16 and a mass of 32.
+
+State the number of protons and neutrons in the nucleus of
+sulphur. Give a simple diagram to show the arrangement
+of electrons in an atom of sulphur.
+
+8. Explain the rule according to which electrons are filled in
+various energy levels.
+
+9. Write down the electronic configuration of the following :
+
+(a) 7X (b) 7Y
+Write down the number of electrons in X and neutrons
+in Y.
+
+4.11 VALENCE ELECTRONS
+
+The outermost shell of an atom is called
+its valence shell, and the electrons present in the
+valence shell are known as valence electrons.
+
+Hydrogen has only one electron in its valence
+shell, hence it has one valence electron. Similarly,
+carbon has 4 electrons in the valence shell and so it
+has 4 valence electrons.
+
+The chemical properties of elements are
+decided by these valence electrons, since they
+are the ones that take part in chemical reactions.
+
+The elements with the same number of electrons
+in the valence shell show similar properties; those with
+different number of valence electrons show different
+chemical properties.
+
+Elements, which have valence electrons 1 or 2
+or 3 (except hydrogen), are metals.
+
+These elements can lose electrons to form ions*
+which are positively charged and are called CATIONS.
+
+eg. Na - e —- Nat
+2, 8, 1 2, 8
+
+* Anion is an electrically charged atom or group of atoms formed
+by loss or gain of electrons.
+
+@) " @)
+
+They are good reducing agents.
+
+Elements with 4 or 5 or 6 or 7 electrons in their
+valence shells are non-metals.
+
+These elements can gain electrons to form ions
+which are negatively charged and are called
+ANIONS.
+
+eg. Cl + e@&
+2, 8,7
+
+©} -©)
+
+They are good oxidising agents.
+
+> Ch
+2, 8,8
+
+
+--- Page 12 ---
+Elements with the valence shell having
+8 electrons, and helium with 2 electrons, cannot
+gain or loose electrons so they are chemically
+
+inactive and are called inert gases or noble gases.
+
+Valency of an element is the combining capacity
+of that element with other elements and is equal to the
+number of electrons that take part in a chemical reaction.
+
+Valency of the elements having 1, 2 or 3 valence
+electrons is 1, 2 or 3 respectively while valency of
+elements with 4, 5, 6 and 7 valence electrons is 4, 3,
+2 and | (8 minus valence electrons) respectively.
+4.12 REASON FOR CHEMICAL ACTIVITY OF
+
+AN ATOM
+
+Atoms of all noble gases (except Helium) have
+eight electrons in their outermost shell. This
+arrangement is known as OCTET (Table 4.4).
+
+Table 4.4. Electronic configuration of the
+inert or rare gases.
+
+gas No.
+He
+
+2
+
+Ne
+Ar
+Kr
+Xe
+Rn
+
+Among all the elements, only six inert gases
+(also called noble or rare gases), namely, Helium
+(He), Neon (Ne), Argon (Ar), Krypton (Kr), Xenon
+(Xe) and Radon (Rn), are non-reactive, i.e. inert. They
+do not combine with other atoms to form molecules,
+since their outermost shells are already filled. So their
+combining capacity or valency is zero.
+
+Helium has 2 electrons [duplet] in its shell (K
+shell), which can occupy a maximum of 2 electrons
+(according to the 2n’ rule). So it is a stable
+element, even though the 8-electron rule does not
+apply in its case.
+
+Thus the chemical activity of an atom depends
+upon the number of electrons in the valence shell of
+its atom. Chemically active atoms have an
+incomplete octet, i.e. less than 8 electrons or less than
+2 electrons (in case of hydrogen) in their valence
+shell. The valence electrons of atoms contribute to
+the formation of molecules.
+
+Miran’
+
+Why do atoms combine ?
+
+Kossel and Lewis, in 1916, independently put
+forward the octet theory of valency or the
+electronic theory of valency. According to
+them, the rare gases have a stable electronic
+configuration.
+
+The atoms of all elements, other than the inert
+gases, combine because they have incomplete
+
+valence shells and tend to attain a stable
+configuration.
+
+Elements tend to combine with one another to
+attain the stable electronic configuration of the nearest
+inert gas, i.e. 8 electrons in its valence shell. This is
+known as OCTET RULE. However, in the case of
+helium, valence shell has 2 electrons and this is known
+as DUPLET RULE.
+
+This is achieved either by gaining electrons or
+losing electrons or sharing of electrons with other
+atoms of same element or another element.
+
+The number of electrons gained, lost or shared to
+attain the octet in the outermost shell, gives the
+
+combining capacity of the element that is, its
+valency.
+
+As a result of this redistribution of electrons, a
+force of attraction develops between atoms, which
+binds them together to form molecules. This force
+is known as a chemical bond.
+
+A chemical bond may be defined as the force of
+
+attraction between the two atoms that binds them
+together as a unit called molecule.
+
+The chemical combination of atoms involves
+redistribution of electrons so as to leave each atom
+with a stable electronic configuration.
+
+4.13 ISOTOPES
+
+It is noticed that two atoms of the same element
+contain the same number of protons but they may
+differ in the number of neutrons. However, electrons,
+protons and neutrons are arranged in the same way and
+give the atoms identical chemical properties. An
+element showing similar chemical properties but
+possessing different mass is said to represent ISOTOPY
+and the varieties of the atom are called ISOTOPES.
+
+Isotopes may be defined as atoms of the same
+
+nnn
+
+
+--- Page 13 ---
+element having the same atomic number but
+different mass numbers.
+Examples of Isotopes
+
+Element Number of isotopes
+iH, (H, 7H
+
+ln Be MM,
+6©, 6C, 6©
+
+1. Hydrogen
+2. Carbon
+3. Chlorine
+4. Oxygen
+
+7c, 701
+16, 18
+30 , go
+
+; 30pr aly
+5. Potassium 9K» 1K
+
+Structures of the isotopes
+1. Hydrogen
+
+Hydrogen has three isotopes, namely protium,
+deuterium (or heavy hydrogen) and tritium, each
+having the same atomic number, i.e. 1 but different
+mass numbers, i.e. 1, 2 and 3 respectively. In other
+words, isotopes differ only in their number of
+neutrons. Thus, protium has no neutron, deuterium
+has one and tritium has two neutrons (Fig. 4.11). They
+
+are represented as |H and 7H and ?H respectively,
+in which the subscript denotes the atomic number and
+the superscript the mass number.
+
+Fig. 4.11 Isotopes of hydrogen
+
+1
+
+No. of electrons
+
+2. Carbon
+
+Carbon (atomic number 6) has three isotopes, of
+mass numbers 12, 13 and 14 respectively. These are
+
+12 13 14
+6 C 6 © 6 C
+Fig. 4.12 Structures of isotopes of carbon atoms.
+
+represented by the symbols ?C, @C and ?C
+respectively. (Fig. 4.12)
+
+3. Chlorine
+
+The two isotopes of chlorine, of mass numbers
+35 and 37 respectively, have the same atomic number
+(17), ie. the same number of protons and electrons.
+However, they differ only with respect to the number
+of neutrons contained in their respective nuclei. They
+are represented as }3Cl and //Cl. Isotope Cl
+
+has 35 — 17 = 18 neutrons, and isotope ;/ Cl has
+37 — 17 = 20 neutrons, (See Fig. 4.13).
+
+Cl
+
+na
+
+Fig. 4.13 Structures of isotopes of chlorine atoms.
+
+Properties of Isotopes
+Isotopes have similar chemical properties.
+
+Isotopes have the same atomic number (Z), ie.
+the same number of electrons and protons and hence
+the same electronic configuration. Chemical properties
+are determined by the electronic configuration of an
+atom. Thus, isotopes of an element are chemically
+alike. For example : The chlorine atom of mass
+number 37 undergoes the same reactions as the
+chlorine atom of mass number 35.
+
+Isotopes differ in few physical properties
+such as density, boiling point etc.
+
+Physical constants or physical properties
+depend on the atomic mass (mass number) and
+isotopes have different mass numbers (A) due to
+different number of neutrons.
+
+For example, the boiling point of protium (H})
+is 20-38 K and that of deuterium 7H) is 23-5 K.
+Thus, the higher the mass of the isotope of an
+element, the higher is the boiling point.
+
+Isotopes like tritium, carbon-14 illustrate
+another difference in physical properties that can
+occur between isotopes as they are radioactive. The
+extra neutrons in their nuclei cause them to be
+
+
+--- Page 14 ---
+unstable so the nuclei break up spontaneously
+emitting certain types of radiation. Thus carbon-14
+and tritium (7H) are known as radio-isotopes.
+
+The spontaneous decay of unstable
+radioisotopes is known as radioactivity.
+
+Uses of isotopes
+1. Isotope of cobalt 8°Co is used in radiotherapy
+for treating cancer and other diseases.
+2. 4c is used for determining the age of
+historical and geological material.
+
+3. An isotope of Uranium 735U is used as a fuel
+in nuclear reactors.
+
+4. An isotope of Iodine '3)I is used in the
+treatment of goitre.
+
+Fractional atomic masses
+
+An atom can have a fractional atomic mass. For
+example, the atomic mass of chlorine is 35-5. The
+reason for fractional atomic mass is that the atomic
+mass of an element represents the weighted average
+
+of all the naturally occurring isotopes of that
+element.
+
+For example, any natural sample of chlorine
+contains 75% of Cl and 25% #7Cl, ie. these
+isotopes are in the ratio of 3 : 1 respectively. Thus,
+average atomic mass of chlorine is calculated as
+
+35x3+37xl
+4
+chlorine atom is 35.5.
+
+= 35-5. Therefore atomic mass of
+
+ISOBARS
+
+They are atoms of different elements with the
+same mass number, but different atomic numbers.
+Since the properties of elements depend upon atomic
+number, so they have both different physical and
+chemical properties.
+
+Examples :
+(i) Ar and 43Ca
+
+(ii) 34cr and 3¢Fe.
+
+EXCERCISE 4(C) |
+
+1. How does the Modern atomic theory contradict and
+correlate with Dalton’s atomic theory?
+
+2. (a) What are inert elements ?
+(b) Why do they exist as monoatoms in molecules?
+(c) What are valence electrons 7
+
+3. In what respects do the three isotopes of hydrogen differ ?
+Give their structures.
+
+4. Match the atomic numbers 4, 14, 8, 15, and 19 with each
+of the following :
+(a) A solid non-metal of valency 3.
+(b) A gas of valency 2.
+(c) A metal of valency 1.
+(d) A non-metal of valency 4.
+
+5. Draw diagrams representing the atomic structures of the
+following :
+(a) Sodium atom
+(c) Carbon atom
+
+(b) Chlorine ion
+
+(d) Oxygen ion.
+
+6. What is the significance of the number of protons found in
+the atoms of different elements ?
+
+7. Elements X, Y and Z have atomic numbers 6, 9 and 12
+respectively. Which one :
+(a) forms an anion (b) forms a cation
+(c) has four electrons in its valence shell ?
+
+8. Element X has electronic configuration 2, 8, 18, 8, 1.
+Without identifying X,
+(a) predict the sign and charge on a simple ion of X.
+(b) write if X will be an oxidising agent or a reducing
+agent. Why ?
+9. Define the terms :
+(a) mass number (b) ion
+(d) anion (e) element
+
+(c) cation
+
+(f) orbit.
+
+10. From the symbol ,He* for the element helium, write down
+the mass number and the atomic number of the element.
+
+11. Five atoms are labelled A to E.
+
+Atoms Mass No Atomic No.
+A 40 20
+B 19 9
+Cc 7 3
+D 16 8
+E 14 7
+
+(a) Which one of these atoms :
+(i) contains 7 protons
+(ii) has electronic configuration 2, 7.
+(b) Write down the formula of the compound formed
+between C and D..
+(c) Predict : (i) metals
+12. An atom of an element has two electrons in the M shell.
+
+(ii) non-metals.
+
+nena nee
+
+
+--- Page 15 ---
+13.
+
+What is the (a) atomic number (b) number of protons in
+this element ?
+
+2sMg and ?Mg are symbols of two isotopes of
+
+magnesium.
+
+(a) Compare the atoms of these isotopes with respect to :
+(i) the composition of their nuclei.
+(ii) their electronic configurations.
+
+(b) Give reasons why the two isotopes of magnesium have
+different mass numbers.
+
+. What are nucleons? How many nucleons are present in
+
+phosphorus ? Draw its structure.
+
+. What are isotopes ? With reference to which fundamental
+
+particle do isotopes differ ? Give two uses of isotopes.
+
+. Why do 35Cl and 37Cl have the same chemical
+
+properties ? In what respect do these atoms differ ?
+
+. Explain fractional atomic mass. What is the fractional mass
+
+of chlorine ?
+
+. (a) What is meant by “atomic number of an element”?
+(b) Complete the table given below :
+
+(c) Write down the electronic configuration of (i) chlorine
+atom (ii) chlorine ion.
+
+19. Name the following :
+
+(a) The element which does not contain any neutron in its
+nucleus.
+
+(b) An element having valency ‘zero’.
+(c) Metal with valency 2.
+
+20.
+
+21.
+
+22.
+
+23,
+
+(d) Two atoms having the same number of protons and
+electrons but different number of neutrons.
+
+(e) The shell closest to the nucleus of an atom.
+
+Give reasons
+
+(a) Physical properties of isotopes are different
+
+(b) Argon does not react.
+
+(c) Actual atomic mass is greater than mass number.
+
+(d) 3 Cl and a Cl do not differ in their chemical reactions.
+
+Anelement A atomic number 7 mass number 14
+B electronic configiration 2, 8, 8
+C electrons 13, neutrons 14
+D Protons 18 neutrons 22
+E electronic configuration 2, 8, 8, 1
+State (i) valency of each element (ii) which one is a
+metal (iii) which is a non-metal (iv) which is an inert
+gas.
+Choose the correct option
+(a) Rutherford’s alpha-particle scattering experiment
+discovered
+A. Electron B. Proton
+C. Atomic nucleus D. Neutron
+(b) Number of valence electrons in O* is :
+
+A. 6 B. 8
+C. 10 D. 4
+
+(c) Which of the following is the correct electronic
+configuration of potassium ?
+
+A. 2,8,9 B. 8, 2,9
+C. 2, 8, 8, 1 D. 1,2, 8,8
+Explain :
+
+(a) octet rule for formation of sodium chloride
+(b) duplet rule for formation of hydrogen.
+
+24. Complete the following table relating to the atomic structure of some elements.
+
+sansnET un nnnnvEnIVEnSvUUTENUUTELUEnDnSnEnE nennunnTTEE CUTDUTEDEEITTSNIEELNONELISLLUS (© 20) UTOrUUUTOO 0 EE nnnnehsaansanannaaneeameenen
+
+
+--- Page 16 ---
+4.14 ELECTROVALENT (OR IONIC) BOND
+
+Atoms of metallic elements that have 1, 2 or 3 valence
+electrons can lose electron(s) to atoms of non-metallic
+elements, which have 5, 6 or 7 electrons respectively in
+their outermost shell and thereby forming an electrovalent
+compound.
+
+After the transfer of electron(s), both the
+combining atoms acquire the electronic configuration
+of the nearest inert gas.
+
+A metallic atom, which loses electron(s), becomes
+a positively charged ion and is known as a cation
+and a non-metallic atom, which gains electron(s),
+becomes a negatively charged ion and is known as an
+anion.
+
+An ion is a charged particle which is formed due to the
+gain or the loss of one or more electrons by an atom.
+
+A metallic element, whose one atom readily loses
+electron(s) to form a positively charged ion, is an
+electropositive element.
+
+Na -—e — Nat (cation)
+
+A non-metallic element, whose atom readily
+accepts electron(s) to form a negatively charged ion,
+is an electronegative element.
+
+Cl + e- — Cr (anion)
+
+The cation and the anion being oppositely
+charged attract each other and form a chemical bond.
+Since this chemical bond formation is due to the
+electrostatic force of attraction between a cation and an
+anion, it is called an electrovalent (or an tonic) bond.
+
+Electrovalent (or ionic) compounds : The chemical
+compounds formed as a result of the transfer of electrons
+from one atom of an element to one atom of another
+
+element are called ionic (or electrovalent) compounds.
+Electrovalency : The number of electrons that an atom
+of an element loses or gains to form a electrovalent bond
+is called its electrovalency.
+
+The metals of group numbers 1, 2 and 13 have
+a tendency to lose their valence electrons. So they
+combine with the non-metals of Groups 15, 16 and
+17, which have a tendency to gain electron(s) and
+form ionic bonds.
+
+Note : Group 1 elements are most electropositive, i.e.,
+they are metallic in nature. Their metallic nature increases
+down the group, so caesium is most electropositive.
+
+Group 17 elements are most electronegative.
+
+Fluorine is the most electronegative element. Thus,
+caesium fluoride CsF is the most ionic compound.
+
+Bonds formed between metals and non-metals are
+ionic or electrovalent bonds.
+
+Why are Ionic Compounds Stable?
+
+Ionic compounds are formed by ions but there
+also exists a repulsive force between ions for like
+charges. Since the electrostatic force of attraction
+between opposite charges is much higher, it makes
+the ionic compounds stable.
+
+Examples of electrovalent (ionic) compounds.
+
+NaCl (Sodium chloride)
+MgCl, (Magnesium chloride)
+CaO (Calcium oxide)
+
+KBr (Potassium Bromide)
+CaCl, (Calcium chloride)
+
+4.14.1 Structures of some electrovalent compounds
+
+1. Sodium chloride (NaCl)
+
+The electronic configuration of a sodium atom
+is 2, 8, 1. It has one electron in excess of the stable
+electronic configuration of the nearest noble gas, neon,
+(2, 8). Therefore, an atom of sodium shows a tendency
+to give up the electron from its outermost shell, so as
+to acquire a stable electronic configuration of neon.
+
+Na — Na* + Ile
+(2, 8, 1) (2, 8)
+atom cation
+
+However, after giving up one electron, the
+sodium atom is no more electrically neutral. It has
+eleven protons in its nucleus but only ten electrons
+revolving around it. Therefore, it has a net positive
+charge of +1. This positively charged atom is called
+sodium ion and is written as Na* and its electronic
+configuration resembles that of the noble gas neon.
+
+The electronic configuration of chlorine is 2, 8, 7.
+It has an electronic configuration with one electron less
+than that of the nearest noble gas, argon (2, 8, 8).
+Therefore, the chlorine atom shows a tendency to
+acquire an electron to attain octet in its outermost shell.
+
+Cl + le 73 Cr
+(2, 8, 7) (2, 8, 8)
+atom anion
+
+An atom of chlorine is electrically neutral, as it
+contains 17 protons in its nucleus and 17 electrons
+revolving around it. But, after acquiring an electron
+
+————— $6
+
+
+--- Page 17 ---
+from the sodium atom, the chlorine atom does not
+remain electrically neutral. It has one electron more
+than the number of protons in its nucleus and therefore
+has charge of -1 represented as Cr i.e. chloride ion.
+
+Chloride ion has an octet of electrons in its
+outermost shell, and its electronic configuration
+resembles that of the noble gas argon (Fig. 4.14).
+
+Thus, when an atom of sodium combines with an
+atom of chlorine (electronic configuration 2, 8,7), one
+electron is transferred from the sodium atom to the
+chlorine atom, resulting in the formation of a sodium
+chloride molecule.
+
+Sodium atom | Na - e-
+(2, 8, 1) |
+Na*
++
+Coulomb)
+forces
+Sodium ion Chloride ion
+(2, 8) (2, 8, 8)
+
+Fig. 4.14 Orbit structure of electrovalent bonding in
+
+sodium chloride.
+
+The cation Na+ and anion Cl- are attracted
+towards each other, due to electrical charge or
+coulomb force existing between them and form an
+ionic compound.
+
+Electron dot symbol (Lewis symbol)
+
+The electron dot symbol for an atom consists of
+the symbol of the element surrounded by dots
+representing the outermost shell electrons. The
+paired electrons are represented by a pair of dots,
+whereas the unpaired electron in the outermost orbit
+is represented by a single dot.
+
+Example : Electron dot symbol of Hydrogen is H*
+
+and of Oxygen is :O;
+Symbols other than dots, such as circles and crosses
+can be used to distinguish between the electrons of
+different atoms in a molecule,
+
+for example :
+Ammonia (NH3) can be represented as
+
+H :N; H
+x
+
+H
+
+Electron dot structure of NaCl
+Naf. Cis 5 Nat + Cl or NaCl
+
+2. Magnesium chloride (MgCl,)
+
+The number of valence electrons of magnesium
+(atomic number 12) is 2 and that of chlorine (atomic
+number 17) is 7. Magnesium atom, acquires a stable
+configuration of 8 electrons by losing two electrons
+from its outermost shell (one each to each atom of
+chlorine) and thus becomes a positive magnesium ion,
+Me"*.
+
+Mg - % ~+ Mg?*
+(2, 8, 2) (2, 8)
+atom cation
+
+However, each chlorine atom, which contains
+7 electrons in its outermost shell, can accept only 1 of
+the 2 electrons donated by a magnesium atom.
+Therefore, for each magnesium atom forming a
+magnesium ion, there must be two chlorine atoms to
+form two chloride ions.
+
+2Cl + 2 7 2CI-
+(2, 8, 7) (2, 8, 8)
+2 Cl atoms 2 chloride anions
+
+2+
+i=
+Coulomb force
+
+MAGNESIUM
+MAGNESIUM > ION (2, 8)
+ATOM —_ TWO CHLORINE TWO CHLORIDE {ONS
+(2, 8, 2) ATOMS 2, 8, 8]
+[2, 8, 7] _
+
+Fig. 4.15 Orbit structure of formation of magnesium
+chloride (MgCl,) molecules.
+
+Thus, the ratio of magnesium to chloride ions
+in magnesium chloride must be 1 : 2, so the
+
+
+--- Page 18 ---
+molecular formula of the compound magnesium
+chloride is MgCl, (Fig. 4.14).
+
+Electron dot structure of magnesium chloride
+
+o°
+
+3. Calcium oxide (CaO)
+
+The number of valence electrons of a calcium
+atom (atomic number 20) is 2, and that of an
+oxygen atom is 6, i.e., oxygen requires 2 electrons
+to attain octet. In the presence of oxygen, each
+calcium atom loses its 2 valence electrons to one
+oxygen atom (Fig. 4.15). As a result, the calcium
+atom forms a calcium ion with charge +2 (Ca”*),
+and the oxygen atom forms an oxide ion with
+charge —2 (O*). Since only one oxygen atom is
+needed to accept the 2 valence electrons donated
+by a calcium atom, the formula of calcium oxide
+is CaO and not Ca,O,.
+
+ef!
+
+Coulomb force
+(2, 8, 8) (2, 8)
+
+(2, 8, 8, 2)
+Ca-2e- O+20° Ca - ion O-ion
+L J
+Ca2+ O2-
+
+(2, 6)
+
+Fig. 4.15 Orbit structure of formation of
+calcium oxide (CaO).
+
+Ca —- 20 3 Ca2+
+(2, 8, 8, 2) (2, 8, 8)
+atom cation
+O+2 9 O2-
+(2, 6) (2, 8)"
+
+atom anion
+
+Electron dot structure of calcium oxide
+
+cave “G8 — Ca2+ [:o3]”
+
+In the formation of an electrovalent bond,
+the transfer of electron(s) is involved. The
+electropositive atom undergoes oxidation, while the
+electronegative atom undergoes reduction. This is
+known as REDOX PROCESS.
+
+For example :
+
+Formation of sodium chloride : Sodium
+chloride is formed by the combination of sodium
+and chlorine.
+
+2Na + Cl, — 2Na* + 2Cr (or 2 NaCl)
+The reaction can be written as two half
+reactions :
+2Na — 2Na* + Je“ (Oxidation)
+CL + PE ~ 2CIr (Reduction)
+Oxidation
+
+— ot
+2Na + Cl, — 2Na* + 2Cl- (Redox Reaction)
+a |
+
+Reduction
+Oxidation and reduction always occur
+simultaneously because the electron(s) lost by the
+reducing agent must be gained by the oxidising
+agent.
+For example :
+Oxidised
+
+CuO + H, — Cu+H,O
+Oxidising Reducing |
+agent agent
+Reduced
+
+In this reaction, hydrogen acting as a reducing
+agent reduces Cu(II) oxide to copper. This is a
+reduction reaction.
+
+Cu? + 2e- > Cu (Reduction)
+
+At the same time, hydrogen is oxidised to water
+by the oxidising agent Cu(II) oxide, and this is an
+oxidation reaction.
+
+2H — 2e°- > 2H* (Oxidation)
+Thus, the net reaction is a redox reaction.
+
+It can be inferred from the above example
+that an oxidising agent is an acceptor of
+electron(s) and a reducing agent is a donor of
+electron(s).
+
+[Also refer chapter 6, article 6.2 (viii) & (ix)] .
+
+
+
+--- Page 19 ---
+EXCERCISE 4(D)
+
+1. How do atoms attain noble gas configuration ?
+2. Define:
+(a) a chemical bond,
+(c) a covalent bond.
+
+3. What are the conditions necessary for the formation of
+an electrovalent bond ?
+
+4. An atom X has three electrons more than the noble gas
+configuration. What type of ion will it form ? Write the
+formula of its (i) sulphate (ii) nitrate (iii) phosphate
+(iv) carbonate (v) hydroxide.
+
+5. Mention the basic tendency of an atom which makes it
+to combine with other atoms.
+
+(b) an electrovalent bond,
+
+6. What type of compounds are usually formed between
+metals and non-metals and why ?
+
+7. Inthe formation of the compound XY,, an atom X gives
+one electron to each Y atom. What is the nature of bond
+in XY, ? Draw the electron dot structure of this
+compound.
+
+8. An atom X has 2,8,7 electrons in its shell. It combines
+with Y having | electron in its outermost shell.
+(a) What type of bond will be formed between X
+and Y ?
+(b) Write the formula of the compound formed.
+
+9. Draw orbit structure and electron dot diagrams of NaC],
+MgCl, and CaO.
+
+10. Compare :
+(a) sodium atom and sodium ion
+(b) chlorine atom and chloride ion, with respect to
+(i) atomic structure, (ii) electrical state,
+(iii) chemical action, (iv) toxicity.
+
+11. The electronic configuration of fluoride ion is the same
+as that of a neon atom. What is the difference between
+the two ?
+
+12. (a) What do you understand by redox reactions? Explain
+oxidation and reduction in terms of loss or gain of
+electrons.
+
+(b) Divide the following redox reactions into oxidation
+and reduction half reactions.
+(i) Zn + Pb2+ > Zn2+ + Pb
+(ii) Zn + Cu > Zn2* + Cu
+(iii) Cl, + 2Br — Br, + 2CI
+(iv) Sn?* + 2Hg’+ > Sn + Hg,?+
+(v) 2Cut > Cu + Cu
+(c)} Potassium (at No. 19) and chlorine (at No. 17) react
+to form a compound. Explain on the basis of
+electronic concept :
+(ii) reduction
+
+(iv) reducing agent.
+
+(i) oxidation
+(ili) oxidising agent
+
+4.15 COVALENT (MOLECULAR) BOND
+
+The chemical bond that is formed between two
+combining atoms by mutual sharing of one or more
+pairs of electrons is called a covalent (or a
+molecular) bond and the compound formed due to
+this bond is called a covalent compound.
+
+The molecule formed due to the sharing of
+electrons (covalent bond) is called a covalent
+molecule.
+
+The atoms of non-metals usually have 5, 6 or 7
+electrons in their outermost shell (except carbon which
+has 4 and hydrogen which has just 1 electron in the
+outermost shell). The atoms of such elements do not
+favour the loss of its electrons due to energy
+considerations and thus the transfer of electrons is
+not possible. Therefore, these atoms can complete their
+octet only by mutually sharing one or more pairs of
+electrons. Each atom contributes equal number of
+electron(s). So, whenever a non-metal combines with
+another non-metal (to attain stable configuration), the
+
+sharing of electrons takes place between their atoms
+and a covalent bond is formed.
+
+For example, hydrogen is a non-metal and
+chlorine is also a non-metal. When hydrogen combines
+with chlorine to form hydrogen chloride (HCI), the
+sharing of electrons takes place between hydrogen and
+chlorine atoms and a covalent bond is formed. It should
+be noted that a covalent bond can also be formed
+between two atoms of the same non-metal. For
+example, two chlorine atoms combine together by the
+sharing of an electron each to form a chlorine molecule
+(Cl,) and a covalent bond is formed between the two
+chlorine atoms.
+
+Covalent bonds are of three types :
+1. Single covalent bond
+2. Double covalent bond
+3. Triple covalent bond
+
+A single covalent bond is formed by the sharing
+of one pair of electrons between the atoms, each atom
+contributing one electron.
+
+
+--- Page 20 ---
+A single covalent bond is denoted by’ putting a’
+
+short line (—) between the two atoms. So, a hydrogen
+molecule can also be written as H—H.
+
+Likewise, molecules of chlorine, hydrogen
+chloride, water, ammonia, methane and carbon
+tetrachloride are examples of single covalent bonds.
+
+cl—Cl H—Cl H—O—H
+Chlorine Hydrogen chloride Water
+H Cl
+| |
+H—N—H H—C—H Ccl—C—Cl
+t | |
+H H Cl
+Ammonia Methane Carbon tetrachloride
+
+Similarly, a double bond is formed by the sharing
+of two pairs of electrons between two atoms.
+
+A double bond is actually a combination of two
+single bonds, so it is represented by putting two short
+lines (=) between the two atoms. For example, oxygen
+molecule, Oz, contains a double bond between two
+atoms and it can be written as O=O.
+
+A triple bond is a combination of three
+single bonds, so it is represented by putting three
+short lines (=) between the two atoms. Nitrogen
+molecule, N>, contains a triple bond, so it is written
+as N=N.
+
+Some molecules have a combination of single
+bond as well as a double or a triple bond. For example,
+ethene (CH) molecule has one double covalent bond
+and four single covalent bonds.
+
+Ethene (C,H,)
+
+Similarly, ethyne (C,H) molecule has one triple
+covalent bond and two single covalent bonds.
+
+Group ~
+
+[Group | Group iT]
+Chloride—>[ NaCl | MgCl, |
+
+Bonding —> Tonic Ionic
+
+solid solid
+
+— Ionic
+
+Solid Solid
+
+covalent solid
+
+ome A
+Ethyne (C,H,) H- C=C-H
+The covalency of an atom is the number of its
+
+electrons taking part in the formation of shared pairs.
+Thus, the covalency of hydrogen is 1, oxygen 2,
+nitrogen 3 and carbon 4.
+
+Non-polar and polar covalent compounds
+
+Covalent compounds are non polar when shared
+pair of electron(s) are equally distributed between the
+two atoms. No charge separation takes place. The
+molecule is symmetrical and electrically neutral.
+
+If the two covalently bonded atoms are identical
+the shared electron pair(s) is at equal distance from the
+combining atoms i.e., the shared electron pair(s) is
+equally attracted by the nuclei of the two types of
+charge, such molecules are non-polar. For example
+hydrogen (H,), chlorine (Cl,), oxygen (O>), etc., are
+perfectly non-polar compounds.
+
+The covalent compounds are said to be polar
+when the shared pair of electrons are not at equal
+distance between the two atoms. This results in the
+development of fractional positive and negative
+charges on them. They ionise in water. For example,
+hydrogen chloride.
+
+Covalent bond is formed when both atoms have
+four or more electrons in their outermost shells,
+
+i.e., non-metals (exceptions are H, Be, B, Al, etc.).
+
+Hydrogen can combine with all non-metals of
+Group IVA to VIIA with the help of covalent bonds.
+
+Note : As we move across a period, the electrovalent
+character of chlorides, oxides, etc., decreases. An
+example of the decreasing electrovalent character of
+chlorides and oxides of the elements of 3rd period is
+shown below :
+
+Se | Senet ers | Org vt Seep Vir
+“ag, si,
+
+Partially ionic-partially | Covalent
+i liquid
+
+Sta
+liquid
+
+—
+liquid/solid
+
+Covalent Covalent Covalent
+
+—_
+
+Solid Solid Gas/Solid
+
+
+--- Page 21 ---
+4.15.2 Some covalent molecules and their Formation of a chlorine molecule
+structures
+
+Before combination
+
+1. Hydrogen molecule (Non-polar compound)
+
+A hydrogen atom has one electron in its only
+shell. It needs one more electron to attain duplet. To
+meet this need, hydrogen atom shares its electron with
+another hydrogen atom. Thus, one electron each is
+contributed by the two atoms of hydrogen, and the
+resulting pair of electrons is mutually shared by both i + “Ci:
+the atoms to form a hydrogen molecule. Cl-atom
+
+Cl-atom
+
+Electron dot structure
+
+Formation of a hydrogen molecule After combination
+
+Before combination
+
+°
+Chlorine molecule
+:Ci: Cit or [ClI—Cl} > Cl,
+One shared pair Single covalent
+of electrons bond
+
+{A chlorine molecule contains
+two atoms of chlorine]
+
+H atom
+Electron dot structure
+
+H + H
+H-atom H-atom
+
+After combination
+3. Nitrogen molecule (Non-polar compound)
+
+Electronic configuration
+
+Nitrogen (,N) Neon (,,Ne)
+(2, 5] [2, 8]
+
+To attain the stable electronic configuration of the
+nearest noble gas, nitrogen needs three electrons.
+of electrons = bond When two nitrogen atoms come closer, each contributes
+[A hydrogen molecule contains three electrons and so they have three shared pairs of
+two atoms of hydrogen] electrons between them. Both atoms attain an octet,
+resulting in the formation of a triple covalent bond
+2. Chlorine molecule (Non-polar compound) [N = N] between them.
+
+Formation of a nitrogen molecule
+
+fn
+
+e
+Y
+
+Hydrogen molecule
+
+H:H or H—H-—->H,
+One shared pair Single covalent
+
+Argon (, AD - Before combination
+(2, 8, 8)
+
+_—
+io+ }
+To attain the stable electronic configuration of the nearest 0 ig...
+
+noble gas, chlorine needs one electron.
+
+N-atom N-atom
+When two chlorine atoms come closer, each contributes one
+electron and form one shared pair of electrons between them. Electron dot structure
+Both the atoms of chlorine thus attain an octet. A single sN$ + = &NG
+
+covalent bond [Cl — Cl] is formed between them. N-atom N-atom
+
+
+
+--- Page 22 ---
+After combination
+Mutual sharing of three pairs of elements
+
+Nitrogen molecule
+Ni IN or [N=N] > N,
+Three shared pairs Triple covalent
+of electrons bond
+(A nitrogen molecule contains two atoms of nitrogen)
+
+4. Hydrogen chloride (polar compound)
+
+Atoms Electronic
+involved configuration
+Hydrogen iH 1] . Helium [2]
+
+Chlorine cl (2, 8, 7] Argon [2, 8, 8]
+
+To attain the stable electronic configuration of nearest
+noble gas, hydrogen needs one electron and chlorine
+also needs one electron.
+
+In the case of hydrogen chloride molecule hydrogen
+atom shares an electron pair with chlorine atom, such
+that hydrogen acquires a duplet configuration and
+chlorine an octet, resulting in the formation of a single
+covalent bond.
+
+Hydrogen chloride molecule
+
+H <i: or H—Cl
+
+[One molecule of hydrogen chloride contains a total
+of two atoms i.e. one atom of hydrogen and one atom
+of chlorine]
+
+5. Water molecule (Polar compound)
+
+Atoms Electronic Nearest
+involved configuration noble gas
+Hydrogen Hl) ‘Helium [2]
+Oxygen 0 (2, 6] Neon [2, 8]
+
+To attain the stable electronic configuration of the
+nearest noble gas, hydrogen needs one electron and
+oxygen needs two electrons.
+
+In the case of a water molecule, each of the two
+hydrogen atoms share an electron pair with the oxygen
+atom such that hydrogen acquires a duplet
+configuration and oxygen an octet, resulting in the
+formation of two single covalent bonds.
+
+Formation of a water molecule
+
+Before combination
+
+H-atom O-atom H-atom
+
+Electron dot structure
+Hx + yey + xH
+H-atom O-atom H-atom
+After combination
+
+Water molecule
+H*O0*% H or H—O—H + H,0
+One shared pair Two single covalent
+of electrons bond
+
+{One molecule of water contains a total of three atoms,
+ie. one atom of oxygen and two atoms of hydrogen]
+
+6. Ammonia molecule (Polar —_
+
+Nitrogen WN [2, 5] Neon [2, 8]
+Hydrogen Hf) Helium [2]
+
+To attain the electronic configuration of the nearest noble
+
+gas, nitrogen needs three electrons and hydrogen needs one
+electron.
+
+When a molecule of ammonia is to be formed, one atom of
+nitrogen shares three electron pairs, one with each of the
+three atoms of hydrogen.
+
+
+
+--- Page 23 ---
+Formation of an ammonia molecule
+Before combination
+
+H* + “Ne +°H
+After combination
+
+H
+xe OR al
+
+H?N°H H—N—H
+One shared pair of Three single
+
+electrons with each covalent bonds
+hydrogen atom
+
+[The ammonia molecule contains a total of four atoms, ie., one
+atom of nitrogen and three atoms of hydrogen]
+
+Ammonia molecule
+
+7, Carbon tetrachloride molecule (Non-polar compound)
+
+Atoms vnflearation
+involved configuratio:
+
+Carbon &€ (2, 4) Neon (2, 3)
+Chlorine WC! [2, 8, 7] Argon [2, 8, 8]
+
+To attain the stable electronic configuration of the nearest
+noble gas, carbon needs four electrons and chlorine needs
+one electron.
+
+When a molecule of carbon tetrachloride is to be formed, one
+atom of carbon shares four electron pairs, one with each of the
+four atoms of chlorine.
+
+Formation of a carbon tetrachloride molecule
+
+Before combination
+
+Cl-atom
+Cl-atom (0}: (O}¥(O} Cl-atom
+Cl-atom
+
+Electron dot structure
+
+t
+t
+:C):
+
+After combination Carbon tetrachloride molecule
+Ci:
+
+:C] 5C Cl:
+
+or an ~ CCl,
+
+Cl: Four Gingle
+
+One shared pair of covalent bonds
+
+electrons with each
+chlorine atom
+[One molecule of carbon tetrachloride contains five atoms
+in all, ie. one atom of carbon and four atoms of chlorine]
+
+8. Methane molecule (Non-polar compound)
+
+Carbon 6&& 2, 4] Neon [2, I.
+Hydrogen :A{1] Helium [2]
+
+To attain the stable electronic configuration of the
+nearest noble gas, carbon needs four electrons and
+hydrogen needs one electron.
+
+When a molecule of methane is to be formed, one
+atom of carbon shares four electron pairs, one with
+each of the four atoms of hydrogen.
+
+Formation of a methane molecule
+Before combination
+
+(@) H-atom
+H-atom (@}O)X@) H-atom
+H-atom
+
+Electron dot diagram
+
+Methane molecule
+
+|
+HCH
+
+H
+Four single
+covalent bonds
+
+[A methane molecule contains a total of five atoms, i.e. one
+atom of carbon and four atoms of hydrogen]
+
+wre swace:
+
+
+--- Page 24 ---
+CHAPTER AT A GLANCE
+
+The idea of the smallest unit of matter i.e. PARMANU which combines to give ANU was given by the
+Indian scientist Maharshi Kanada.
+
+Greek philosopher Democritus called the paramanu an ‘ATOM’.
+John Dalton gave the first systematic idea of structure of atom.
+
+Gases conduct electricity at very low pressure 0-01 mm of mercury and high potential at 10,000 volts
+emitting rays known as cathode rays. These rays consist of negatively charged particles called
+electrons.
+
+Electrons are present in every atom. Its mass is | the mass of hydrogen atom. Its charge is 1-602 x 10-!9
+1837
+
+coulombs.
+
+Goldstein showed the presence of positively charged particles, the nature of which depends upon the gas
+used in the discharge tube. These positively charged subatomic particles are protons.
+
+Chadwick discovered neutron in 1932. Neutron is an electrically neutral subatomic particle with mass equal
+to that of a proton.
+
+Rutherford showed the presence of a small heavy, positively charged centre — nucleus.
+
+Electrons, protons and neutrons are the fundamental particles or subatomic particles. Protons and neutrons
+are present in the central part of the atom i.e. in nucleus and collectively known as nucleons. Electrons are
+outside the nucleus in orbits.
+
+Atomic number (Z) of an element is equal to the number of protons and mass number (A) of an atom is
+equal to the sum of the number of protons and neutrons present in the nucleus.
+
+Electrons revolve around the nucleus in definite circular paths which are known as orbits or energy shells
+and are numbered as 1, 2, 3, 4, ... ie. K, L, M and N, ...
+
+Electronic configuration refers to the distribution of electrons in different shells.
+
+Maximum number of electrons that can be filled in these shells is given by 2n? rule, where n denotes the
+number of shells. However, the outermost orbit cannot have more than 8 electrons.
+
+The outermost shell of an atom is called its valence shell and the electrons present in the valence shell are
+known as valence electrons.
+
+The chemical properties of elements are decided by these valence electrons, since they are the ones that
+take part in chemical reactions.
+
+Isotopes are the atoms of the same element possessing different mass numbers but the same atomic number.
+Atoms of different elements that have the same mass number but different atomic number are called isobars.
+
+During chemical reactions, atoms of all the elements become stable by acquiring electronic configuration of
+the nearest inert gas, i.e. eight electrons in the outermost orbit, this is known as octet rule.
+
+Bonds formed between metals and non-metals are ionic or electrovalent bonds.
+
+The chemical bond that is formed between two combining atoms by mutual sharing of one or more pairs of
+
+electrons is called a covalent (or a molecular) bond and the compound formed due to this bond is called a
+covalent compound.
+
+
+
+--- Page 25 ---
+EXCERCISE 4(E) |
+
+1. Explain the following :
+
+(a) Electrovalent compounds conduct electricity in molten
+or aqueous state.
+
+(b) Electrovalent compounds have a high melting point
+and boiling point while covalent compounds have low
+melting and boiling points.
+
+(c) Electrovalent compounds dissolve in water whereas
+covalent compounds do not.
+
+(d) Electrovalent compounds are usually hard crystals yet
+brittle.
+
+(e) Polar covalent compounds conduct electricity.
+
+to
+
+A solid is crystalline, has a high melting point and is water
+soluble. Describe the nature of the solid.
+
+3. Match the atomic number 4, 8, 14, 15 and 19 with each of
+the following :
+
+(a) A solid non-metal of valency 3.
+
+(b) A gas of valency 2.
+
+(c) A metal of valency 1.
+
+(d) A non-metal of valency 4.
+
+4. (a) Elements X, Y and Z have atomic numbers 6, 9 and
+12 respectively. Which one :
+(i) forms an anion, (ii) forms a cation,
+(b) State the type of bond between Y and Z and give its
+molecular formula.
+
+5. Taking MgCl, as an electrovalent compound, CCI, as a
+covalent compound, give four differences between
+electrovalent and covalent compounds.
+
+6. Potassium chloride is an electrovalent compound, while
+hydrogen chloride is a covalent compound. But, both
+conduct electricity in their aqueous solutions. Explain.
+
+7. (a) Name two compounds that are covalent when taken
+
+pure but produce ions when dissolved in water.
+(b) For each compound mentioned above, give the
+formulae of ions formed in aqueous solutions.
+
+8. Anelement M burns in oxygen to form an ionic compound
+MO. Write the formula of the compounds formed if this
+element is made to combine with chlorine and sulphur
+separately.
+
+9. Give electron dot diagram of the following :
+
+(a) magnesium chloride, (b) nitrogen,
+(c) methane (d) hydrogen chloride
+
+10. State the type of bonding in the following molecules.
+
+(a) water,
+(c) hydrogen chloride
+
+(b) calcium oxide,
+
+11. Element M forms a chloride with the formula MCI, which
+is a solid with high melting point. M would most likely
+be in the group in which ............... is placed.
+
+{((a)Na (b)Mg (c)Al (dd) Si]
+12. (a) Compound X consists of molecules.
+Choose the letter corresponding to the correct answer
+from the options A, B, C and D given below :
+(i) The type of bonding in X will be :
+B. electrovalent
+D. molecular
+
+A. ionic
+C. covalent
+(ii) X is likely to have a:
+A. low melting point and high boiling point,
+B. high melting point and low boiling point,
+C. low melting point and low boiling point,
+D. high melting point and high boiling point.
+(iii) In the liquid state, X will :
+A. become ionic, B. be an electrolyte,
+C. conduct electricity, D. not conduct electricity.
+(b) If electrons are getting added to an element Y; then
+(i) is Y getting oxidized or reduced ?
+(ii) what charge will Y migrate to during the process of
+electrolysis ?
+13. Choose the correct answer from the choices A, B, C and D:
+(i) The property which is characteristic of an
+electrovalent compound is that :
+A. it is easily vaporized,
+B. it has a high melting point,
+C. it is a weak electrolyte,
+D. it often exists as a liquid.
+(ii) When a metal atom becomes an ion :
+A. it loses electrons and is oxidized,
+B. it gains electrons and is reduced,
+C. it gains electrons and is oxidized,
+D. it loses electrons and is reduced.
+14. Identify the following reactions as either oxidation or
+reduction :
+(i) O + 2e° + O?-
+(iii) Fe3+ + e- > Fe?*
+(a) Name the charged particles which attract one
+
+(ii) K - e" — Kt
+
+he
+eA)
+
+another to form electrovalent compounds.
+
+(b) In the formation of electrovalent compounds,
+electrons are transferred from one element to
+another. How are electrons involved in the formation
+of a covalent compound ?
+
+—_—————— C23
+
+
+--- Page 26 ---
+' (c) The electronic configuration of nitrogen is (2, 5). A. High melting point.
+
+How many electrons in the outer shell of a nitrogen B. Conducts electricity when molten.
+atom are not involved in the formation of a nitrogen C. Consists of oppositely charged ions.
+molecule ? D. Ionizes when dissolved in water.
+
+(d) In the formation of magnesium chloride (by direct (b) What is the term defined below ?
+combination between magnesium and chlorine), A bond formed by a shared pair of electrons,
+name the substance that is oxidized and the each bonding atom contributing one electron to
+substance that is reduced. the pair.
+
+16. (a) Which of the following is not a common
+characteristic of an electrovalent compound ?
+
+4

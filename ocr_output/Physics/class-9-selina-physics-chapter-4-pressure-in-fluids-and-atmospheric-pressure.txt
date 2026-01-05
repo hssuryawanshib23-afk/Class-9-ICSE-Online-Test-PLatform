@@ -1,0 +1,2462 @@
+
+Chapter 4 - Pressure in fluids and atmospheric pressure
+--- Page 1 ---
+| 4) PRESSURE IN FLUIDS AND
+
+“Change 0 of i pressure with depth bn 3 2 formula P = hpg); Transmission of pressure in liquids;
+Atmospheric pressure.
+
+Scope + Thrust and pressure and thai units; ‘\gressure exerted by a liquid column P = hpg; simple daily life
+
+examples : (i) broadness of the base of a
+of pressuté in liquids; Pascal’s lawy’ex
+
+"Nation — with altitude; (qui
+
+‘Diver’ $ suit.efc., some consequences of P = kpg; transmission
+spheric pressure; common manifestation and consequences.
+only); applications such as weather forecasting and altimeter.
+
+(A) PRESSURE IN FLUIDS AND ITS TRANSMISSION
+
+4.1 THRUST AND PRESSURE
+
+Thrust : A force can be applied on a surface in
+any direction. If a force is applied in a direction
+normal (or perpendicular) to the surface, it is called
+the thrust. Thus,
+
+| Thrust ie ythe fete acting ee
+
+surface.
+
+The thrust exerted by a body placed on a surface
+is equal to its weight. The thrust is same in whatsoever
+position the body is placed on the surface. Thus,
+
+‘Thrust exerted by a body on a surface’.
+
+= Weight of the body’ «: ‘@ 1)
+
+Thrust is a vector quantity.
+
+Unit of thrust : It is measured in the units of
+force. The S.I. unit of thrust is newton (N) and
+C.G.S. unit of thrust is dyne, where 1 N = 10° dyne.
+
+The gravitational unit of thrust in M.K.S.
+system is kgf and in C.GS. system is gf. They are
+related as :
+
+1 kgf = 9-8 N and 1 gf = 980 dyne
+
+Pressure : The effect of thrust depends on the
+area of the surface on which it acts. The effect of a
+thrust is less on a large area, while it is more on a
+small area.
+
+Example : If you stand on loose sand, your
+feet sink into the sand, but if you lie on that sand,
+your body does not sink into the sand. In both the
+cases, the thrust exerted on the sand is same (equal
+to your weight). But when you lie on sand, the thrust
+acts on a larger area and when you stand, the same
+thrust acts on a smaller area.
+
+78
+
+The effect of thrust is expressed in terms of
+thrust per unit area. This quantity is called pressure.
+Thus
+
+Pressure is the thrust per unit area of surface.
+
+If a thrust F acts on an area A, then
+
+_ Thrust F
+
+Pressure is a scalar quantity.
+Units of pressure
+
+thrust
+From relation (4.2), pressure =
+
+area
+~ Unit of _ Unit of thrust
+. Unit of pressure = Ty or area
+
+S.I. unit : The S.I. unit of thrust is newton and
+that of area is metre?, so the S.I. unit of pressure is
+newton per metre? which is abbreviated as N m~.
+This unit is named pascal (symbol Pa) after the
+name of the french scientist Blaise Pascal. i.e.,
+
+, al 1 Pa) 1 Newton
+a) =
+
+pascal (or 1 metre”
+
+or 1Pa=1Nm?
+
+Thus
+
+One pascal is the pressure exerted on a
+surface of area 1 m* by a force of 1 N acting
+normally on it.
+However, if thrust is measured in kgf and
+area in m2, the unit of pressure is kgf m=.
+C.GS. unit : The C.GS. unit of pressure is
+dyne cm where
+0-1 Nm? or 1 Nm?
+
+1 dyne cm? = = 10 dyne cm”.
+
+
+--- Page 2 ---
+If thrust is measured in gf and area in cm?, the
+unit of pressure is gf cm~.
+
+Other units : Other units of pressure are bar
+and millibar, where
+1 bar = 10° N m7 and 1 millibar = 10° bar = 10? N m~?.
+
+The atmospheric pressure is generally
+expressed in terms of the height of mercury column
+in the barometre. At normal temperature and
+pressure, the barometric height is 0-76 m of Hg (or
+76 cm of Hg or 760 mm of Hg) at sea level which
+is taken as one atmosphere. Thus atmospheric
+pressure is also expressed in a unit atmosphere
+(symbol atm) where
+
+1 atmosphere (atm) = 0-76 m of Hg = 1-013 x 10° Pa
+
+Sometimes we use torr as unit of atmospheric
+pressure after the name of the scientist Torricelli
+where
+
+ltorr = 1 mmof Hg
+
+latm = 760 torr.
+Factors affecting the pressure : The pressure
+exerted on a surface depends on two factors :
+(i) the area on which the thrust is applied, and
+(ii) the thrust.
+
+Examples : (1) A brick of weight 4 kgf having
+dimensions 20 cm x 10 cm x 5 cm exerts maximum
+pressure on ground when it is placed with its longest
+side (20 cm) vertical [Fig 4.1(a)], while it exerts
+minimum pressure on ground when it is placed with
+its shortest side (5 cm) vertical [Fig. 4.1(b)], even
+
+though the thrust is same in each case.
+56m
+
+&
+S
+
+and
+
+20 cm
+5cm
+(
+
+Thrust = 4 kgf
+Thrust = 4 kgf Pressure = 4 kgt/200 cm?
+Pressure = 4 kgf/50 cm? = 0-02 kgf cm-?
+= 0-08 kgf em~
+
+(a) Longest side vertical (6) Shortest side vertical
+Fig. 4.1 Thrust and pressure
+In Fig. 4.1(a), Thrust = 4 kgf
+Area of base = 5 cm x 10 cm = 50 cm?
+4 kgf
+50cm?
+= 0-08 kef cm
+
+.. Pressure on base (or ground) =
+
+In Fig. 4.1(b), Thrust = 4 kgf
+Area of base = 10 cm x 20 cm = 200 cm?
+
+79
+
+wv
+
+.. Pressure on base (or ground) =
+
+200 cm?
+= 0-02 kef cm
+
+Thus pressure on ground in Fig. 4.1(b) is
+one-fourth of pressure in Fig. 4.1(a).
+
+Obviously, larger the area on which a given
+thrust acts, lesser is the pressure exerted by it.
+
+(2) In Fig. 4.1(b), if another identical brick is
+placed over the first brick, the thrust gets doubled
+(= 8 kgf) and since it acts on same area of base
+(= 200 cm?), so the pressure on ground becomes
+=8 kef / 200 cm? = 0-04 kgf cm™ (i.e., it gets doubled).
+
+Thus larger the thrust acting on a given area,
+greater is the pressure exerted on it.
+
+Way of increasing pressure : For the given
+thrust, the pressure on a surface is increased by
+reducing the area of surface.
+
+Examples : (a) The ends of nails (or pins) are
+made pointed so that large pressure is exerted at
+the pointed ends and they can be driven into, with
+a less effort.
+
+(b) The cutting tools also have either sharp (or
+pointed) edges so that even a small thrust may
+cause a great pressure at the edges and cutting can
+be done with a less effort.
+
+Way of decreasing pressure : For the given
+thrust, the pressure on a surface is reduced by
+increasing the area of surface.
+
+Examples : (a) Wide wooden sleepers are placed
+below the railway tracks so that the pressure exerted
+by the iron rails on the ground becomes less.
+
+(b) The foundations of buildings are made
+wider than the walls so that the pressure exerted
+by the building on the ground becomes less.
+
+4.2 PRESSURE IN FLUIDS
+
+A substance which can flow is called a fluid.
+All liquids and gases are, thus, fluids.
+
+A solid exerts pressure on a surface due to
+its weight. Similarly, a fluid also exerts pressure
+due to its weight. A solid exerts pressure only on
+the surface on which it is placed i.e., at its
+bottom, but a fluid exerts pressure on the bottom
+as well as on the walls of the container due to
+its tendency to flow. A fluid, therefore, exerts
+pressure in all directions. Thus,
+
+
+
+--- Page 3 ---
+Experimental demonstration : Take a vessel filled
+with a liquid (say, water). Place it on a horizontal surface.
+Make several small holes in the wall of the vessel anywhere
+below the free surface of liquid. It is observed that :
+
+(1) The liquid spurts out through each hole. This shows
+that the liquid exerts pressure at each point on the wall
+of the vessel.
+
+If we put our finger on any of the hole, finger feels a
+thrust due to liquid. This demonstrates that the liquid
+contained in the vessel exerts thrust at all points below
+its free surface. Thrust on unit area at a point gives the
+pressure due to liquid at that point.
+
+If we note the distance from the bottom of the vessel]
+to the point where the liquid from a hole strikes on the
+horizontal surface, it is noticed that as the depth of the
+hole below the free surface of liquid increases, the
+throw of liquid also increases i.e., the liquid reaches
+to a greater distance on the horizontal surface. This
+shows that liquid pressure at a point increases with
+the increase of depth of point from its free surface
+(Fig. 4.2).
+
+(2)
+
+(3)
+
+Fig. 4.2 Liquid pressure increases with increase of
+depth below the free surface
+
+4.3 PRESSURE EXERTED BY A LIQUID
+COLUMN (P = hpg)
+
+The pressure exerted by a liquid of density p at
+
+a depth h is P = hpg where g is the accelration due
+
+to gravity i.e.,
+
+Proof : Consider a vessel containing a liquid
+of density p. Let the liquid be stationary. In order
+to calculate pressure at a depth h, consider a
+horizontal circular surface PQ of area A at depth h
+
+LIQUID
+
+Fig. 4.3 Pressure at a depth in a liquid
+
+- on the free surface of liquid is
+
+below the free surface XY of the liquid (Fig. 4.3).
+The pressure on surface PQ will be due to the
+weight of the liquid coloumn above the surface
+PQ (i.e., the liquid contained in cylinder PORS of
+height h with PQ as its base and top face RS lying
+on the free surface XY of the liquid).
+
+The thrust exerted on the surface PQ
+
+= Weight of the liquid column PORS
+
+= Volume of liquid column PQRS x density x g
+
+= (Area of base PQ x height) x density x g
+
+=(Axh)x pxg = Ahpg (4.4)
+
+This thrust is exerted on the surface PQ of
+area A. Therefore, pressure
+
+Thrust on surface
+
+P= Area of surface ~ A = hg
+
+Note : Since there is atmospheric pressure above
+the free surface of liquid, so to find the total pressure
+at a depth inside a liquid, it must also be taken into
+consideration. If the atmospheric pressure acting
+then.
+
+= of
+a
+
+Factors affecting the pressure at a point in a
+liquid
+
+From eqn. (4.4), it is clear that the pressure at
+a point inside the liquid depends directly on the
+following three factors :
+
+(i) depth of the point below the free
+
+surface (h),
+(ii) density of liquid (p), and
+(iii) acceleration due to gravity (g).
+
+At a particular place on the earth surface, the
+acceleration due to gravity g is constant, therefore,
+the pressure at a point in a liquid is (i) directly
+proportional to the depth / of the point below the free
+surface of the liquid, and (ii) directly proportional
+to the density p of the liquid.
+
+However, the pressure inside a liquid does not
+depend on (i) the shape and size of the vessel in
+which the liquid is contained, and (ii) the area of
+surface on which it acts.
+
+4.4 LAWS OF LIQUID PRESSURE
+
+Following are the five laws of liquid pressure :
+
+(i) Inside the liquid, pressure increases with the
+increase in depth from its free surface.
+
+80
+
+
+--- Page 4 ---
+(ii) In a stationary liquid, pressure is same at all
+points on a horizontal plane.
+
+(iii) Pressure is same in all directions about a
+point in liquid.
+
+(iv) Pressure at same depth is different in different
+liquids. It increases with the increase in
+density of liquid.
+
+(v) A liquid seeks its own level.
+
+4.5 SOME CONSEQUENCES OF LIQUID
+PRESSURE P = hog
+
+(i) In sea water, the pressure at a certain depth
+in sea water is more than that at the same depth
+in river water : The reason is that the density of
+sea water is more than the density of river water.
+
+(ii) The wall of a dam is made thicker at the
+
+bottom : Fig. 4.4 shows the side view of a dam.
+The thickness of its wall increases from top towards
+the bottom. The reason is that the pressure exerted
+by a liquid increases with its depth. Thus as depth
+increases, more and more pressure is exerted by
+water on the wall of dam. A thicker wall is required
+to withstand a greater pressure, therefore, the wall
+of the dam is made with thickness increasing
+towards the base. In Fig. 4.4, the increasing length
+of arrows in water shows the increasing pressure
+on the wall of dam towards the bottom.
+
+WATER WALL OF DAM eu
+
+S$
+
+eT as
+=srs=-= eo
+
+o 23 Ss
+
+Fig. 4.4 Wall of a dam with its thickness increasing
+towards the bottom
+
+(iii) Water supply tank is placed high : To
+supply water in a town (or colony), the tank to
+store water for supply is made at a sufficient
+height. The reason is that as greater is the height
+of tank, more will be the pressure of water in the
+taps of a house. Thus for a good supply of water,
+the height of the supply tank must always be a
+few metre higher than the level at which supply of
+water is to be made.
+
+(iv) Diver’s suit : The sea divers need special
+protective suit to wear because in deep sea, the
+total pressure exerted on the diver’s body is
+much more than his blood pressure. To withstand
+
+81
+
+it, he needs to wear a special protective suit,
+made from glass reinforced plastic or cast
+aluminium. The pressure inside the suit is
+maintained at one atmosphere.
+
+(v) Size of gas bubble inside the water : It is
+noticed that as the gas bubble formed at the bottom
+of a lake, rises, it grows in size. The reason is that
+when the bubble is at the bottom of lake, total pressure
+exerted on it is the sum of the atmospheric pressure
+and the pressure due to water column. As the gas
+bubble rises, due to decrease in depth, the pressure
+due to water column decreases, so the total pressure
+exerted on the bubble decreases. According to Boyle’s
+law, the volume of bubble increases due to the
+decrease in pressure, i.e., the bubble grows in size.
+When the bubble reaches the surface of liquid, total
+pressure exerted on it becomes just equal to the
+atmospheric pressure only which is minimum and so
+the size of bubble on surface becomes maximum.
+4.6 TRANSMISSION OF PRESSURE IN
+
+LIQUIDS; PASCAL’S LAW
+
+We have read that the pressure due to liquid at a
+point in a liquid of density p at a depth h below its
+free surface is P = hpg. Obviously, the pressure
+difference between any two points x and y in a
+stationary liquid will depend only on the difference
+in vertical height (Ah) between these points. Now if
+by some means, the pressure at one point x is
+increased, the pressure at other point y must also
+increase by the same amount so that the difference in
+pressure between the two points x and y may remain
+same. Thus pressure exerted at a point x is equally
+transmitted to the point y. This is Pascal’s law. Thus,
+
+Pascal's law states that the pressure exerted
+anywhere in a confined liquid is transmitted
+equally and undiminished in all directions
+throughout the liquid.
+
+This can be demonstrated by the following
+experiment.
+
+Experiment : Take a glass flask having narrow tubes
+coming out from its sides and bottom. The flask is provided
+with an air-tight piston at its mouth as shown in Fig. 4.5. Fill
+the flask with water. The water in each tube will be at the
+same level. The initial level of water in each tube is shown
+by the dotted black line. Now push the piston
+down into the flask gently. It is observed that jets of
+water rises out from each tube, reaching the same height
+which is shown by the upper dotted coloured line. This shows
+that the pressure applied to the enclosed liquid is transmitted
+equally in all directions every where inside the liquid.
+
+
+
+--- Page 5 ---
+wre JETS OF WATER
+REACHING THE
+SAME HEIGHT
+
+~ INITIAL LEVEL
+OF WATER
+
+Fig. 4.5 Demonstration of Pascal’s law
+
+4.7 APPLICATION OF PASCAL’S LAW
+Hydraulic machines such as hydraulic press,
+
+hydraulic jack and hydraulic brakes are based on
+
+Pascal’s law of transmission of pressure in liquids.
+
+Principle of a hydraulic machine
+
+The principle of each hydraulic machine is that
+a small force applied on a smaller piston is
+transmitted to produce a large force on the bigger
+piston.
+
+Fig. 4.6 shows two cylindrical vessels P and Q
+connected by a horizontal tube R. The vessels
+contain a liquid (or water) and they are provided
+with water-tight pistons A and B. The vessel P is
+of smaller diameter as compared to the vessel Q.
+Let area of cross section of the vessel P be A, and
+that of the vessel Q be A,. When a weight is placed
+on the piston A, it exerts a force F, on the piston A.
+Therefore the pressure applied on the piston A is
+
+(4.6)
+
+PISTON B
+(PRESS PLUNGER
+
+OR RAM) CYLINDER Q
+
+Fig. 4.7 Hydraulic press
+
+BALE OF COTTON
+
+CONNECTING PIPE R
+
+WEIGHT
+
+Fig. 4.6 Principle of a hydraulic machine
+
+According to Pascal’s law, the pressure exerted
+on piston A is transmitted through the liquid to the
+piston B. This exerts an upward pressure P, on the
+piston B which is equal to P,. Thus
+
+P,=P, (4.7)
+
+If the upward force exerted on piston B is F,, Then
+
+Pressure on piston B is P, = rm" 14.8)
+2
+
+Fi F,
+From eqns. (4.6), (4.7) and (4.8), Ay =A
+2
+
+or a a (4.9)
+
+Since A, > Aj, therefore F, > F,
+
+Thus a small force F, applied on the smaller
+piston A can be used to produce a large force F, on
+the bigger piston B. This is the principle of a
+hydraulic machine which acts as a force multiplier.
+4.8 EXAMPLES OF HYDRAULIC MACHINES
+(i) Hydraulic press (or Bramah press)
+
+A hydraulic press works on the principle of
+Pascal’s law.
+
+Construction : Fig. 4.7 shows a hydraulic
+press. It consists of two hollow cylinders P and Q
+
+PIVOT (FULCRUM) LEVER
+
+VALVE V,
+
+WATER
+SUPPLY TANK
+(RESERVOIR)
+
+
+--- Page 6 ---
+fitted with valves V, and V, respectively, at their”
+
+bottom. The cylinder P has a tank (or reservoir) at
+the bottom connected through the valve V,. The
+area of cross section of cylinder Q is larger than
+that of P. Water-tight pistons A and B are fitted in
+these cylinders. Let the area of cross sections of
+pistons A and B be A, and A, respectively. The two
+cylinders are connected by a pipe R. The piston A
+of the smaller cylinder is called the pump plunger
+and piston B of the larger cylinder is called the
+ram (or press plunger). To press down or raise up
+the pump plunger A, a lever arrangement provided
+with a handle H is used. The cylinder Q at its
+bottom is provided with a release valve which
+joins it to the reservoir.
+
+Principle : When a force F, is applied on the
+piston A, it exerts a pressure on liquid contained in
+the cylinder P. According to Pascal’s law, this
+pressure is transmitted through liquid in tube R to
+the piston B of the other cylinder Q due to which
+the piston B tends to move upwards. Since the area
+of cross section of cylinder P is less than that of the
+cylinder Q, therefore by applying a small force on
+the piston A, we can lift a large weight kept on the
+piston B.
+
+When no weight is placed on the piston B,
+it rises up against a fixed roof with a force F,
+(F, > F,). If a bale of cotton is kept on the press
+plunger B, it gets compressed.
+
+Working : When the pump
+plunger A is raised by raising the
+handle H, the pressure in cylinder
+P decreases and the valve V, opens
+upwards. As a result, water from
+the reservoir tank is pushed up into
+the cylinder P by the atmospheric
+pressure acting on the free surface
+of water in the supply tank. When
+pump plunger A is _ pushed
+downwards by lowering the handle
+H, the valve V, closes due to an increase in
+pressure in cylinder P. Now pressure from cylinder
+P is transmitted to the connecting pipe R. As the
+pressure in pipe R becomes greater than in
+cylinder Q, the’ valve V, opens, so water from
+cylinder P is forced into the cylinder Q, due to
+which the press plunger B is raised against the
+fixed roof and the bale of cotton placed on the
+press plunger B gets compressed.
+
+When the tunction oF macnine 1s over, the
+release valve is opened so that the ram (or press)
+plunger B gets lowered and water of the
+cylinder Q runs out into the reservoir.
+
+Uses of hydraulic press : A hydraulic press is
+used mainly for the following purposes :
+
+1: For pressing cotton bales and goods like quilts,
+books, etc.
+
+2. For extracting the juice from sugarcane, sugar
+beet, etc.
+
+3. For squeezing oil out of linseed and cotton
+seeds.
+
+4. For engraving monograms on goods.
+
+(ii) Hydraulic jack (or Hydraulic lift)
+
+A hydraulic jack is used for lifting heavy
+vehicles such as cars, trucks etc., in service stations
+for their repairing. It works on the Pascal’s principle
+(or the principle of a hydraulic machine).
+
+Construction : A simple form of a hydraulic
+jack is shown in Fig. 4.8. It consists of two
+cylindrical vessels P and Q connected to each other
+by a tube R having a valve V. The piston A in the
+narrow cylinder P is attached to a lever and the
+piston B of the wider cylinder Q has a platform for
+lifting the vehicle. The vessels are filled with a
+liquid (say, water).
+
+HANDLE H
+
+FULCRUM F
+Z
+WTTtts
+
+PISTON B
+
+LIQUID
+VALVE V
+
+TUBE R
+Fig. 4.8 Hydraulic jack
+
+Working : When handle H of lever is pressed
+down by applying an effort, the valve V opens
+because of increase in pressure in the cylinder P.
+The liquid runs out from the cylinder P to the
+cylinder Q. As a result, the piston B rises up and it
+raises the car placed on the platform. When the car
+reaches the desired height, the handle H of lever is
+no longer pressed. The valve V gets closed (since
+
+83
+
+
+--- Page 7 ---
+the pressure on either side of the valve becomes
+same) so that the liquid may not run back from the
+cylinder Q to the cylinder P.
+
+(iii) Hydraulic brakes
+
+The hydraulic brakes used in cars etc., are also
+based on Pascal’s principle.
+
+Construction : Fig. 4.9 shows the hydraulic
+brake arrangement of a vehicle. It consists of a pipe
+line R containing a liquid (oil), one end of which is
+connected to the master cylinder P fitted with a
+piston A attached to the foot pedal. The other end of
+pipe R is connected to the brake arrangement of
+different wheels of the vehicle. Fig. 4.9 shows only
+one wheel connected with the pipe line. For each
+wheel, there is a wheel cylinder Q having two pistons
+B, and B,, attached to the brake shoes. The area of
+cross section of the wheel cylinder @Q is greater than
+the area of cross section of the master cylinder P.
+The brake shoes press against the rim of wheel.
+
+TOOTHER PIPELINER LIQUID
+
+PISTON A
+*
+
+qocscsscssssesbsostsssnasseness|
+esecSSecSSnsntaanccesscossseQges|
+
+PISTON B, MASTER CYLINDER P
+WHEEL CYLINDER Q
+
+BRAKE SHOE
+
+SPRING
+RIM OF WHEEL
+
+Fig. 4.9 Hydraulic brake
+
+Working : To apply brakes, the foot pedal is
+pressed due to which pressure is exerted on the liquid
+in the master cylinder P, so liquid runs out from the
+master cylinder P to the wheel cylinder Q. As a
+result, the pressure is transmitted equally and
+
+undiminished through the liquid to the pistons B,
+and B, of the wheel cylinder Q. Therefore the pistons
+B, and B, get pushed outwards and brake shoes get
+pressed against the rim of the wheel due to which
+the motion of vehicle retards. Since the area of cross
+section of piston A in the master cylinder P is less
+than that in the wheel cylinder Q, a small force
+applied at the foot pedal produces a large force on
+the pistons B, and B, of the wheel cylinder Q. This
+is the force responsible for retarding the motion of
+the vehicle. It should be noted that due to
+transmission of pressure through liquid, equal
+pressure is exerted on all wheels of the vehicle
+connected to the pipe line R.
+
+On releasing the pressure on the pedal, the liquid
+runs back from the wheel cylinder Q to the master
+cylinder P and the spring pulls the break shoes to
+their original position and forces the pistons B, and
+B, to return back into the wheel cylinder Q. Thus
+the brakes get released.
+
+Note : In all hydraulic machines, effort is less
+than load while the distance moved by effort is
+more than the distance moved by load such that
+the product of effort and the distance moved by
+effort is equal to the product of load and the
+distance moved by load (in ideal situation when
+there is no energy loss). i.e.,
+
+work done by effort = work done by load.
+
+Thus, mechanical advantage (M.A.)
+Load
+= Effort 7
+and velocity ratio (V.R.)
+distance moved by effort
+
+= distance moved by load >
+
+1
+
+Hence a hydraulic machine acts like a force
+multiplier.
+
+1. A boy weighing 60 kgf is wearing shoes with
+heel of area of cross section 20 cm?, while a
+girl weighing 45 kef is wearing sandals with heel
+of area of cross section 1-5 cm?. Compare the
+pressure exerted on ground by their heels when
+they stand on the heel of one foot.
+
+Thrust on heel of boy, F, = 60 kgf
+Area of cross section of heel of boy, A, = 20 cm?
+
+F, 60 kgf
+Pressure exerted by boy, P, = A 7 50cm?
+1 cm
+=3kgfcm? _...(i)
+
+Now thrust on heel of girl, F, = 45 kgf.
+Area of cross section of heel of girl, A, = 1-5 cm?
+
+. F,  45kef
+Pressure exerted by girl, P, = 4. =...
+2 15cm
+. ii)
+
+= 30 kgf cm
+
+84
+
+
+--- Page 8 ---
+Hence from egns, (i) and (ii)
+
+Pr _ 30_ 10
+Thus the girl’s heel exerts pressure 10 times more
+than that of the boy’s heel.
+
+Calculate the pressure due to a water column
+of height 100 m. (Take g = 10 m s~? and density
+of water = 10° kg m-).
+
+Given, h = 100 m, p = 10° kg m3, g = 10 ms
+Pressure = hpg
+
+100 x 10? x 10 = 106 N m=,
+
+At what depth below the surface of water will
+pressure be equal to twice the atmospheric
+
+pressure ? The atmospheric pressure is 10 N cm~?,
+density of water is 10° kg mand g=9-8 ms~.
+
+Given, atmospheric pressure P, = 10 N cm
+___10N
+(10-2 m)2
+
+p = 10° kg m= and g = 9-8 ms
+Pressure at a depth A below the surface of water
+= atmospheric pressure
+
++ pressure due to water column of height h.
+
+2P, =Py+hpg or hpg=P,
+
+=10°Nm2
+
+or
+
+By 105
+Hence A= — = ——— =102m
+P& = 103x9-8
+
+Thus a water column of height 10-2 m exerts a
+pressure equal to the atmospheric pressure and
+therefore at depth 10-2 m below the surface of
+water, the total pressure will be equal to twice the
+atmospheric pressure.
+
+A cube of each side 5 cm is placed inside a liquid.
+The pressure at the centre of one face of cube is
+10 Pa. Calculate the thrust exerted by the liquid
+on this face.
+
+Given, pressure P = 10 Pa,
+
+5
+
+Area of face A = 5 em x Sem = 73> mx =
+
+100
+
+= 25 x 104 m?.
+The thrust exerted by the liquid on the face
+F=PxA=10 Pax (25 x 10) m2 = 25 x 10°? N.
+A square plate of side 10 m is placed horizontally
+1 m below the surface of water. The atmospheric
+pressure is 1-013 x 10° N m~. Calculate the total
+thrust on the plate.
+(Density of water p = 10° kg m™, g = 9-8 m s-2)
+
+m
+
+Given, h = 1 m, p = 10° kg m3, g = 9-8 ms
+Atmospheric pressure P, = 1-013 x 10° N m-%,
+area of plate = 10 m x 10 m = 10? m?.
+
+85
+
+Total pressure at a point below the surface of water
+= atmospheric pressure + pressure due to the
+column of water
+=P, +hpg
+= (1-013 x 10°) + (1 x 103 x 9-8)
+1-111 x 10° N m?
+Total thrust on the plate = Pressure x Area of plate
+= (1-111 x 105) x 10?
+= 1-111 x 107 N.
+
+A vessel of base area 100 cm x 60 cm and height
+200 cm is completely filled with a liquid of density
+1-1 x 10° kgm”.
+(a) Ignoring the atmospheric pressure, find :
+(i) the thrust at the bottom of the vessel,
+
+(ii) the pressure at the bottom of the vessel,
+
+(iii) the pressure at a depth of 5 cm from the
+free surface,
+
+(iv) the net force experienced by a metal foil
+of area 10 cm? placed at a depth of 5 cm
+from the free surface,
+
+(b) The thrust at the bottom of the vessel
+if the atmospheric pressure equal to
+1 x 10° N m” is taken into account.
+Take g =9-8ms7.
+
+(a) Given, area of base of vessel = 100 cm x 60 cm,
+100 60
+— — m=-06 m2
+= 100 ™X jpg M=06m
+
+height = 200 cm, p = 1-1 x 10° kg m3, g = 9-8 ms
+Volume of the vessel = 100 cm x 60 cm x 200 cm
+
+_ 100 50 200
+= too ™* too ™* joo ™
+=12m
+
+Thrust at the bottom of the vessel
+Weight of liquid in the vessel
+Volume x density p x g
+1-2 x (1-1 x 10°) x 9-8
+1-294 x 104 N
+
+(i)
+
+“ Thrust
+(ii) Pressure at the bottom of the vessel = ,
+1.294x104 N
+= A = 216 x 10° N mr?
+
+0.6 m2
+(iii) Pressure at a depth of 5 cm (= 0:05 m) from the
+free surface
+= hpg = 0-05 x (1-1 x 103) x 9-8 = 539 N m?
+Net force on the metal foil will be zero because
+the force exerted by the liquid on each of the two
+faces (upper and lower) of foil, will be equal and
+opposite.
+Total pressure at the bottom of vessel = Atmospheric
+pressure + pressure at the bottom due to liquid column
+(1-0 x 105) + (2:16 x 104)
+(1-0 x 105) + (0-216 x 105)
+1-216 x 10° N m2
+
+(iv)
+
+(b)
+
+
+--- Page 9 ---
+. Total thrust at the bottom = Pressure x Area
+= (1-216 x 10°) x 0-6 = 7:296 x 104N.
+
+7. In Fig. 4.10, a tube of length 200 cm filled with
+a liquid of density 0-90 x 10° kg m- is placed
+inclined with the vertical such that the level A
+of liquid in the tube is at a vertical height
+100 cm from its lowest point C. There is a
+point B in the tube below the point A at a
+vertical depth 60 cm.
+
+(a) Calculate the pressure at points
+() A, (ii) B and (iii) C.
+
+(b) What will be the pressure at point C when
+the tube is made vertical ?
+
+Take atmospheric pressure = 1-013 x 10° N m7.
+
+Cc
+Fig. 4.10
+
+Given, p = 0-9 x 10° kg m™, P, = 1-013 x 10° N m?,
+g=98 ms
+
+(a) (i) Atthe point A,
+
+Pressure = Atmospheric pressure (P,)
+= 1013 x 10° Nm
+(ii) At the point B,
+Pressure= Atmospheric pressure + pressure
+due to liquid column of vertical
+height 60 cm (A = 0-6 m)
+=P, +hpg
+= (1013 x 10°) + (06 x 09 x 10°) x 98)
+= (1-013 x 10°) + (0-053 x 10°)
+= 1-066 x 10° N m?
+(iii) At the point C,
+Pressure= Atmospheric pressure + pressure
+due to liquid column of vertical
+height 100 cm (h = 1 m)
+= (1-013 x 10°) + [1 x 09 x 10°) x 9-8)
+= (1-013 x 105) + (0-0882 x 105)
+= 1-101 x 10°N m™.
+(b) On making the tube vertical, at the point C,
+Pressure = Atmospheric pressure + pressure due
+to liquid column of height 200 cm
+(h =2 m),
+= (1-013 x 10°) + [2 x (0-9 x 10°) x 9-8]
+= (1-013 x 10°) + (0-1764 x 10°)
+= 1-189 x 10° Nm.
+8. A U tube is first partially filled with mercury.
+Then water is added in one arm and an oil is
+
+added in the other arm. Find the ratio of water
+and oil columns so that mercury level is same
+in both the arms of U tube. Given : density of
+water = 10° kg m=, density of oil = 900 kg m-°.
+Since level of mercury is same in both the arms of
+the U tube, therefore
+Pressure of water column on the surface of mercury
+in one arm = Pressure of oil column on the surface of
+mercury in the other arm. ie.,
+hig =h, P28
+where h, = height of water column,
+P, = density of water = 10° kg m™®,
+h, = height of oil column, and
+P, = density of oil = 900 kg m™.
+A Pa 900 F
+hy ~ P; ~ 10 ~ 10
+9. Fig. 4.11 shows a cube of each side 15 cm immersed
+in a tub containing water of density 10° kg m~*
+such that its top surface is 20 cm below the free
+surface of water.
+
+Fig. 4.1
+
+Calculate :
+(i) the pressure at the top of cube,
+
+(ii) the pressure at the bottom of cube,
+
+(iii) the resultant pressure on cube.
+
+(iv) the resultant thrust on cube.
+Take atmospheric pressure = 10° Pa and g = 98 N kg".
+Given, atmospheric pressure P, = 10° Pa, g = 9-8 N kg”,
+depth of top of the cube from the free surface of water
+h, = 20 cm = 0-2 m, depth of bottom of cube from the free
+surface of water h, = (20 + 15) cm = 35 cm = 0-35 m
+
+(i) Pressure at the top surface of cube
+
+P, = Pi th,peg
+= 10°+(0-20 x 10° x 9-8)
+= 1-0196 x 10° Pa
+(ii) Pressure at the bottom surface of cube
+P, = Pith pe
+= 10° + (0-35 x 10° x 9-8)
+= 1-0343 x 10° Pa
+
+(iit) Resultant pressure on cube
+= P,-P, = 1.0343 x 10° - 1.0196 x 10°
+= 0-0147 x 10° Pa (or 1-47 x 10° Pa).
+
+(iv) Area of base of cube
+= 15cmx15cm
+15 15
+
+100 mx 109 = 225 x 10% m?
+
+
+--- Page 10 ---
+.. Resultant thrust on cube
+Resultant pressure x area of base
+
+(1-47 x 10°) x (225 x 10°)
+= 33-074 N (upwards)
+
+Note: The resultant pressure on cube will be upwards.
+
+10.
+
+The resultant thrust acting on cube in upward
+direction is called upthrust. Obviously this upthrust
+depends on the immersed volume (= area of
+base x height) of the cube and not on its depth
+inside water. Here we can note that if cube is
+replaced by a lamina which has negligible thickness
+(hk — 0), pressure on the two sides of lamina will
+be equal, hence upthrust on it will be zero.
+
+An air bubble rises from the bottom of a lake of
+depth 10-34 m to its surface. Compare the
+pressure on bubble at the bottom to that on
+surface. (Atmospheric pressure = 0-76 m of Hg,
+density of Hg = 13-6 x 10° kg m= and density of
+water = 10° kg m=).
+
+Given, Atmospheric pressure P, = 0-76 of Hg
+
+= 0-76 x (13-6 x 10°) x 9-8 = 1-013 x 10° N m2
+
+h=10-34m, p = 10 kgm, g=9-8ms7
+
+Pressure on bubble at the bottom of lake
+
+P, = Atmospheric pressure + pressure due to water
+
+column
+= Py+hpg
+
+(1-013 x 10°) + (10-34 x 10° x 9-8)
+2-026 x 10° N m~
+
+Pressure on bubble at the surface of lake
+
+P, = Atmospheric pressure Pp
+
+1-013 x 10° N m2
+
+From eqns. (i) and (ii)
+
+«(i)
+
+(ii)
+
+FL _ 2026x10°
+P, ~ 1013x105
+
+2
+“1
+
+Define the term thrust. State its S.I. unit. -
+What is meant by pressure ? State its S.I. unit.
+(a) What physical quantity is measured in bar ?
+(b) How is the unit bar related to the S.I. unit
+pascal ?
+Ans. (a) Pressure, (b) 1 bar = 10° pascal
+Define one pascal (Pa), the S.I. unit of pressure.
+State whether thrust is a scalar or vector ?
+Ans. Vector
+
+State whether pressure is a scalar or vector ?
+Ans. Scalar
+
+87
+
+11.
+
+9.
+10.
+
+11.
+12.
+
+In a hydraulic machine, the two pistons are of
+area of cross section in the ratio 1 : 10. What
+force is needed on the narrow piston to overcome
+a force of 100 N on the wider piston ?
+
+Given, A, (A, = 1: 10, F, =?,F,= 100 N
+By the principle of hydraulic machine
+Pressure on narrow piston = Pressure on wider piston
+
+Fy Fy
+
+A; Ay
+
+or
+
+F
+
+-Fx 00x =10N
+1 79% = Xto = .
+
+2
+The area of cross section of press plunger of a
+hydraulic press is 4 m?. It is required to
+overcome a resistive load of 400 kgf on it.
+Calculate the force required on the pump
+plunger if the area of cross section of the pump
+plunger is 0-01 m2.
+
+Let F be the force required on the pump plunger.
+
+Given, for pump plunger F, = F, A, = 0-01 m’,
+for press plunger F, = 400 kgf, A, = 4 m?,
+
+By Pascal’s law,
+Pressure on pump plunger
+= Pressure on press plunger.
+
+or —=—
+A, Ay
+. _F_ _ 400
+Lé., 0-01 = 4
+F=100x0-01 = 1 kgf.
+
+i.e., Force required on pump plunger = 1 kgf.
+
+Differentiate between thrust and pressure.
+
+How does the pressure exerted by a thrust depend
+
+on the area of surface on which it acts ? Explain
+
+with a suitable example.
+
+Why is the tip of an allpin made sharp ?
+
+Explain the following :
+
+(a) It is easier to cut with a sharp knife than with
+a blunt one. ~
+
+(b) Sleepers are laid below the rails.
+
+What is a fluid ?
+What do you mean by the term fluid pressure ?
+
+
+--- Page 11 ---
+13.
+
+19,
+
+20.
+
+21.
+
+22.
+
+24.
+
+25.
+
+26.
+27.
+28.
+
+29.
+
+30.
+
+How does the pressure exerted by a solid and a
+fluid differ ?
+Ans. A solid exerts pressure only on its base
+downwards while a fluid exerts pressure
+at all points in all directions.
+Describe a simple experiment to demonstrate that
+a liquid enclosed in a vessel exerts pressure in all
+directions.
+State three factors on which the pressure at a point
+in a liquid depends.
+
+Write an expression for the pressure at a point
+inside a liquid. Explain the meaning of the symbols
+used.
+
+Deduce an expression for the pressure at a depth
+inside a liquid.
+
+How does the pressure at a certain depth in sea
+water differ from that at the same depth in river
+water ? Explain your answer.
+
+Pressure at free surface of a water lake is P,, while
+at a point at depth h below its free surface is P,.
+(a) How are P, and P, related ? (b) Which is more
+
+P, or P,?
+
+Ans, (a) P, = P, + hpg, (b) P, > P,
+
+Explain why a gas bubble released at the bottom
+of a lake grows in size as it rises to the surface of
+lake.
+
+A dam has broader walls at the bottom than at the
+top. Explain.
+
+Why do sea divers need special protective suit ?
+State the laws of liquid pressure.
+
+A tall vertical cylinder filled with water is kept on
+a horizontal table top. Two small holes A and B
+are made on the wall of the cylinder, A near the
+middle and B just below the free surface of water.
+State and explain your observation.
+
+How does the liquid pressure on a diver change if :
+(i) the diver moves to the greater depth, and
+
+(ii) the diver moves horizontally ?
+Ans. (i) Pressure increases,
+
+(ii) Pressure remains unchanged
+State Pascal’s law of transmission of pressure.
+Name two applications of Pascal’s law.
+Explain the principle of a hydraulic machine. Name
+two devices which work on this principle.
+Name and state the principle on which a hydraulic
+press works. Write one use of the hydraulic press.
+The diagram in Fig. 4.12 shows a device which
+
+makes use of the principle of transmission of
+pressure.
+
+88
+
+FIXED SUPPORT ,
+
+CYLINDER P
+
+Fig. 4.12
+
+(i) Name the parts labelled by the letters X
+and Y.
+
+(ii) Describe what happens to the valves A and
+B and to the quantity of water in the two
+cylinders when the lever arm is moved down.
+
+(iii) Give reasons for what happens to the valves
+A and B in part (ii).
+
+(iv) What happens when the release valve is
+opened ?
+
+(v) What happens to the valve B in cylinder
+P when the lever arm is moved up ?
+
+(vi) Give a reason for your answer in part (v).
+
+(vii) State one use of the above device.
+
+31. Draw a simple diagram of a hydraulic jack and
+explain its working.
+
+32. Explain the working of a hydraulic brake with a
+simple labelled diagram.
+
+33. Complete the following sentences :
+
+(a) Pressure at a depth h in a liquid of
+density P iS eee .
+
+(b) Pressure is............00000 in all directions about
+a point in a liquid.
+
+(c) Pressure at all points at the same depth
+
+(d) Pressure at a point inside a liquid is
+soteneeeoueeesenessens to its depth.
+(e) Pressure of a liquid at a given depth is
+sevseseceeaeeeeees to the density of liquid.
+Ans. (a) hpg (b) same (c) same (d) directly
+proportional (e) directly proportional.
+
+Multiple Choice Type :
+
+1. The S.I. unit of pressure is :
+(a) Nem? (b) Pa
+(c) N (d) Nm?
+Ans. (b) Pa
+
+
+--- Page 12 ---
+2. The pressure inside a liquid of density p at a depth
+his:
+
+h
+
+(a) hpg (b) pe
+hp
+
+© | (d) hp
+
+Ans, (a) hpg
+
+3. The pressure P, at a certain depth in river water
+and P, at the same depth in sea water are related
+
+as:
+(a) P,>P, (b) P,=P,
+(c) P,}<P, (d) P, —P,= atmospheric pressure
+
+Ans. (c) P, < P,
+
+4. The pressure P, at the top of a dam and P, at a
+depth h from the top inside water (density p) are
+related as :
+
+(a) P,>P,
+(c) P,|-P,=hpeg
+
+(b) P,=P,
+(d) P,-P,=hpg
+
+Ans. (d) P, — P, = hpg
+Numericals :
+
+1. A hammer exerts a force of 1-5 N on each of the
+two nails A and B. The area of cross section of tip
+of nail A is 2 mm? while that of nail B is 6 mm?.
+Calculate pressure on each nail in pascal.
+
+Ans. On A : 7-5 x 10° pascal, On B : 2:5 x 10° pascal.
+
+2. A block of iron of mass 7-5 kg and of dimensions
+12 cm x 8 cm x 10 cm is kept on a table top on its
+base of side 12 cm x 8 cm. Calculate : (a) thrust
+and (b) pressure exerted on the table top. Take
+1 kgf = 10N. Ans. (a) 75 N (b) 7812-5 Pa
+
+3. A vessel contains water up to a height of 1-5 m.
+Taking the density of water 103 kg m3,
+acceleration due to gravity 9-8 m s~ and area of
+base of vessel 100 cm?, calculate : (a) the pressure
+and (b) the thrust, at the base of vessel.
+
+Ans. (a) 1-47 x 104 N m® (b) 147 N
+
+4. The area of base of a cylindrical vessel is 300 cm.
+Water (density = 1000 kg m7) is poured into it up
+to a depth of 6 cm. Calculate : (a) the pressure and
+(b) the thrust of water on the base. (g = 10 m s~).
+
+Ans. (a) 600 Pa, (b) 18 N
+
+5. (a) Calculate the height of a water column which
+will exert on its base the same pressure as the
+70 cm column of mercury. Density of mercury
+is 13-6 g cm.
+
+(b) Will the height of the water column in
+part (a) change if the cross section of the water
+column is made wider ?
+
+Ans. (a) 9-52 m (b) No
+
+89
+
+1].
+
+12.
+
+The pressure of water on the ground floor is
+
+40,000 Pa and on the first floor is 10,000 Pa.
+
+Find the height of the first floor.
+
+(Take : density of water = 1000 kg m™3, g= 10 ms~”)
+Ans. 3m
+
+A simple U tube contains mercury to the same level
+in both of its arms. If water is poured to a height
+of 13-6 cm in one arm, how much will be the rise
+in mercury level in the other arm ?
+
+Given : density of mercury = 13-6 x 10° kg m= and
+density of water = 10? kg m=. Ans. 1 cm
+In a hydraulic machine, a force of 2 N is applied
+on the piston of area of cross section 10 cm?. What
+force is obtained on its piston of area of cross
+section 100 cm?? Ans, 20 N
+
+What should be the ratio of area of cross section
+of the master cylinder and wheel cylinder of a
+hydraulic brake so that a force of 15 N can be
+obtained at each of its brake shoe by exerting a
+force of 0-5 N on the pedal ? Ans. 1 : 30
+
+The areas of pistons in a hydraulic machine are
+5 cm? and 625 cm?. What force on the smaller
+piston will support a load of 1250 N on the larger
+piston ? State any assumption which you make in
+your calculation. Ans. 10 N
+
+Assumption : There is no friction and no
+
+leakage of liquid.
+
+(a) The diameter of neck and bottom of a bottle
+
+are 2 cm and 10 cm respectively. The bottle
+
+is completely filled with oil. If the cork in the
+
+neck is pressed in with a force of 1-2 kgf, what
+force is exerted on the bottom of the bottle ?
+
+(b) Name the law/principle you have used to find
+the force in part (a)
+Ans. (a) 30 kgf (b) Pascal’s law
+
+A force of 50 kgf is applied to the smaller
+piston of a hydraulic machine. Neglecting friction,
+find the force exerted on the large piston, if the
+diameters of the pistons are 5 cm and 25 cm
+respectively. Ans. 1250 kgf
+
+Two cylindrical vessels fitted with pistons A and
+B of area of cross section 8 cm? and 320 cm?
+respectively, are joined at their bottom by a
+tube and they are completely filled with water.
+When a mass of 4 kg is placed on piston A,
+find : (i) the pressure on piston A, (ii) the pressure
+on piston B, and (iii) the thrust on piston B.
+Ans. (i) 0-5 kgf cm, (ii) 0-5 kgf cm-? (iii) 160 kgf
+What force is applied on a piston of area of cross
+section 2 cm? to obtain a force 150 N on the piston
+of area of cross section 12 cm? in a hydraulic
+machine ? Ans. 25 N
+
+
+--- Page 13 ---
+(B) ATMOSPHERIC PRESSURE AND ITS MEASUREMENT
+
+4.9 ATMOSPHERIC PRESSURE
+
+The earth is surrounded by air up to a height of
+about 300 km from its surface. This envelope of air
+around the earth is called atmosphere. The weight
+of air column exerts a thrust on the earth surface.
+The thrust exerted on unit area of the earth surface
+is called the atmospheric pressure. Thus
+
+atmospheric pressive on the ‘serfpGeej eam
+Note : The weight of air column over 1 cm?
+area on the earth surface is nearly 1 kgf, so the
+atmospheric pressure on the earth surface is about
+1 kgf per cm? (= 1 kgf/1 cm? = 10 N/10~* m?
+= 10° N m”). This implies that a thrust of about
+100,000 N acts on every 1 m? of the surface of
+objects on the earth. The average surface area of
+a human body is about 2 m?, therefore the
+atmosphere exerts a total thrust of about 2 x 105 N
+on our body. However, we are not aware of this
+enormous thrust (or load) on us because the
+pressure of our blood (i.e., blood pressure),
+balances it. The blood pressure is slightly more
+than the atmospheric pressure. However, at high
+altitude, the atmospheric pressure becomes less
+because the height of air column above that altitude
+is less than at the earth surface. As a result, at high
+altitudes the blood pressure becomes much more
+than the atmospheric pressure and nose bleeding
+may occur due to excess blood pressure.
+4.10 DEMONSTRATION OF ATMOSPHERIC
+PRESSURE
+
+The existence of atmospheric pressure can be
+easily demonstrated in laboratory by the following
+simple experiment.
+Collapsing tin can experiment
+
+Take a thin tin can fitted with an airtight
+stopper. The stopper is removed and a small
+quantity of water is boiled in the can. Gradually
+the steam occupies the entire space of can
+by expelling the air from it [Fig 4.13(a)].
+The stopper is then tightly replaced and
+simultaneously the flame beneath the can is
+removed. Cold water is then poured over the can.
+It is observed that the can collapses inwards as
+
+shown in Fig 4.13(b). The reason is that
+initially the pressure due to steam inside the
+heated can is same as the air pressure outside the
+can [Fig. 4.13(a)]. But on pouring cold water
+over the can, fitted with a stopper [Fig. 4.13(b)],
+the steam inside the can condenses, producing
+water and water vapours at a very low pressure.
+Now the air pressure outside the can exceeds the
+vapour pressure inside the closed can.
+Consequently, the excess atmospheric pressure
+outside the can causes it to collapse inwards.
+This demonstrates that the atmosphere outside
+the can exerts a pressure which is the
+
+atmospheric pressure.
+COLD WATER
+
+TIN CAN
+
+AR —*> PRESSURE
+PRESSURE
+qe
+WATER —fis===2== «
+
+(b)
+
+(a)
+Fig. 4.13 Collapsing can experiment
+
+4.11 COMMON CONSEQUENCES OF THE
+ATMOSPHERIC PRESSURE
+
+(i) Sucking a drink with a straw : When a drink
+is sucked with a straw (Fig 4.14), first the air
+in straw goes into our lungs due to which the
+air pressure inside the straw decreases. The
+atmospheric pressure acting on the surface of
+drink being more than the pressure inside the
+straw, forces the drink to move up into the
+straw which then reaches into our mouth.
+
+ATMOSPHERIC
+PRESSURE
+
+viz
+Fig. 4.14 Sucking a drink with a straw
+
+
+--- Page 14 ---
+(ii) Filling a syringe with a liquid : When
+
+syringe is kept with its opening just inside a
+liquid and its plunger is pulled up in the
+barrel (Fig. 4.15), the pressure of air inside
+the barrel below the plunger becomes much
+less than the atmospheric pressure acting on
+the liquid. As a result, the atmospheric
+pressure forces the liquid to rise up in the
+syringe.
+
+PLUNGER
+
+ATMOSPHERIC
+PRESSURE
+
+Ce ee
+ee ee ee we oe oe
+—sw ew ew ew e— ew we ee eS eS
+wee we ew ewe ew ee ee = eS
+
+Fig. 4.15 Action of syringe
+
+In a similar manner, in a water pump,
+water is drawn up from a well on pulling the
+piston up.
+
+(iii) Filling of ink into a fountain pen : As a
+
+syringe is filled with a liquid due to the
+atmospheric pressure, ink also gets filled
+into a fountain pen. The pen is kept with its
+nib inside ink. When the rubber tube of
+fountain pen is pressed, almost all the air of
+rubber tube expels out in form of bubbles
+through the ink. When the rubber tube is
+released, the pressure inside the rubber tube
+is much less than the atmospheric pressure
+acting on the ink. As a result, the ink rises
+into the tube through the capillary below the
+nib of the pen.
+
+(iv) Action of rubber suckers : Rubber suckers
+
+are often used as hooks in the kitchen and
+bathroom. For this, rubber sucker is pressed
+hard against the wall (Fig. 4.16) so that the
+air between the sucker and the wall is
+forced out, creating a vacuum in between.
+The atmospheric pressure acting on it from
+outside then holds the sucker alongwith the
+hook on it firmly against the wall. For firm
+grip, the wall must be smooth.
+
+91
+
+(v)
+
+(vi)
+
+AIR IS FORCED OUT
+RUBBER SUCKER
+
+ATMOSPHERIC
+PRESSURE
+
+HOOK
+
+WALL
+AIR [S FORCED OUT
+Fig. 4.16 Action of rubber sucker
+
+Action of a siphon system : Water is supplied
+from a higher level to a lower level using a
+siphon system. Fig. 4.17 shows the siphon
+system in which there are two vessels P and
+Q. Vessel P is at a higher level than the vessel
+Q. Water contained in the vessel P is passed
+to the vessel Q by means of a glass (or rubber)
+tube AB with one end A kept immersed inside
+water in vessel P, while the other end B is kept
+open in vessel Q. To transfer water from vessel
+P to vessel Q, first air is sucked out from the
+tube at the lower end B of it, so that pressure
+inside the tube decreases. It becomes less than
+the atmospheric pressure acting above the
+water surface in vessel P. Due to excess
+presure at A, water rises in the tube through
+the end A, so as to reach up to the level C.
+Then water flows down through the tube from
+the higher level C to the lower level B in the
+vessel Q due to the difference in pressure of
+water at the levels C and B.
+
+ATMOSPHERIC
+PRESSURE
+
+Fig. 4.17 Siphon system
+
+Taking out oil from a sealed oil can : It is
+difficult to take out oil from a completely filled
+and sealed can by making a single hole in it.
+The reason is that there is no air inside a
+completely filled and sealed oil can. When the
+can is tilted, the pressure due to the column of
+oil (inside the can) at the hole is much less than
+
+
+--- Page 15 ---
+the atmospheric pressure outside the can, so the
+oil does not flow out of the hole. But if one more
+hole is made at the opposite end on the top
+cover of the can, air outside the can will enter
+in through this hole and will exert atmospheric
+pressure on the oil from inside alongwith the
+pressure due to oil column.This results in the
+increase in pressure on oil, and so it easily flows
+out through the hole of the can.
+
+4.12 MEASUREMENT OF ATMOSPHERIC
+PRESSURE
+
+Atmospheric pressure at a place is measured
+by a barometer. Thus
+
+The following three types of barometers are
+commonly used :
+(i) Simple barometer (ii) Fortin’s barometer
+(ii) Aneroid barometer
+
+(i) Simple barometer
+
+In 1643, Torricelli first designed a simple
+barometer using mercury as the barometric liquid.
+
+Construction : A
+simple barometer has a
+hard glass tube of about
+1 m length closed at
+one end. The tube is
+completely filled with ATMOSPHERIC
+pure mercury such thatno PRESSURE
+air bubble remains inside
+the tube. The open end of
+tube is closed with thumb troucH
+and the tube is then made
+upside down several times
+so as to force out any air Fig. 4.18 Simple barometer
+bubble which might have
+entered in it. The completely filled tube with its open
+end closed by thumb is then inverted into a trough of
+mercury in such a way that the open end of tube is
+well immersed in mercury and the tube stands vertical
+as shown in Fig. 4.18. Now the thumb is removed.
+_ Care is taken that no air enters in the glass tube.
+
+GLASS TUBE
+VACUUM
+
+MERCURY
+
+MERCURY
+
+It is seen that the mercury level in tube falls
+till its height above the mercury level in the
+trough becomes h (= nearly 76 cm) as shown in
+Fig. 4.18.
+
+Explanation : In Fig 4.18, the atmospheric
+pressure acts at all points (such as C) on the surface
+of mercury in the trough. The pressure at point A is
+due to the weight (or thrust) of the mercury column
+AB above it. When mercury level in the tube
+becomes stationary, the pressure inside tube at the
+point A which is at the level of the point C, must be
+same as that at the point C. Thus the vertical height
+of mercury column in it (i.e., AB = h) is called the
+barometric height. The space left empty above the
+mercury column in the tube is called the torricellian
+vacuum. Ideally there should be no air in this space.
+
+Working : If the atmospheric pressure
+increases, the pressure at point C increases and
+mercury from trough flows into the tube thereby
+increasing the vertical height of mercury column
+in the tube so as to equalise pressures at the points
+A and C. On the other hand, when the atmospheric
+pressure decreases, the vertical height of the
+column in tube decreases to balance it. Thus, the
+vertical height of mercury column from the
+mercury surface in trough to the level in tube, is
+a measure of the atmospheric pressure.
+
+Barometric height at normal temperature
+and pressure : The barometric height at normal
+temperature and pressure at sea level is 0-76 m
+(or 76 cm or 760 mm) of mercury.
+
+Factors affecting the barometric height :
+The barometric height at a place changes only
+when the atmospheric pressure at that place
+changes.
+
+Note : (1) The barometric height remains
+same even when the shape of tube is changed or
+the length of tube submerged inside mercury in
+the trough is changed or tube is tilted from its
+vertical position as shown in Fig 4.19.
+
+TORRICELLIAN
+VACUUM
+
+ATMOSPHERIC >%
+PRESSURE
+
+Fig. 4.19 Tilting of the barometer tube
+
+92
+
+
+--- Page 16 ---
+(2) In an accurate (or true) barometer, the
+
+empty space above the mercury column in tube is
+perfect vacuum. If somehow air enters the empty
+space or a drop of water (or liquid) gets into the
+tube, it will immediately change into vapour in
+the vacuum space and the air (or the vapours of
+liquid) will exert pressure on the mercury column
+due to which the barometric height will decrease.
+Such a barometer is a faulty barometer. The
+barometric height of a faulty barometer will be
+less than the actual atmospheric pressure.
+
+Advantages of using mercury as a barometric
+liquid
+
+A barometre can be made by using any liquid,
+but the use of mercury as a barometric liquid is
+preferred for the following reasons :
+
+1. The density of mercury (= 13-6 x 103 kg m-*) is
+greater than that of any other liquid, so
+only 0-76 m height of mercury column is needed
+to balance the normal atmospheric pressure. Use
+of other liquids require much longer tube.
+
+2. The vapour pressure of mercury is negligible,
+so the vapours in the torricellian vacuum does
+not affect the barometric height.
+
+3. The mercury neither wets nor sticks to the glass
+tube therefore it gives the accurate reading.
+
+4. The surface of mercury is shining and opaque.
+Therefore, it is easily seen while taking the
+observation.
+
+5. It can easily be obtained in a pure state.
+
+Disadvantages of using water as a barometric
+liquid
+
+If water is used in a barometer, it has the
+following disadvantges :
+
+1. The density of water is low (= 10° kg m3), so
+nearly 10-4 m height of water column is needed
+to balance the normal atmospheric pressure.
+But it is highly inconvenient to take a tube of
+height 10-4 m for a barometer.
+
+2. The vapour pressure of water is high, so its
+vapours in the vacuum space will make the
+reading inaccurate.
+
+3. Water sticks with the glass tube and wets it, so
+the reading becomes inaccurate.
+
+93
+
+4. Water is transparent, so’its surtace is not easily
+seen while taking the observation.
+
+Demerits of a simple barometer
+(i) There is no protection for the glass tube.
+
+(ii) The surface of mercury in the trough is open
+therefore there are chances that the impurities
+may fall in and get mixed with the mercury of
+the trough.
+
+(iii) It is inconvenient to move the barometer from
+one place to another i.e. it is not portable.
+
+(iv) A scale can not be fixed with the tube (or it can
+not be marked on the tube) to measure the
+atmospheric pressure. The reason is that when
+the atmospheric pressure changes, the height
+of mercury column in the tube changes. As a
+result, the level of free surface of mercury in
+the trough changes due to the flow of mercury
+in or out of the tube. Therefore, the free surface
+of mercury in trough will not remain coinciding
+with the zero mark of scale if a scale is fixed
+with it to measure the barometric height.
+
+The above demerits have been removed in the
+Fortin barometer.
+
+(ii) Fortin barometer
+
+The Fortin barometer is a modified form of a
+simple barometer. It is used in laboratory to
+measure the atmospheric pressure. It also uses
+mercury as the barometric liquid.
+
+Construction : The Fortin barometer shown
+in Fig. 4.20 consists of a narrow glass tube of
+length about 85 cm to 90 cm. This tube is closed at
+one end and has a opening at the other end. It is
+completely filled with pure mercury and is kept
+inverted in a glass vessel having a leather cup at
+the bottom. The cup contains mercury and behaves
+like a trough. The open end of tube is dipped into
+mercury of the cup. The glass tube is protected by
+enclosing it in a brass case. At the bottom of the
+brass case, there is a screw S, the end of which
+supports the leather cup of the glass vessel. The
+leather cup can be raised up or lowered down with
+the help of the screw S to adjust the mercury level
+in the glass vessel. The mercury level in the glass
+vessel is adjusted to coincide with the zero mark
+of the main scale graduated in mm attached with
+the brass tube. The zero mark of the fixed scale is
+
+
+--- Page 17 ---
+MERCURY
+
+a SCREW S
+Fig. 4.20 Fortin barometer
+
+at the tip of an ivory pointer J which is distinctly
+visible from outside. The upper part of the brass
+tube has a slit in it so as to note the mercury level
+in the glass tube. For accurate measurement, a
+vernier scale is provided which slides over the
+main scale by using the screw R. A thermometer T
+is also mounted on the case which records the
+room temperature.
+
+Measurement : To measure the atmospheric
+pressure, first the level of mercury in the leather
+cup is raised up or lowered down with the help
+of the screw S so that the mercury level in the
+glass vessel just touches the ivory point /. The
+position of mercury level in the barometer tube
+is noted with the help of the main scale and the
+vernier scale. The sum of vernier scale reading
+and the main scale reading gives the barometric
+height.
+
+(tii) Aneroid barometer
+
+This barometer has no liquid. It is light and
+portable and therefore, it can easily be carried from
+one place to another. It is calibrated to read directly
+the atmospheric pressure. It needs no prior
+adjustment like Fortin barometer.
+
+Construction : Fig. 4.21 (a) shows the main
+parts of an aneroid barometer. It consists of a
+metallic box B which is partially evacuated. The
+top D of box is springy and is corrugated in form
+of a diaphragm as shown in Fig. 4.21 (b). At the
+middle of diaphragm, there is a thin rod L toothed
+
+CIRCULAR SCALE
+
+(b)
+Fig. 4.21 Aneroid barometer
+
+at its upper end. The teeth of rod fit well into the
+teeth of a wheel S attached with a pointer P which
+can slide over a circular scale. The circular scale
+is graduated and is initially calibrated with a
+standard barometer so as to read the atmospheric
+pressure directly in terms of the barometric height.
+
+Working : When atmospheric pressure
+increases, it presses the diaphragm D and the rod
+L gets depressed. The wheel S rotates clockwise
+and pointer P moves to the right on the circular
+scale. On the other hand, when atmospheric
+pressure decreases, the diaphragm D bulges out due
+to which the rod L moves up and the wheel S$ rotates
+anti-clockwise. Consequently, the pointer moves
+to the left.
+
+Uses of a barometer
+A barometer is used for the following three
+purposes:
+
+1. To measure the atmospheric pressure at a
+place.
+
+2. For weather forecasting.
+3. As an altimeter to measure the height.
+
+4.13 VARIATION OF ATMOSPHERIC
+PRESSURE WITH ALTITUDE
+
+‘The atrnospheric pressure decreases with altitude.
+‘mainly due to the following two factors:
+(i) decrease in height of air column which causes
+
+a linear decrease in the atmospheric-pressure,
+Gi) decrease in density: of air which, causes a
+' non-linear* decrease in atmospheric pressure.
+
+* The decrease in density of air with altitude is not linear.
+It is rapid at low altitude but slow at high altitude.
+
+94
+
+
+--- Page 18 ---
+(i) The atmosphere can be considered to consist
+of a number of parallel air layers. Each layer
+experiences a pressure on it due to the thrust (or
+weight) of the air column above it. Therefore, as
+we go up, the height of air column above us
+decreases and so thrust exerted by the air column
+also decreases, which results in the decrease of
+atmospheric pressure with increase in altitude.
+
+(ii) Since the lower air layers get compressed
+due to the weight (or thrust) of the upper layers,
+therefore, the density of air layers is more near the
+earth surface and it decreases as we go higher and
+higher. The decrease in density with altitude is not
+linear. It is rapid at low altitude (near the sea
+level) and is slow at higher altitude. Due to
+decrease in density of air with altitude, the
+atmospheric pressure also decreases with altitude
+in a non-linear way.
+
+Fig. 4.22 shows the variation of atmospheric
+pressure with height above the sea level. At Mount
+Everest, the atmospheric pressure is only 30% of
+the atmospheric pressure at sea level.
+
+90
+i) 75
+Ge T 60
+r3D
+Ax 45
+Ow =
+=o 30
+EOS
+
+16
+
+0 6 12 18 24 30 36 40
+HEIGHT ABOVE —>
+SEA LEVEL (km)
+Fig. 4.22 Variation in atmospheric pressure
+with altitude
+
+Consequences : (1) At high altitudes, since
+the atmospheric pressure is less, breathing becomes
+difficult and nose bleeding may occur due to excess
+of pressure of blood over the atmospheric pressure.
+Therefore blood pressure patients are not advised
+to go to hill stations or higher altitudes.
+
+(2) At high altitude, a fountain pen leaks. The
+reason is that the fountain pen filled with ink
+contains some air at a pressure equal to the
+atmospheric pressure on the earth surface. When
+pen is taken to an altitude, atmospheric pressure at
+attitude is low so the excess pressure inside the
+rubber tube forces the ink to leak out.
+
+95
+
+4.14 WEATHER FORECAST BY THE USE
+OF BAROMETER
+
+The atmospheric pressure at a place is affected
+by the change in temperature and the amount of
+water vapours present in air at that place. The
+reason is that the density of air changes with the
+change in temperature and with the change of water
+vapours present in it. The density of air decreases
+with the increase in temperature and also with the
+increase in the amount of moisture present in it
+(i.e., the density of moist or humid air is less than
+the density of dry air). Consequently, the
+atmospheric pressure (or the barometric height)
+gradually decreases as the temperature or the
+presence of moisture increases. Thus, the change
+in the atmospheric pressure helps us to know about
+the weather in advance. By seeing the barometric
+height, the weather forecast can be made as follows:
+
+(i) If the barometric height at a place suddenly
+falls, it means that the pressure at that place
+has suddenly decreased which indicates the
+coming of a storm or cyclone.
+
+If the barometric height gradually falls, it
+indicates that the moisture is increasing i.e.,
+there is a possibility of rain.
+
+(ii)
+
+A gradual increase in the barometric height
+means that the moisture in air is decreasing.
+This indicates the coming of a dry weather.
+
+(iii)
+
+(iv) A sudden rise in the barometric height means
+the flow of air from that place to other
+surrounding low pressure areas. This indicates
+the coming of an extremely dry weather.
+
+(v) If there is no abrupt change in barometric
+
+height, it indicates that the atmospheric
+pressure is normal i.e., the weather will
+remain unchanged.
+
+4.15 ALTIMETER
+
+An altimeter is an aneroid barometer, but it is
+used in aircraft to measure its altitude. Since
+atmospheric pressure decreases with the increase
+in height above the sea level, therefore a
+barometer which measures the atmospheric
+pressure, can be used to determine the altitude of
+a place above the sea level. Its scale is calibrated
+in terms of height of ascent with height increasing
+towards left because the atmospheric pressure
+decreases with increase of height above the sea
+level.
+
+
+--- Page 19 ---
+1.
+
+Atmospheric pressure P = hog
+
+‘The atmospheric pressure at a place is 75 cm of
+Hg’. What does it mean ? Express it in N m~*.
+Use : density of Hg = 13-6 gcm™, g = 9-8 ms~?.
+The atmospheric pressure at a place is 75 cm of Hg.
+It means that the atmospheric pressure at that place
+is equal to the pressure due to mercury column of
+height 75 cm.
+
+Given: h=75cm = 0-75 m,g=9-8ms~%,
+p = 13-6 g cm? = 13-6 x 10°? kg m ~.
+
+= 0-75 x (13-6 x 10°) x 9-8
+= 9-996 x 104 Nm.
+The upper blood pressure of a patient is 160 cm
+of Hg whereas the normal blood pressure should
+be 120 cm of Hg. Calculate the extra pressure
+generated by the heart in S.I. unit. Take density
+of Hg = 13600 kg m™ and g = 9-8 m s~*.
+Given, p = 13600 kg m™, g = 9-8 m s~*
+Extra pressure = 160 — 120 = 40 cm = 0-4 m of Hg
+From relation P = hp g
+Extra pressure P = 0-4 x 13600 x 9-8
+= 5-3312 x 104 Pa.
+
+(a) What length of water column is equivalent to
+0-76 m of mercury column ? State the
+assumption made in your calculation.
+
+(b) Can water be used as barometric liquid ?
+Give a reason.
+
+(a) Given : height of mercury column h, = 0-76 m
+
+Let h, be the height of water column which will
+
+produce same pressure as height h, (= 0-76 m) of
+mercury column.
+
+Then hips = hp.g
+
+— APL
+P2
+
+Assumption : The density of mercury is 13-6 times
+
+the density of water i.e., p, = 13-6 p,
+
+(b) Water cannot be used as the barometric liquid
+because it will then require the barometer tube
+of length more than 10-34 m which will be highly
+inconvenient.
+
+A mercury barometer reads 75 cm. Now 3 cm? of
+
+atmospheric air is introduced into the tube. The
+
+mercury falls to a height of 65 cm and the length
+of air column above the mercury is found to be
+
+15 cm. Calculate the cross sectional area of the
+
+barometer tube.
+
+Initial volume of air V, = 3 cm? at a pressure
+
+P, = atmospheric pressure = 75 cm of mercury.
+
+hy = 0-76 x 13-6 = 10-34 m.
+
+The level of mercury falls to 65 cm because the air in
+the tube exerts pressure on it. Therefore, pressure of
+air inside the tube, P, = 75 — 65 = 10 cm of Hg.
+
+Given, length of air column = 15 cm. If A cm7is the
+area of cross section of the tube, then volume of the
+trapped air V, = 15 x A cm’,
+
+By Boyle’s law, P,V, = P2V,
+75 x 3=10x (15 x A)
+
+_ 75x3 _ 4. 2
+
+A= joxis = PS cm.
+
+What do you understand by atmospheric pressure ?
+Write the numerical value of the atmospheric
+pressure on the surface of the earth in pascal.
+
+Ans. 1-013 x 10° pascal
+What physical quantity is measured in torr ? How
+is it related to the S.I. unit of the quantity ?
+
+Ans. Atmospheric pressure, 1 torr = 133-28 Pa
+Name the physical quantity which is expressed in the
+unit ‘atm’. State its value in pascal.
+
+We do not feel uneasy even under the enormous
+pressure of atmosphere above as well as around
+us. Give a reason.
+Describe an experiment to demonstrate that air
+exerts pressure.
+Explain the following :
+
+(i) A balloon collapses when air is removed from it.
+(ii) Water does not run out of a dropper unless its
+
+rubber bulb is pressed.
+
+96
+
+11.
+
+12.
+
+13.
+
+(iii) Two holes are made in a sealed tin can to take
+out oil from it.
+Why does the liquid rise in a syringe when its
+piston is pulled up ?
+How is water drawn up from a well by a water
+pump ?
+A bell jar connected to a vacuum pump contains a
+partially inflated balloon. On creating vacuum inside
+the bell jar, balloon gets more inflated. How does
+the pressure change : increase, decrease or remains
+same, inside the (a) bell jar and (b) balloon ?
+Ans. (a) decrease, (b) decrease
+
+What is the purpose of a barometer ?
+
+Ans. To measure the atmospheric pressure
+What is a barometer ? How is a simple barometer
+constructed ?
+Explain how is the height of mercury column in
+
+
+--- Page 20 ---
+20.
+
+2i.
+
+22.
+
+23.
+
+24,
+
+25.
+
+26.
+
+27.
+
+29.
+
+30.
+31.
+
+the tube of a simple barometer, a measure of the
+
+atmospheric pressure.
+Tliustrate with the help of a labelled diagram of a
+simple barometer that the atmospheric pressure at
+a place is 76 cm of Hg.
+Why is the barometric height used as a unit to
+express the atmosphric pressure ?
+What is meant by the statement ‘the atmospheric
+pressure at a place is 76 cm of Hg’? State its value
+in Pa. Ans. 1-013 x 10° Pa
+How will you show that there is vacuum above
+the surface of mercury in a barometer ? What name
+is given to this vacuum ?
+How is the barometric height of a simple barometer
+affected if
+(a) its tube is pushed down into the trough of
+mercury?
+(b) its tube is slightly tilted from vertical ?
+(c) a drop of liquid is inserted inside the tube ?
+Ans. (a) remains unaffected (b) remains unaffected
+(c) decreases
+State two uses of a barometer.
+Give two reasons for the use of mercury as a
+barometric liquid.
+Give two reasons why water is not a suitable
+barometric liquid.
+Mention two demerits of a simple barometer and
+state how they are removed in a Fortin barometer.
+Draw a simple labelled diagram of a Fortin
+barometer and state how it is used to measure the
+atmospheric pressure.
+What is an aneroid barometer ? Draw a neat and
+labelled diagram to explain its construction and
+working.
+State two advantages of an aneroid barometer over
+a simple barometer.
+How is the reading of a barometer affected when
+it is taken to (i) a mine, and (ii) a hill ?
+Ans. (i) increases (ii) decreases.
+How does the atmospheric pressure change with
+altitude ? Draw an approximate graph to show this
+variation.
+
+State two factors which affect the atmospheric
+pressure as we go up.
+
+Why does a fountain pen leak at a high altitude ?
+Why does nose start bleeding on high mountains ?
+What is an altimeter ? State its principle. How is
+its scale calibrated ?
+
+regarding weather :
+(a) gradual fall in the mercury level,
+(b) sudden fall in the mercury level,
+(c) gradual rise in the mercury level ?
+
+Multiple choice type :
+
+1.
+
+2.
+
+3.
+
+The unit torr is related to the barometric height
+as :
+(a) 1 torr = 1 cm of Hg (b) 1 torr = 0-76 m of Hg
+(c) 1 torr = 1 mm of Hg (d) 1 torr= 1m of Hg
+Ans. (c) 1 torr = 1 mm of Hg
+The normal atmospheric pressure is :
+(a) 76 m of Hg (b) 76 cm of Hg
+(c) 76 Pa (d) 76 N m?
+Ans. (b) 76 cm of Hg
+The atmospheric pressure at earth surface is P,
+and inside mine is P,. They are related as :
+(a) P, =P, (b) P| > P,
+(c) P, <P, (d) P,=0
+Ans. (c) P, < P,
+
+Numericals :
+
+1.
+
+Convert 1 mm of Hg into pascal. Take density of
+Hg = 13-6 x 10° kg m® and g = 9-8 m s~.
+
+Ans. 133-28 Pa
+At a given place, a mercury barometer records a
+pressure of 0-70 m of Hg. What would be the
+height of water column if mercury in barometer is
+replaced by water ? Take density of mercury to be
+13-6 x 10° kg m=. Ans. 9-52 m
+At sea level, the atmospheric pressure is 76 cm of
+Hg. If air pressure falls by 10 mm of Hg per 120 m
+of ascent, what is the height of a hill where the
+barometer reads 70. cm Hg. State the assumption made
+by you. Ans. 720 m
+
+Assumption : Atmospheric pressure falls linearly
+with ascent.
+
+At sea level, the atmospheric pressure is
+1-04 x 10° Pa. Assuming g = 10 m s~ and density
+of air to be uniform and equal to 1-3 kg m™,
+find the height of the atmosphere. Ans. 8000 m
+
+Assuming the density of air to be 1-295 kg m=},
+find the fall in barometric height in mm of Hg at
+a height of 107 m above the sea level. Take density
+of mercury = 13-6 x 10° kg m=.
+
+Ans. 10 mm of Hg
+
+97

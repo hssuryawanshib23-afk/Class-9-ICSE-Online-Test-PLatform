@@ -1,0 +1,2557 @@
+
+Chapter 5 - Upthrust in fluids and Archimedes principle and floatation
+--- Page 1 ---
+UPTHRUST IN FLUIDS, ARCHIMEDES’
+PRINCIPLE AND FLOATATION
+
+Buoyancy, Archimedes’ principle, floatation, relationship with density; relative density, determination of relative
+
+density of a solid.
+Scope.: . Buoyancy, upthrust (F,); deft
+characteristic properties of uptheust; AR
+
+ent cases, F, > = or < weight W of the body immersed;
+. principle; explanation of cases where. bodies with density
+
+is. immersed. R.D. and Archimedes’ principle. Experimental
+
+deterithiations of R.D. of a solid and ix
+
+between. the density of a floating ‘ody, dennity*9
+of the body immersed; (p,/p, = V/V 3s. appar
+iceberg, balloons, ete. Simple numerical’ probles
+
+enser than water. Floatation; principle of floatation; relation
+‘the liquid in which it is floating and the fraction of volume
+‘ weight of floating object; application to ship, submarine,
+involving Archimedes’ principle and floatation.
+
+(A) UPTHRUST AND ARCHIMEDES’ PRINCIPLE
+
+- §.1 BUOYANCY AND UPTHRUST
+
+When a body is partially or wholly immersed
+in a liquid, an upward force acts on it. This
+upward force is known as upthrust or buoyant
+force. It is denoted by the symbol F,. Thus
+
+The upward force exerted on a body by thie fliiid in
+
+which it is submerged, is called the upthrust. or
+buoyant force.
+
+The property of liquid to exert an upward
+force on a body immersed in it, is called
+buoyancy. This property can be demonstrated by
+the following experiments.
+
+Exp. 1. Pushing an empty can into water : Take an
+empty can. Close its mouth with an airtight stopper. Put
+it in a tub filled with water. It floats with a large portion
+of it above the surface of water and only a small portion
+of it below the surface of water.
+
+If we push the can into water, we feel an upward
+force which opposes the push and we find it difficult to
+push the can further into water. It is also noticed that as
+the can is pushed more and more into water, more and
+more force is needed to push the can further into water,
+till it is completely immersed. When the can is fully
+inside water, a constant force is still needed to keep it
+stationary in that position. Now if the can is released at
+this position, it is noticed that the can bounces back to
+the surface and starts floating again.
+
+Exp. 2. Pushing a cork into water : If a piece of cork is
+placed on the surface of water in a tub, it floats with
+
+nearly 2th of its volume inside water. If the cork is
+
+pushed into water and then released, it again comes to
+the surface of water and floats. If the cork is kept
+
+immersed, our fingers experience some upward force.
+The behaviour of cork is similar to that of the empty can.
+
+Explanation : When the can or cork is put in
+the tub of water, two forces act on it : (i) its weight
+(i.e., the force due to gravity) W which pulls it
+downwards, and (ii) the upthrust F’, due to water
+which pushes the can or cork upwards. It floats in
+the position when the two forces become equal in
+magnitude (i.e., W = F,). Now as the can or cork
+is pushed more and more inside water, the upthrust
+F,, exerted by water on it increases and becomes
+maximum (= F,) when it is completely immersed
+in water. So when it is released, the upthrust F)
+exerted by water on it being greater than its weight
+W (or force due to gravity), it rises up. To keep the
+can or cork immersed, an external downward force
+
+(= F;, — W) is needed to balance the net upward
+force.
+Note : Like liquids, gases also have the
+
+property of buoyancy, i.e., a body immersed (or
+placed) in a gas also experiences an upthrust. All
+objects including ourselves, are also acted upon
+by a buoyant force due to air, but we do not feel it
+because it is negligibly small as compared to our
+own weight. On the other hand, a balloon filled
+with hydrogen (or any gas less denser than air)
+rises up because the upthrust (or buoyant force) on
+balloon due to the surrounding air is more than the
+weight of balloon filled with the gas.
+
+Condition for a body to float or sink in
+a fluid : When a body is immersed in a fluid,
+two forces act on the body : (i) the weight W of
+
+98
+
+
+--- Page 2 ---
+the body which acts vertically downwards and
+(ii) the upthrust F, which acts vertically
+upwards. We have noticed that the upthrust
+depends on the submerged portion of the body.
+It increases as the submerged portion of body
+inside the fluid increases and becomes maximum
+(= F;) when the body is completely immersed
+inside the fluid. Fig. 5.1 shows a body held
+completely immersed in a fluid with two forces
+W and F >, acting on it.
+F‘, (Max. upthrust)
+
+Fig. 5.1 Forces acting on a body held immersed
+inside a liquid
+Depending upon the density of the fluid, the
+maximum buoyant force F, can be greater than,
+equal to or less than the weight W of the given
+body. Whether the body will float or sink in a
+fluid, depends on the relative magnitudes of forces
+W and F, (buoyant force when the body is fully
+immersed).
+(i) If F4,> Wor F%, = W, the body will float
+(it will not sink). If F’, > W, the body will
+float partly immersed with only that much
+part of it inside liquid, the upthrust F, due
+to which becomes equal to the weight W of
+body (i.e., F, = W). But if F’, = W, the
+body will float with whole of it immersed
+inside the liquid. Thus for a floating body,
+net force acting downwards (i.e., apparent
+weight) is zero.
+If F, < W, the body will sink due to the net
+force (W — F;,) acting on the body downwards.
+If m is the mass of body, it will go down into
+the liquid with an acceleration a such that
+ma=W-F,or a=(W- F,)/m. Here we
+have ignored the viscous force of the liquid.
+Unit of upthrust : The upthrust, being a
+force, is measured in newton (N) or kef.
+5.2 CHARACTERISTIC PROPERTIES OF
+UPTHRUST
+The upthrust has the following three
+characteristic properties :
+
+(ii)
+
+(i) Larger the volume of body submerged in a
+fluid, greater is the upthrust.
+
+(ii) For same volume inside the fluid more the
+density of fluid, greater is the upthrust.
+
+(iii) The upthrust acts on the body in upward
+direction at the centre of buoyancy i.e., the
+centre of gravity of the displaced fluid.
+
+(i) Larger the volume of body submerged in
+
+a fluid, greater is the upthrust
+
+In the experiment of pushing an empty can or
+cork into water as described above, it is
+experienced that the upthrust on the body due
+to water increases as more and more volume of it
+is immersed into water, till it is completely
+immersed. .
+
+Similarly, when a bunch of feathers and a
+pebble of same mass are allowed to fall in air,
+the pebble falls faster than the bunch of feathers.
+The reason is that upthrust due to air on pebble
+is less than that on the bunch of feathers because
+the volume of pebble is less than that of the bunch
+of feathers of same mass. However in vacuum,
+both the bunch of feathers and pebble will fall
+together because there will be no upthrust.
+
+(ii) For same volume inside the fluid more the
+
+density of fluid, greater is the upthrust
+
+If we place a piece of cork A into water and
+another identical cork B into glycerine (or mercury),
+we notice that the volume of cork B immersed in
+glycerine (or mercury) is smaller as compared to
+the volume of cork A immersed in water. The
+reason is that the density of glycerine (or mercury)
+is more than that of water. Now if we want to
+immerse cork B in glycerine to the same extent as
+cork A in water, then an additional force is needed
+on cork B, to immerse it to the same level as cork
+A. This shows that for same volume of a body inside
+the liquid, a denser liquid exerts a greater upthrust.
+
+(iti) The upthrust acts on the body in upward
+direction at the centre of buoyancy (i.e., the
+centre of gravity of the displaced liquid)
+
+For a uniform body completely immersed
+inside a liquid, the centre of buoyancy coincides
+
+with the centre of gravity of the body (Fig. 5.1).
+
+But if a body floats in a liquid with its part
+
+submerged (Fig. 5.2), the centre of buoyancy B is
+
+at the centre of gravity of the displaced liquid
+
+(i.e., at the centre of gravity of the immersed part
+
+99
+
+
+--- Page 3 ---
+Fig. 5.2 A body floating with part of it submerged
+
+of the body) which lies below the centre of gravity
+G of the entire body. The weight of the body
+W acts downwards at G, while upthrust F p acts
+upwards at B such that W= Fy.
+
+5.3 REASON FOR UPTHRUST
+
+We have read that a liquid contained in a vessel
+exerts pressure at all points and in all directions.
+The pressure at a point in liquid is same in all
+directions (upwards, downwards and sideways). It
+increases with depth inside the liquid. When a body,
+say a block of area of cross section A, is immersed
+in a liquid (Fig. 5.3), the pressure P, exerted upwards
+on the lower face of block (which is at a greater
+depth) is more than the pressure P, exerted
+downwards on the upper face of block (which is at
+a lesser depth). Thus there is a difference in pressure
+(= P,— P,) between the lower and upper faces of
+block. Since force = pressure x area, the difference
+in pressures due to liquid on the two faces of
+block causes a net upward force (i.e., upthrust)
+=(P,—P,)A on the body. However, the thrust on the
+side walls of body get neutralised as they are equal
+in magnitude and opposite in directions.
+
+Fig. 5.3 A block immersed in a liquid
+
+Note : If a lamina (thin sheet) is immersed in a
+liquid, the pressure on its both surfaces will be
+nearly same, so the liquid will exert negligible
+upthrust on it, causing it to sink into the liquid due
+to its own weight.
+
+5.4 UPTHRUST IS EQUAL TO THE
+
+WEIGHT OF DISPLACED LIQUID
+
+(Mathematical proof)
+
+When a body is immersed in a liquid, upthrust
+on it due to liquid is equal to the weight of the
+
+liquid displaced by the submerged part of the
+body.
+
+Proof : Consider a cylindrical body PQRS
+of cross-sectional area A immersed in a liquid
+of density p as shown in Fig. 5.4. Let the upper
+surface PQ of body be at a depth h, while its
+lower surface RS be at a depth h, below the free
+surface of liquid.
+
+Fig. 5.4 Calculation for upthrust
+
+At depth h,, pressure on the upper surface PQ
+
+P, = hipg
+.. Downward thrust on the upper surface PQ
+F, = pressure x area=h,pg A ve(i)
+At depth h,, pressure on the lower surface RS
+P, = h,pg
+. Upward thrust on the lower surface RS
+F, =hpgA (11)
+
+The horizontal thrust at various points on the
+vertical sides of body get balanced because liquid
+pressure is same at all points at the same depth.
+
+From above eqns. (i) and (ii), it is clear that
+F,, > F, because h, > h, and therefore, the body
+will experience a net upward force.
+
+Resultant upward thrust (or buoyant force)
+on the body
+
+F, = F,-F,
+= h,pgA —h,pgA
+= A(h, - h,) Pg
+
+But A (h, —h,) = V, the volume of the body
+
+submerged in liquid.
+Upthrust F, = Vp 3 | (5.1)
+Since a solid when immersed in a liquid,
+
+displaces liquid equal to the volume of its
+submerged part, therefore
+
+Vpg = Volume of solid immersed x density of
+liquid x acceleration due to gravity.
+
+100
+
+
+--- Page 4 ---
+or Vpg = Volume of liquid displaced x density
+of liquid x acceleration due to gravity.
+= mass of liquid displaced x acceleration
+due to gravity.
+= Weight of the liquid displaced by the
+submerged part of the body.
+
+Hence,
+
+(5.2)
+
+Note : (1) If the body is completely immersed
+
+in a liquid, the volume of liquid displaced will be
+
+equal to its own volume and upthrust then will be
+maximum (= F°3).
+
+(2) Although the above result is derived for a
+cylindrical body, but it is equally true for a body of
+any shape and size.
+
+Factors affecting the upthrust
+From the above discussion, it is clear that
+the magnitude of upthrust on a body due to a
+liquid (or fluid) depends on the following two
+factors :
+(i) volume of the body submerged in liquid (or
+fluid), and
+(ii) density of the liquid (or fluid) in which the
+body is submerged.
+
+Effect of upthrust : The effect of upthrust is
+that the weight of body immersed in a liquid
+appears to be less than its actual weight. This
+can be demonstrated by the following experiment.
+
+Experiment : Lifting of a bucket full of water from a
+well. Take an empty bucket and tie a long rope to it. If the
+bucket is immersed in water of a well keeping one end of
+rope in hand and the bucket is pulled when it is deep inside
+water, we notice that it is easy to pull the bucket as long as
+it is inside water, but as soon it starts coming out of the
+water surface, it appears to become heavy and now more
+force is needed to lift it.
+This experiment shows that the bucket of water
+appears lighter when it is immersed in water than its actual
+weight (in air).
+
+Similarly, when pulling a fish out of water,
+it appears lighter inside water as compared to
+when it is out of water.
+
+Similarly, a body weighed by a sensitive spring
+_ balance, will weigh slightly less in air than in
+vacuum due to upthrust of air on the body.
+
+5.55 ARCHIMEDES’ PRINCIPLE
+
+When a body is immersed in a liquid, it
+occupies the space, which was earlier occupied by
+the liquid i.e., it displaces the liquid. The volume
+of liquid displaced by the body is equal to the
+volume of the submerged part of the body so the
+body experiences an upthrust equal to the weight
+of the liquid displaced by it.
+
+It is the upthrust due to which a body
+immersed in a liquid appears to be of weight
+less than its real weight. The apparent loss in
+weight is equal to the upthrust on the body. This
+is called the Archimedes’ principle. Thus
+
+Archimedes’ principle states: that when a. body
+is immersed partially. or completely in‘ a ‘liquid,
+it experiences an upthrust, which is equal ta
+the weight of the liquid displaced by-it.
+
+This principle applies not only to liquids, but
+it applies equally well to: gases also.
+
+5.6 EXPERIMENTAL VERIFICATION OF
+ARCHIMEDES’ PRINCIPLE
+
+Archimedes’ principle can be verified by
+either of the following experiments.
+
+Expt. (1) Take two
+cylinders A and B of the
+same volume. The cylinder A
+is solid and the cylinder B
+is hollow. Suspend the two
+cylinders from the left
+arm of a physical balance
+keeping the solid cylinder A
+below the hollow cylinder B.
+Then balance the beam by
+keeping weights on right
+arm of the balance. In this
+situation, both cylinders A
+and B are in air.
+
+The solid cylinder A is
+now completely immersed
+into water contained in a
+beaker D placed on a bench
+C as shown in Fig. 5.5, taking care that the cylinder A does
+not touch the sides and bottom of the beaker. It is observed
+that the solid cylinder A loses weight i.e., the left arm of
+the balance rises up. Obviously the loss in weight is due to
+upthrust (or buoyant force) of water on the cylinder A.
+
+Now pour water gently in the hollow cylinder B till itis
+completely filled. It is observed that the beam balances again.
+
+Thus, it is clear that the buoyant force acting
+on solid cylinder A is equal to the weight of water
+
+Fig. 5.5 Verification of
+Archimedes’ principle
+
+101
+
+
+--- Page 5 ---
+filled in the hollow cylinder B. Since the cylinders
+A and B both have equal volume, so the weight of
+water in the hollow cylinder B is just equal to the
+weight of water displaced by the cylinder A. Hence
+the buoyant force acting on the cylinder A is equal
+to the weight of water displaced by it. Thus, it
+verifies the Archimedes’ principle.
+
+Expt. (2) : Take a solid (say, a metallic piece). Suspend
+it by a thin thread from the hook of a spring balance
+(Fig. 5.6(a)]. Note its weight.
+
+(a)
+
+MEASURING CYLINDER
+Fig. 5.6 Verification of Archimedes’ principle
+
+Now take a eureka can and fill it with water up to its
+spout. Arrange a measuring cylinder below the spout of
+the eureka can.
+
+Now immerse the solid gently into water of the eureka
+can. The water displaced by it gets collected in the
+measuring cylinder [Fig. 5.6 (b)]. When water stops
+dripping through the spout, note the weight of the solid
+and the volume of water collected in the measuring
+cylinder.
+
+In Fig. 5.6, the solid weighs 300 gf in air and
+200 gf when it is completely immersed in water.
+
+The volume of water collected in the measuring
+cylinder is 100 ml i.e., 100 cm?3.
+
+Loss in weight = 300 gf — 200 gf = 100 gf (i)
+Volume of water displaced = Volume of solid
+= 100 cm?
+Since density of water = 1 g cm™
+. Weight of water displaced = 100 gf (ii)
+
+From eqns. (i) and (ii)
+Weight of water displaced = Upthrust or loss in weight.
+Thus the weight of water displaced by solid is
+
+equal to the loss in weight Of the solid. This verifies
+Archimedes’ principle.
+
+5.7 SOLID BODIES WITH DENSITY (p)
+GREATER THAN DENSITY OF
+LIQUID (p,) SINK WHILE WITH
+DENSITY (p) LESS THAN DENSITY OF
+LIQUID (p,) FLOAT
+
+Let a body of volume V and density p be
+immersed completely in a liquid of density p,.
+The weight of the body acting downwards will
+be W = Vpg and the maximum upthrust on the
+body acting upwards will be F’, = Vp,g.
+Following three cases may arise :
+
+(i) If W > F', or Vpog > Vp,g or p > p,, the
+body will sink due to net force (W — F',) acting
+downwards.
+
+(ii) If W = F’, or Vpg = Vp,g or p = p,,
+the body will float and the net force on the body
+is zero.
+
+(iii) If W < F’, or Vpg < Vp.g or p < £,,
+the body will float due to net force (Fi, — W)
+acting upwards and only that much volume v of
+the body will submerg inside the liquid due to
+which upthrust F, (= vp,g) balances the weight
+W. The net force on the body is zero in this
+situation also.
+
+Thus a body of density p sinks in a liquid
+of density p, if p > p,, while it floats if p = p,
+or p < p,. This can be demonstrated by the
+following experiments.
+
+Expt. (1) : Take an iron nail and a piece of
+cork both of same mass. First place the iron nail
+on the surface of water contained in a cup. The
+nail sinks. It implies that the force of gravity (or
+weight) on iron nail pulling it downwards is
+greater than the upthrust of water on nail pushing
+it upwards. Now place the piece of cork on the
+surface of water. The cork floats. It means that
+upthrust on cork, when fully immersed is more
+than that on nail because the density of water is
+more than the density of cork, while the density
+of tater is less than that of iron nail.
+
+Expt. (2) : Take few solid bodies of different
+materials of known density and place them on
+the surface of water. It is observed that if the
+
+102
+
+
+--- Page 6 ---
+density of the material of the body is equal to or
+less than the density of water (i.e., Pp = Pp, or
+p </,,), it floats, implying that the upthrust on
+body due to its submerged part is equal to its
+own weight (i.e., F, = W). Different bodies float
+on water with their different volumes inside
+water. If p = p,,, the body floats with whole of its
+volume inside water, while if p < p,, the body
+floats with only that much volume inside water
+by which the upthrust F, on body balances its
+weight W. On the other hand, if the density of the
+material of body is more than the density of
+water (i.e., P > P,), the body sinks, because the
+
+upthrust due to water on body is less than its
+weight (i.e., F, < W).
+
+Thus the bodies of density greater than that of
+liquid, sink in it, while the bodies of average
+
+density equal to or smaller than that of liquid,
+float on it.
+
+An empty tin can (or iron ship) floats on
+water because its average density* is less than
+the density of water.
+
+* The average density of a hollow body is the ratio of
+mass of the body (= mass of material of body + mass of
+air enclosed) to its total volume.
+
+1. A body weighs 200 gf in air and 190 gf when
+completely immersed in water. Calculate :
+(i) the loss in weight of the body in water,
+(ii) the upthrust on the body.
+Given : Weight of the body in air = 200 gf
+Weight of the body in water = 190 gf
+(i) Loss in weight of the body = 200 gf — 190 gf
+= 10 gf
+Upthrust on the body = loss in weight
+= 10 gf.
+2. A small stone of mass m (= 200 g) is held
+under water in a tall jar and is allowed to
+
+fall as shown in Fig. 5.7. The forces acting
+on stone are also shown.
+
+(ii)
+
+F, =m,9
+B
+F,=mg
+
+Fig. 5.7
+
+(i) What does F,, represent ?
+(ii) What does m, represent ?
+(iii) What is the net force acting on stone ?
+(iv) What is the acceleration of stone as it
+falls through water ? Neglect the force
+due to viscosity. Assume that the volume
+of stone = 80 cm’, density of water
+= 1-0 g cm™ and acceleration due to
+gravity g = 10 m s~.
+(i) F, represents the upthrust on stone due to
+water.
+
+(ii) m, represents the mass of water displaced by
+stone.
+
+(iii) Net force acting on stone = F, — F, (downwards).
+
+(iv) Given : V= 80 cm3, p = 1 gcm™, g = 10 ms*,
+
+2
+m= 200 g= ZO kg =0-2kg
+weight of stone F, = mg = 0-2 kg x 10 ms? =2N
+
+Mass of water displaced m, = Vp = 80 x 1 = 80g
+
+= 45-008 k
+ to09 “Bree
+
+upthrust F, = m,g = 0-08 kg x 10 m s? = 0-8 N
+Hence net downward force on stone
+
+= F,-F,
+
+= 2-08=12N
+. : _ Force _ 12N_ 2
+.. Acceleration = Mass = O2kg oS
+
+3. A piece of iron of density 7-8 x 10° kg m*
+and volume 100 cm? is completely immersed
+in water (p = 1000 kg m~°). Calculate :
+(i) the weight of iron piece in air, (ii) the
+upthrust, and (iii) its apparent weight in
+water. (g = 10 m s~*)
+
+Given : Volume of iron piece = 100 cm?
+= 100 x 10° m3 = 104 m?
+(i) Weight of iron piece in air
+= Volume x density of iron x g
+= 10% x (7-8 x 10°) x 10
+=7:8N
+(ii) Upthrust = (Volume of water displaced) x density
+of water x g
+But volume of water displaced = volume of iron
+piece when it is completely immersed = 10“ m?
+Upthrust = 10+ x 1000 x 10=1N
+
+103
+
+
+--- Page 7 ---
+(iii) Apparent weight = True weight — Upthrust
+=7-3-1=68N.
+
+4. A metal cube of side 5 cm and density
+7-9 g cm~ is suspended by a thread and is
+immersed completely in a liquid of density
+1-1 g cm-*. Find : (a) the weight of cube,
+(b) the upthrust on cube and (c) the tension
+in thread.
+
+(a) Given, side of cube = 5 cm
+. Volume of the cube = 5 x 5 x 5 = 125 cm?
+Mass of the cube = Volume x density
+= 125 cm? x 7-9 g cm?
+= 987-5 g
+.. Weight of the cube = 987-5 gf (downwards)
+(b) Upthrust on cube= Weight of liquid displaced
+= Volume of cube x density of liquid x g
+= 125 x 1-1 x g = 137-5 gf (upwards)
+(c) Tension in thread = Net downward force
+Weight of cube — Upthrust on cube
+987-5 — 137-5 = 850-0 ef.
+
+5. A solid of density p has weight W. Show that
+its apparent weight will be W[1 — (p,/p)]
+when it is completely immersed in a liquid
+of density p,.
+
+Given, weight of solid =W
+
+“. Mass of solid = W/g
+
+Wh
+Volume of solid = —Mass. = ms
+Density p
+Volume of liquid displaced = Volume of solid
+_ We
+p
+
+Upthrust on solid = Volume of liquid displaced
+x density of liquid
+x acceleration due to gravity
+
+p
+.. Apparent weight = True weight — upthrust
+
+Hence proved.
+
+Wh
+or  upthrust = (ME) xo, xe= Ww xp,
+
+1. What do you understand by the term upthrust of a
+fluid ? Describe an experiment to show its existence.
+
+2. In what direction and at what point does the
+buoyant force on a body due to a liquid, act ?
+Ans. Upwards, at the centre of buoyancy.
+
+3. What is meant by the term buoyancy ?
+4. Define upthrust and state its S.I. unit.
+
+5. What is the cause of upthrust ? At which point it
+can be considered to act ?
+
+6. Why is a force needed to keep a block of wood
+inside water ? ;
+
+Ans. Upthrust due to water on block when
+
+fully submerged is more than its weight.
+
+7. A piece of wood if left under water, comes to the
+surface. Explain the reason.
+
+8. Describe an experiment to show that a body immersed
+in a liquid appears lighter than it really is.
+
+9. A metal solid cylinder tied to a thread is hanging
+from the hook of a spring balance. The cylinder is
+gradually immersed into water contained in a jar.
+What changes do you expect in the readings of
+spring balance ? Explain your answer.
+
+10. Will a body weigh more in air or in vacuum when
+weighed with a spring balance ? Give a reason for
+your answer.
+
+Il. A body dipped into a liquid experiences an
+upthrust. State nvo factors on which upthrust on
+the body depends.
+
+12. How is the upthrust related to the volume of the
+body submerged in a liquid ?
+
+13. A bunch of feathers and a stone of the same mass are
+released simultaneously in air. Which will fall faster
+and why ? How will your observation be different if
+they are released simultaneously in vacuum ?
+
+14. A body experiences an upthrust F, in river
+water and F, in sea water when dipped up to the
+same level. Which is more F, or F, ? Give reason.
+
+Ans. F, > F,. Reason : Sea water is
+denser than river water.
+
+15. A small block of wood is held completely
+immersed in (i) water, (ii) glycerine and then
+released. In each case, what do you observe ?
+Explain the difference in your observation in the
+two cases.
+
+16. A body of volume V and density p is kept
+completely immersed in a liquid of density p,. If
+g is the acceleration due to gravity, write
+expressions for the following :
+(i) the weight of the body,
+(ii) the upthrust on the body,
+(iii) the apparent weight of the body in liquid,
+(iv) the loss in weight of the body.
+Ans. (i) Vpg (ii) Vp,g (iii) Vip — p,)8 (iv) Vp,8
+17. A body held completely immersed inside a liquid
+experiences two forces : (i) F,, the force due to
+gravity and (ii) F,, the bucyant force. Draw a
+diagram showing the direction of these forces
+
+~ 104
+
+
+--- Page 8 ---
+18.
+
+19,
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+26.
+
+acting on the body and state condition when the
+body will float or sink.
+
+Complete the following sentences :
+
+(a) Two balls, one of iron and the other of
+aluminium experience the same upthrust when
+dipped completely in water if ............ cee
+An empty tin container with its mouth closed has
+an average density equal to that of a liquid. The
+container is taken 2 m below the surface of that
+liquid and is left there. Then the container will
+
+(b)
+
+A piece of wood is held under water. The
+upthrust on it will be oe the weight
+of the wood piece.
+
+Ans. (a) both have equal volume
+(b) will remains at the same position (c) more than.
+Prove that the loss in weight of a body when
+immersed wholly or partially in a liquid is equal
+to the buoyant force (or upthrust) and this loss is
+because of the difference in pressure exerted by
+liquid on the upper and lower surfaces of the
+submerged part of body.
+
+(c)
+
+A sphere of iron and another of wood of the same
+radius are held under water. Compare the upthrust
+
+on the two spheres.
+{Hint : Both have equal volume inside water.]
+Ans. 1: 1
+
+A sphere of iron and another of wood, both of
+same radius are placed on the surface of water.
+State which of the two will sink ? Give reason to
+your answer. Ans. Sphere of iron will sink.
+Reason : £j.., > Pwater 80 weight of iron
+sphere will be more than upthrust due to water
+on it. But Py oo3 < Pwater 50 Sphere of wood will
+float with its that much volume submerged
+inside water by which upthrust due to water on
+it balances its weight.
+How does the density of material of a body
+determine whether it will float or sink in water ?
+A body of density p is immersed in a liquid
+of density p,. State condition when the body will
+(i) float, (ii) sink, in liquid.
+
+Ans. (i) p < or = p, (ii) p > Pp,
+It is easier to lift a heavy stone under water than in
+air. Explain.
+State Archimedes’ principle.
+Describe an experiment to verify the Archimedes’
+principle.
+
+Multiple choice type :
+
+1.
+
+A body will experience minimum upthrust when it
+is completely immersed in :
+
+(a) turpentine (b) water
+(c) glycerine (d) mercury.
+
+Ans. (a) turpentine
+
+wero
+
+The S.I. unit of upthrust is :
+(a) Pa (b) N
+(c) kg (d) kgm?
+Ans. (b) N
+
+A body of density p sinks in a liquid of
+density p,. The densities p and p, are related as :
+(a) p=Pp, (b) p<p,
+(c) p>p, (d) nothing can be said.
+
+Ans. (c) p > p,
+
+Numericals :
+
+1.
+
+A body of volume 100 cm’ weighs 5 kgf in air.
+It is completely immersed in a liquid of density
+1-8 x 10° kg m™. Find : (i) the upthrust due to
+liquid and (ii) the weight of the body in liquid.
+Ans. (i) 0-18 kgf (ii) 4-82 kgf
+A body weighs 450 gf in air and 310 gf when
+completely immersed in water. Find :
+(i) the volume of the body,
+(ii) the loss in weight of the body, and
+(iii) the upthrust on the body.
+State the assumption made in part (i).
+Ans. (i) 140 cm? (ii) 140 gf (iii) 140 gf
+Assumption : density of water = 1-0 g cm.
+You are provided with a hollow iron ball A of volume
+15 cm? and mass 12 g and a solid iron ball B of mass
+12 g. Both are placed on the surface of water
+contained in a large tub. (a) Find upthrust on each
+ball. (b) Which bail will sink ? Give reason for your
+answer. (Density of iron = 8-0 g cm-?)
+Ans. (a) Upthrust on ball A = 12 gf and
+on ball B = 1-5 gf. (b) The ball B will sink.
+Reason : Volume of ball B = 12/8-0 = 1-5 cm}.
+Upthrust on ball B is 1-5 gf which is less than its
+weight 12 gf, while upthrust on ball A will be 15 gf if
+it is fully submerged, which is greater than its
+weight 12 gf, so it will float with its that much part
+submerged for which upthrust becomes equal to
+its weight (=12 gf).
+A solid of density 5000 kg m~> weighs 0:5 kgf in
+air. It is completely immersed in water of density
+1000 kg m™3. Calculate the apparent weight of the
+solid in water. Ans. 0-4 kgf
+
+Two spheres A and B, each of volume 100 cm?
+are placed on water (density = 1-0 g cm~). The
+sphere A is made of wood of density 0-3 g cm™ and
+the sphere B is made of iron of density 8-9 g cm=?.
+(a) Find : (i) the weight of each sphere, and (ii) the
+upthrust on each sphere.
+(b) Which sphere will float ? Give reason.
+Ans. (a) (i) A — 30 gf, B — 890 gf
+(ii) A — 30 gf, B- 100 gf
+(b) The sphere A will float
+Reason : The density of wood is less than the
+density of water.
+
+
+--- Page 9 ---
+6. The mass of a block made of a certain material is
+13-5 kg and its volume is 15 x 10-3 m3.
+(a) Calculate upthrust on the block if it is held fully
+
+immersed in water.
+
+Will the block float or sink in water when
+
+released ? Give reason for your answer.
+
+What will be the upthrust on block while floating?
+
+Take density of water = 1000 kg m™.
+
+Ans. (a) 15 kgf. (b) The block will float since upthrust
+
+on it when fully immersed in water, is more than
+
+its weight. (c) While floating, upthrust = 13-5 kgf.
+
+7. A piece of brass weighs 175 gf in air and 150 gf
+when fully immersed in water. The density of water
+is 1-0 g cm“. (i) What is the volume of the brass
+piece ? (ii) Why does the brass piece weigh less in
+water ? Ans. (i) 25 cm? (ii) due to upthrust.
+
+(b)
+
+(c)
+
+8. A metal cube of edge 5 cm and density 9-0 g cm?
+is suspended by a thread so as to be completely
+immersed in a liquid of density 1-2 g cm-*. Find
+the tension in thread. (Take g = 10 m s~*)
+
+(Hint: Tension in thread = Apparent weight of the
+cube in liquid] Ans. 9-75 N
+
+9. A block of wood is floating on water with its
+dimensions 50 cm x 50 cm x 50 cm inside water.
+Calculate the buoyant force acting on the block.
+Take g = 9-8 N kg. Ans. 1225 N
+
+10. A body of mass 3-5 kg displaces 1000 cm? of water
+when fully immersed inside it. Calculate : (i) the
+volume of body, (ii) the upthrust on body and
+(iii) the apparent weight of body in water.
+
+Ans. (i) 1000 cm? (ii) 1 kgf (iii) 2:5 kgf
+
+(B) RELATIVE DENSITY AND ITS MEASUREMENT
+BY ARCHIMEDES’ PRINCIPLE
+
+5.8 DENSITY
+
+If equal volumes of different substances such
+as wood, iron, zinc, water, glycerine, mercury
+etc., are weighed by a physical balance, we find
+that their masses are different. The mass of iron
+is much more than the mass of an equal volume
+of wood. This is because the particles of iron are
+heavier and more closely packed than those of
+wood. In other words, iron is denser than wood.
+In a similar manner, if we take equal masses of
+cotton and lead (say, one kg each), we notice that
+their volumes are different. The volume of cotton
+is much larger than the volume of an equal mass
+of lead. This is because the particles of lead are
+closely packed, while those of cotton are very
+loose. In other words, lead is denser than cotton.
+Thus to explain that equal volumes of different
+substances have different masses or equal masses
+of different substances have different volumes,
+we use a term called density. It is defined as
+follows :
+
+The density of a substance is its ris: pay cenit
+volume. i.é., . ~
+Density of a substance
+
+= Volume of the substance -~~45:3)
+
+It is a scalar quantity and is represented by
+the letter p (rho) or d.
+
+If mass of a substance is M and its volume
+is V, its density is
+
+M
+
+Unit of density
+: : Unit of mass
+Unit of density = Unit of volume
+
+In S.I. system, unit of mass is kg and
+unit of volume is m°, so S.I. unit of density is
+kg m~. In C.GS. system, unit of mass is g and
+unit of volume is cm?, so C.GS. unit of density
+is g cm™ (or gram per cubic centimetre).
+Relationship between S.I. and C.GS. units
+
+1kg 1000 g
+ikem = 723 = (00cm)?
+ee
+= 1000 gcm
+Thus
+
+1kg nr? = 10° g cor?
+
+or 1gcnr? = 1000 kgm"
+
+Example : The mass of 1 cm? of iron is
+7:8 g, hence the density of iron is 7-8 g cm or
+7800 kg m~>. Different substances have different
+densities.
+
+106
+
+
+--- Page 10 ---
+Effect of temperature on density
+
+Most of the substances expand on heating and
+contract on cooling, but their mass remains
+unchanged. Therefore, density of most of the
+substances decreases with the increase in temperature
+and increases with the decrease in temperature.
+
+Exception : The behaviour of water is
+however very different due to its uneven
+expansion. Water when cooled from a high
+temperature, contracts up to 4°C thereafter it
+expands below 4°C up to 0°C. Thus the density
+of water gradually increases when it is cooled up
+to 4°C, and then starts decreasing when it is
+cooled further below 4°C up to 0°C. Thus,
+
+The density of water is maximum at 4°C,
+equal to 1 g cm™ or 1000 kg m°.
+5.9 RELATIVE DENSITY
+[R.D. = a: - “ FOR SAME VOLUME]
+
+mh
+W MM
+
+We have read that density of water at 4°C is
+1 g cm (or 1000 kg m3). Treating it as a
+standard, the density of a substance can be
+compared with the density of water at 4°C and
+the ratio so obtained is termed as the relative
+density of that substance. Thus,
+
+The relative density (R.D.) of a substance is
+the ratio of the density of that substance to
+
+the density of water at 4°C.
+
+Density of substance (p,)
+
+Le. R.D. = Density of water at °C (p,)
+
+_ _Mass of unit volume of substance
+Mass of unit volume of water at 4°C
+Mass of substance (m, )
+= Massof an equal volume of water at 4°C (m,,)
+
+.. (5.6)
+
+Thus,
+
+Relative density of a substance is also defined
+as the ratio of the mass of substance to the
+mass of an equal volume of water at 4°C.
+
+Unit of relative density : Since relative
+density is a pure ratio, it has no unit. It is a
+scalar quantity.
+
+Relationship between density and relative
+density : While calculating the relative density of
+
+a substance from its density (or density from its
+relative density), we note that
+
+(i) In C.GS. system, density of water at 4°C
+is 1 g cm‘, so the relative density of a
+substance is equal to the numerical value
+of density of that substance. Thus
+
+Density of substance in g cm™
+
+RD. = 1-0gcm7>
+
+Density in g cm™ = R.D.
+
+(ii) In S.I. system, density of water at 4°C is
+1000 kg m-%, so its relative density is
+
+or (5.7)
+
+Density of substance in kg m™ 3
+1000 kg m=?
+
+or | Density in kg m™? = (R_D.) x 1000] ....(5.8)
+
+Examples :
+
+R.D. =
+
+(i) The density of copper is 8-9 g cm”, its
+
+R.D. is 8-9.
+
+(ii) The density of mercury is 13-6 x 10° kg m™,
+its R.D. is 13-6.
+
+(iii) The R.D. of silver is 10-8, its density in
+C.GS. unit is 10-8 g cm™ and in S.I. unit is
+10-8 x 10? kg m™.
+
+Difference between density and relative density
+
+[Density | __Relatve density
+
+1. Density of a substance | 1. Relative density of a
+is the mass per unit substance is the ratio of
+
+volume of that density of that substance
+
+substance. to the density of water
+at 4°C.
+
+2. It has no unit.
+
+2.It is expressed in
+gom™ or kg m™.
+
+Density and ——o of some common substances
+
+Wood (pine)
+Petrol
+Turpentine
+Ice
+
+Olive oil
+Pure water
+(at 4°C)
+Sea water
+Glycerine
+Glass
+Aluminium
+
+107
+
+
+--- Page 11 ---
+5.10 DETERMINATION OF RELATIVE
+DENSITY OF A SOLID SUBSTANCE
+BY ARCHIMEDES' PRINCIPLE
+
+We know that
+Mass of the body
+Mass of water (at 4°C) of volume equal
+to that of the body
+
+Using Archimedes’ principle, the mass of
+water of volume equal to that of the body is
+obtained by finding the mass of water displaced
+by that body when it is completely immersed in
+water since a body when immersed in water,
+displaces water equal to its own volume.
+Therefore,
+
+R.D. =
+
+Mass of body.
+Mass of water displaced by the body
+
+Weight of body
+Weight of water displaced by the body
+
+_ Weight of body
+~ Loss in weightof the body in water (or upthrust)
+
+R.D. =
+
+(5.9)
+
+Thus, to find relative density of a solid body
+using Archimedes’ principle, we have to weigh
+the body first in air and then in water. If the
+
+weight of body in air is W, and in water is
+W,, then
+
+(5.10)
+
+Note : Weight and mass are related as weight = mass
+x acceleration due to gravity (Le., W = Mg). On weighing
+a body with a physical balance, its mass is expressed in
+kg or g, while its weight is expressed in kgf or gf.
+
+Now we shall describe the procedure to
+determine the relative density of a solid in two
+cases : (i) when the solid is denser than water
+and insoluble in it and (ii) when the solid is
+denser than water and soluble in it.
+
+(i) R.D. of a solid denser than water and
+insoluble in it
+
+Procedure :
+
+(i) Suspend a piece of the given solid with a
+thread from hook of the left pan of a physical
+balance and find its weight W,.
+
+(ii) Now place a wooden bridge over the left
+pan of balance and place a beaker nearly two-
+third filled with water on the bridge. Take care
+that the bridge and beaker do not touch the pan
+of balance.
+
+(iii) Immerse the solid completely in water
+such that it does not touch the walls and bottom
+of beaker (Fig. 5.8) and find the weight W, of
+solid in water.
+
+— WOODEN
+BRIDGE
+
+Fig. 5.8 R.D. of a solid denser than water
+Observations :
+Weight of solid in air = W, gf
+Weight of solid in water = W, gf
+
+Calculations :
+Loss in weight of solid when immersed in
+water =(W, ~ W,) ef
+Weight of solid in air
+RD. =
+
+Loss in weight of solidin water
+
+or (5.11)
+
+(ii) R.D. of a solid denser than water and soluble
+in it
+Procedure : If solid is soluble in water, instead of
+
+water, we take a liquid of known relative density in
+which solid is insoluble and it sinks in that liquid. Then
+
+the process described above is repeated. Now
+
+
+
+--- Page 12 ---
+5.11 DETERMINATION OF RELATIVE
+DENSITY OF A_ LIQUID BY
+ARCHMEDES’ PRINCIPLE
+
+By definition, relative density of a liquid is
+given as :
+
+Weight of a given volume of the liquid
+
+RD.= Weight of thesame volume of water G13)
+
+By Archimedes’ principle if a solid is
+immersed in a liquid or water, it displaces the
+liquid or water equal to its own volume.
+Therefore the above eqn. (5.13) takes the form :
+
+Weight of liquid displaced by a body
+
+RD. = Weight of water displaced by the same body
+
+Weightof thebody in air— weightof thebody in liquid
+~ ‘Weightof thebody in air— weightof thebody in water
+...(5.14)
+Thus to find the relative density of a liquid
+using Archimedes’ principle, we take a body
+which is heavier than both the given liquid and
+water and also insoluble in both. The body is
+first weighed in air, then in liquid and then after
+washing it with water and drying, it is weighed
+in water. If the weight of the body in air is
+W, gf, in liquid is W, gf and in water is W, gf,
+then from eqn. (5.14)
+
+W, -W,
+W, -W;
+
+RD. of liquid = . (5.15)
+
+1. Relative density of silver is 10-5. What is the
+density of silver in S.I. unit ? What
+assumption do you make in your calculations.
+Given, R.D. of silver = 10-5
+
+RD. = Density of silver
+
+Density of water
+Density of silver = R.D x density of water
+=10-5 x 10° kg m”.
+Assumption : Density of water = 10° kg m™®.
+
+2. A solid weighs 50 gf in air and 44 gf when
+completely immersed in water. Calculate :
+(i) the upthrust,
+
+(ii) the volume of the solid, and
+(iii) the relative density of the solid.
+Given, weight of solid in air W, = 50 gf and weight
+of solid in water W, = 44 gf.
+(i) Upthrust = loss in weight when immersed in
+water = W, — W, = 50 - 44 = 6 gf
+(it) Weight of water displaced = upthrust = 6 gf
+Since density of water is 1 g cm™3, therefore
+volume of water displaced = 6 cm?
+But a solid displaces water equal to its own
+volume, therefore volume of solid = 6 cm*.
+Weight of solidin air
+
+(iii) RD. of solid = ‘Weight in air — Weight in water
+
+3. A solid weighs 30 gf in air and 26 gf when
+completely immersed in a liquid of relative
+density 0-8. Find : (i) the volume of solid, and
+(ii) the relative density of solid.
+
+Given, weight of solid in air W, = 30 gf and weight
+of solid in liquid W, = 26 gf., R.D. of liquid = 0-8
+Density of liquid = 0-8 g cm
+(i) Let V be the volume of solid.
+Weight of liquid displaced = Volume of liquid displaced
+x density of liquid x g
+= Vx 0-8 x g dyne
+=Vx 08 gf .(i)
+Loss in weight of the solid when immersed in liquid
+. = W, - W, =30- 26 =4 gf (ii)
+But the weight of liquid displaced is equal to the
+loss in weight of solid when immersed in liquid.
+“. From eqns. (i) and (ii),
+. V x08 =4
+4 3
+or => 7 5 cm
+(ii) Given, weight of solid = 30 gf
+Mass of solid = 30 g
+Mass 30 3
+Volume 5 =6 gam”
+Hence relative density of solid = 6
+
+Density of solid =
+
+Alternative method
+(i) Volume of solid = Volume of liquid displaced
+= mass of liquid displaced / density of liquid
+= (30 — 26) / 0-8 = 5 cm’.
+(ii) R.D. of solid
+Weight of solid in air
+
+Weight of solid in air — weight of solid in liquid
+
+30 30
+= 30-26 x08 = | x 0-8 =6
+
+109
+
+
+--- Page 13 ---
+4.
+
+(i)
+
+(ii)
+
+A solid body weighs 2:10 N in air. Its relative
+density is 8-4. How much will the body weigh
+if placed
+
+(i) in water,
+
+(ii) in a liquid of relative density 1-2 ?
+
+Given : Weight of the body in air W, = 2-10 N,
+R.D. of body = 8-4, weight of body in water W, = ?
+
+W, 21
+R.D. = ee 8-4 =
+Ww, -W, 2:1-W2
+or 8-4 (2-1 —- W,) = 2-1
+2-1x7-4
+or > = 34.7 1-85 N
+
+Thus weight of body in water = 1:85 N
+
+Upthrust due to water = W, -— W, = 2-10 — 1-85
+= 0-25 N
+Upthrust due to liquid
+= Upthrust due to water x R.D. of liquid
+= 0-25 x 1-2 = 0-30 N
+Weight of body in liquid = Weight of body
+in air — Upthrust due to liquid
+= 2-10 — 0-30 = 1:8 N.
+
+Alternative method :
+
+~ Weight of body in air — Weight of body in liquid
+
+Let weight of body in liquid be x N. Then R.D.
+
+Weight of body in air xR.D.of liquid
+
+(b)
+
+2:1
+2-l-x
+
+or 8-4 = x 1:2
+
+12
+4
+A body weighs 82:1 gf in air, 75:5 gf in water
+and 73-8 ef in a liquid. (a) Find the relative
+density of the liquid. (b) How much will it
+weigh if immersed in a liquid of relative
+density 0-87 ?
+
+Given, weight of the body in air W, = 82-1 ef
+Weight of the body in liquid = W, = 73-8 gf
+
+Weight of the body in water W, = 75-5 gf
+
+or 4Q21-x=12 or x= =18N
+
+R.D. of liquid 12
+.D. of liquid = W,_W;
+821-738 83
+= = 21-26
+821-755 66
+
+Given, R.D. of liquid = 0-87, W, = 82-1 gf,
+W, = ?, W, = 75-5 ef
+
+F lation RD. = 12
+rom relation K.D. = WW,
+og7 = BUH
+821-755
+
+or 82-1 - W, = 0-87 x 6-6 = 5-742
+
+= 82-1 — 5-742 = 76-358
+
+Define the term density.
+
+What are the units of density in (i) C.GS. and
+(ii) S.I. system. Ans. (i) g cm™ (ii) kg m3
+Express the relationship between the C.GS. and
+S.I. units of density.
+
+Ans. | g cm = 1000 kg m2?
+‘The density of iron is 7800 kg m=. What do you
+understand by this statement ?
+Write the density of water at 4°C in S.I. unit.
+
+Ans. 1000 kg m=
+
+How are the (i) mass, (ii) volume, and (iii) density
+of a metallic piece affected, if at all, with increase
+in temperature ?
+Ans. (i) unchanged, (11) increases, (iii) decreases.
+Water is heated from 0°C to 10°C. How does the
+density of water change with temperature ?
+Ans. On heating from 0°C, the density of water
+increases up to 4°C and then decreases beyond 4°C.
+
+8.
+
+9.
+
+il.
+
+—
+
+12.
+
+13.
+
+110
+
+Complete the following sentences :
+
+(i) Mass = ........ x density
+
+(ii) S.I. unit of density is .......
+
+(iii) Density of water is ... kg m™.
+
+(iv) Density in kg m=? =... x density in g cm
+
+Ans. (i) volume, (ii) kg m7, (iii) 1000, (iv) 1000
+What do you understand by the term relative
+density of a substance ?
+What is the unit of relative density ?
+
+Ans. No unit
+
+Differentiate between density and relative density
+of a substance.
+With the use of Archimedes’ principle, state how
+you will find relative density of a solid denser than
+water and insoluble in it. How will you modify
+your experiment if the solid is soluble in water ?
+A body weighs W ef in air and W, gf when it is
+completely immersed in water. Find : (i) volume
+
+
+--- Page 14 ---
+14.
+
+15.
+
+of the body, (ii) upthrust on the body, (iii) relative
+density of material of the body.
+
+Ans. (i) (W— W,) cm? (ii) (W- W,) gf (iii) WW,
+Describe an experiment, using Archimedes’
+principle, to find relative density of a liquid.
+
+A body weighs W, gf in air and when immersed
+in a liquid it weighs W, gf, while it weighs W, gf
+on immersing it in water. Find : (i) volume of the
+body (ii) upthrust due to liquid (iii) relative density
+of the solid and (iv) relative density of the liquid.
+Ans. (i) (W, — W;) cm?, (ii) (W, - W,) gf,
+Ww, -W,
+W, -W,
+
+W,
+Ww, -W;
+
+(iii) (iv)
+
+Multiple choice type :
+
+1.
+
+Relative density of a substance is expressed by
+comparing the density of that substance with the
+density of :
+(a) air
+
+(c) water
+
+(b) mercury
+(d) iron.
+
+Ans. (c) water
+The unit of relative density is :
+(a) gem? (b) kgm?
+(c) m? kg"! (d) no unit.
+
+Ans. (d) no unit
+
+The density of water is :
+(a) 1000 g em? (b) 1kg m3
+(c) 1 g cm (d) none of these.
+Ans. (c) 1 g cm?
+
+Numericals :
+
+1.
+
+The density of copper is 8-83 g cm7*. Express it
+in kg m°.
+The relative density of mercury is 13-6. State its
+density in (i) C.GS. unit, (ii) S.1. unit.
+
+Ans. (i) 13-6 g cm™ (ii) 13-6 x 10° kg m=?
+The density of iron is 7-8 x 10° kg m™?. What is
+its relative density ? Ans. 7-8
+
+The relative density of silver is 10-8. Find its density.
+Ans. 10-8 x 10° kg m=?
+
+Calculate the mass of a body whose volume is 2 m?
+and relative density is 0-52. Ans. 1040 kg
+
+Calculate the mass of air in a room of dimensions
+45 m x 35 m x 2:5 m if the density of air at
+N.T-P. is 1-3 kg m->. Ans. 51-19 kg
+
+A piece of stone of mass 113 g sinks to the bottom
+in water contained in a measuring cylinder
+and water level in cylinder rises from 30 ml to
+Ans. 11-3
+
+40 mi. Calculate R.D. of stone.
+
+Ans. 8830 kg m3 ©
+
+A body of volume 100 cm? weighs 1 kgf in air.
+Find : (i) its weight in water and (ii) its relative
+density.
+
+Ans. (i) 900 gf, (ii) 10
+
+A body of mass 70 kg, when completely immersed
+in water, displaces 20,000 cm? of water. Find :
+(i) the weight of body in water and (ii) the relative
+density of material of body.
+
+Ans. (i) 50 kgf, (ii) 3-5
+
+A solid weighs 120 gf in air and and 105 gf when
+it is completely immersed in water. Calculate the
+relative density of solid.
+
+Ans. 8
+
+A solid weighs 32 gf in air and 28-8 gf in water.
+Find : (i) the volume of solid, (ii) R.D. of solid,
+and (iii) the weight of solid in a liquid of density
+09 g cm.
+
+Ans. (i) 3-2 cm}, (ii) 10, (iii) 29-12 gf
+
+A body weighs 20 gf in air and 18-0 gf in water.
+Calculate relative density of the material of body.
+Ans. 10
+
+A solid weighs 1-5 kgf in air and 0-9 kgf in a
+liquid of density 1-2 x 10? kg m~>. Calculate R.D.
+of solid. Ans. 3-0
+
+A jeweller claims that he makes ornament of pure
+gold of relative density 19-3. He sells a bangle
+weighing 25-25 gf to a person. The clever customer
+weighs the bangle when immersed in water and
+finds that it weighs 23-075 gf in water. With the
+help of suitable calculations find out whether the
+ornament is made of pure gold or not.
+
+(Hint : Calculate R.D. of material of bangle which
+comes out to be 11-6]. .
+Ans. Gold is not pure.
+A piece of iron weighs 44-5 gf in air. If the density
+of iron is 8-9 x 10° kg m°, find the weight of
+iron piece when immersed in water.
+Ans. 39-5 gm
+
+A piece of stone of mass 15-1 g is first immersed
+in a liquid and it weighs 10-9 gf. Then on
+immersing the piece of stone in water, it weighs
+9-7 gf. Calculate :
+(a) the weight of the piece of stone in air,
+(b) the volume of the piece of stone,
+(c) the relative density of stone,
+(d) the relative density of the liquid.
+
+Ans. (a) 15-1 gf, (b) 5-4 cm},
+
+: (c) 2-8, (d) 0-78
+
+111
+
+
+--- Page 15 ---
+(C) FLOATATION
+
+5.12 PRINCIPLE OF FLOATATION
+We have read that when a body is immersed
+
+in a liquid, the following two forces act on it :
+
+(i) The weight W of body acting vertically
+downwards, through the centre of gravity G
+of the body. This force has a tendency to sink
+the body.
+
+(ii) The upthrust F’, of the liquid acting vertically
+upwards, through the centre of buoyancy B
+i.e., the centre of gravity of the displaced
+liquid. The upthrust (or buoyant force) is equal
+in magnitude to the weight of the liquid
+displaced. This force has a tendency to make
+the body float.
+
+Fig. 5.9 shows the two forces W and F, acting
+on a body floating on a liquid.
+
+Obviously, the upthrust
+
+F, is maximum
+(=F’,) when the body is completely immersed
+inside the liquid.
+
+Depending upon whether the maximum
+upthrust F’, is less than, equal to or greater than
+the weight W, the body will either sink or float
+in liquid. So we consider the following
+three cases when (i) W > F’, (ii) W = F’, and
+(iii) W < F’,.
+
+Case (i) : When W> F’, i.e., the weight of
+the body is greater than the weight of the
+displaced liquid. In this case, the body will sink
+as shown in Fig. 5.10. The apparent weight of
+the body (i.e., the weight of body inside liquid)
+
+as measured by a spring balance if it is attached
+with the body will be (W — F’,) acting vertically
+downwards. This is the case when the density p
+of solid is greater than the density p, of liquid
+
+(i.e., Pp > P,).
+
+Fig. 5.10 The body sinks when W> Fy
+
+Case (ii) : When W = F’, i.e, the weight
+of the body is equal to the weight of the
+displaced liquid. In this case, the body will float
+just below the surface of liquid as shown in
+Fig. 5.11. The apparent weight of body will be
+zero. The density p of such a body is equal to
+the density , of liquid (i.e., p = p,).
+
+Fig. 5.11 The body floats when W = F',
+
+Case (iii) : When W < F,, i.e., the weight
+of the body is less than the weight of the liquid
+displaced by it when it is held completely
+immersed in the liquid. In this case, the body
+floats partially above and partially below the
+surface of liquid as shown in Fig. 5.12. Only that
+much portion of the body gets submerged by
+which the weight of displaced liquid becomes
+equal to the weight of the body. In this situation,
+
+Fig. 5.12 The body floats partially inside the liquid
+when W < F}, on complete immersion
+
+112
+
+
+--- Page 16 ---
+while floating, weight W acts at the centre of
+gravity G of the body, while upthrust F p acts at
+the centre of buoyancy B which is vertically
+below G, and weight W is equal to upthrust
+F, only due to the submerged part of the
+body. Thus, the apparent weight of the body will
+be zero in this case also. The density p of
+such a body is less than the density p, of liquid
+(i.2., Pp < P,).
+
+From the above discussion, we find that for
+a floating body,
+
+Weight of body
+
+‘= Weight of liquid displaced: by the
+submerged part of body.
+
+or W = F, wiae(5.18)
+
+.. Apparent weight of a floating: body: 6:(zero)
+
+This is the principle of floatation. T Thus,
+
+weight of @ floating body us baarpt ah eae
+
+weight of the liquid displaced by its
+submerged part.
+
+5.13 RELATION BETWEEN VOLUME OF
+SUBMERGED PART OF A FLOATING
+BODY, THE DENSITIES OF LIQUID AND
+
+THE BODY [= - os
+PL
+Let V be the volume of a body of density p..
+Let the body be floating with its volume v
+
+immersed inside a liquid of density p,. Then
+
+Weight of the body W = Volume of body
+x density of body x g
+= Vp,8
+
+Weight of liquid displaced by the body or upthrust
+F, = Volume of displaced
+liquid x density of
+
+liquid x g = vp, g
+
+For floatation, W = F,
+Lé., Vp,g = vp,
+Y_ Ps
+or v= ep, | oo (5.19)
+
+Thus,
+
+Total volumeof body —
+
+Examples : (1) A cork of density p, = 2 g cm?
+
+while floating in water will have its ath part immersed
+1
+
+inside water (p, = 1 g cm’) and 7a part outside the
+
+surface of water.
+
+(2) A cube of ice (density p, = 0-9 g cm™) will
+have 90% of its volume immersed in water (density
+p, = 1 g cm”) while floating and only 10% outside the
+surface of water.
+
+5.14 APPLICATIONS OF THE PRINCIPLE
+OF FLOATATION
+
+(i) Floatation of iron ship
+
+An iron nail sinks in water while a ship
+floats : If we place an iron nail on the surface
+of water, it sinks. This is because the density of
+iron is greater than that of water, so the weight
+of nail is more than the upthrust of water on it.
+
+On the other hand, ships are also made of
+iron, but they do not sink. This is because the
+ship is hollow and the empty space in it contains
+air which makes its volume large and average
+density less than that of water. Therefore, even
+with a small portion of ship submerged in water,
+the weight of water displaced by the submerged
+part of ship becomes equal to the total weight
+of ship and therefore it floats.
+
+A loaded ship is submerged more while an
+unloaded ship is less submerged : When cargo
+is loaded on a sailing ship, its weight increases,
+so it sinks further to displace more water till the
+weight of water displaced by its submerged part
+becomes equal to the weight of loaded ship. If
+cargo is unloaded, the ship will rise in water till
+the weight of water displaced balances the
+weight of unloaded ship.
+
+A ship begins to submerge more as it sails
+from sea water to river water : The water of
+river is of low density than that of a sea and the
+density of water of different sea is also different.
+Therefore, when a ship sails from a sea of water
+of higher density to a sea of water of lower
+density (or from sea water to river water), it
+sinks further. The reason is that according to the
+law of floatation, to balance the weight of ship,
+
+113
+
+
+--- Page 17 ---
+a greater volume of water is required to be
+displaced in water of lower density in river (or
+sea).
+
+Plimsoll line : Each ship has a white line
+painted on its side, known as the Plimsoll line.
+This line indicates the safe limit for loading the
+ship in water of density 10? kg m™. A ship is not
+allowed to be loaded further when its Plimsoll
+line starts touching the water level, so that
+when it sails in sea water of density more than
+10° kg m”, only the part of it below the plimsoll
+line remains submerged in water.
+
+An unloaded ship is filled with sand at its
+bottom : An unloaded ship floats with its very
+small volume inside water. As a result, its centre
+of gravity is higher and its equilibrium is
+unstable. There is a danger that it may get blown
+over on its side by strong winds. Therefore, an
+unloaded ship is filled with sand (or stones),
+called ballast, at its bottom. This lowers its
+centre of gravity to make its equilibrium stable.
+
+(ii) Floatation of human body
+
+The average density of human body depends
+on the proportion of its constituents like bone,
+blood, muscles and fat in him as each constituent
+has different density. Further, it also depends on
+the amount of air in his lungs at that time. The
+average density of body with empty lungs is
+1-07 g cm™, while with lungs filled with air is
+1-00 g cm~*. A good swimmer can float on water,
+like a floating object, with his lungs filled with
+air and nose and mouth projecting just above the
+water surface. The weight of water displaced by
+him is then nearly equal to his own weight. Thus,
+he can swim with a very little effort.
+
+It is easier for a man to swim in sea water
+than in fresh (or river) water : The reason is
+that due to presence of minerals (salt etc.), the
+density of sea water (= 1-026 g cm73) is
+more than the density of fresh (or river) water
+(= 1-0 g cm”). Therefore, with a smaller portion
+of the body submerged in sea water, the weight
+of water displaced becomes equal to the total
+weight of the body, while to displace the same
+weight of fresh (or river) water, a large portion of
+his body will have to be submerged in water. So
+it becomes difficult to swim in river water.
+
+In the Dead Sea, the density of water is much
+more (= 1-16 g cm™), therefore, a man can easily
+
+swim in Dead Sea with a small portion
+submerged inside water so as to balance his
+weight.
+
+(iii) Floatation of submarines
+A submarine is a fish shaped water-tight boat
+provided with several ballast (or floatation) tanks
+in its front and rear parts. Fig. 5.13 shows the
+portion of a submarine to explain its floatation.
+It is provided with periscopes so that the diver
+could see above the water surface even when the
+submarine is well inside the water.
+Periscope
+
+Ballast tank Ballast tank
+
+Fig. 5.13 Submarine
+
+A submarine can be made to dive into the water
+or rise up to the surface of water as and when
+desired. If a submarine is to dive, its ballast tanks
+are filled with water so that the average density of
+submarine becomes greater than the density of sea
+water and the submarine dives into the water. If
+submarine is to rise, water from the ballast tanks
+is forced out into the sea by allowing the
+compressed air to enter the tank. This makes the
+average density of submarine less than that of sea
+water. As a result, the weight of water displaced by
+its partially small submerged part becomes equal
+to the weight of submarine and hence it rises up to
+the surface of water.
+
+(iv) Floatation of iceberg
+
+The density of ice is less than the density of
+water. The density of ice is 0-917 g cm™ and that
+of water is 1 g cm™?. Therefore, huge masses of ice
+known as icebergs are able to float on water with
+their major part inside the water surface and only
+a small portion above the water surface.
+
+Volume of iceberg above the water surface
+while floating : If the total volume of an iceberg
+is V and the volume of iceberg submerged is v,
+then by the principle of floatation,
+
+Weight of water displaced by the submerged
+part of iceberg = Total weight of iceberg
+
+Or v X Prater * 8 = VxXp,.%8
+
+114
+
+
+--- Page 18 ---
+or
+
+Examples : (1) An iceberg (p,, = 0-917 g cm”)
+floats on water (p,,,,, = 1:0 cm73) with volume
+v=0-917 Vie. 91-7% of its total volume below the
+water surface or only 8-3% of its volume above the
+water surface as shown in Fig. 5.14.
+
+Fig. 5.14 Floating iceberg
+
+(2) An iceberg (p,., = 0-917 g cm-) floats on
+sea water (p = 1-026 g cm-*) with volume
+
+water
+
+y= 2 vy = 0-893 Vi.e., 89-3% of its total
+1-026
+
+volume submerged inside sea water and only
+
+10:7% above sea water.
+
+Icebergs are dangerous for ships
+Icebergs being lighter than water, float on water
+with their major part (nearly 90%) inside water
+and only a small part (~10%) outside water.
+Since portion of iceberg inside the water surface
+depends upon the density of sea water, therefore
+for the driver of ship, it becomes difficult to
+estimate the size of iceberg. Thus an iceberg is
+very dangerous for the ship as it may collide
+with the ship and cause damage.
+
+No change in level of water on melting a
+floating piece of ice : When a floating piece
+
+of ice me}ts into water, tt contracts by the
+volume equal to the volume of ice piece above
+the water surface while floating on it. Hence the
+level of water does not change when the ice
+floating on it melts.
+(v) Floatation of fish
+
+Many species of fish have an organ called
+a swim bladder. It acts like the ballast (or
+floatation) tank of a submarine. When a fish has
+to rise up in water, it diffuses gas from its fluid
+into the bladder, so its volume increases and its
+average density decreases. This increases the
+volume of water displaced by the fish and so
+the upthrust on fish increases due to which it
+rises up. When the fish has to come down, it
+empties its bladder to the required extent, so its
+volume decreases and density increases. Hence
+upthrust on fish decreases and it sinks in water.
+(vi) Rising of balloons
+
+When a light gas like hydrogen or helium
+(density much less than that of air) is filled in
+a balloon, the weight of air displaced by the
+inflated balloon (i.e., upthrust) becomes more
+than the weight of the gas filled balloon and it
+rises up.
+
+The balloon does not rise indefinitely. The
+reason is that the density of air decreases with
+altitude. Therefore as the balloon gradually goes
+up, the weight of the displaced air (i.e.,
+upthrust) decreases. It keeps on rising as long
+as the upthrust on it exceeds its weight. When
+upthrust becomes equal to its weight, it stops
+rising further.
+
+Ras
+
+1. A block of wood of volume 25 cm* floats on water
+with 20 cm? of its volume immersed. Calculate :
+(i) the density, and (ii) the weight of block of
+wood.
+Given : Volume of block V = 25 cm},
+Volume immersed in water v = 20 cm?
+
+(i) If density of wood is p g cm, then by principle
+of floatation.
+
+Weight of block of wood = Weight of water
+displaced by the immersed part of block.
+
+Vog = vx 1x (since density of water = 1 g cm™)
+
+Pr UF = 0-8 g em?
+
+(it) Weight of block of wood = Vpg -
+= 25x 0-8 x g = 20 g dyne
+= 20 ef.
+
+115
+
+
+--- Page 19 ---
+2. A block of iron floats on mercury. Find the
+fraction of volume which remains immersed
+in mercury. (Densities of iron and mercury are
+7-8 g cm™ and 13-6 g cm™ respectively)
+
+Let V be the volume of iron block and v be its
+volume immersed in mercury. For floatation,
+
+Weight of block = Weight of mercury displaced by
+
+the immersed portion of block.
+Le, Vx78x g=vx 136x g
+v 7.8
+or =t=—7, = 0-574
+4 13.6
+
+or v =0-574V
+The fraction 0-574 of total volume will remain
+immersed in mercury.
+
+3. An iceberg floats on fresh water with a part of
+it outside the water surface. Calculate the
+fraction of the volume of the iceberg which is
+below the water surface.
+
+Given : density of ice = 917 kg m=, density of
+fresh water = 1000 kg m=.
+By the principle of floatation,
+
+Volume of iceberg immersed Density of ice
+Total volume of iceberg = Density of fresh water
+917
+= 1000 = 0-917
+
+Thus 0-917" part of volume of iceberg will remain
+below the water surface.
+4. A block of wood floats on water with 2th of
+
+its volume above the water surface. Calculate
+the density of wood.
+
+Let the volume of block be V and density of
+wood be p. Volume of block above the surface of
+
+zy
+water = 5
+
+.. Volume of block immersed v = V— 3 V= 5 V
+By the principle of floatation,
+
+Weight of the block = Weight of water displaced
+by the immersed part of
+
+block
+ive., Vxpxg= 2Vx1xg
+p = 3 = 0-6 g cm™,
+
+(Here the density of water is taken as 1 g cm™>)
+
+5. A piece of wood of volume 200 cm? and
+density 0-84 g cm floats in a liquid of density
+1-05 g em>.
+
+(i) What volume of wood will remain above the
+surface of liquid ?
+
+(ii) What force must be exerted on wood to keep it
+totally submerged ?
+
+Given, V = 200 cm’, p, = 0-84 g cm™, p, = 1-05 g cm}
+
+(i) Let V’ cm? be the volume of wood which remains
+above the surface of liquid. Then submerged
+volume of wood v = V— V’ = (200 - V’) cm?3
+and by the principle of floatation,
+Weight of wood piece
+
+= Upthrust due to submerged part of wood
+
+200 x 0:84 x g = (200-V’)x 105 x g
+v= 200x (1-05 - 0-84)
+~ 1-05
+_ 200x0-21__ 3
+= “ros 7 40cm
+
+(ii) When wood piece is totally submerged, then
+
+Upthrust = Vx p, x g=200x 1-05 xg
+= 210 gf (upwards)
+Weight of wood piece = Vx p, x g=200x0-84xg
+
+168 gf (downwards)
+
+Force to be exerted to keep the wood totally
+submerged
+
+= Upthrust — Weight of wood piece
+= 210 — 168 = 42 gf.
+
+6. The volume of a balloon is 1000 m/. It is filled
+with helium of density 0-18 kg m~. What maximum
+load can it lift ? Density of air is 1:29 kg m™.
+Given, volume of balloon V = 1000 m3,
+density of helium p = 0-18 kg m7,
+density of air = 1-29 kg m=?
+
+Weight of helium filled balloon
+=Vxpx g= 1000x018 xg
+= 180 gN = 180 kef
+Weight of air displaced = upthrust
+V x density of air x g
+1000 x 1-29 x g
+= 1290 g N = 1290 kef
+Resultant upward force on balloon
+= upthrust — weight of balloon
+= 1290 — 180 = 1110 kef.
+So it can lift a maximum load of 1110 kgf.
+
+116
+
+
+--- Page 20 ---
+No —
+
+9.
+
+EXERCISE 5 (C)
+
+State the principle of floatation.
+
+A body is held immersed in a liquid. (i) Name the
+two forces acting on body and draw a diagram to
+show these forces. (ii) State how do the magnitudes
+of two forces mentioned in part (i) determine
+whether the body will float or sink in liquid when it
+is released. (iii) What is the net force on body if it
+(a) sinks, (b) floats ?
+
+When a piece of wood is suspended from the hook
+of a spring balance, it reads 70 gf. The wood is
+now lowered into water. What reading do you expect
+on the scale of spring balance ?
+
+{Hint : The piece of wood will float on water and
+while floating, apparent weight = 0]. Ans. Zero
+
+A solid iron ball of mass 500 g is dropped in mercury
+
+contained in a beaker. (a) Will the ball float or sink ?
+
+Give reason. (b) What will be the apparent weight
+
+of ball ? Give reason.
+
+Ans. (a) Float, Reason: Density of ball (i.e., iron)
+is less than the density of mercury. (b) Zero
+Reason : While floating, upthrust = weight.
+
+How does the density of a substance determine
+whether a solid piece of that substance will float
+or sink in a given liquid ?
+
+Ans. The body will float if p, < p,
+
+and it will sink if p, > p,
+
+Explain why an iron nail floats on mercury, but it
+sinks in water.
+[Hint : Density of iron is less than that of mercury,
+but more than that of water]
+
+A body floats in a liquid with a part of it
+submerged inside liquid. Is the weight of floating
+body greater than, equal to or less than upthrust ?
+
+Ans. Equal to
+
+A homogeneous block floats on water (a) partly
+immersed (b) completely immersed. In each case state
+the position of centre of buoyancy B with respect to
+the centre of gravity G of the block.
+
+Ans. (a) B will lie vertically below G (b) B will coincide G
+
+Fig. 5.15 shows the same block of wood floating in
+three different liquids A, B and C of densities p,,p, and
+P, respectively. Which of the liquid has the highest
+density ? Give reason for your answer.
+
+Fig. 5.15
+
+Ans. C
+
+Reason : The upthrust on the body by each liquid is
+same and it is equal to the weight of body. But
+
+Ans.
+
+117
+
+upthrust = volume submerged x p, x g. For liquid C,
+since volume submerged is least so density p, must
+be maximum.
+
+Draw a diagram to show the forces acting on a
+body floating in water with its some part
+submerged. Name the forces and show their points
+of application. How is the weight of water
+displaced by the floating body related to the weight
+of the body itself ?
+
+What is centre of buoyancy ? State its position for
+a floating body with respect to the centre of gravity
+of body.
+
+A balloon filled with helium gas floats in a big
+closed jar which is connected to an evacuating
+pump. What will be your observation, if air from
+jar is pumped out ? Explain your answer.
+
+Ans. Observation : The balloon will sink.
+Explanation : As air is pumped out from jar, the
+density of air in jar decreases, so the upthrust on
+balloon decreases. As weight of balloon exceeds the
+upthrust on it, it sinks.
+
+A block of wood is so loaded that it just floats in
+water at room temperature. What change will occur
+in the state of floatation, if
+(a) some salt is added to water,
+(b) water is heated ?
+Give reason.
+Ans. (a) Floats with some part outside water.
+
+Reason : On adding some salt to water, the density
+of water increases, so upthrust on block of
+wood increases and hence the block rises up till
+the weight of salty water displaced by the
+submerged part of block becomes equal to the weight
+of block. (b) Sinks.
+Reason : On heating, the density of water decreases,
+so upthrust on block decreases and weight of block
+exceeds the upthrust due to which it sinks.
+
+A body of volume V and density p,, floats with
+volume v inside a liquid of density p,. Show that
+vy _ Ps
+
+vo~ pL"
+
+Why is the floating ice less submerged in brine
+than in water ?
+
+. Density of brine is more than the density of water.
+
+Aman first swims in sea water and then in river water.
+
+(i) Compare the weights of sea water and river
+water displaced by him.
+
+(ii) Where does he find it easier to swim and why?
+(i) 1: 1 (in each case the weight of water displaced
+will be equal to the weight of man) (ii) In sea water
+because the density of sea water is more than that
+of river water so his weight is balanced in sea
+water with his less part submerged inside it.
+
+
+--- Page 21 ---
+20.
+
+22.
+
+An iron nail sinks in water while an iron ship floats
+on water. Explain the reason.
+
+What can you say about the average density of a
+ship floating on water in relation to the density of
+water ?
+Ans. Average density of ship is less than the
+density of water.
+A piece of ice floating in a glass of water melts,
+but the level of water in glass does not change.
+Give reason.
+(Hint : Ice contracts on melting.]
+A buoy is held inside water contained in a vessel by
+tying it with a thread to the base of the vessel. Name
+the three forces that keep the buoy in equilibrium
+and state the direction in which each force acts.
+Ans. (i) Weight of buoy vertically downwards,
+(ii) upthrust of water on buoy vertically upwards,
+and (iii) tension in thread vertically downwards.
+A loaded cargo ship sails from sea water to river
+water ? State and explain your observation.
+Explain the following :
+
+(a) Icebergs floating in sea are dangerous for
+ships.
+
+(b) An egg sinks in fresh water, but floats in a
+strong salt solution.
+
+(c) A toy balloon filled with hydrogen rises to
+the ceiling, but if filled with carbon dioxide
+sinks to the floor.
+
+(d) As a ship in harbour is being unloaded, it
+slowly rises higher in water.
+
+(e) A balloon filled with hydrogen rises to a
+certain height and then stops rising further.
+
+(f) A ship submerges more as it sails from sea
+water to river water.
+
+Multiple choice type :
+
+1.
+
+tw
+
+For a floating body, its weight W and upthrust F,
+on it are related as :
+
+(a) W>F, (b) W<F,
+(c) W=F, (d) nothing can be said.
+Ans. (c) W= F,
+
+A body of weight W is floating in a liquid. Its
+
+apparent weight will be :
+
+(a) equal to W (b) less than W
+
+(c) greaterthan W  (d) zero. Ans. (d) zero
+
+A body floats in a liquid A of density p, with a
+
+part of it submerged inside liquid while in liquid
+
+B of density p, totally submerged inside liquid.
+
+The densities p, and p, are related as :
+
+(a) P, = P2 (b) Py < P2
+
+(c) P, >P, (d) nothing can be said
+Ans. (c) P, > P,
+
+Numericals :
+
+1.
+
+>
+
+wv
+
+oa
+
+118
+
+A rubber ball floats on water with its 1/3" volume
+outside water. What is the density of rubber ?
+Ans. 667 kg m=?
+
+A block of wood of mass 24 kg floats on water.
+The volume of wood is 0-032 m?. Find :
+
+(a) the volume of block below the surface of water,
+(b) the density of wood.
+(Density of water = 1000 kg m”?)
+Ans. (a) 0-024 m3 (b) 7-5 x 10? kg m3?
+
+A wooden cube of side 10 cm has mass 700 g.
+What part of it remains above the water surface
+while floating vertically on the water surface ?
+
+Ans. 3 cm height
+
+A piece of wax floats on brine. What fraction of
+its volume is immersed ?
+
+Density of wax = 0-95 g cm~, Density of
+brine = 1-1 gcm™. Ans. 0-86
+
+If the density of ice is 0-9 g cm™>, what portion of
+an iceberg will remain below the surface of water
+in a sea ? (Density of sea water = 1-1 g cm™)
+
+9
+Ans. ne (or 0-818th) part.
+
+A piece of wood of uniform cross section and
+height 15cm floats vertically with its height
+10 cm in water and 12 cm in spirit. Find the
+density of (i) wood and (ii) spirit.
+
+Ans. (i) 0-667 g cm’, (ii) 0-833 g cm?
+
+A wooden block floats in water with two-third of
+its volume submerged. (a) Calculate the density of
+wood. (b) When the same block is placed on oil,
+three-quarter of its volume is immersed in oil.
+Calculate the density of oil.
+
+Ans, (a) 667 kg m-, (b) 889 kg m3
+
+The density of ice is 0-92 g cm~? and that of sea
+water is 1-025 g cm~>. Find the total volume of an
+iceberg which floats with its volume 800 cm? above -
+water. Ans. 7809-5 cm?
+
+A weather forecasting plastic balloon of volume
+15 m? contains hydrogen of density 0-09 kg m~>. The
+volume of an equipment carried by the balloon is
+negligible compared to its own volume. The mass of
+empty balloon alone is 7-15 kg. The balloon is
+floating in air of density 1-3 kg m~>. Calculate :
+(i) the mass of hydrogen in the balloon, (ii) the
+mass of hydrogen and balloon, (iii) the total
+mass of hydrogen, balloon and equipment if
+the mass of equipment is x kg, (iv) the mass of
+air displaced by balloon and (v) the mass of
+equipment using the law of floatation.
+Ans. (i) 1-35 kg (ii) 8-5 kg (iii) (8-5 + x) kg
+(iv) 19-5 kg (v) 11 kg

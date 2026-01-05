@@ -1,0 +1,1651 @@
+
+
+--- Page 1 ---
+>
+
+STUDY OF GAS LAWS
+
+SYLLABUS
+
+(i) The behaviour of gases under changes of temperature and pressure; explanation in terms of molecular
+motion (particles, atoms, molecules); Boyle’s Law and Charles’ Law; absolute zero; gas equation; simple
+
+relevant calculations.
+
+¢ The behaviour of gases under changes of temperature and pressure, explanation in term if molecular
+
+motion (particles, atoms, molecules)
+
+calculations.
+
+Kelvin scale of temperature.
+based on gas equation.
+
+* Charles’ Law: statement, mathematical form, simple calculations.
+* Gas equation P; V;/T, = Pz V2/T>; simple relevant calculations
+
+¢ Boyle’s Law: statement, mathematical form, simple
+
+¢ Absolute zero
+
+(ii) Relationship between Kelvin scale and Celsius Scale of temperature; Standard temperature and pressure.
+Conversion of temperature from Celsius Scale to Kelvin scale and vice versa.
+
+Standard temperature and pressure. (Simple calculations)
+
+7.1 INTRODUCTION
+
+The state of matter in which inter-particle
+attraction is weak and inter-particle space is so large
+that the particles become completely free to move
+randomly in the entire available space is known as
+Gas. Gas occupies the entire space of the vessel in
+which it is kept and so takes the shape of the vessel.
+All gases show uniform behaviour under similar
+conditions of temperature and pressure irrespective
+of their chemical nature or colour or odour.
+
+7.22 BEHAVIOUR AND CHARACTERISTIC
+
+PROPERTIES OF GASES
+
+Gases are composed of molecules (particles)
+that are in constant random motion. Kinetic theory
+helps in explaining the simple relationship that
+exists between the pressure, the volume, and the
+temperature of a gas.
+
+The kinetic molecular theory, explains the
+behaviour and characteristic properties of gases:
+
+(1) Composition of gases : Gases are made up
+of tiny particles (molecules) moving in all possible
+directions at all possible speeds. The molecules are
+negligibly small in size as compared to the volume
+occupied by the gas.
+
+(2) Gases have neither a fixed volume nor a
+fixed shape : There is negligible force of attraction
+between the particles (gas molecules). Therefore, the
+particles (gas molecules) are free to move in the
+entire space available to them, their movement is
+
+restricted only by the walls of the container. Thus,
+they attain the shape of the containing vessel.
+
+(3) Gases exert pressure in all directions: The
+moving particles (molecules) of a gas collide with
+each other and also with the walls of the container.
+Due to these collisions, gas molecules exert pressure.
+It has been found, that at a given temperature, time
+and area, the same number of molecules of a gas
+strike against the walls of the container. Thus, gases
+exert the same pressure in all directions.
+
+(4) Gases are highly compressible : There are
+large inter-particle (inter-molecular) spaces between
+gas molecules, and this accounts for the high
+compressibility of gases. On applying pressure, the
+
+molecules come closer, thus decreasing the volume
+
+of the gas.
+
+(5) Gases are highly expansible : Gases
+increase in volume on decrease in pressure and
+increase in temperature.
+
+When pressure on an enclosed gas is reduced,
+its particles (molecules) move apart, thus increasing
+their inter-molecular spaces. As a result, the volume
+of the gas increases.
+
+When an enclosed gas is heated, kinetic energy
+of its molecules increases. Thus, the molecules start
+moving faster and farther apart from each other,
+resulting in an increase in the volume of the gas.
+
+(6) Gases have low density : The number of
+molecules per unit volume in a gas is very small as
+
+—_—_ 1
+
+
+--- Page 2 ---
+compared to solids and liquids. Gases have large
+inter-molecular space between their molecules.
+Therefore, gases have very low density.
+
+(7) Gases have a natural tendency to
+mix with one another (diffusion) : Inter-particle
+(inter-molecular) spaces in a gas are very large. When
+two gases are brought in contact with each other, their
+molecules mix with each other in such a manner that
+a homogeneous gaseous mixture is formed.
+
+Diffusion is the process of gradual mixing of two
+substances, kept in contact, by molecular motion.
+
+If you open a jar of chlorine or ammonia in a large
+room, the odorous presence of the gas can be detected
+in every part of the room within a few seconds.
+Although chlorine is heavier than air, it does not
+remain at the floor but spreads throughout the room.
+
+The particles (molecules) of chlorine coming
+out of the jar collide with air particles (molecules)
+and due to the collisions of the particles, they start
+moving in a haphazard manner in all possible
+directions. This process continues till there is an
+equal concentration of chlorine particles (molecules)
+throughout the room.
+
+(8) Gases can be liquefied : On cooling, the kinetic
+energy of the molecules of a gas is reduced and on
+applying pressure on a cooled gas, the molecules come
+closer. Hence, the inter-molecular space gets reduced
+and there is an increase in the number of molecules per
+unit volume. Thus, the gas liquefies.
+
+7.3. MOLECULAR MOTION: RELATIONSHIP OF
+TEMPERATURE, PRESSURE AND VOLUME
+
+According to the kinetic model, particles
+(molecules) of a substance are in constant random
+motion, so they possess kinetic energy.
+
+The average kinetic energy of a particle
+(molecule) is directly proportional to its absolute
+temperature.
+
+As temperature increases, molecular motion
+increases, and when temperature decreases, molecular
+motion also decreases. This suggests that when the
+temperature is zero, molecular motion ceases
+(theoretical concept). This fact is applied in defining
+a scale of temperature called Kelvin scale*.
+
+* Kelvin scale is also called the absolute scale of temperature.
+
+The temperature at which the molecular motion
+completely ceases (theoretical concept), on the
+
+Kelvin scale, is called absolute zero.
+
+Absolute zero or zero kelvin is equal to
+—273°C. Obviously, temperatures lower than
+absolute zero, i.e., -273°C are not possible.
+
+When a gas is enclosed in a vessel, it exerts
+uniform pressure on the walls of the containing
+vessel. The reason is that the particles (molecules)
+of the gas collide with each other and with the walls
+of the containing vessel. Since a large number of
+particles (molecules) suffer collisions with the wall,
+an appreciable force acts on the wall. The force
+exerted on a unit area of the wall of the vessel is
+equal to the pressure of the gas.
+
+But, when the temperature of the gas is
+increased, keeping its volume constant, the average
+kinetic energy of the gas molecules increases and
+therefore average speed of the molecules also
+increases. The molecules now strike the walls of the
+container with greater momentum (momentum is the
+product of mass and velocity) and the rate of
+collision of the particles (molecules) also increases.
+Thus, the force exerted on the walls of the container
+increases, which results in an increase in the
+pressure exerted by the gas.
+
+If one of the walls of the container is movable,
+then, due to the increased pressure, that wall is
+pushed back and the gas expands. Thus, volume also
+increases with the increase in molecular motion.
+7.4 THE GAS LAWS
+
+The behaviour of a gas under known
+conditions of pressure, volume and temperature is
+described by laws known as Gas Laws.
+
+Standard variables for gas laws :
+
+The physical behaviour of gases can be
+described by three standard variables :
+
+(i) volume (V) (ii) pressure (P)
+
+(iii) temperature (7).
+
+All gases are similar in their physical behaviour;
+they expand and contract equally under similar
+conditions of temperature and pressure. For a given
+mass of a gas, a change in one or more than one
+variable, i.e., pressure, volume and temperature,
+results in a change in the remaining variables.
+
+
+--- Page 3 ---
+(a) The volume (V) of a gas is the space
+occupied by that gas. The space occupied by a gas
+is equal to the volume of its container.
+
+Units of volume :
+In S.J. system, volume of a gas is measured
+in cubic metre (m3). Other units are:
+(i) cubic centimetre (cm?)
+(ii) millilitre (mL)
+(iii) cubic decimetre (dm?)
+(iv) litre (L)
+Relationship between units :
+
+1 m? = 1000 dm? = 1000 litres
+
+1 Litre = 1000 mL = 1000 cm’.
+
+(b) The pressure (P) of a gas is the force that
+the gas exerts per unit area on the walls of its
+container.
+
+Our planet is surrounded by a thick blanket of
+air known as atmosphere. The pressure exerted by
+air (present in the atmosphere) on the surface of
+the earth is called atmospheric pressure.
+
+Standard pressure of one atmosphere (1 atm) is
+defined as the pressure exerted by 76 cm of mercury at
+0°C and at standard gravity of 9:8 m s~? (density
+of mercury = 13-5951 g cm™). °
+
+The S.I. unit of pressure is Pascal (Pa)
+Pascal (Pa) is defined as the pressure exerted
+when a force of 1 Newton acts on an area of 1 m7.
+Units of pressure :
+(i) Pascal (Pa)
+(ii) Atmosphere (atm)
+(iii) (a) in centimetre (cm Hg),
+(b) in millimetre (mm Hg),
+(c) in torr (named after Torricelli),
+
+Relationship between these units :
+1 atm = 76:0 cm Hg = 760 mm Hg
+= 760 torr
+
+(c) The temperature (7) of a gas is defined
+as the degree of hotness of that gas.
+
+The more commonly used scale of temperature
+is Celsius scale, formerly known as the Centigrade
+scale. The zero on Celsius scale is purely arbitrary.
+In other words, temperature of a substance may go
+below zero i.e. a substance can have negative
+temperatures too. The behaviour of gases show
+
+that it 1s not possible to have temperature below
+—273°C. This fact has led to the formulation of
+another scale known as Kelvin scale. The zero on
+this scale corresponds to —273°C.
+
+Relationship between Kelvin (K) and degree
+Celsius (°C)
+
+Celsius scale values can be converted to
+Kelvin scale values by adding 273 to degree
+Celsius values.
+
+Kelvin (K) = °C + 273.
+
+7.5 PRESSURE AND
+RELATIONSHIP IN GASES
+
+Experiment —Take a 10 mL syringe fitted
+with a piston. Raise the latter to the 10 mL
+mark and wrap an adhesive tape over its nozzle. Fit
+the wrapped nozzle tightly into a hole, bored half way
+through a rubber stopper (Fig. 7.1).
+
+Observation : On
+placing some weight on
+the piston (to put pressure),
+it moves downward and
+reduces the volume of
+air. Gradually, put some more
+weight. The piston moves
+further downward and the
+volume of the air is further
+reduced.
+
+VOLUME
+
+AIR
+
+Now remove the weights
+one by one. You will notice that,
+on decreasing the pressure,
+
+NOZZLE
+RUBBER
+
+piston moves upward, as such,
+the volume of the air increases.
+
+Conclusion :
+
+STOPPER
+Fig. 7.1 Pressure-
+volume relationship
+
+1. An increase in pressure at constant temperature
+causes a decrease in the volume of a gas;
+conversely, if the volume of a fixed mass of a
+gas at constant temperature is decreased, the
+pressure of the gas increases.
+
+2. A decrease in pressure at constant temperature
+causes an increase in the volume of a gas;
+conversely, if the volume of a fixed mass of a
+gas at constant temperature is increased, the
+pressure of the gas decreases.
+
+7.5.1 Boyle’s law
+
+Robert Boyle systematically studied the
+relationship between pressure and volume of gases.
+
+
+--- Page 4 ---
+In 1662, he tound that, at constant temperature’, the
+volume of a fixed mass of a dry gas decreased by half
+when the pressure on it was doubled, and it became
+four times its original volume when its pressure was
+decreased to one-fourth. He described this behaviour
+in the form of a law, known as Boyle’s law.
+
+Boyle’s law : Volume of a given mass of a dry gas
+is inversely proportional to its pressure at
+constant temperature.
+
+Mathematical expression of Boyle’s law :
+
+Suppose a gas occupies volume V, when its
+pressure is P,; then
+
+1 &
+V, oc R or V, = B
+or P,V, = k = constant
+
+If V, is the volume occupied when the pressure is
+P, at the same temperature, then
+
+k
+
+V, o or Y= p
+
+1
+P,
+or P,V, = k = constant
+“. PV, = P,V, =k; at constant temperature.
+This is called Boyle’s law equation.
+
+Boyle’s law may also be stated as : the product of
+volume and pressure of a given mass of a dry gas at
+a constant temperature is constant.
+
+7.5.2 Graphical verification of Boyle’s law
+
+The law can be verified by plotting a graph
+
+(i) Vos 5 (ii) VvsP (iii) PV vs P
+
+(i) Vvs > : a straight line passing through the origin
+is obtained (Fig 2.2).
+
+i TEMPERATURE 1S
+CONSTANT
+
+1 2 3 4
+—P>
+Fig. 7.2 Variation in volume (V) plotted against
+1/P at constant temperature
+
+(ii) V vs P: a hyperbolic curve in the first quadrant
+is obtained (Fig. 7.3).
+
+Note : The term isotherm (meaning at constant
+temperature) is used to describe such graphs.
+
+TEMPERATURE IS
+CONSTANT
+
+HYPERBOLIC CURVE
+
+>P
+
+Fig. 7.3 Variation in volume {V) plotted against pressure (P)
+at constant temperature.
+(iii) PV vs P : a straight line is obtained parallel to
+the pressure axis (Fig. 7.4).
+
+4
+3
+
+,
+>
+
+1
+
+-—Ppo
+Fig. 7.4 Variation in PV plotted against P ata
+constant temperatire
+7.5.3 Explanation of Boyle’s law in terms of
+molecular motion (kinetic theory).
+
+According to the kinetic theory of gases, number
+of particles (molecules) present in a given mass and
+the average kinetic energy possessed by the particles
+is constant.
+
+If volume of a given mass of a dry gas is reduced
+to half its original volume, the same number of
+particles (molecules) will have half the space to
+move. As a result, the number of molecules striking
+at unit area of the walls of the container at a given
+time will get doubled and so the pressure also gets
+doubled. Conversely, if the volume of a given mass
+of a gas is doubled at constant temperature, the same
+number of molecules will have double the space to
+move about. Consequently, the number of molecules
+striking at unit area of the walls of the container at a
+given time will become one half of the original value.
+Thus, pressure of the gas will be reduced to half of
+
+
+--- Page 5 ---
+its original pressure. Hence it is seen that if pressure
+increases, the volume of a given mass of
+gas decreases at constant temperature (BOYLE’S
+LAW).
+
+7.5.4 Significance of Boyle’s Law
+
+On increasing pressure, volume decreases. The
+gas becomes denser. Thus at constant temperature,
+the density of a gas is directly proportional to its
+pressure.
+
+Atmospheric pressure is low at high altitudes,
+so air is less dense. Hence, a lesser quantity of
+oxygen is available for breathing. This is the reason
+why mountaineers have to carry oxygen cylinders
+with them.
+
+Note : When air is blown into a balloon,
+volume and pressure inside the balloon increase.
+Here, Boyle’s law is not violated as the law is valid
+for a definite mass, whereas mass increases when
+more air is blown into the balloon.
+
+Solved examples
+
+Example 1 : A gas occupies 800 cm? under
+760 mm Hg pressure. Find under what pressure the gas
+will occupy 380 cm}, the temperature remaining
+constant.
+
+Solution :
+P, = 760 mm Hg; V, = 800 cm?
+P,=2mmHg; _ V, = 380 cm
+
+By Boyle’s law, P|V, = P,V,
+Substituting the values,
+760 x 800 = P, x 380
+760x800
+1600 mm Hg = 160cm Hg
+
+Ans. : The required pressure is 160 cm Hg.
+
+Example 2 : A gas occupies 600 cm? under a pressure
+of 700 mm Hg. Find under what pressure the volume
+of the gas will be reduced by 20 per cent of its original
+volume, the temperature remaining constant throughout?
+Solution :
+600 x 20
+20% of 600 cm? = —p9— = 120 cm?
+.. The new volume of the gas
+= 600 — 120 = 480 cm?
+P, = 700 Hg; V, = 600 cm?
+P, = ? mm Hg; V, = 480 cm?
+
+By Boyle’s law, P,V, = P,V,
+Substituting the values,
+700 x 600 = P, x 480
+
+, = 100%*600 — 875 mm Hg
+480
+
+Ans. : The required pressure is 875 mm Hg.
+Example 3 : Two cylinders, both containing carbon
+dioxide, are connected together by a tube fitted with a
+tap. The capacity of one cylinder is 4 dm? and that of
+the other is 1 dm*; the pressure in the first cylinder is
+560 mm Hg and that in the second is 1000 mm Hg.
+What will be the final pressure in either cylinders on
+opening the tap if the temperature remains constant ?
+
+Solution :
+Total volume of carbon dioxide (after opening the
+tap)=4+1=5dm?.
+
+For the first cylinder
+PV, = P,V,
+560x 4 = P,x5
+560x 4
+P, = ~~ = 448 mm Hg
+For the second cylinder
+PV, = PV,
+1000 x 1 = P,x5
+10001
+P, = ~ = 200 mm Hg
+
+5
+Ans. : Final pressure = 448 + 200 = 648 mm Hg
+
+Example 4 : The volume of a given mass of a
+gas with some pieces of marble in a container at
+760 mm Hg pressure is 100 mL. If the pressure is
+changed to 1000 mm Hg, the new volume is 80 mL.
+Find the volume occupied by the marble pieces, if the
+temperature remains constant.
+
+Solution : Let the volume occupied by the marble
+pieces = V mL
+At 760 mm Hg, the volume occupied by the
+gas = (100 - V) mL
+At 1000 mm Hg, the volume occupied by the
+gas = (80 — V) mL
+By Boyle’s law, P,|V, = P,V,
+. 760 x (100 - V) = 1000 x (80 ~ V)
+or 24V = 400 mL
+or V = 16-6 mL
+Ans. : The required volume = 16-6 mL.
+
+aanaeeesnetieaenanenemnemnemnnmemmenenmmmnmmmmmenamenemmenaeemamennmenananemmnnnnn GHG CSTR —eeneeeeeerceneeneeeen ea
+
+
+--- Page 6 ---
+Numericals based on Boyle’s law
+
+1. Volume of certain amount of a gas at 25°C and
+100 cm Hg pressure is 80 mL. The gas is
+expanded to 160 mL keeping the temperature
+constant. Calculate the pressure of the expanded
+gas. (Ans. 50 cm of Hg)
+
+2. At a particular temperature, a certain quantity of
+gas occupies a volume of 74 cm? at a pressure
+of 760 mm. If the pressure is decreased to
+740 mm, what will be the volume of the gas at
+the same temperature ? (Ans. 76 cm)
+
+3. A student performed an experiment to measure
+pressure and volume of a gas at constant
+temperature and noted the following :
+
+Pressure (mm of Hg) Volume (cm?)
+100 80
+125 x
+200 40
+y 32
+
+Calculate the value of x and y. Which law was
+used in the calculations ? Draw a suitable graph.
+(Ans. x = 64 cm, y = 250 mm)
+4. At a constant temperature, volume of a gas
+was found to be 400 cm? at a pressure of
+760 mm Hg. If the pressure of the gas is
+increased by 25%, find the new volume.
+(Ans. 320 cm*)
+
+5. A vessel of capacity 600 cm? contains hydrogen
+gas at a pressure of 304 cm Hg. What will
+be the pressure of hydrogen gas, when the
+vessel is connected to another vessel of 300 cm?
+capacity ?
+
+(Ans. 202°67 cm of Hg)
+
+6. At constant temperature, a gas is at a pressure
+of 1080 mm Hg. If the volume is decreased
+by 40%, find the new pressure of the gas.
+
+(Ans. 1800 mm of Hg)
+
+7.6 TEMPERATURE-VOLUME RELATIONSHIP
+IN GASES
+This relationship is seen easily when an inflated
+balloon, is left in bright sun and it bursts. This is
+because the air inside the balloon expands with the
+rise in temperature.
+
+In general, an increase in temperature at
+constant pressure causes an increase in volume;
+and a decrease in temperature at constant pressure
+causes a decrease in volume.
+
+In 1787, Jacques Charles studied the temperature-
+volume relationship of gases. His work was further
+extended by Joseph Gay-Lussac in 1802.
+
+Experimentally, it was found that a fixed mass
+of any gas expands or contracts respectively by
+1/273 of its volume at 0 °C for each degree Celsius
+rise or fall in temperature, provided the pressure
+remains constant.
+
+Charles’s law :
+Pressure remaining constant, the volume of a given
+
+mass of a dry gas increases or decreases by 1/273 of
+its volume at 0°C for each I°C increase or decrease
+in temperature respectively.
+
+Mathematical expression of Charles’s law
+
+Let V, be the volume of a fixed mass of a gas
+at 0 °C, and let V be its volume at temperature
+t °C at constant pressure. Then, according to
+Charles’s law,
+
+= Yo
+V=Vyt+ 573 t (when P is constant)
+t 273 +t
+al 5] at 2B )
+
+_ _
+V= 573 F where T = 273 +t
+
+For a given mass of a gas,
+
+Mo. constant
+273
+V = kx T (where k is constant)
+V
+or Ve T and T= k
+
+Charles’s law may be restated as : Volume of a
+
+given mass of a dry gas is directly proportional to
+
+its absolute (Kelvin) temperature, if the pressure
+remains constant.
+
+Suppose, a gas occupies V, cm? at T, temperature
+and V, cm? at T, temperature, then by Charles’s law,
+
+Viet,
+or V, = kT, (kis constant)
+yy, 4)
+or 7, =k and V,«<T, or T, =k
+. 7 = z = k (at constant pressure)
+
+a eG tet
+
+
+--- Page 7 ---
+This is called the Charles’s law equation.
+According to this equation :
+
+(i) if the temperature is doubled, the volume would
+be doubled.
+(ii) if it is reduced by half, the volume would also
+be reduced by half.
+Graphical representation of Charles’s law :
+
+The relationship between volume and temperature
+of a gas can be plotted on a graph, as shown in
+Fig. 7.5. A straight line is obtained.
+
+The general term isobar (constant pressure) is
+assigned to such graphs.
+
+Volume (mL) >
+
+100°C 200°C 300°C 400°C
+Temperature (°C) —
+
+-273°C -200°C -100°C 0°C
+
+Fig. 7.5 Graph showing volume —temperature
+relationship in a gas (at constant pressure)
+
+7.6.1 Explanation of Charles’s law in terms of
+molecular motion (kinetic theory).
+
+According to the kinetic theory of gases,
+the average kinetic energy of gas particles (molecules)
+is directly proportional to its absolute temperature.
+Thus, when the temperature of a gas is increased,
+the particles (molecules) would move faster
+(kinetic energy is the energy by virtue of its
+motion), and will strike the walls of the container
+more frequently and vigorously. If the pressure is kept
+constant, volume increases proportionately. Hence, at
+constant pressure, volume of a given mass of a gas
+is directly proportional to temperature (CHARLES’S
+LAW).
+
+7.6.2 Significance of Charles’s law
+
+Volume of a given mass of a gas is directly
+proportional to its temperature, hence density
+decreases with an increase in temperature. This is
+the reason why hot air is filled into balloons used
+for meteorological purposes.
+
+7.7 ABSOLUTE ZERO
+
+From equation (1) V = V, (ee)
+
+273 —273
+Volume at -—273°C = Vo (a) =
+
+Thus, it can be concluded that the volume of a
+gas would be reduced to zero at —273°C.
+
+According to Lord Kelvin, if temperature of an
+enclosed gas at 0°C is lowered to —273°C, its
+volume becomes zero. However, this is not possible,
+because gas is one of the states of matter and hence,
+must have some definite mass and volume.
+
+The temperature -—273°C is called absolute
+zero. All gases liquefy or solidify before reaching
+this temperature.
+
+Theoretically, this is the lowest temperature that
+can ever be reached. At this temperature, all
+molecular motions cease. However, practically
+speaking, this temperature is impossible to attain.
+
+7.8 ABSOLUTE OR KELVIN SCALE OF
+TEMPERATURE
+The temperature scale with its zero
+at -273-15°C (for convenience in calculations, ~
+273°C is used) and whose each degree is equal to
+one degree on the Celsius scale, is called the Kelvin
+or absolute scale of temperature.
+
+CELSIUS KELVIN
+°C K
+UPPER FIXED
+POINT STEAM POINT
+100 opp | 373
+100°C 100 K
+see + 20°Coeeee-e-+staed 293K
+o ©........LL1 ICE POINT. |} 273
+LOWER FIXED
+POINT
+
+Fig. 2.6 Celsius and Kelvin thermometers
+
+7.9 CONVERSION OF TEMPERATURE FROM
+CELSIUS SCALE TO KELVIN SCALE AND
+VICE-VERSA
+
+The value on the Celsius scale can be converted to
+
+Kelvin scale by adding 273 to it.
+
+0°C = 0 + 273 = 273 K
+
+$$$ $01)
+
+
+--- Page 8 ---
+~ 20°C = 20+ 273 = 293K
+27°C = 27 + 273 = 300K
+~ 273°C =~ 273 +273 =0K
+
+Kelvin scale values can be converted to degree
+Celsius values by subtracting 273 from it.
+
+0 K = 0 - 273 = -273°C
+
+273 K = 273 — 273 = 0°C (freezing point of water
+or ice point)
+
+13 K = 13 - 273 = -260°C
+
+373 K = 373 — 273 = 100°C (boiling point of water)
+
+3. The real advantage of Kel
+makes application and use of
+Even more significantly, :
+scale are positive.
+
+Example 5 : 120 cm? of a gas is taken at 27.3 K.
+The temperature is then raised to 0 °C. What is the new
+volume of the gas ? The pressure is kept constant.
+
+Solution :
+V, = 120 cm; T, =27.3 K; V, =? cm?
+T, = 273 K, since 0 °C = 273 K
+
+By Charles’s law,
+
+YV_ Vv
+T°
+Substituting the values,
+120 _— Va
+27.3 ~ 273
+120x 273
+VV, = S53 = 1200 cm?
+
+Ans. : The gas at 0°C would occupy
+a volume of 1200 cm?.
+
+Examples 6 : At what temperature will 500 cm? of a
+gas measured at 20 °C occupy half its volume ? The
+pressure is kept constant.
+
+Solution :
+Let the required temperature be t °C.
+V, = 500 cm’; T, = (273 + 20) K = 293 K;
+V, = 250 cm?; T, = (273 +1) K
+
+By Charles’s law,
+
+AM |
+7
+Substituting the values,
+500 _ _250
+293 ~ 27341
+
+or 500 (273 + 2) = 250 x 293
+or 2 (273 + t) = 293
+
+or 273+t= > = 146.5
+or t = 146.5 — 273 = -126.5°C
+Ans. : The gas would occupy half its
+volume at -126.5°C.
+Example 7: The volume of a given mass of a gas at
+15°C is 100 cm. To what temperature should it be
+heated under the same pressure so that it occupies a
+volume of 125 cm? ?
+
+Solution :
+Let the required temperature be ¢ °C.
+V= 100 cm; T= (273 + 15) K = 288 K
+V’= 125 cm}; T’= (273 +) K
+
+By Charles’s law,
+V Vv’ Vv’
+
+Tip oO T'= yx T
+Substituting the values,
+, 125x288
+T’ = 100 = 360 K
+
+Kelvin temperature can be converted to Celsius
+temperature by subtracting 273, i.e.
+360 K = (360 — 273)°C = 87 °C
+Ans. : The gas would occupy 125 cm? at 87°C.
+
+Example 8 : At what centigrade temperature will
+the volume of a gas at O°C triple itself if the
+pressure remains constant ?
+
+Solution :
+Let the volume at O°C = VmL.
+V,=VmL; V, = 3 VmL
+T, = 0° or 273 K; T, =?
+By Charles’s law,
+Wow vw
+7 1 273“, |
+or T, = 3x 273 =819 K
+or T, = (819 — 273)°C = 546 °C .
+Ans. : The required temperature is 546°C.
+
+CO aos
+
+
+--- Page 9 ---
+Numericals based on Charles’s law
+1. Convert the following :
+(i) 37 K to °C (ii) 273 K to °C
+(iii) -27°C to K (iv) 27°C to K
+. 20 mL of hydrogen gas at 15°C is heated to 35°C
+
+at constant pressure. Find the new volume of
+hydrogen. (Ans 21-39 mL)
+
+At what temperature in degree centigrade will the
+volume of a gas at 0°C double itself, pressure
+remaining constant. (Ans. 273 °C)
+
+Calculate the volume (in cm?) of air expelled
+
+from a vessel containing 0-4 litres of it at
+250 K, when it is heated to 27°C at the same
+pressure. (Ans. 480 cm?)
+
+. What will be the volume of a gas when
+3 litres of it is cooled down from 15°C to —73°C
+at constant pressure. (Ans. 2:0833 litres)
+
+. To what temperature must a gas at 300 K be
+cooled down in order to reduce its volume to
+1/3" of its original volume, pressure remaining
+constant ? (Ans. 100 K)
+
+Prove that the volume of a gas at 273°C is twice
+its volume at 273 K, at constant pressure.
+
+7.10 THE GAS EQUATION (PRESSURE,
+VOLUME AND TEMPERATURE
+RELATIONSHIP)
+
+If both pressure and temperature of a fixed
+mass of a gas are varied, a combination of Boyle’s
+and Charles’s laws gives us a fixed relation
+amongst its volume, pressure and temperature.
+
+1
+According to Boyle’s law, V < >
+
+and according to Charles’s law, V «< T
+
+Now, on combining the two laws, volume of a
+given mass of a gas varies inversely with pressure
+and directly with absolute temperature.
+
+1
+Ve— xT
+“Pp
+T
+or V= P x constant
+PV
+or rT = constant
+
+Accordingly, if the volume of a given mass of
+
+a gas changes from V, to V,, its pressure from P, to
+P,, and its temperature from 7, to T,, then
+
+PV,  P,V,
+TY 7,
+
+The above mathematical expression is called the
+gas equation. This equation is used for calculating
+changes in gas volume when both its pressure and
+temperature change.
+
+7.11 STANDARD TEMPERATURE AND PRESSURE
+
+(S.T.P.)
+
+Since volume of a gas changes remarkably
+with change in temperature and pressure, it
+becomes necessary to choose standard values of
+temperature and pressure to which gas volumes
+can be referred.
+
+The standard values chosen are 0°C or 273K
+for temperature, and 1 atmospheric unit (atm) or
+760 mm Hg for pressure. These standard values are
+known as standard temperature and pressure
+(S.T.P.).
+
+Remember :
+Standard temperature = 0 °C = 273 K
+Standard pressure = 760 mm Hg
+
+= 76 cm Hg
+= 1 atm.
+
+Any change in pressure or temperature is likely
+to change the volume of a gas. Thus, while expressing
+the specific volume of a gas, it is necessary to specify
+both its pressure and its temperature.
+
+Note : By increasing pressure on the volume of
+an enclosed gas, its volume decreases, whereas by
+increasing temperature, its volume increases. Thus,
+by keeping equilibrium between an increase in
+pressure and an increase in temperature, it is
+possible to keep the volume constant.
+
+7.12 THE EFFECT OF MOISTURE ON PRESSURE
+
+Certain gases, like nitrogen and hydrogen are
+collected over water as shown in the Fig. 7.7.
+When the gas is collected over water, it is moist
+and contains water vapour. The total pressure
+exerted by this moist gas is equal to the sum of
+
+—_— (119 >
+
+
+--- Page 10 ---
+the partial pressures* of the dry gas and the pressure
+exerted by water vapour. Partial pressure of water
+vapour is also known as aqueous tension.
+
+GAS + WATER VAPOUR
+
+7] ATMOSPHERIC PRESSURE
+
+Fig. 7.7 Collection of gas over water
+
+Protal
+Poas = Protal
+
+Actual Pressure of gas =
+Total pressure — Aqueous tension
+
+= Pas + P ater vapour
+-P
+
+water vapour
+
+Example 9 : 87 cm? of moist nitrogen is measured at
+9°C and 659 mm Hg pressure. Find the volume of dry
+nitrogen at STP. The vapour pressure of water at 9°C
+is 9 mm Hg.
+Solution :
+
+Pressure due to dry nitrogen alone
+
+= 659 —- 9 = 650 mm Hg
+
+P, =650mm; V, =87cm>; T, =(273 +9) K;
+
+P, =760mm; V,=?cm?; T,=273K
+By the gas equation,
+PY, P, V2
+“TOT
+Substituting the values,
+650x87 — 760xV; 650 x87 _ 760xV,
+(27349) “973-282 * 973
+650 x87 x 273
+or 2* "982x760
+V, = 72-03 cm?
+
+Ans. : The volume of dry nitrogen at
+S.T.P. would be 72-03 cm?.
+
+Example 10 : A given mass of a gas occupies
+572 cm3 at 13°C and 725 mm Hg pressure. What will
+be its volume at 24°C and 792 mm Hg pressure ?
+
+Solution :
+
+P, = 725mm Hg; V,= 572 cm’;
+T, = (273+ 13) K = 286K;
+P, = 792mm Hg; V, =? cm?;
+
+* Partial pressure is the pressure, the gas would exert if it alone
+
+filled the containing vessel at the same temperature and pressure.
+
+T, = (273 +24) K = 297K.
+
+Applying the gas equation,
+
+RY | P,V
+Substituting the values,
+725x572 _ 792xV,
+286 ~ 297
+y, = 125x572x297
+or 2 = “286x792
+= 543.75 cm?
+
+Ans. : The required volume of gas is 543.75 cm’.
+
+Example I] : One litre of a gas at 10°C is heated tll
+both its volume and pressure are tripled. Find the new
+temperature.
+Solution :
+Initial condition Final condition
+P,=P P,=3P
+V,=1L V,=3L
+
+T, = (273 + 10) K = 283 K; 7, =?
+
+From the gas equation,
+
+RY, _ BYs
+TO”
+Pxi — 3Px3
+2833 ty
+_ 3Px3~x 283
+or = Px
+
+2547 K = (2547 — 273)°C = 2274°C
+
+Ans. : The new temperature is 2274°C.
+Example 12 : Gas is enclosed in a cylinder under
+S.T.P. conditions. At what temperature does the volume
+of the enclosed gas become 1/6th of its initial volume,
+pressure remaining constant ?
+
+Solution :
+
+Let the initial volume be V, final volume = ra
+Initial temp. 7, = 273 K final temp. T, = ?
+By Charles’s law,
+
+V, V>
+
+T°
+
+V, V,/6 V, x 273
+
+3 = T or T,= 6xV,_ =45.5K
+
+= 45.5 —273 =-227.5°C
+Ans. : The temperature at which the volume of
+the enclosed gas is 1/6" of its initial volume
+is —227.5 °C.
+
+
+--- Page 11 ---
+Example 13 ; Pressure of a gas at S.T.P. is doubled
+and the temperature is raised to 546 K. What is the
+final volume of the gas ?
+
+the gas, if the molecular mass (molar mass) of any
+gas occupies 22.4 litres at S.T.P.
+Solution :
+
+Solution : Oxygen (O,) is a diatomic gas.
+P, = 760 mm Hg P, =2 x 760 mm Hg Its molar mass is 16 x 2 = 32 g
+= - So, 32 g of oxygen occupies . 4 dm? at S.T.P.
+T, = 273K T, = 546K 8 o4
+Vi.=V, V5 = 16 g of oxygen will occupy = x 16 = 11.2 dm?
+T  ®&«'T;, P,=latm P,=?
+760xV, _ 2x760xV, V, = 11.2 dm V, = 1 dm3
+27300 546 T, =273K = 273 + 25 = 298
+v 760xV, x 546 By gas equation
+or 2 * 2x 760x273 PM _ Pov
+T,  T.
+“Vi, = 1 2
+Ans. : The volume of the gas remains the same P,= BMT — P1228 12.2 atm
+3 g 7 27 Ty, = Bx
+
+Example 14 : 16 g of oxygen gas is enclosed in a
+
+1 dm? flask at 25°C. Calculate the pressure exerted by Ans. The pressure exerted by the gas is 12-2 atm
+
+CHAPTER AT A GLANCE
+
+Gases neither have a definite volume nor shape. The constituent particles: are far away from each other
+and are free to move in any direction at high speed.
+
+The behaviour of gases is described by volume V, pressure P and temperature 7.
+Boyle’s Law : Volume of a given mass of a dry gas is inversely proportional to its pressure at
+
+constant temperature | P)V, = P,V).
+
+Charles’ Law : Pressure remaining constant, volume of a given mass of a dry gas increases or
+
+1
+decreases by 373 of its volume at 0°C for each 1°C increase or decrease in temperature.
+OR
+
+Volume of a given mass of a dry gas is directly proportional to its absolute temperature (Kelvin) if the
+pressure is kept constant.
+
+Mm _ we
+
+T Tp
+The temperature —273°C is called ABSOLUTE ZERO.
+
+Value on the celsius scale can be converted to Kelvin scale by adding 273 to it. Kelvin scale values
+can be converted to degree celsius values by subtracting 273 from it.
+
+Standard temperature = 0°C = 273 K
+‘Standard pressure = 760 cm = 76 cm Hg = | atm.
+
+- Ydeal Gas Equation :
+in temperature and pressure on volume of a given mass of a gas is called the Ideal Gas Equation.
+
+A mathematical expression describing the simultaneous effect of changes
+
+meecnrnnewneunnrairenmsrerenantstnnnarenncnanvwammemd Gl |] Peneinamnn
+
+
+--- Page 12 ---
++
+
+6.
+
+=
+
+12
+
+| EXCERCISE 7 |
+
+16. (a) What is the relationship between the Celsius and the
+
+. What do you understand by gas ?
+~ Give the assumptions of the kinetic molecular theory.
+- During the practical in the lab when hydrogen sulphide
+
+gas having offensive odour is prepared for some test, we
+can smell the gas even 50 metres away. Explain the
+phenomenon.
+
+Describe an experiment to show the pressure-volume
+relationship in gases.
+
+- How is molecular motion related with temperature ?
+
+State (i) the three variables for gas laws (ii) S.I. units of
+these variables.
+
+- (a) State Boyle’s Law.
+
+(b) Give its
+(i) mathematical expression,
+(ii) graphical representation and
+(iii) significance.
+Explain Boyle’s Law on the basis of the kinetic theory
+of matter.
+
+The molecular theory states that the pressure exerted by
+
+a gas in a closed vessel results from the gas molecules
+
+striking against the walls of the vessel. How will the
+
+pressure change if :
+
+(a) the temperature is doubled keeping the volume
+constant ?
+
+(b) the volume is made half of its original value keeping
+the temperature constant ?
+
+. (a) State Charles’s law.
+
+(b) Give its
+(i) graphical representation,
+(ji) mathematical expression and
+(iii) significance.
+Explain Charles’s law on the basis of the kinetic theory
+of matter.
+
+Define absolute zero and absolute scale of temperature.
+Write the relationship between °C and K.
+
+. (a) What is the need for the Kelvin scale of
+
+temperature ?
+
+(b) What is the boiling point of water on the Kelvin
+scale ? Convert it into centigrade scale.
+
+- (a) Define S.T.P. or N.T.P.
+
+(b) Why is it necessary to compare gases at S.T.P. ?
+
+- Write the value of :
+
+(a) standard temperature in :
+(i) °C GK
+(b) standard pressure in :
+(i) atm (ii) mm Hg (iii) cm Hg (iv) torr
+
+Kelvin scales of temperature ?
+
+(b) Convert (i) 273°C to Kelvin (ii) 293 K to °C.
+
+. State the laws which are represented by the following
+
+graphs.
+P.
+(a) ip, ©)
+© Pp g
+pas J
+Ss 2
+> a
+
+~300 2-200 -100 6 100
+oO
+
+&
+}
+
+Temperature °C
+P,<P,<P,
+
+Volume 1/V
+T, >T,> T,
+
+. Give reasons for the following :
+
+(a) All temperatures in the absolute (Kelvin) scale are in
+positive figures.
+
+(b) Gases have lower density compared to that of solids
+or liquids.
+
+(c) Gases exert pressure in all directions.
+
+(d) It is necessary to specify the pressure and temperature
+of a gas while stating its volume.
+
+(e) Inflating a balloon seems to violate Boyle’s law.
+
+(f) Mountaineers carry oxygen cylinders with them.
+
+(g) Gas fills completely the vessel in which it is kept.
+
+. How did Charles’s law lead to the concept of absolute
+
+scale of temperature ?
+What is meant by aqueous tension ? How is the pressure
+exerted by a gas corrected to account for aqueous tension ?
+
+- State the following :
+
+(a) Volume of a gas at 0 Kelvin.
+
+(b) Absolute temperature of a gas at 7°C.
+(c) Gas equation.
+
+(d) Ice point in absolute temperature.
+
+(e) S.T.P. conditions
+
+- Choose the correct answer :
+
+(a) The graph of PV vs P for a gas is
+(i) parabolic
+(ii) hyperbolic
+(iii) a straight line parallel to X-axis
+(iv) a straight line passing through origin
+(b) The absolute temperature value that corresponds to
+27°C is
+(i) 200K (ii) 300 K
+(iii) 400 K (iv) 246 K
+(c) Volume-temperature relationship is given by
+(i) Boyle (ii) Gay Lussac
+(iii) Dalton (iv) Charles
+
+eee L072 ase
+
+
+--- Page 13 ---
+23.
+
+24,
+
+25.
+
+(d) If pressure is doubled for a fixed mass of a gas, its
+volume will become
+(i) 4 times
+(iii) 2 times
+
+(ii) % times
+(iv) No change
+Match the following
+
+Column A Column B
+(a) Cm3 (i) pressure
+(b) Kelvin (ii) temperature
+(c) Torr. (iti) Volume
+(d) Boyle’s law (iv) v = 4
+T 7
+(e) Charles’s law (v) = = <t
+(vi) PV=P,V,
+
+Correct the following statements.
+
+(a) Volume of a gas is inversely proportional to its
+pressure at constant temperature.
+
+(b) Volume of a fixed mass of a gas is directly
+proportional to its temperature, pressure remaining
+constant.
+
+(c) O°C is equal to zero Kelvin.
+
+(d) Standard temperature is 25°C.
+(e) Boiling point of water is 273 K.
+Fill in the blanks :
+
+(a) The average kinetic energy of the molecules of a gas
+is proportional to the ose
+
+(b) The temperature on the Kelvin scale at which molecular
+motion completely ceases is called .................
+
+(c) If temperature is reduced to half, .....0.00000.0. would
+also reduce to half.
+
+(d) The melting point of ice is 0... Kelvin.
+
+Numericals
+
+1.
+
+2.
+
+3,
+
+What will be the minimum pressure required to compress
+500 dm? of air at 1 bar to 200 dm? temperature remaining
+constant. (Ans. 2-5 bar]
+
+2 litres of a gas is enclosed in a vessel at a pressure of
+760 mm Hg. If temperature remains constant, calculate
+pressure when volume changes to 4 dm.
+
+Ans, 380 mm Hg
+
+At constant temperature, the effect of change of pressure
+on volume of a gas was as given below :
+
+Pressure in atmospheres Volume in litres
+
+0.20 112
+
+0.25 89.2
+0.40 56.25
+0.60 37.40
+0.80 28.10
+1.00 22.4
+
+~
+
+(a) Plot the following graphs :
+1.PvsV  2.P vs I/V 3. PV vs P.
+Interpret each graph in terms of a law.
+
+(b) Assuming that the pressure values given above are
+correct, find the correct measurement of the volume.
+
+800 cm? of gas is collected at 650 mm pressure. At
+what pressure would the volume of the gas reduce by
+40% of its original volume, temperature remaining
+constant ? [ Ans. 1083.33 mm of Hg]
+
+.A cylinder of 20 litres capacity contains a gas at 100
+
+atmospheric pressure. How many flasks of 200 cm?
+capacity can be filled from it at 1 atmosphere pressure,
+temperature remaining constant? _—‘[ Ass. 10,000 flasks]
+
+. A steel cylinder of internal volume 20 litres is filled with
+
+hydrogen at 29 atmospheric pressure. If hydrogen is used
+to fill a balloon at 1:25 atmospheric pressure at the same
+temperature, what volume will the gas occupy ?
+
+[ Ans. 464 litres]
+
+.561 dm? of a gas at S.T.P. is filled in a 748 dm?
+
+container. If temperature is constant, calculate the
+percentage change in pressure required.
+
+(Ans. 25% decrease]
+
+.88 cm? of nitrogen is at a pressure of 770 mm
+
+mercury. If the pressure is raised to 880 mm Hg, find
+by how much the volume will diminish, temperature
+remains constant. [Ans. 11 cm?]
+
+. A gas at 240 K is heated to 127°C. Find the percentage
+
+change in the volume of the gas (pressure remaining
+constant). [Ans. 66.6%]
+
+. Certain amount of a gas occupies a volume of 0-4 litre at
+
+17°C. To what temperature should it be heated so that its
+volume gets (a) doubled (b) reduced to half, pressure
+remaining constant ? [Ans. (a) 307°C, (b) -128°C]
+
+. A gas occupies 3 litres at O°C. What volume will it
+
+occupy at —20°C, pressure remaining constant ?
+[Ans. 2.78 litres]
+
+. A gas occupies 500 cm? at normal temperature. At what
+
+temperature will the volume of the gas be reduced by
+20% of its original volume, pressure being constant ?
+(Ans. 218.4 K]
+
+. Calculate the final volume of a gas ‘X’, if the original
+
+pressure of the gas, at S.T.P. is doubled and its
+temperature is increased three times.
+
+[Ans. 1! 2 times the original volume]
+
+. A sample of carbon dioxide occupies 30 cm? at 15°C and
+
+740 mm pressure. Find its volume at S.T.P.
+(Ans. 27.7 cm?3]
+
+. 50 cm} of hydrogen is collected over water at 17°C and
+
+750 mm Hg pressure. Calculate the volume of dry gas at
+S.T.P. The water vapour pressure at 17°C is 14 mm Hg.
+[Ans. 45.6 cm?]
+
+—<____—————— $$$ 13
+
+
+--- Page 14 ---
+19.
+
+20.
+
+i)
+
+. At 0°C and 760 mm Hg pressure, a gas occupies a
+
+volume of 100 cm>. Kelvin temperature of the gas is
+
+increased by one-fifth and the pressure is increased one
+
+and a half times. Calculate the final volume of the gas.
+[Ans. 80 cm?]
+
+. It is found, on heating a gas, its volume increases by 50%
+
+and pressure decreases to 60% of its original value. If the
+original temperature was —15°C, find the temperature to
+which it was heated ? [Ans. —40.8°C]
+
+. A certain mass of a gas occupies 2 litres at 27 °C and 100
+
+pascal. Find the temperature when volume and pressure
+become half of their initial values.
+[Ans. —-198°C]
+
+2500 cm? of hydrogen is taken at S.T.P. The pressure of
+this gas is further increased by two and a half times
+(temperature remaining constant). What volume will
+hydrogen occupy now ?
+
+[Ans. 5000/7 cm?]
+
+Taking the volume of hydrogen as calculated in Q.19,
+what change must be made in Kelvin (absolute)
+temperature to return the volume to 2500 cm? (pressure
+remaining constant).
+
+{Ans. Kelvin temperature increase to 3.5 times]
+
+. A given amount of gas A is confined in a chamber
+
+of constant volume. When the chamber is immersed
+in a bath of melting ice, the pressure of the gas is
+100 cm Hg.
+(a) What is the temperature, when the pressure is
+10 cm Hg ?
+(b) What will be the pressure, when the chamber is
+brought to 100°C.
+[Ans. (a) 27-3 K (b) 136-63 mm Hg]
+
+2?
+
+28,
+
+2. A gas is to be filled from a tank of capacity 10,000 litres
+
+into cylinders each having capacity of 10 litres. The
+condition of the gas in the tank is as follows :
+
+(a) pressure inside the tank is 800 mm of Hg.
+
+(b) temperature inside the tank is -3°C.
+
+When the cylinder is filled, the pressure gauge reads 400
+mm of Hg and the temperature is 0°C. Find the number
+of cylinders required to fill the gas.
+
+[Ans. 2022 cylinders]
+
+. Calculate the volume occupied by 2 g of hydrogen at
+
+27°C and 4 atmosphere pressure, if at S.T.P. it occupies
+22-4 litres. {Ans. 6-15 litres]
+
+24. What temperature would be necessary to double the
+
+volume of a gas, initially at S.T.P., if the pressure is
+decreased to 50%. [Ans. 273K]
+
+. Which will have greater volume when the following gases
+
+are compared at S.T-P.
+(a) 1-2 1 N, at 25°C and 748 mm Hg
+
+(b) 1-25 1 O, at S.T.P. ? {Ans. (b)]
+
+. Calculate the volume of dry air at $.T.P. that occupies
+
+28 cm? at 14°C and 750 mm Hg pressure when saturated
+with water vapour. The vapour pressure of water at 14°C
+is 12 mm Hg. [Ans. 25.9 cm?]
+
+. L.P.G. cylinder can withstand a pressure of 14.9
+
+atmosphere. The pressure gauge of the cylinder indicates
+12 atmosphere at 27°C. Due to a sudden fire in the
+building the temperature rises. At what temperature will
+the cylinder explode. (Ans. 99.5°C]
+
+22.4 litres of a gas weighs 70 g at S.T.P. Calculate the
+weight of the gas if it occupies a volume of 20 litres at
+27°C and 700 mm Hg of pressure. {Ans. 52.38 g]
+

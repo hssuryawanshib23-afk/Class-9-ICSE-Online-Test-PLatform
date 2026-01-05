@@ -1,0 +1,2935 @@
+
+Chapter 3 - Laws - of - motion
+--- Page 1 ---
+Syllabus :
+
+LAWS OF MOTION
+
+(i) Contact and non-contact forces; C.GS. and S.I. units.
+Scope — Examples of contact forces (frictional force, normal reaction force, tension force as applied throught
+strings and force exerted during collision)-and non-contact forces (gravitational, electric and magnetic). Genexal!-
+properties of non-contact forces. C.GS.'and S.1 units of force and their relation. Gravitational unit. a
+
+(ii) Newton’s first law of motion. (qualitative discussion), introduction of the idea of inertia, mass and force.
+Scope — Newton’s first law; statement and qualitative discussion, definitions of inertia and force from first
+law; examples of inertia as illustration of first law (Inertial mass not included). ¢
+
+(iii) Newton's second law of motion (including F = ma); weight and mass. -
+Scope — Detailed study of the second law: Linear momentum p = mv; change in momentum Ap = A(my) = mbs-
+
+for mass remaining constant, rate of change of momentum Ap/At= mAviAt= ma for 22= 7 Pe
+
+Simple numerical problems comibinitig F'=Ap/Ar = ma and equations of motion. Units of fesce-only OGS and SL
+(iv) Newton’s third law of motion (qualitative discussion only), simple examples.
+Scope — Statement with qualitative discussion, examples of action-reaction pairs (F,, and Fup): action 1 and.
+
+reaction always act on different bodies.
+(v) Gravitation
+
+Scope — Universal law of gravitation (statement and equation) and its importance. Gravity, acceleration due to
+gravity, free fall, weight and mass, weight as force of gravity, comparison of mass and weight, gravitational units
+of force, simple numerical problems (problems on variation of gravity excluded).
+
+(A) CONTACT AND NON-CONTACT FORCES
+
+3.1 FORCE
+
+We are familiar that a force when applied on
+a body can produce the following two main
+effects :
+
+(1) It can change the state of rest or of
+motion of the body i.e., it can produce motion in
+the body.
+
+Examples : The push exerted by a broom
+moves the trash. A ball lying on the ground moves
+when it is kicked. The pull exerted by a horse
+moves a cart. The pull exerted by a steam engine
+moves a train. The force due to gravity (or the
+earth’s pull) makes an apple fall. A fielder on the
+ground stops a moving ball by applying force with
+his hands.
+
+When force is applied on the pedal by a
+cyclist, the speed of the cycle increases. A freely
+falling object continuously gains speed due to
+the earth’s pull acting along its direction of
+motion. The speed of a moving vehicle is
+slowed down by applying the brakes. A stone
+
+54
+
+tied to one end of a string, whirling at a
+constant speed in a horizontal circle, changes
+its direction of motion continuously due to the
+force of tension in the string (which acts normal
+to the direction of motion of stone). In cricket,
+tennis and badminton, the direction of motion
+and the speed of the ball (or cock) is changed
+by hitting it in the direction other than its
+direction of motion. A player applies force with
+a hockey stick to change the speed and direction
+of motion of the ball.
+
+(2) It can change the size or shape of the
+
+body i.e., it can change the dimensions of the
+body.
+Examples : By loading a spring hanging
+
+from a rigid support, the length of the spring
+increases. By hammering a small piece of silver
+sheet, a big thin foil is made (here the force
+increases the surface area). The steam pushing
+out from a pressure cooker occupies a large
+volume in the atmosphere. On pressing a piece
+
+
+--- Page 2 ---
+of rubber, its shape changes. In a cycle pump,
+when the piston is lowered, the air is compressed
+to occupy a smaller volume.
+
+Note : A force when applied on a rigid
+object does not change the inter-spacing between
+its constituent particles and therefore it does not
+change the dimensions of the object, but causes
+only the motion in it. On the other hand, a force
+when applied on a non-rigid object, changes the
+inter-spacing between its constituent particles and
+therefore causes a change in its dimensions and
+can also produce motion in it. Thus
+
+ae v ~.
+
+Kinds of forces : From the point of view of
+application, the forces are classified in two
+categories, namely, (i) the contact forces and
+(ii) the non-contact forces.
+
+3.2 CONTACT FORCES
+
+The forces which are applied on bodies by
+making a physical contact, are called the contact
+forces. .
+
+These forces are produced and experienced
+when a body comes in contact with another body.
+
+Examples : (1) The force of friction (frictional
+force), (2) normal reaction force, (3) Force of
+tension exerted by a string, (4) Force exerted by
+a spring, (5) Force exerted on two bodies during
+collision, etc.
+
+(1) Frictional force : When a body slides (or
+rolls) over a rough surface, a force starts
+acting on the body in a direction opposite
+to the motion of the body, along the surface
+in contact. This is called the frictional force
+or the force of friction. In Fig. 3.1, when a
+book placed on the table top is pushed to
+
+PUSH ——>,
+
+FORCE OF
+FRICTION
+
+Fig. 3.1 Force of friction
+
+55
+
+(2)
+
+(3)
+
+the right, the force of friction acts on the .
+book towards the left. This force resists the
+
+motion of the book on the table top.
+Normal reaction force : When a body is
+placed on a surface, the body exerts a force
+downwards, equal to its weight, on the
+surface, but the body does not move (or fall)
+because the surface exerts an equal and
+opposite force on the body normal to the
+surface which is called the normal reaction
+force. For example, in Fig. 3.2, when you
+hold a block on your palm, the block exerts
+a force due to its weight downwards on your
+palm and you have to exert a reaction force
+upwards on the block normal to the palm to
+keep the block in position. Similarly in
+Fig. 3.1, the book exerts a force (= weight)
+on the table top downwards and the table
+top exerts an equal reaction force upwards
+normal to the top of the table.
+
+REACTION FORCE ON
+BLOCK DUE TO PALM
+
+FORCE DUE TO WEIGHT
+OF BLOCK ON PALM
+
+Fig. 3.2 Force of reaction
+
+Tension force as applied through strings :
+When a body is suspended by a string attached
+to a rigid support, the body, due to its weight
+W, pulls the string vertically downwards and
+the string in its stretched condition pulls
+the body upwards by a force which balances
+the weight of
+the body. This
+force developed
+in the string is
+called tension
+(or the force of
+tension) T.
+Fig. 3.3 shows
+the two forces
+which are equal
+and opposite in
+
+RIGID
+SUPPORT
+
+TENSION T (= W)
+DEVELOPED
+IN THE STRING
+
+WEIGHT W OF BODY
+WwW PULLING THE STRING
+
+Fig. 3.3 Force of tension |
+
+
+--- Page 3 ---
+equilibrium position. If we cut the string form, does not exert any force on the object
+slightly above the body, we see that the string attached at its ends [Fig. 3.5(a)]. But if the spring
+moves slightly upwards with a jerk due to is compressed, it pushes away each object with
+tension in the string acting upwards and then a restoring force F at its ends [Fig. 3.5(b)], while
+falls downwards due to its own weight. if the spring is stretched, it pulls in each object
+Force exerted by a spring : Consider a spring with a restoring force F at its ends [Fig. 3.5(c)}.
+with its one end kept fixed [Fig. 3.4(a)]. If its In each case, the spring has a tendency to come
+other end is either stretched [Fig. 3.4(b)] or back to its original form.
+
+compressed [Fig. 3.4(c)}, the spring exerts a (5) Force exerted during collision : When two
+
+(4
+
+ae
+
+force F opposite to the direction of bodies collide, they push each other. As a
+displacement of its free end, the magnitude result, equal and opposite forces act on each
+of this force is directly proportional to the body. These forces are the force of action
+magnitude of displacement i.e., its elongation and force of reaction. In Fig. 3.6, a body B
+or compression. This force is called restoring while in motion, collides with a moving
+force. A spring-balance works on this body A and exerts a force F4, on the body
+principle. A which is called the force of action. Af
+
+the same instant, the body A also exerts
+an equal and opposite force of reaction Fay
+on the body B. As a result of these forces,
+
+the two bodies move apart after the
+——> F Restoring force collision.
+
+(Pull) F 0 0 0 0 0 0 0 0 3 Fixed MOTION OF A MOTION OF B
+—__,> <<
+(b) Restoring force on a stretched spring
+F+— Restoring force C)
+B
+(Push) F Fixed A
+(a) Two bodies moving towards each other.
+
+(c) Restoring force on a compressed spring
+
+Fixed
+
+(a) Spring in normal position
+
+: : : Fag = FORCE ON A Fy, = FORCE ON B
+Fig. 3.4 Restoring force exerted by a spring AB DUE TO B Gc BA DUE TOA
+Similarly a horizontal spring with two objects
+A and B attached at its two ends in its normal (b) Force exerted during collision.
+<—- MOTION —> MOTION
+
+on on
+
+(a) Normal form of spring when it exerts no B
+force on any object
+(c) Bodies moving away from each other after collision.
+Restoring force Restoring force
+F +—— ——> F Fig. 3.6 Collision between two bodies
+
+NS N 3.3  NON-CONTACT FORCES
+
+Compressed spri hes the
+(b) Comp spring pushes away the objects The forces experienced by bodies even
+
+Restoring fo force p gestoring force without being physically touched, are called the
+non-contact forces or the forces at a distance.
+
+NN NN
+SY ) ) ) ) ) ) ) () \ 2 \ Examples : (1) Gravitational force,
+
+(c) Stretched spring pulls In the objects (2) Electrostatic force and (3) Magnetic force.
+
+Fig. 3.5 Restoring force exerted by a spring
+56
+
+
+--- Page 4 ---
+(1) Gravitational force : In universe, each
+
+particle attracts the other particle due to its
+mass. This force of attraction between them
+is called the gravitational force.
+The earth also, because of its mass, attracts
+all other masses around it. The force on a
+body due to earth’s attraction is called the
+force of gravity or the weight of the body.
+It causes motion in the body towards
+the earth (i.e., downwards) if the body is
+free to move. Thus, it is the force due to
+gravity that makes a body fall, when
+released from a height. The body also
+attracts the earth by an equal force, but no
+motion is caused in the earth because of its
+huge mass.
+Examples : (i) A ball placed on a table
+starts rolling down when the table is tilted.
+(ii) If a body is thrown up in air, it goes
+up, reaches to a height and then returns
+to the ground.
+(iii) A coin falls down when it is released
+at a height.
+
+(2) Electrostatic force : Two like charges
+
+1.
+
+repel, while two unlike charges attract each
+other. The force between the charges is
+called the electrostatic force. This force acts
+between the charged objects even when they
+are separated.
+
+Example : When a comb is rubbed on dry
+hairs, it gets charged. If this comb is brought
+near the small bits of paper, opposite
+
+Explain giving two examples each of :
+(a) Contact forces, and (b) Non-contact forces.
+Classify the following amongst contact and non-
+contact forces :
+(a) frictional force,
+(b) normal reaction force,
+(c) force of tension in a string,
+(d) gravitational force,
+(e) electrostatic force,
+(f) magnetic force.
+Ans. Contact force : (a), (b) and (c),
+Non-contact force : (d), (e) and (f)
+
+57
+
+(3)
+
+charges are induced on the bits of paper and
+they begin to move towards the comb.
+The motion of paper bits is due to the
+electrostatic force of attraction exerted
+between the unlike charges on the comb and
+the paper bits.
+Magnetic force : Two like magnetic poles
+repel, while two unlike magnetic poles
+attract each other. The force between the
+magnetic poles is called the magnetic force.
+This force acts even when the magnetic
+poles are at a separation.
+
+Example : When a pole of a magnet is
+brought near a small iron nail (without
+touching it), an opposite polarity is induced
+on the nail and it moves towards the
+magnet. The motion of nail is due to the
+magnetic force of attraction exerted between
+the unlike poles on the magnet and the nail.
+
+General character of non-contact forces ~
+
+(i)
+
+(ii)
+
+The gravitational force is always of
+attractive nature, while the electrostatic
+force and the magnetic force can be either
+attractive or repulsive.
+
+The magnitude of non-contact forces on the
+two bodies depends on the distance of
+separation between them. It decreases with
+the increase in separation and increases as
+the separation decreases. It varies inversely
+as the square of distance of separation
+i.e., on doubling the separation, the force
+becomes one-fourth.
+
+Give one example in each case where :
+
+(a) the force is of contact, and
+
+(b) force is at a distance.
+
+(a) A ball is hanging by a string from the ceiling
+of the roof. Draw a neat labelled diagram
+showing the forces acting on the ball and
+the string.
+
+A spring is compressed against a rigid wall.
+Draw a neat and labelled diagram showing
+the forces acting on the spring.
+
+A wooden block is placed on a table top.
+Name the forces acting on the block and
+
+(b)
+
+(c)
+
+
+--- Page 5 ---
+draw a neat and labelled diagram to show
+the point of application and direction of
+these forces.
+
+5. State one factor on which the magnitude of a
+non-contact force depends. How does it depend
+on the factor stated by you ?
+
+Ans. Distance; Magnitude of force decreases as
+the distance increases
+
+6. The separation between two masses is reduced
+to half. How is the magnitude of gravitational
+force between them affected ?
+
+Ans. Force will become four times
+
+7. State the effects of a force applied on (i) a non-
+rigid, and (ii) a rigid body. How does the effect
+of the force differ in the two cases ?
+
+8. Give one example in each of the following cases
+where a force :
+(a) stops a moving body.
+(b) moves a stationary body.
+(c) changes the size of a body.
+(d) changes the shape of a body.
+
+Multiple Choice Type
+
+1. Which of the following is a contact force :
+(a) electrostatic force (b) gravitational force
+(c) frictional force (d) magnetic force.
+
+Ans. (c) frictional force
+
+2. The non-contact force is :
+(a) force of reaction (b) force due to gravity
+(c) tension in string (d) force of friction
+
+Ans. (b) force due to gravity
+
+(B) NEWTON’S FIRST LAW OF MOTION AND INERTIA
+
+3.4 NEWTON'S FIRST LAW OF MOTION
+In chapter 2, we have read the linear motion.
+Now the question arises : what is the cause of
+motion (i.e., what produces motion in an object) ?
+It is our common experience that a force is to be
+applied on an object to produce motion in it.
+
+Examples : To move a cycle, the cyclist has
+to apply force on its pedal. In a car, the petrol
+engine provides the force needed to move the car.
+To move a horse-cart, the horse applies force by
+stretching its muscles. To move a boat ahead, a
+force is applied by the oar on the water to push
+it backward and the force of reaction exerted by
+water moves the boat ahead.
+
+Before Galileo, the scientists were of view that
+a force is needed not only to start a motion but also
+to keep an object moving even with uniform velocity.
+In other words, an object remains in motion so long
+as the external force applied to produce motion
+remains present (i.e., a force must apply continuously
+to keep the body in motion). This view was based
+on the observation that the motion of a body ceases
+when force is withdrawn from it.
+
+Examples : A cycle remains moving so long
+the force is applied on its pedal. If we stop pushing
+the pedal, the cycle stops. Similarly, if we put off
+the engine of a car, the car stops. The horse-cart
+stops after the horse stops moving and the boat
+stops after we stop pushing the oar.
+
+«58
+
+Galileo did not approve the above view. From
+his experiments, he found that no force is needed
+to continue the motion of a moving body. If a body
+is set in motion, it will remain in motion even
+when the force applied to set the body in motion
+is withdrawn, provided that there is no other force
+such as friction etc., to oppose the motion. From
+our everyday life experience, we know that a cycle
+does not stop at once as we stop pedalling, but it
+moves a certain distance before coming to rest. In
+fact it stops due to the force of friction between
+its tyres and road, and also due to friction between
+its moving parts. If friction between its moving
+parts is reduced by proper oiling (or greasing) and
+it is made to move on a smooth road, it travels
+comparatively a much longer distance before
+coming to rest, after pedalling is stopped. If
+somehow it would have been possible to reduce
+the force of friction completely, the cycle would
+have remained in motion forever even when
+pedalling is stopped. Thus, it is concluded that in
+the absence of the force of friction, no force is
+required to keep an object moving after bringing
+it in motion. In other words, an object, if once set
+in motion, moves with uniform velocity if no force
+acts on it. Thus a body continues to be in the state
+of rest or in the state of uniform motion unless an
+external force is applied on it. This is called the
+Galileo's law of inertia.
+
+
+--- Page 6 ---
+From the above discussion, we note that
+
+(i) Ifa body is at rest, it remains at rest unless
+a force is applied on it.
+
+(ii) Ifa body is moving, it will continue to move
+with the same speed in the same direction
+unless a force is applied on it.
+
+Newton put the above observations in the
+form of a law which is called the Newton’s first
+law of motion.
+
+Qualitative discussion
+Newton’s first law can be understood in the
+following two parts :
+
+(i) definition of inertia, and
+(ii) definition of force.
+
+(i) Definition of inertia : In the first part,
+Newton’s first law gives the definition of
+inertia, according to which an object cannot
+change its state by itself. If the object is in the
+state of rest, it will remain in the state of rest
+and if it is moving in some direction, it will
+continue to move with the same speed in the
+same direction unless an external force is
+applied on it.
+
+Examples : A book lying on a table top will
+remain placed at its place unless it is displaced.
+Similarly, a ball rolling on a horizontal plane
+keeps on rolling unless the force of friction
+between the ball and the plane stops it.
+
+: The second part of
+Newton’s first law defines the force,
+according to which force is that external
+cause which can move a stationary object
+or which can change the state of motion of
+a moving object.
+
+59
+
+Examples : A book lying on a table gets
+displaced from its place when it is pushed. A
+moving bicycle stops when a retarding force is
+applied by the brakes on its wheels.
+
+Note : (i) Force is a vector quantity. (ii) The
+sum of two equal and opposite forces is zero.
+(iii) A body acted upon by several forces can also
+have the resultant net force on it, equal to zero.
+
+3.5 MASS AND INERTIA
+
+Inertia is an inherent property of each body by
+virtue of which it has a tendency to resist the change
+in its state of rest or state of motion. The property
+of inertia is because of the mass of the body. The
+greater the mass, the greater is the inertia of body.
+Thus, a lighter body has less inertia than a heavier
+body. In other words, more the mass of a body,
+more difficult it is to move the body from rest (or
+to stop the body if it is initially in motion). Thus
+mass is a measure of inertia.
+
+Examples : (1) A cricket ball is more massive
+than a tennis ball. The cricket ball acquires much
+smaller velocity than a tennis ball when the two
+balls are pushed with equal force for the same
+duration. In case when they are moving with the
+same velocity, it is more difficult to stop the
+cricket ball (which has more mass) in comparison
+to the tennis ball (which has less mass).
+
+(2) It is difficult (i.e., a larger force is
+required) to set a loaded trolley (which has more
+mass) in motion than an unloaded trolley (which
+has less mass). Similarly, it is difficult to stop a
+loaded trolley than an unloaded one, if both are
+moving initially with the same velocity.
+
+3.6 KINDS OF INERTIA AND ITS EXAMPLES
+AS ILLUSTRATION OF FIRST LAW
+Inertia is of the following two kinds :
+
+(1) Inertia of rest, and (2) Inertia of motion.
+(1) Inertia of rest
+
+If a body is at rest, it will remain at rest
+unless an external force is applied to change its
+state of rest. This property of body is called the
+inertia of rest.
+
+
+--- Page 7 ---
+Examples : '
+
+(1) When a train suddenly starts moving
+forward, the passenger standing in the
+compartment tends to fall backwards : The
+reason is that the lower part of the passenger’s
+body is in close contact with the train. As the train
+starts moving, his lower part shares the motion at
+once, but the upper part due to inertia of rest
+cannot share the motion simultaneously and so it
+tends to remain at the same place. Consequently,
+the lower part of the body moves ahead and the
+upper part is left behind, so the passenger tends
+to fall backwards.
+
+(2) When a hanging carpet is beaten with
+a stick, the dust particles start falling out of
+it : The reason is that the part of the carpet
+where the stick strikes, comes in motion at
+once, while the dust particles settled on its fur,
+remain in position due to inertia of rest. Thus,
+the part of the carpet moves ahead with the
+stick, leaving behind the dust particles which
+fall down due to the earth’s pull.
+
+(3) On shaking (or giving jerks to) the
+branches of a tree, the fruits fall down : The
+reason is that when the stem (or branches) of
+the tree are shaken, they come in motion, while
+the fruits due to inertia, remain in the state of
+rest. Thus, the massive and weakly attached
+fruits get detached from the branches and fall
+down due to the pull of gravity.
+
+(4) On striking the coin at the bottom of
+a pile of carrom coins with a striker, lowest
+coin only moves away, while the rest of the
+pile remains intact : The reason is that as the
+striker hits the lowest coin, it moves (i.e.,
+changes its state of rest), while the remaining
+pile due to inertia of rest remains where it is
+and ultimately takes the place of the original
+pile due to the force of gravity.
+
+(5) When a smooth card placed over the
+mouth of a tumbler is flicked sharply in the
+horizontal direction, the card flies away, but
+the coin kept over the card falls into the
+tumbler : The reason is that when the card is
+flicked [Fig. 3.7(a)], a momentary force acts on
+the card, so it moves away [Fig. 3.7(b)}. But the
+
+_ COIN
+
+moveo away
+—>
+
+TUMBLER
+
+Fig. 3.7 Falling of coin kept on card
+
+coin kept on it does not share the motion at
+once and it remains at its place due to inertia
+of rest. The coin then falls down into the
+tumbler due to the pull of gravity.
+
+(6) When a corridor train suddenly starts,
+the sliding doors of some compartments may
+open : The reason is that the frame of sliding
+door being in contact with the floor of the train
+also comes in motion on start of the train, but
+the sliding door remains in its position due to
+inertia. Thus the frame moves ahead with the
+train while door slides opposite to the direction
+of motion of the train. Thus the door may open.
+
+(2) Inertia of motion
+
+A body in a state of motion, continues to be
+in the state of motion with the same speed in
+the same direction in a straight line unless an
+external force is applied on it to change its
+state. This property of body is called the imertia
+of motion.
+
+Examples :
+
+(1) A cyclist riding along a level road does
+not come to rest immediately after he stops
+pedalling : The reason is that the bicycle
+continues to move due to inertia of motion even
+after the cyclist stops applying the force on the
+pedal. The bicycle comes to rest afterwards as
+a result of the retarding force of friction
+between the tyres of bicycle and the ground.
+
+(2) When a passenger jumps out of a
+moving train, he falls down : This is so because
+inside the train, his whole body was in a state
+of motion with the train. On jumping out of the
+moving train, as soon as his feet touch the
+ground, the lower part of his body comes to rest,
+while the upper part still remains in motion due
+to inertia of motion. As a result, he falls in the
+direction of motion of the train and gets hurt.
+
+To avoid falling, as the passenger’s feet
+touch the ground, he should start running on
+
+60
+
+
+--- Page 8 ---
+ground in the direcuon OF mMowon oF me train ror ~
+
+some distance.
+
+(3) When a running car stops suddenly, the
+passenger tends to lean forward : The reason is
+that in a running car, the whole body of the
+passenger is in the state of motion. When the car
+stops suddenly, the lower part of his body, being
+in contact with the car, comes to rest immediately
+but his upper part remains in the state of motion,
+due to inertia. Thus his body leans forward.
+
+(4) An athlete often runs before taking a long
+jump : The reason is that by running he brings his
+
+enue Dody in Ine state Ol Meuon: wnen tne voay
+is in motion, it becomes easier to take a long jump.
+
+(5) A ball thrown vertically upwards by a
+person in a moving train comes back to his
+hand: The reason is that at the moment when
+ball was thrown, it was in motion alongwith the
+person and the train. It remains in the same
+state of forward motion even during the time
+the ball remains in air. The person, the inside
+air and the ball, all move ahead by the same
+distance due to inertia and so the ball falls back
+into his palm on its return.
+
+1. Name the physical quantity which causes motion
+
+in a body. Ans. Force
+2. Is force needed to keep a moving body in
+motion ? Ans. No
+
+3. A ball moving on a table top eventually stops.
+Explain the reason.
+
+Ans, Force of friction between the ball and
+
+table top opposes the motion
+
+4. A ball is moving on a perfectly smooth
+horizontal surface. If no force is applied on it,
+will its speed decrease, increase or remain
+unchanged ? Ans. will remain unchanged
+
+5. What is the Galileo’s law of inertia ?
+
+State the Newton's first law of motion.
+
+State and explain the law of inertia (or Newton's
+first law of motion).
+
+8. What is meant by the term inertia ?
+
+9. Give qualitative definition of force on the basis
+of Newton’s first law of motion.
+
+10. Name the factor on which inertia of a body
+depends and state how does it depend on the
+factor stated by you.
+
+Ans. Mass; more the mass, more is the inertia
+
+11. Give two examples to show that greater the
+mass, greater is the inertia of the body.
+
+12. ‘More the mass, more difficult it is to move the
+body from rest’. Explain this statement by giving
+an example.
+
+13. Name the two kinds of inertia.
+
+14. Give one example of each of the following :
+(a) inertia of rest, and (b) inertia of motion.
+
+15. Two equal and opposite forces act on a stationary
+
+<A 6)
+
+body. Will the body move ? Give reason to your
+
+answer.
+Ans. No. Net force on the body is zero, so the body
+will remain stationary due to inertia of rest
+
+16. Two equal and opposite forces act on a moving
+object. How is its motion affected ? Give reason.
+Ans. Motion remains unaffected.
+
+Reason : Net force on the object is zero.
+
+17. An aeroplane is moving uniformly at a constant
+height under the action of two forces (i) upward
+force (lift) and (ii) downward force (weight).
+What is the net force on the aeroplane.
+
+Ans. Zero
+
+18. Why does a person fall when he jumps out from
+a moving train ?
+
+19. Why does a coin placed on a card, drop into
+the tumbler when the card is rapidly flicked with
+the finger ?
+
+Why does a ball thrown vertically upwards in a
+moving train, come back to the thrower’s hand ?
+21. Explain the following :
+
+(a) When a train suddenly moves forward, the
+passenger standing in the compartment tends
+to fall backwards.
+
+(b) When a corridor train suddenly starts, the
+sliding doors of some compartments may
+open.
+
+(c) People often shake branches of a tree for
+getting down the fruits.
+
+(d) After alighting from a moving bus, one has
+to run for some distance in the direction of
+bus in order to avoid falling.
+
+(e) Dust particles are removed from a carpet by
+beating it.
+
+
+--- Page 9 ---
+(f) It is advantageous to run before taking a long
+jump.
+
+Multiple choice type :
+1. The property of inertia is more in :
+
+(a) a car (b) a truck
+(c) a horse cart (b) a toy car.
+Ans. (b) a truck
+
+2. A tennis ball and a cricket ball, both are
+stationary. To start motion in them :
+(a) a less force is required for the cricket ball
+than for the tennis ball
+(b) a less force is required for the tennis ball
+than for the cricket ball
+
+(c) same force is required for both the balls
+(d) nothing can be said.
+
+Ans. (b) a less force is required for the
+tennis ball than for the cricket ball
+
+3. A force is needed to :
+
+(a) change the state of motion or state of rest
+of the body
+
+(b) keep the body in motion
+(c) keep the body stationary
+(d) keep the velocity of body constant.
+
+Ans. (a) change the state of motion
+or state of rest of the body
+
+(C) LINEAR MOMENTUM AND NEWTON’S SECOND LAW OF MOTION
+
+3.7 LINEAR MOMENTUM (p = my)
+
+It is our common experience that if two bodies
+of different masses are moving with the same
+velocity and they are brought to rest in same time,
+the force needed to stop the heavier body is more
+than that for the lighter body. Similarly, if two
+bodies of the same mass are moving with different
+velocities, then to stop them in the same time, the
+force needed for the faster moving body is more
+than for the slower moving body. Thus, the force
+needed to stop a moving body in a definite time
+depends both on the mass of the body and its
+velocity. Actually the force needed to stop a
+moving body in a given time depends on the
+product of both the mass and velocity which is
+called the Linear momentum of the moving body.
+Thus
+
+The linear momentum of a body is denoted
+by the letter p. Generally the word momentum
+is used for linear momentum.
+
+For a body of mass m moving with velocity
+v, linear momentum p is expressed as
+
+tar Pape .-(3.1)
+
+It is a vector quantity in the direction of
+motion of the body (i.e., along the velocity of
+body).
+Unit :
+
+From relation p=mv,
+Unit of momentum = unit of mass x unit of
+velocity .
+
+\|
+
+62
+
+Thus, the S.I. unit of momentum is kg m s'!
+and the C.GS. unit is g cms”.
+
+3.8 CHANGE IN MOMENTUM (Ap = mAv)
+From eqn. (3.1), change in momentum
+Ap = A(mv) (3.2)
+Here the symbol A (called del or delta) before
+a quantity denotes a small change in that quantity.
+The change in product mv can be either due
+to change in mass m or due to change in velocity
+v or due to change in both the mass m and
+velocity v. If mass remains constant, then change
+in momentum is due to change in velocity v
+alone. Then from eqn. (3.2), for constant mass,
+change in momentum
+Ap = A(mv) = mAv w.(3.3)*
+
+In case of atomic particles moving
+with velocity comparable to the velocity of
+light c (= 3 x 108 m s~!)**, it was observed
+that the mass of the particle does not
+remain constant, but it increases with
+increase/in velocity, according to the relation
+
+m = m, y1-(v/c)” where m, is the mass of the
+
+particle when it is at rest (7.e., v = 0). In such a
+case, we cannot write A(mv) = mAv. The relation
+Ap = mAv is true only if the velocity v of the
+* The symbol A before mv denotes a small change in
+the product of m and v. If mass m does not change, the
+product mv will change only due to change in v, and so
+m can be written before the symbol A. The quantity Ay
+now represents a small change in v only.
+
+** ¢ is the ultimate speed. No material particle can
+acquire a speed equal to or greater than c.
+
+
+--- Page 10 ---
+moving particle is much smaller than the velocity
+of light c (or v << c). It happens when the
+velocity of particle is of the order of 106 m s™!
+or less than this, then the variation in mass with
+velocity is small enough and mass can be
+considered to be constant. However the relation
+Ap = A(my) is always true, whether mass m
+varies* or it remains constant.
+
+3.9 RATE OF CHANGE OF MOMENTUM
+
+When a force is applied on a moving body,
+its velocity changes. Due to change in velocity
+of the body, its momentum also changes.
+
+Let a force F be applied on a body of mass
+m for time ¢ due to which its velocity changes
+from u to v. Then
+
+Initial momentum of the body = mu
+Final momentum of the body = mv
+Change in momentum of the body in t second
+= mv —mu = m(v —u)
+Rate of change of momentum
+_ Changeinmomentum = m(v—u)
+7 Time ~ t
+
+Change in velocity —§ ¥—¥#
+
+But acceleration a =
+Time t
+
+. (3.4)
+
+This relation holds true when mass of the body
+remains constant.
+
+Thus when a force acts on a body, the rate of
+change in momentum of body is equal to the
+product of mass of the body and acceleration
+produced in it due to that force, provided that the
+mass of the body remains constant.
+
+Alternative method
+
+For a body of mass m moving with velocity
+v, its linear momentum is p = mv. In time At, if
+its linear momentum changes by Ap on applying
+a force on it, then the rate of change of linear
+momentum is
+
+Ap A(mv) Av . ;
+a ra =m w (if mass m remains constant)
+
+* For example in rocket motion, the mass of rocket
+decreases as the burnt gases expel out of the nozzle,
+so the mass does not remain constant.
+
+63
+
+But “Y
+ur At
+
+so rate of change of momentum
+Ap
+At
+The above eqn. is same as eqn. (3.4).
+3.10 NEWTON’S SECOND LAW OF MOTION
+(DERIVATION OF F = ma)
+
+Newton’s first law of motion defines the force
+only qualitatively. A force changes the state of
+motion of a body when it is applied on it. It means
+that the force produces acceleration in the body
+i.e., the force is the cause of acceleration. Now we
+shall see that the Newton’s second law of motion
+gives the quantitative value of force, i.e., it relates
+force to the measurable quantities like acceleration
+and mass.
+
+It is our common experience that if we push a
+tennis ball gently, a small acceleration is produced
+and it acquires a small velocity in a certain time,
+but if the same tennis bal] is pushed hard, a larger
+acceleration is produced in it and it acquires a large
+velocity in the same time interval. Thus the
+magnitude of two forces can be compared by
+measuring the accelerations produced by them
+when they are applied one by one on the same body.
+If a force F, produces an acceleration of 5 m s?
+and a force F, produces an acceleration of
+10 m s~ on the same body, then the magnitude of
+force F, is two times the magnitude of force F;.
+Experimentally Newton found that the
+acceleration produced in a body is directly
+proportional to the force applied on it.
+
+Similarly if we try to produce same change in
+velocity in the same time (i.e., to produce same
+acceleration) in a football and a tennis ball, initially
+both at rest, we need to apply a large force on the
+football than on the tennis ball. Thus the force
+needed to produce same acceleration in two bodies
+of different masses is not same. It is more for the
+body of larger mass and less for the body of smaller
+mass. If a force F is needed to produce an
+acceleration of 5 m s~? in a body of mass 2 kg, then
+to produce same acceleration (= 5 m s~*) in a body
+of mass 4 kg, the force needed is of double the
+magnitude i.e. 2F. Experimentally Newton found
+that the force needed to produce same acceleration
+in different bodies is proportional to their masses.
+
+= a (acceleration),
+
+= ma = mass x acceleration.
+
+
+--- Page 11 ---
+On the basis of his experiments, Newton
+concluded that
+(i) The acceleration produced in a body of
+given mass is directly proportional to the.
+force applied on it. i.e.,
+a « F (if mass remains constant) ...(3.5)
+A graph plotted for acceleration a against
+force F is a straight line as shown in
+Fig. 3.8. y
+
+Mass
+constant
+
+Acceleration a —»
+
+Force F —- x
+
+Fig. 3.8 Graph showing the variation
+of acceleration with force
+(ii) The force needed to produce a given
+acceleration in a body is directly proportional
+to the mass of the body. i.e.,
+Fe m (if acceleration remains the same) ...(3.6)
+A graph plotted for force F against mass m
+is a straight line as shown in Fig. 3.9.
+
+Acceleration
+constant
+
+Force F >
+
+X
+
+Mass m —>
+
+Fig. 3.9 Graph showing the variation of force with mass
+Combining eqns. &. >) a and (3.6),
+
+(3.7)
+
+Here K is a constant. The unit of force is so
+chosen that K becomes 1, when m = } and a = 1.
+Thus, that amount of force is taken as one unit of
+force which when applied on a body of unit mass,
+produces a unit acceleration in the body.
+
+With the unit of force so choosen, eqn. (3.7)
+takes the folowing form :
+
+...(3.8)
+
+or
+
+This is the mathematical expression of
+Newton’s second law of motion.
+
+Note : If a given force is applied on bodies
+of different masses, the acceleration produced in
+them is inversely proportional to their masses
+
+Le, ae + (for a given force F). A graph
+plotted for acceleration a against mass m is a
+curve (hyperbola) as shown in Fig. 3.10.
+
+F = constant
+
+—
+
+Acceleration a
+
+Mass m—»
+Fig. 3.10 Graph showing the variation of
+acceleration with mass
+
+3.11 C.G.S. AND S.I. UNITS OF FORCE
+The force is related to mass and acceleration
+as:
+Force = mass x acceleration
+or F=ma
+
+On this basis, the S.I. unit of force is newton.
+
+One newion is the force which wives acts on a'
+
+The standard symbol of newton is N.
+In C.GS. system, the unit of force is dyne.
+
+Relationship between newton and dyne
+
+Inewton = lkgxl ms?
+= 1000 g x 100 cms? = 10° g x cms”
+Thus — oe re tes (3.9)
+
+3.12 NEWTON’S SECOND LAW OF MOTION
+IN TERMS OF RATE OF CHANGE OF
+MOMENTUM
+
+When force is applied on a body, it produces
+acceleration in the body due to which the velocity
+and hence the momentum of body changes.
+
+From eqn. (3.4), the rate of change of
+momentum is equal to the product of mass
+and acceleration i.e.,
+
+Ap
+
+ar ma (if mass remains constant).
+
+From eqn. (3.8), by Newton’s second law of
+motion, force F = ma.
+
+
+--- Page 12 ---
+*. Force = Rate of change of momentum
+AP _ A(myv)
+At At
+= ma (if mass remains constant) ...(3.10)
+Thus Newton’s second law of motion can be
+Stated in terms of change in momentum as follows.
+
+or Fe=
+
+of motion, the rate » of change. E
+
+body is directly proportional to the Forkanapplied
+on it and the change in momentum. takes place
+in the direction in which the force is:dpplied.
+
+Explanation
+
+According to Newton’s second law of motion,
+
+pa OP _ Aimy)
+
+At
+Newton’s second law of motion when the
+momentum changes either due to change in mass
+or due to change in velocity or due to change in both
+the mass and velocity.
+
+It is observed that the mass of a particle
+increases with increase in velocity but it
+becomes perciptible only when the velocity v of
+the particle is comparable with the speed of light c
+(3 x 108 ms‘). At velocities v << c (i.e., when
+v << 10° m s~'), the change in mass is not
+perceptible*. At such velocities (v << c), mass m
+can be considered to be constant. Then Newton’s
+
+second law takes the form F = mov = ma.
+
+At
+
+Thus, for the relation F = m4” = ma to hold,
+two conditions are needed : (i) when velocities
+are much smaller than the velocity of light, and
+(ii) when mass remains constant.
+
+Newton’s second law is the fundamental law
+of motion. The first law of motion is also included
+in the second law. This we can see as follows.
+
+To obtain Newton’s first law of motion from
+second law of motion
+
+From Newton’s second law, F = ma
+
+If F=0, thena=0
+
+This means that if no force is applied on the
+body, its acceleration will be zero. If the body is at
+rest, it will remain at rest and if it is moving, it will
+remain moving in the same direction with the same
+speed. Thus a body not acted upon by any external
+force, does not change its state of rest or of motion.
+This is the statement of Newton’s first law of motion.
+
+* When v = 10° m s“'. m = 1-0000056 m, and when
+¥= 10’ ms", m= 1-0005561 my. Here m, is the mass at v = 0.
+
+. This is the general form of
+
+65
+
+Examples of second law of motion in daily life
+
+The mathematical expression of the second
+law of motion is F = Ap/At. It gives Ap = FAt,
+so a given change in momentum of a body can be
+brought about either by applying a large force for
+a small duration or by applying a small force for
+a long duration. For example, in hitting a cricket
+ball by a bat, hammering a nail, hitting the ping-
+pong ball by a racket, etc. a required momentum
+is imparted to the body by applying a force of
+large magnitude for a short duration. On the other
+hand in the following examples the momentum
+of a moving body is brought to zero in a large
+duration so as to reduce the effect of force
+exerted by the moving body.
+
+Examples :
+
+(1) While catching a ball, the cricketer
+withdraws his hands along with the ball
+Let u be the velocity of the ball of mass m when
+
+it reaches the hands of the player catching it.
+
+The initial momentum of ball = mu
+
+When the cricketer stops the ball (v = 0), its
+final momentum = m x 0 = 0.
+
+Change in momentum
+
+= final momentum -— initial momentum
+= 0 — mu = — mu = mu (numerically)
+
+Here —ve sign shows that the change in
+momentum is in direction opposite to the initial
+direction of motion.
+
+If the cricketer does not pull back his hands
+and stops the ball as soon it touches his hands, he
+gets very little time ¢, to stop the ball. Then the
+force exerted by the ball on the hands of the
+
+Change in momentum _ mu
+
+Time interval 7 h- But
+if the cricketer pulls back his hands along
+with the ball, he takes a longer time f, to stop the
+
+ball. The force now exerted by the ball on his hands
+mu
+
+is F, = —
+
+is F,=—
+
+cricketer is F 1=
+
+. Since tL>t,, therefore F,<F, or the
+
+force exerted on the hands of cricketer by the fast
+moving ball is less when he withdraws his hands.
+Thus cricketer avoids the chances of injury to his
+palms by withdrawing his hands alongwith the
+moving ball while catching it.
+
+(2) Athletes often lands on sand (or foam)
+after taking a high jump
+When an athlete lands from a height on a
+
+
+--- Page 13 ---
+hard floor, he may hurt his teet because his feet
+come to rest almost instantenously (i.e., in a
+very short interval of time), so a very large
+force is exerted by the floor on his feet. On the
+other hand, when he lands on sand (or foam),
+his feet push the sand (or foam) for some
+distance, therefore the time duration in which
+his feet come to rest, increases. As a result, the
+force exerted on his feet decreases and he is
+saved from getting hurt.
+
+(5) When the glass vessels tail on a hard Deor,
+they break, but they do not break when
+they fall on a carpet (or sand)
+
+When a glass vessel falls from a height on a
+hard floor, it comes to rest almost instantenously
+(i.e., in a very short time) so the floor exerts a
+large force on the vessel and it breaks. But if it
+falls on a carpet (or sand), the time duration in
+which the vessel comes to rest, increases and so
+the carpet (or sand) exerts a less force on the
+vessel and it does not break.
+
+1. How much force is required to produce an
+acceleration of 2 m s~ in a body of mass
+0-8 kg ?
+
+Given, m= 08kg,a=2ms"
+Force F = ma
+0-8 kg x 2ms?
+16 newton (or 1-6 N).
+
+2. A force acts for 0-1 s on a body of mass 1-2 kg
+initially at rest. The force then ceases to act and
+the body moves through 2 m in the next 1-0 s.
+Find the magnitude of force.
+
+When force ceases to act, the body will move
+with a constant velocity. Since it moves a
+distance 2 m in 1-0 s, therefore its uniform
+velocity is 2 m s~!. Thus under the influence of
+force, the body acquires a velocity 2 ms“! in 0-1 s.
+ie, u=0,v=2ms"',¢t=0-1 s and m= 1-2 kg
+Changein velocity
+Time
+
+y-u _ (2-0)ms"!
+
+to O1s
+
+= 20ms?
+From the relation F = ma,
+Force F = 1-2kg x 20ms?=24N
+
+Now acceleration @a=
+
+or a=
+
+3. A ball of mass 10 g is moving with a velocity
+of 50 m s"'. On applying a constant force
+on ball for 2:0 s, it acquires a velocity of
+70 m s!. Calculate :
+
+(i) the initial momentum of ball,
+(ii) the final momentum of ball,
+(iii) the rate of change of momentum,
+(iv) the acceleration of ball, and
+(v) the magnitude of force applied.
+
+10
+— ko =0. = -1
+1000 kg = 0-01 kg, u=SOms',
+
+v=70ms!,
+
+Given, m= 10 g=
+t=20s,
+
+66
+
+(i) Initial momentum of ball = mass x initial velocity
+
+= mu
+= 0-01 kg x 50 ms"!
+= 0-5 kg ms}
+
+(ii) Final momentum of the ball = mass x final velocity
+= mv
+= 0-01 kg x 70ms'!
+=0-7kg ms!
+
+(iii) Rate of change of momentum
+
+Final momentum — Initial momentum
+
+Time interval
+
+-1
+= O70) ms =01 kg m s” (or 01 N)
+_ _ -!
+(iv) Accelerat qa WCE = 10ms?
+(v) Force , = mass x acceleration
+= ma
+
+0-01 kg x 10 ms? =01N
+4. A cricket ball of mass 100 g moving with a
+speed of 30 m s“! is brought to rest by a
+player in 0°03 s. Find :
+(i) the change in momentum of ball,
+(ii) the average force applied by the player.
+
+100
+Given, m = 100 8 = jo99 ke =O-1 kg, «= 30m sx,
+
+v=0, 1=0-03s.
+(i) Initial momentum = mu
+= 01x 30=3-0kgms"!
+Final momentum = mv
+= 01x0=0
+Change in momentum = Final momentum — Initial
+momentum
+
+0-30=-30kgms!
+(ii) Average force
+1
+
+Change in momentum = _ 3.9 kgms_
+= Time t = 0-03 s
+=-100N
+
+(Negative sign here shows that the force is applied in a
+direction opposite to the direction of motion of ball).
+
+
+
+--- Page 14 ---
+16.
+
+17.
+
+Name the two factors on which the force
+needed to stop a moving body in a given time,
+depends.
+Define linear momentum and state its S.I.
+unit.
+A body of mass m moving with a velocity v is
+acted upon by a force. Write expression for
+change in momentum in each of the following
+cases : (i) when v << c, (ii) when v > c,
+and (iii) when v << c but m does not remain
+constant. Here c is the speed of light.
+
+Ans. (i) m Av (ii) AQnv) (iii) A(mv)
+Show that the rate of change of momentum
+= mass x acceleration. Under what condition
+does this relation hold ?
+
+Two bodies A and B of same mass are moving
+with velocities v and 2v respectively. Compare
+their (i) inertia, (it) momentum.
+
+Ans. (i) 1: 1 Gi) 1:2
+Two balls A and B of masses m and 2m are in
+motion with velocities 2v and v respectively.
+Compare : (i) their inertia, (ii) their momentum,
+and (iii) the force needed to stop them in the
+same time. Ans. (i) 1 : 2 (ii) 1: 1 (iii) 1:1
+
+State Newton’s second law of motion. What
+information do you get from it ?
+
+How does Newton’s second law of motion differ
+from first law of motion ?
+
+Write the mathematical form of Newton’s second
+law of motion. State condition if any.
+
+State Newton's second law of motion. Under
+what condition does it take the form F = ma ?
+How can Newton’s first law of motion be
+obtained from the second law of motion ?
+Draw graphs to show the dependence of
+(i) acceleration on force for a constant mass, and
+(ii) force on mass for a constant acceleration.
+How does the acceleration produced by a given
+force depend on mass of the body ? Draw graph
+to show it.
+
+Name the S.I. unit of force and define it.
+
+. What is the C.GS. unit of force ? How is it
+
+defined ?
+
+Name the S.I. and C.GS. units of force. How
+are they related ?
+
+Why does a glass vessel break when it falls on
+a hard floor, but it does not break when it falls
+
+on a carpet ?
+
+67
+
+18.
+
+Use Newton’s second law of motion to explain
+
+the following :
+
+(a) A cricketer pulls his hands back while
+catching a fast moving cricket ball.
+
+(b) An athlete prefers to land on sand instead
+of hard floor while taking a high jump.
+
+Multiple choice type :
+
+1.
+
+The linear momentum of a body of mass m
+moving with velocity v is :
+
+(a) v/m (b) m/v
+(c) my (d) 1i/mv Ans. (c) mv
+The unit of linear momentum is :
+(a) Ns (b) kg ms?
+(c) Ns! (d) kg? ms"! Ans. (a) N s
+The correct form of Newton’s second law is :
+OP pe AY
+(a) F= At (b) =m At
+Am Ap ©
+
+(c) Foy, (d) F =m Ans. (a) F = AD
+The acceleration produced in a body by a force
+of given magnitude depends on
+
+(a) size of the body (b) shape of the body
+
+(c) mass of the body (d) none of these.
+Ans. (c) mass of the body
+
+Numericals :
+
+1.
+
+A body of mass 5 kg is moving with velocity
+2 ms7. Calculate its linear momentum.
+Ans. 10 kg m s"!
+The linear momentum of a ball of mass 50 g is
+0-5 kg m s7!. Find its velocity. Ans. 10 ms"!
+A force of 15 N acts on a body of mass 2 kg.
+Calculate the acceleration produced.
+Ans. 7-5 m s~?
+A force of 10 N acts on a body of mass 5 kg.
+Find the acceleration produced. Ans. 2 m s~*
+Calculate the magnitude of force which
+when applied on a body of mass 0-5 kg produces
+an acceleration of 5 m s7. Ans. 2.5 N
+
+A force of 10 N acts on a body of mass 2 kg
+for 3s, initially at rest. Calculate : (i) the
+velocity acquired by the body, and (ii) change
+in momentum of the body.
+
+Ans. (i) 15 ms!, (ii) 30kg ms".
+A force acts for 10 s on a stationary body of
+mass 100 kg after which the force ceases to act.
+The body moves through a distance of 100 m
+in the next 5 s. Calculate : (i) the velocity
+
+
+--- Page 15 ---
+acquired by the body, (ii) the acceleration
+produced by the force, and (iii) the magnitude
+of the force.
+
+Ans, (i) 20 ms7!, (ii) 2 ms, (iii) 200 N
+
+8. Fig. 2.11 shows the velocity-time graph of a
+particle of mass 100 g moving in a straight line.
+Calculate the force acting on the particle.
+
+Y
+
+NM
+°o
+
+=_
+oO
+
+Velocity (m s") —>
+
+; x
+012 3 4 ‘5
+Time (s) —>
+Fig. 3.
+(Hint : Acceleration = slope of v-t graph)
+
+9. A force acts for 0-1 s on a body of mass 2-0 kg
+initially at rest. The force is then withdrawn and
+the body moves with a velocity of 2 m s“!. Find
+the magnitude of force. Ans. 40 N
+
+10. A cricket ball of mass 100 g moving at a speed
+
+of 30 m s“! is brought to rest by a player in
+0-03 s. Find the average force applied by the
+player. Ans. 100 N
+
+11. A car of mass 480 kg moving at a speed of
+54 km h"!, is stopped by applying breaks
+
+10 s. Calculate the force applied by the brakes.
+Ans, 720 N
+
+12, A bullet of mass SO g moving with an initial
+velocity 100 m s', strikes a wooden block and
+comes to rest after penetrating a distance 2 cm
+in it. Calculate : (i) initial momentum of the
+bullet, (ii) final momentum of the bullet,
+(iii) retardation caused by the wooden block, and
+(iv) resistive force exerted by the wooden block
+
+Ans. (i) 5 kg m s~!, (ii) zero,
+(iii) 2-5 x 10° ms“, (iv) 12500 N
+
+13. A force causes an acceleration of 10 ms? ina
+body of mass 500 g. What acceleration will
+be caused by the same force in a body of mass
+5 kg? Ans. 1] ms7
+
+14. A car is moving with a uniform velocity
+30 m s7!. It is stopped in 2 s by applying a
+force of 1500 N through its brakes. Calculate :
+(a) the change in momentum of car, (b) the
+retardation produced in car, and (c) the mass
+of car.
+
+Ans. (a) 3000 kg m s“' (b) 15 m s* (c) 100 kg
+
+(D) NEWTON’S THIRD LAW OF MOTION
+
+3.13 NEWTON'S THIRD LAW OF MOTION
+
+Newton’s first law tells us that to bring a
+change in the state of rest or in the state of motion
+of an object, a force is needed i.e., a force
+produces a change in velocity of the object.
+Newton’s second law tells us the magnitude of
+acceleration produced by the force when applied
+on the object. These two laws do not explain how
+does the force act on the object ? This question is
+answered by the Newton’s third law, which is
+
+Examples :
+
+(i) Consider a book lying on a table. The
+weight of the book acts vertically downwards,
+but the book does not move downwards. It implies
+
+68
+
+that the resultant force on the book is zero, which
+is possible only if the table exerts an equal upward
+force on the book equal to the weight of the
+book. This force on the book balances the weight
+of the book.
+
+(ii) While moving on the ground, we exert a
+force by our feet to push the ground backwards,
+the ground exerts a force of the same magnitude
+on our feet forward which makes us to move
+forward.
+
+Explanation : In the above stated examples,
+we observe that there are two objects and two
+forces. In the first example, the weight of the book
+acting on the table downwards is the force of
+action and the force exerted by table on the book
+upwards is the force of reaction. In the second
+example, the force exerted by our feet on the
+ground is the force of action and the force exerted
+by the ground on our feet is the force of reaction.
+
+
+--- Page 16 ---
+Thus Newton’s third law of motion
+
+—
+
+me a _
+
+Note : The action and reaction never act
+on the same body, but they always act
+simultaneously on two different bodies i.e., the
+forces of interaction are always present in a pair.
+
+Experimental demonstration of Newton’s third law
+
+Experiment : In Fig. 3.12, the ring of a
+spring balance B is attached to a hook fixed in
+a wall, and then the hook of another spring
+balance A is attached to the hook of the spring
+balance B. Now the ring of spring balance A is
+pulled. We find that both the balances show the
+same reading.
+
+Reaction Action
+
+READING = 4 kof
+Fig. 3.12 Demonstration of action and reaction
+
+READING = 4 kof
+
+Explanation : The spring of balance A pulls
+the spring of balance B due to which we get some
+reading in balance B. The same reading is seen in
+balance A because the spring of balance B also
+pulls the spring of balance A by the same force. The
+pull on the spring B by the spring A is the action
+F,, and the pull on the spring A by the spring B is
+the reaction F’,,. This demonstrates that “to every
+action, there is an equal and opposite reaction”
+(i.e., in magnitude F,, = F,, but they are in
+
+opposite directions) or Fag =—Fpa._ .....(3.11)
+
+Examples of action and reaction
+
+(1) A book on a table : When a book is placed
+on a table top, the book exerts a force equal
+to its weight W (action) on the table in
+direction AB downwards and the table
+balances it by an equal force called the
+reaction R (R = W) acting upwards on the
+book in direction AD . Fig. 3.13 shows these
+
+action and reaction.
+69
+
+D 4 R (REACTION)
+
+B ¥ W (ACTION)
+
+Fig. 3.13 Action and reaction on a book lying on a table
+
+(2)
+
+(3)
+
+(4)
+
+(6)
+
+Pushing a wall : When you exert a force
+(action) on a wall by pushing the palm of
+your hand against it, you experience a force
+(reaction) exerted by the wall on your palm.
+Motion of a boat moving away from the shore:
+When a boatman wants to move the boat away
+from the shore, he pushes the shore by a
+bamboo or with his oar (action). The shore
+pushes the boatman (along with boat) away
+with an equal and opposite force (reaction).
+Motion of boat in water : To move a boat
+ahead in water, the boatman pushes (action)
+the water backwards with his oar and the
+water exerts an equal and opposite force
+(reaction) in the forward direction on the
+boat due to which the boat moves ahead.
+Firing a bullet from a gun : When a man fires
+a bullet from a gun, a force F is exerted on
+the bullet (action) and the gun experiences an
+equal recoil R (reaction) as shown in Fig. 3.14.
+
+FORCE ON BULLET
+(Action)
+
+RECOIL ON GUN
+R <—-(Reaction)
+
+GUN
+
+Fig. 3.14 Action and reaction on firing a
+bullet from a gun
+
+Rocket motion : In a rocket, fuel is burnt
+inside the rocket and the burnt gases at high
+pressure and high temperature are expelled
+out of the rocket through a nozzle. Thus,
+rocket exerts a force F (action) on gases to
+expel them through a nozzle backwards.
+The outgoing gases exert an equal and
+opposite force R (reaction) on the rocket due
+to which it moves in the forward direction
+(Fig. 3.15).
+
+
+--- Page 17 ---
+ROCKET
+(reaction)
+NN
+ws, 1 FORCE ON
+wee GASES
+GASES ____¢_ (action)
+
+Fig. 3.15 Action and reaction in rocket motion
+
+(7) Motion of man on ground : When a
+man applies a force F (action) backward by
+his foot on the ground against the force of
+friction, the ground exerts an equal and opposite
+force R (reaction) forward on his foot. The
+horizontal component of the force of reaction
+R enables the man to move forward (Fig. 3.16).
+Obviously it will be difficult for a man to move
+on a slippery road where friction is less.
+
+Force exerted by ground
+on foot (reaction)
+
+F
+Force exerted by man on ground (Action)
+Fig. 3.16 Action and reaction while a man
+moves on ground
+
+(8) Motion of boat away from the shore
+while stepping down from it : When a man
+exerts a force (action) on the boat, its force of
+reaction enables him to step out of the boat. At
+the same instant, the boat tends to leave the shore
+due to the force exerted by the man (i.e., action).
+Catching a ball : While catching a ball, the
+ball exerts a force (action) on the hand of
+cricketer and the cricketer exerts an equal
+force (reaction) on the ball to stop it.
+
+(9)
+
+State the usefulness of Newton’s third law of
+motion.
+
+State Newton’s third law of motion.
+
+State and explain the law of action and: reaction,
+by giving two examples.
+
+Name and state the action and reaction in the
+following cases :
+
+nN
+
+(a)
+(b)
+(c)
+(d)
+
+firing a bullet from a gun,
+
+hammering a nail,
+
+a book lying on a table,
+
+a moving rocket,
+
+(e) a person walking on the floor,
+
+(f) a moving train colliding with a stationary train.
+Explain the motion of a rocket with the help of
+Newton's third law.
+
+When a shot is fired from a gun, the gun gets
+recoiled. Explain.
+
+When you step ashore from a stationary boat, it
+tends to leave the shore. Explain.
+
+When two spring balances joined at their free
+ends, are pulled apart, both show the same
+reading. Explain.
+
+To move a boat ahead in water, the boatman has
+to push the water backwards by his oar. Explain.
+
+A person pushing a wall hard is liable to fall
+back. Give reason.
+
+‘The action and reaction both act simultaneously.’
+Is this statement true ? Ans. Yes
+‘The action and reaction are equal in magnitude’.
+Is this statement true ? Ans. Yes
+A light ball falling on ground, after striking the
+ground rises upwards. Explain the reason.
+
+70
+
+14. Comment on the statement ‘the sum of action
+and reaction on a body is zero’.
+{Hint : The statement is wrong]
+
+Multiple choice type :
+1. Newton’s third law :
+(a) defines the force qualitatively
+(b) defines the force quantitatively
+(c) explains the way the force acts on a body
+(d) gives the direction of force.
+Ans. (c) explains the way the force acts on a body
+2. Action and reaction act on the :
+(a) same body in opposite directions
+(b) different bodies in opposite directions
+(c) different bodies, but in same direction
+(d) same body in same direction.
+Ans. (b) different bodies in opposite directions
+Numericals :
+
+1. A boy pushes a wall with a force of 10 N
+towards east. What force is exerted by the wall
+on the boy ? Ans. 10 N towards west
+In Fig. 3.17, a block of weight
+15 N is hanging from a rigid
+support by a string. What
+force is exerted by
+(a) block on the string,
+
+(b) string on the block.
+Name them and show them in
+the diagram.
+Ans. (a) 15 N downwards (weight),
+(b) 15 N upwards (tension)
+
+W=15N
+Fig. 3.17
+
+
+--- Page 18 ---
+(E) GRAVITATION
+
+3.14 UNIVERSAL LAW OF GRAVITATION
+
+Each mass particle of the universe attracts the
+other mass particle. The force of attraction
+between the two particles because of their masses,
+is called the gravitational force of attraction. For
+the magnitude of this force, Sir Issac Newton gave
+a law, known as Newton’s law of gravitation.
+
+According to Newton, the force of attraction
+acting between the two particles is (i) directly
+proportional to the product of their masses and
+(ii) inversely proportional to the square of the
+distance between them. This force acts along the
+line joining the two particles.
+
+<————__— + ——>
+
+Fig. 3.18 Gravitational force between two particles
+In Fig. 3.18, let there be two particles of
+masses m, and m, at a separation r. The magnitude
+of force of attraction F acting between them is
+F x m,m, and F « 1/r°
+Combining the two relations,
+mm
+
+Foc
+r2
+
+or (3.12)
+
+where G is a constant of proportionality which
+is known as gravitational constant. The value
+of G remains same at all places and it is
+independent of the nature of particles, temperature,
+medium, etc. Therefore, it is a universal constant
+and is known as universal gravitational constant.
+
+It may be mentioned here that force is a
+vector quantity, hence it is necessary to indicate
+
+>
+
+its direction also. The direction of force F.
+on mass m, is towards m, along the line
+joining the masses m, and m.,, whereas the force
+=
+Fn on mass m, is towards mass m, along the
+same line. Both these forces are equal in magnitude,
+
+but opposite in direction (i.e., Ff, =— F,,). Thus it
+is an action-reaction force i.e., a particle exerts a
+force on other particle, equal and opposite to the
+
+71
+
+force that the second particle exerts on the first
+particle.
+Unit and value of universal gravitational constant
+
+2
+From eqn. (3.12), G= Sr
+my, xm,
+; newton x metre?
+S.L unit of G = kilogram x kilogram
+= N m?kg?
+
+The value of G is 6-67 x 107! N m? kg.
+In eqn. (3.12), if m, = 1 kg, m, = 1 kg and
+r= 1m, then G = F. Thus
+
+Gravitational constant G is numerically equal to the
+magnitude of force of attraction between the two
+masses each of | kg placed at a-separation of | m.
+
+Examples : (1) The gravitational force of
+attraction between two bodies of masses m, = 1 kg
+and m, = 1 kg kept at a separation of r = 1 m is
+
+(6-67x107!!)x 1x1
+
+F = 2
+
+(1)
+
+(2) The gravitational force of attraction
+between the moon (mass = 7-36 x 10” kg) and the
+earth (mass = 5-96 x 10*4 kg), taking the distance
+of moon from the earth to be 3-80 x 108 m, is
+
+(6.67107!) x (59610 ) x (7:36 x10”)
+F= (3:80x10*)?
+
+= 6-67 x 107! N.
+
+=2x10°N.
+
+From the above two examples, it is clear that
+the gravitational force of attraction is significant
+between the heavenly bodies, but it is insignificant
+between the ordinary bodies.
+
+In fact, regarding the gravitational force, it is
+important to note that the gravitational force
+between the two masses :
+
+(i) is always attractive.
+
+(ii) is directly proportional to the product of the
+masses.
+
+(iii) is inversely proportional to the square
+of separation between them, i.e. it
+obeys the inverse square law. Thus, by
+doubling the separation between the two
+masses, the force of attraction between them
+is reduced to one-fourth.
+
+(iv) is significant between heavenly bodies, but
+is insignificant between ordinary bodies
+because of small magnitude of G.
+
+
+--- Page 19 ---
+Importance of the law of gravitation : Newton
+used this law to explain the motion of planets around
+the sun, the motion of the moon (satellite) around
+the earth and the motion of a freely falling body.
+3.15 FORCE DUE TO GRAVITY
+
+According to the law of gravitation, the earth
+attracts each object around it, towards its centre. The
+force with which the earth attracts a body is called
+the force due to gravity on the body, which can be
+taken to act vertically downwards at the centre of
+gravity of the body. In vertical motion near the earth
+surface for height much smaller than the radius of
+earth, the force of gravity on the body is assumed to
+be same throughout.
+
+The force due to gravity on a body of mass
+m kept on the surface of earth of mass M and
+radius R, is equal to the force of attraction
+between the earth and that body. It is given as
+a ..--(3.13)
+
+Taking the mass of earth M = 5-96 x 10% kg
+and the radius of earth R = 6-37 x 10° m, the
+force of gravity on a body of mass m = 1 kg on
+the surface of earth will be
+
+(6-67x107!!)x(5-96x1074)x1
+Sc ing—C SC BN,
+(6-37x10")
+
+Thus earth attracts a body of mass 1 kg by a
+force of 9-8 N towards its centre.
+
+Note : As earth attracts an object towards it, the
+object also attracts the earth towards it by an equal force.
+Since the object is free to move, it starts moving towards
+the earth, but the earth because of its large inertia, does
+not move towards the object.
+
+3.16 ACCELERATION DUE TO GRAVITY
+
+Galileo was the first scientist to study the motion
+of different bodies under the force of attraction of
+earth (i.e., gravity). From his experiments, Galileo
+found that if bodies of different masses and sizes
+(or shapes) are simultaneously made to fall in
+vacuum (i.e., in absence of air)* from the same
+height, they all reach the earth surface
+simultaneously and with same velocity. Thus, all
+bodies travel the same distance in the same interval
+of time. Moreover, he found that the velocity of a
+freely falling body does not remain constant, but it
+
+* In presence of air, viscous force and force due to buoyancy
+act on the body upwards. These forces depend on size, shape
+and velocity of the body, so they are different in magnitude
+for different bodies. Therefore downward acceleration will
+not remain same (equal to g) for all bodies, so they will not
+reach simultaneously.
+
+increases at a constant rate, i.e., the motion of a
+freely falling body is a uniformly accelerated
+motion. This acceleration is same for all bodies. In
+other words, the acceleration of a freely falling
+body does not depend on the mass of the body, its
+size and its shape, etc. This acceleration is called
+the acceleration due to gravity. Thus
+
+"The rate at which the velocity ofa freely falling
+| body increases, is called the acceleration due to
+
+gravity. In other words, it is the acceleration
+produced in a freely falling body due‘to the
+gravitational force of attraction of the earth.
+
+The acceleration due to gravity is denoted by
+the letter g. Its S.J. unit is m s~. It is a vector
+quantity directed vertically downwards towards
+the centre of earth.
+
+Experimentally, it is found that the value of
+acceleration due to gravity g does not remain
+constant. On the earth's surface, the value of g
+varies from place to place. On equator, it is sightly
+less as compared to that at poles. The mean value
+of g on the earth surface is 9-8 m s~. At altitudes
+above the earth’s surface or at depth below the earth
+surface, the value of g decreases. The value of g is
+zero at the centre of earth.
+
+Note : The value of g is different on different
+planets and satellites. The value of g on moon’s surface
+is nearly one-sixth the value of g on earth’s surface.
+
+Relationship between g and G : Let g be the
+acceleration due to gravity at a planet (or satellite)
+of mass M and radius R. By Newton’s law of
+motion, the force due to gravity on a body of mass
+m on its surface will be
+
+F = mass x acceleration due to gravity
+
+or F=mg ..-(3.14)
+By Newton’s gravitational law, this attractive force
+to GMm
+is given by F= R ...(3.15)
+From eqns. (3.14) and (3.15),
+GMm
+R. ms
+
+GM
+or jacceleration due to gravity g = Re (3.16)
+
+The above eqn. (3.16) relates the acceleration
+due to gravity g with the gravitational constant G.
+Obviously the value of g on a planet (or satellite)
+
+72
+
+
+--- Page 20 ---
+depends on the mass and radius of that planet
+(or satellite).
+
+Examples : (1) Taking the mass of earth
+M = 5-96 x 10*4 kg and the radius of earth
+R = 6-37 x 10° m, the acceleration due to gravity
+at a place on the surface of earth comes out to be
+(6-67 x107!!)x (5-96 x1074)
+
+(6-37 10°)?
+
+(2) On the surface of moon (mass M = 7-36
+x 102? kg and radius R = 1-75 x 10° m), the
+acceleration due to gravity at the surface of moon
+is
+
+Seanth = = 9-8 ms.
+
+(6-67 x107!!) x (7-36 x1027)
+
+— 1. —2
+(1-75 x10°)? =16ms“.
+
+8 moon =
+
+Obviously, 2, 40n
+3.17 FREE FALL
+
+In chapter 2, we have studied one dimensional
+motion. The motion of a freely falling body from a
+height or the motion of a body thrown vertically
+upwards from the surface of earth, is the one
+dimensional motion under gravity. The acceleration
+of a vertically falling body is a = + g and that of a
+body going vertically upwards is a = — g.
+
+If a body falls from rest freely from a height h,
+under gravity then u = 0 and acceleration a is
+replaced by g (acceleration due to gravity), then
+equations of motion are :
+
+1
+= 6 S earth nearly.
+
+(i) v = gt
+(i) A = ; et (3.17)
+(iii) = 2gh
+
+But if the initial velocity of fall of the body
+is u, then equations of motion are :
+
+(i) v = ut gt
+(ii) ho = ut+ 58 (3.18)
+(iti) v? = u2+2gh
+
+If a body is thrown vertically up with an
+initial velocity u to a height A, there will be
+retardation (a = — g), then equations of motion are:
+
+(i) v = u-gt
+(ii) h = ut- + et (3.19)
+(iii) v= w2-2gh
+
+At the highest point of reach, final velocity v =0,
+
+Zz
+
+thus maximum height reached h, = a (from
+&
+
+equation v* = u? — 2gh) and the time taken by the body
+
+u
+to rise to the highest point ¢ = zg (from equation
+
+v= u-— gt). The same will be the time it takes to come
+back to the initial point after reaching the highest
+
+point. So the total time of journey ft’ = 2t = 2
+and the total distance travelled by the body
+
+h'=2h, = —
+mx 8
+3.18 MASS AND WEIGHT
+
+The mass is a scalar quantity. Its S.I. unit is
+kilogram (symbol kg). It is constant for a
+given body at rest and does not change by changing
+the place of the body. It is an intrinsic property. of
+the body. It is measured by a physical balance (or
+beam balance) because the value of g (acceleration
+due to gravity) is same on both the pans. The mass
+of a body increases with its velocity*, but this
+change is perceptible only when the velocity of the
+body v becomes more than 10° ms“! i.e., reaches
+close to the speed of light c (= 3 x 108 ms“), so
+for a body moving with velocity less than 10° m s“!,
+its mass is taken to be constant.
+
+(b) Weight
+The weight of @ body is the force with ' which’,
+
+the earth attracts. it. In ather-words, weight of
+a body is the force of gravity on-it.
+
+The weight is a vector quantity. Its direction
+is downwards towards the centre of earth.
+
+Unit of weight : The S.I. unit of weight is
+newton (N) and the C.GS. unit is dyne where
+1N = 105 dyne.
+Relationship between weight and mass : The
+weight of a body is related to its mass as follows :
+
+Weight = mass x acceleration due to gravity
+
+or W=mxg ie, Wein ie. .. (3.20)
+
+* m=m,/ {1 — (vic)? where m, is the mass of the body at rest.
+
+
+--- Page 21 ---
+Note : From eqn. (3.20), the S.I. unit of
+acceleration due to gravity g can also be written
+“as newton per: kilogrant (or N kg} in place of
+metre/second’ (orm s?), ae
+
+Since the value of g varies from place to place,
+the weight of a given body also varies from place
+to place.
+
+The gravitational unit of weight in M.K.S.
+system is kilogram force (kgf) and in C.GS.
+system is gram force (gf), where
+lkgf = 98N
+
+1 gf = 980 dyne
+Obviously a body of mass m kg will weigh m kgf.
+
+and
+
+The weight of a body can be measured by a
+spring balance directly in newton and also by a
+physical balance in kef.
+
+Comparison of mass and weight
+
+1. It is a measure of
+the quantity of
+matter contained
+in the body, at rest.
+
+. It is a vector ¢ quanti wntity
+
+3. Its S.I. unit is kg.
+
+4. It is measured by a
+physical (or beam)
+balance.
+
+5. It is constant for a
+body: and does. not
+change with the
+change in place.
+
+. Its S.L unitis”
+
+newton (N).
+
+. It is measured by a
+
+spring balance which
+is calibrated to read
+
+3.19 GRAVITATIONAL UNITS OF FORCE
+In M.K.S. system, the gravitational unit of
+force is Hilogram force ep
+
+Le., 1 kgf force due to gravity on a mass of 1 kg
+mass | kg x acceleration due to
+gravity gm s~
+
+g newton
+
+Since average value of g is 9-8 ms,
+1 kgf = 9-8 newton (or 9-8 N)
+In C.GS. system, the gravitational unit of
+force is gram force (gf).
+
+One gram force is the force due to gravity on
+a mass of 1 g.
+
+ie., 1 gf = force due to gravity on a mass of 1 g
+= mass lg x acceleration due to
+gravity g cm s~*
+= g dyne
+Since average value of g is 980 cm s~,
+1 gf = 980 dyne
+
+Further, 1 kgf = 1000 gf
+
+To an approximation 1 kgf is assumed
+to be nearly equal to 10 N. Then 1 N = 0-1 kgf
+or 100 gf. Thus one can feel a force of 1 N by
+holding a mass of 100 g
+
+1N
+on his palm as shown in
+Fig. 3.19.
+Obviously, if we say O \
+that 1 kgf = 9-8 N, we i =
+
+mean that we have to
+exert a force of 9-8 N to
+hold a mass of 1 kg on
+our palm.
+
+Fig. 3.19 Force of IN
+exerted by palm on
+a mass of 100 gramme to
+hold it
+
+1. Calculate the gravitational force of attraction
+between the two bodies of masses 40 kg and
+80 kg separated by a distance 15 m.
+
+Take G = 6-7 x 10°! N m? kg.
+
+Given, m,
+
+= 40 kg, m, = 80 kg,
+
+G=67x 10"! N m? kg?, r= 15m
+Gravitational force of attraction
+
+r?
+
+(6:7x107!!)x 40x80
+as)’
+
+Gmm,
+
+= 95x 1079N
+
+74
+
+2. Taking the mass of earth equal to 6 x 10% kg
+and its radius equal to 6-4 x 10° m, calculate
+the value of acceleration due to gravity at a
+height of 2000 km above the earth surface.
+Take G = 6-7 x 10°" N m? kg”.
+
+When the body is at a height = 2000 km = 2000 x
+10? m = 2 x 10° m above the earth surface, the
+distance of body from centre of earth will be r=R+h
+= (6-4 x 10°) + (2 x 10°) = 8-4 x 106 m. Then
+
+GM GM
+
+8-2 (R+ hy?
+
+
+
+--- Page 22 ---
+(6:7x107!!)x(6x1074)
+(8-4 10°)?
+
+3. A body of mass 10 kg is taken from the earth
+to the moon. If the value of g on earth is
+9-8 m s~ and on moon is 1-6 m s~, find :
+(i) the weight of the body on earth, (ii) the mass
+and weight of the body on moon.
+
+Given, mass on earth m = 10 kg,
+
+Searth =98MS*; Boog = l6ms?.
+
+(i) Weight of the body on earth = mass x Searth
+= 10x98 =98N
+
+(ii) Mass of the body on moon
+
+= Mass of the body on earth = 10 kg
+
+Weight of the body on moon = m x g,
+= 10x 16=16N
+
+4. A stone is dropped from rest and falls freely
+under gravity. Calculate the distance covered
+by it in the first two seconds. (g = 9-8 m s~)
+
+or ge = 57m s%,
+
+Given, u=0,a=g=98ms~ andt=2s.
+
+1
+From equation of motion h = ut + 3 gt
+
+1
+Distance covered h = 0x2 + 3 x 9-8 x (2)?
+
+= 0+19-6 = 19-6 m.
+
+5. Astone is dropped freely in a river from a bridge.
+It takes 5 s to touch the water surface in the
+river. Calculate : (i) the height of the bridge
+from the water level, (ii) the distance covered
+
+"by the stone in 2 s (g = 9-8 ms”).
+
+Given, u=0, a=g=9-8ms, t=55s
+
+1
+(i) From equation of motion h= ut+ = gf
+
+2
+h =0x5+ ; x9-8 x (5)*
+= 9-8 x 2 = 122:5m
+Height of the bridge = 122-5 m
+
+(ii) Distance covered by the stone in t= 2s
+1
+S=ut+ 5h =O+ ; x 9-8 x (2)? = 196 m.
+
+6. A body is dropped freely under gravity from
+the top of a tower of height 78-4 m. Calculate :
+(i) the time to reach the ground, and
+(ii) the velocity with which it strikes the ground.
+Take g = 9-8 ms”.
+Given, u =0,h = 78-4 m,a=g=9-8 ms”.
+
+(i) From equation of motion A = ut + > gt
+
+7-4=O0xt+ ; x9-8x 2
+
+or 73-4= 4.92 ~
+78-4
+or =49 7 16
+. Time to reach the ground t= J16 =4s
+(ii) From equation of motion v = u + gt
+v=04+98x4=39-2ms.
+ie, the body strikes the ground with velocity
+39-2 ms}.
+
+7, A ball is thrown vertically upwards. It goes
+to a height 19-6 m and then comes back to
+the ground. Find :
+
+(i) the initial velocity of the ball, ©
+
+(ii) the total time of journey, and
+
+(iii) the final velocity of the ball when it strikes
+the ground.
+Take g = 9:8 m s~.
+
+Given, h=19-6m, a=-g=-98ms%, v=0
+(i) From equation of motion v* = u? + 2 gh
+0 = w2-2x98 x 19-6
+or u2 = 19.6 x 19-6
+. Initial velocity u = 196ms7.
+
+(ii) Let ts be the time taken by the ball to reach
+the highest point.
+
+From equation of motion v = u + gt
+
+0=19-6-9-8¢ or 9-8t=19-6
+19-6
+t= 98 7 28
+
+It will take the same time ¢ = 2 s to come back
+from the highest point to the ground.
+.. Total time of journey ?’= 2f=2x2=4s.
+
+The final velocity of ball when it strikes the
+ground will be same as the initial velocity with
+which it was thrown upwards.
+
+(iti)
+
+Final velocity on reaching the ground
+= 196m s1,
+
+8. A ball is thrown vertically upwards from the
+top of a building of height 24-5 m with an initial
+velocity 19-6 m s~'. Taking g = 9-8 m s~,
+calculate : (i) the height to which it will rise
+before returning to the ground, (ii) the velocity
+with which it will strike the ground, and (iii) the
+total time of journey.
+
+Given, u = 19-6 m s~! (upwards), height of building
+x= 24-5 m.
+(i) At the highest point, v = 0.
+For upward journey, from relation v? = u? — 2gh
+0 =u? — 2gh
+
+
+--- Page 23 ---
+or h= > =~ = 196m
+
+(ii) While returning from the highest point, u = 0,
+total height travelled = 19-6 + 24-5 = 44-1 m.
+Let v be the velocity with which it strikes
+the ground. Then from relation v7 = u? + 2 gh,
+
+v=0+2x 98 x 44-1,
+
+v= ¥2x9-8x44-1 =294 ms"!
+
+(iii) If the ball takes time 1, to go to the highest
+point from the top of building, then for upward
+journey, from relation v = u — gt,
+
+19-6
+
+— =2
+
+98 °°
+Now for downward journey from the highest
+point, if the ball takes time t, to reach the
+
+ground, then u = 0, v = 29-4ms"I.
+
+0= 196-981, or t, =
+
+From relation v= u + gt.
+
+29-4=0+4 9-8 4,
+29.4
+a= “og 798
+Hence total time of journey t = t, +1,
+
+=2+3=5s,
+
+Il.
+
+12.
+
+13.
+
+14.
+15.
+
+16.
+
+State Newton’s law of gravitation.
+State whether the gravitational force between
+two masses is attractive or repulsive ?
+
+Ans. Always attractive
+Write an expression for the gravitational force
+of attraction between two bodies of masses m,
+and m, separated by a distance r.
+How does the gravitational force of attraction
+between two masses depend on the distance
+between them ?
+How is the gravitational force between two
+masses affected if the separation between them
+is doubled ? Ans. Force reduces to one-fourth
+Define gravitational constant G.
+Write the numerical value of gravitational
+constant G with its S.I. unit.
+What is the importance of the law of gravitation ?
+What do you understand by the term force due
+to gravity ?
+White an expression for the force due to gravity
+on a body of mass m and explain the meaning
+of the symbols used in it.
+Define the term acceleration due to gravity ?
+Write its S.I. unit.
+Write down the average value of g on the earth’s
+surface.
+How is the acceleration due to gravity on the
+surface of earth related to its mass and
+radius ?
+How are g and G related ?
+A body falls freely under gravity from rest and
+reaches the ground in time ¢. Write an expression
+
+for the height fallen by the body. Ans. h = 3 g¢
+
+A body is thrown vertically upwards with an
+initial velocity u. Write expression for the
+maximum height attained by the body.
+
+Ans, h = u2/2g
+
+21.
+
+22.
+
+Define the terms mass and weight.
+
+Distinguish between mass and weight.
+
+State the S.I. units of (a) mass and (b) weight.
+The value of g at the centre of earth is zero.
+
+What will be the weight of a body of mass
+m kg at the centre of earth ? Ans. Zero
+Which of the following quantity does not
+change by change of place of a body : mass or
+weight ? Ans. Mass
+Explain the meaning of the following statement
+‘I kgf = 9-8 N’.
+
+Multiple choice type :
+
+1.
+
+2.
+
+3.
+
+The gravitational force between the two bodies
+is :
+(a) always repulsive
+(b) always attractive
+(c) attractive only at large distances
+(d) repulsive only at large distances.
+Ans. (b) always attractive
+
+«
+
+The value of G is:
+(a) 9-8 N m? kg?
+(b) 6-7 x 10"! N m? kg?
+(c) 6-7 x 10°"! m s?
+(d) 6-7 N kg"!
+Ans. (b) 6:7 x 107! N m? kg?
+The force of attraction between the two masses
+each of 1 kg kept at a separation of 1 m is :
+(a) 9-8 N (b) 6-7N
+(c) 980 N (d) 67x 10! N
+Ans. (d) 6-7 x 10"'N
+A body is projected vertically upward with an
+initial velocity u. If acceleration due to gravity
+is g, the time for which it remains in air, is :
+
+u
+(a) ¥ (b) ug
+
+© = @ > Ans. (0)"3
+> 2e _ ns. (c) 7
+
+
+--- Page 24 ---
+5.
+
+An object falling freely from rest reaches
+ground in 2 s. If acceleration due to gravity is
+9-8 m s”, the velocity of the object on reaching
+the ground will be :
+(a) 9-8 m s7!
+
+(c) 19-6ms!
+
+(b) 49 ms!
+(d) zero.
+Ans. (c) 19-6 m s7!
+
+Numericals :
+
+1.
+
+The force of attraction between the two bodies
+at a certain separation is 10 N. What will be the
+force of attraction between them if the separation
+is reduced to half ? Ans. 40 N
+Write the approximate weight of a body of mass
+5 kg. What assumption have you made ?
+
+Ans. 50 N (Assumption : g = 10 m s~”).
+Calculate the weight of a body of mass 10 kg
+in (a) kgf and (b) newton. Take g = 9-8 m s~.
+
+Ans. (a) 10 kgf (b) 98 newton.
+State the magnitude and direction of the force
+of gravity acting on a body of mass 5 kg. Take
+g=98ms.
+Ans. Force of gravity on the body = 49 newton
+vertically downwards.
+The weight of a body is 2-0 N. What is the mass
+of the body ? (g = 10 ms“) Ans. 0-2 kg
+The weight of a body on earth is 98 N
+where the acceleration due to gravity is 9-8 m s.
+What will be its (a) mass and (b) weight on
+moon where the acceleration due to gravity is
+16ms?? Ans. (a) 10 kg (b) 16 N
+A man weighs 600 N on earth. What would be
+his approximate weight on moon ? Give reason
+for your answer ? Ans. 100 N
+
+Reason : The value of g on moon = <« the
+value of g on earth.
+What is the (a) force of gravity and
+(b) weight of a block of mass 10-5 kg ? Take
+g=10ms”. Ans. (a) 105 N, (b) 105 N
+A bail is released from a height and it reaches
+the ground in 3 s. If g = 9-8 m s~, find :
+
+(a) the height from which the ball was
+
+released,
+
+(b) the velocity with which the ball will strike
+the ground.
+Ans. (a) 44-1 m (b) 29-4 m s7!
+What force, in newton, your muscles need to
+apply to hold a mass of 5 kg in your hand ?
+State the assumption.
+Ans. 49 N. Assumption : g = 9-8 N kg".
+
+77
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+A ball is thrown vertically upwards. It goes to
+a height 20 m and then returns to the
+ground. Taking acceleration due to gravity g to
+be 10 m s~, find :
+(a) the inital velocity of the ball
+(b) the final velocity of the ball on reaching
+the ground and
+(c) the total time of journey of the ball.
+Ans. (a) 20 ms“! (b) 20 ms! (c) 4s
+A body is dropped from the top of a tower.
+It acquires a velocity 20 m s~! on reaching
+the ground. Calculate the height of the tower.
+(Take g = 10 ms”) Ans. 20 m.
+A ball is thrown vertically upwards. It returns
+6 s later. Calculate : (i) the greatest height
+reached by the ball, and (ii) the initial velocity
+of the ball. (Take g = 10 m s~*)
+Ans. (i) 45 m, (ii) 30 ms!
+A pebble is thrown vertically upwards with a
+speed of 20 m s“!. How high will it be after
+2s? (Take g=10 ms) Ans. 20 m
+(a) How long will a stone take to fall to the
+ground from the top of a building 80 m high
+and (b) what will be the velocity of the stone
+on reaching the ground ? (Take g = 10 m s~)
+Ans. (a) 4 s, (b) 40 m s7!
+A body falls from the top of a building and
+reaches the ground 2-5 s later. How high is the
+building ? (Take g = 9-8 ms) Ans. 30-6 m
+A ball is thrown vertically upwards with
+an initial velocity of 49 m s“'. Calculate :
+(i) the maximum height attained, (ii) the time
+taken by it before it reaches the ground again.
+(Take g = 9-8 ms~). Ans. (i) 122-5 m, (ii)10 s
+
+A stone is dropped freely from the top of
+
+a tower and it reaches the ground in 4 s. Taking
+
+g=10ms-~, calculate the height of the tower.
+Ans. 80m
+
+A pebble is dropped freely in a well from its top. It
+takes 20 s for the pebble to reach the water surface
+in the well. Taking g = 10 m s~ and speed of
+sound = 330 m s~|, find : (i) the depth of water
+surface, and (ii) the time when echo is heard after
+the pebble is dropped.
+
+Ans. (i) 2000 m (ii) 26-1 s
+
+A ball is thrown vertically upwards from the top
+of a tower with an initial velocity of 19-6 ms".
+The ball reaches the ground after 5 s. Calculate :
+(i) the height of the tower, (ii) the velocity of ball
+on reaching the ground. Take g = 9-8 m s~*.
+
+Ans. (i) 24-5 m (ii) 29-4ms7.
+

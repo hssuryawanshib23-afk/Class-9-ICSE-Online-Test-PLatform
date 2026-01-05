@@ -1,0 +1,1986 @@
+
+
+--- Page 1 ---
+WATER
+
+‘SYLLABUS
+
+(i) Water as a universal solvent:
+¢ Solutions as ‘mixtures’ of solids in water; saturated solutions.
+
+* Qualitative effect of temperature on solubility (e.g. solutions of calcium sulphate, potassium nitrate,
+sodium chloride in water).
+
+(ii) Hydrated and anhydrous substances
+(a) Hydrated substances
+Water of crystalisation — meaning and examples
+(b) Anhydrous substances :
+Meaning and examples only
+(c) Properties :
+* Efflorescence ¢ Deliquescence * Hygroscopy
+(Definition and examples of each of the above)
+(iii) Drying and dehydrating agents
+Meaning and examples only
+(iv) Soft water and hard water.
+¢ Meaning (in terms of action of soap)
+* Advantages and disadvantages of soft water and hard water.
+* Types and causes of hardness.
+* Removal of hardness (i) by boiling (ii) by addition of washing soda.
+
+3 A. WATER
+
+Formula : H,O Water exists in all the three physical states : as
+
+Chemical name : Dihydrogen oxide solid (ice), as liquid (water) and as gas (water
+
+Molecular mass : 2x 1+ 16x 1=18 amu vapour).
+
+Fig. 3.1 Covalent bonding in a water molecule
+
+3.1 INTRODUCTION
+
+Water is the most important natural resource;
+more than 70% of Earth’s area is occupied with water.
+However, hardly 2°5% of this water makes up the
+world’s supply of fresh water, including the frozen
+water in polar ice caps and glaciers. ——
+Fig, 3.2 Water cycle.
+ememeeenennnnrenerwee ot We,
+
+
+--- Page 2 ---
+Water is a major constituent of all living things
+(plants, animals and human beings) and of the
+atmospheric environment in which we live. Nearly
+70% of our body weight is water.
+
+Water occurs in both free and combined states.
+
+Ordinarily, water exists in the liquid state. When
+heated under normal pressure (760 mm Hg), water
+boils at 100°C and changes rapidly into its gaseous
+state (steam). When steam condenses back into water,
+heat is released. This heat is called latent heat of
+condensation, and it is equal to latent heat of
+vaporization.
+
+It is the sudden release of latent heat of
+
+condensation that causes the violence associated
+with torrential rain. ,
+
+3.2 PHYSICAL PROPERTIES OF WATER
+
+1. Nature : Pure water is a clear, transparent
+liquid. It is colourless, odourless and tasteless.
+
+The taste in water is due to gases and solids
+dissolved in it, i.e. impurities present in it.
+
+2. Boiling point : Under normal pressure, pure
+water boils at 100°C. The boiling point of water is
+affected by pressure because boiling point of a liquid
+is considered as the temperature when vapour
+pressure equals the atmospheric pressure. Thus, the
+greater the pressure, the higher the boiling point, and
+vice versa. This is the principle by which a pressure
+cooker works.
+
+In the hills, water boils at temperature
+lower than 100°C with atmospheric pressure being
+low (70°C on the top of Mount Everest) and so food is
+not cooked properly there. Therefore, pressure cookers
+are useful in the hills.
+
+The boiling point of water also increases due to the
+presence of dissolved impurities in it.
+
+3. Freezing point of water or melting point of
+ice : Pure water freezes at 0°C under normal pressure
+(one atmosphere). The freezing point of water
+decreases with increase in pressure.
+
+The freezing point of water also decreases due to the
+presence of dissolved impurities in it.
+
+4. Density : At 4°C, water has its maximum
+density, 1 g/cm? or 1000 kg/m3, and minimum volume.
+Water expands on freezing, i.e. 92 volumes of
+water become 100 volumes of ice. Therefore, with
+relative density of ice being 0-92, it floats.
+
+5. Anomalous expansion of water : Water has
+an unusual physical property. When cooled, it first
+contracts in volume, as do other liquids, but below
+4°C, it starts expanding and continues to do so till the
+temperature reaches 0°C, the point at which it freezes
+into ice.
+
+DENSITY (g/mL)
+
+TEMPERATURE °C ~—
+Fig. 3.3 Water has maximum density at 4°C
+
+The property of anomalous expansion of water
+enables marine life to exist in the colder regions of
+the world, because even when the water freezes on
+the surface, it remains a liquid below the ice layer
+(Fig. 3.4).
+
+AIR BELOW 0°G
+
+Fig. 3.4 Formation of ice at the top of a pond.
+
+6. Latent heat of fusion of ice : The latent heat
+of fusion is the amount of heat required to change a
+substance from the solid state to its liquid state at its
+melting point without any change in temperature.
+
+The amount of heat energy required by ice to
+change into water, is called latent heat of fusion of
+ice. Its specific value is 336 J/g or 80 cal/g. The
+same amount of heat is released when 1 g of water
+solidifies to form 1 g of ice at 0°C.
+
+It is on account of high specific latent heat of
+solidification that lakes and rivers do not freeze
+suddenly.
+
+
+--- Page 3 ---
+7. Latent heat of vaporization of Water > When "’
+
+water is boiled, it changes to gaseous state.
+
+The energy required to change water into its
+vapour at its boiling point without any change in
+temperature is called latent heat of vaporization of
+water, and its specific value is 2268 J/g or 540 cal/g.
+The same amount of heat is released when 1 g of
+steam condenses to form 1 g of water at 100°C.
+
+It is on account of high specific latent heat of
+vaporization that steam causes far more serious burns
+than water at 100°C.
+
+8. Specific heat capacity : It has been found that
+1 g of water, when heated through 1°C, always absorbs
+4.2 J (or 1 calorie) of heat energy. The fixed amount
+of heat absorbed by 1 g of water, when heated through
+1°C, is called its specific heat capacity.
+
+Water because of its high specific heat is
+commonly used as coolant in motor car radiators,
+desert coolers, etc.
+
+Due to its high specific heat capacity, the presence of
+a large amount of water is able to modify the climate
+of the nearby land areas, making them warmer in
+winter and cooler in summer. Land and sea breeze are
+also set up because of this great. moderating property
+of water.
+
+3.3 WATER AS UNIVERSAL SOLVENT
+
+Water is a remarkable solvent. It dissolves many
+substances, forming aqueous solutions (water
+solutions). Water has a high dielectric constant.
+As a result, it reduces the electrostatic force of
+attraction between positive and negative ions and
+dissolves even inorganic compounds, which are
+usually electrovalent. Not only solids, but also gases
+and other liquids dissolve in water. Hence, it is
+difficult to find absolutely pure water in nature. For
+the same reason, water is also called universal
+solvent.
+
+Substances that are apparently insoluble in water
+actually dissolve in it in traces. Even when we put
+water in a glass vessel, an extremely small amount
+of glass dissolves in it. It is for this reason that,
+
+when distilled water is kept in a sealed bottle
+for a long time, it leaves etchings on the inside
+
+surface of glass.
+
+Experiment :~f0° ShOW that ordinary tap water
+contains dissolved solids.
+
+Procedure : Put some tap water on a clean watch
+glass, and place it over a beaker containing water, as
+shown in Fig. 3.5. Boil the water in the beaker. When
+all the water has evaporated from the watch glass,
+remove it from the burner and let it cool.
+
+(OR fle7—TAP WATER
+
+<r
+SILICA GLASS
+TUBE
+
+APPEARANCE OF THE WATCH-
+GLASS AFTER EVAPORATION
+
+Fig. 3.5 To show that water contains dissolved solids
+
+Observation : On looking at the watch glass
+against light, a number of concentric rings of solid
+matter are seen. These are the dissolved solids left
+behind after evaporation of water.
+
+Importance of dissolved salts in water
+The dissolved solids in water are salts, minerals
+and impurities.
+1. They are essential for growth and development
+of plants.
+2. They add taste to water.
+
+3. They supply the essential minerals needed by our
+bodies.
+
+Note : Tap water, river water and well water contain
+dissolved solids, but rainwater and distilled water do
+
+not contain dissolved solids, and so concentric rings
+are not formed in their case.
+
+AIR DISSOLVED IN WATER
+
+Air is present in dissolved state in all the natural
+sources of water. Of the two main components of air
+(nitrogen and oxygen), oxygen is more soluble in water
+than nitrogen.
+
+Note : Since oxgyen is more soluble in water
+compared to nitrogen, the air dissolved in water
+
+differs from ordinary air.
+
+
+
+--- Page 4 ---
+Experiment : To show that tap water contdins —
+
+dissolved gases (air).
+
+Procedure : Fill around-bottom flask completely
+with tap water, and arrange the apparatus as shown in
+Fig. 3.6.
+
+A graduated tube or burette filled completely with
+water is inverted over the end of the delivery tube in a
+trough of water.
+
+Fig. 3.6 To show that water contains dissolved gases
+
+Observation : Heat the water in the flask. Gas
+bubbles are seen escaping from water. They are
+collected in the graduated tube by downward
+displacement of water. The water vapour present in the
+gases condenses on coming in contact with the cold
+water in the tube. Obviously, the remaining gases come
+from the air dissolved in water, and they escape on
+heating. Read the volume.of the gas thus collected. The
+volume of the gas (air) collected in the graduated tube
+shows the presence of dissolved gases in tap water.
+
+The solubility of a gas is often expressed by the
+volume of that gas dissolved in a certain volume of
+a solvent. For example, the solubility of H, in water
+
+is expressed as 0-02 volime of hydrogen per unit
+volume of water, at 0°C or 506 volumes of hydrogen
+chloride per unit volume of water, at 0°C.
+
+The composition of air dissolved in water is 33%
+oxygen (compared to 21% in ordinary air), 66%
+nitrogen and 1% carbon dioxide.
+
+Note : Distilled water and boiled water have no taste.
+
+The pleasant taste of drinking water is due to the
+presence of dissolved matter, like air, carbon dioxide
+and minerals.
+
+IMPORTANCE OF AIR DISSOLVED IN WATER
+
+Air dissolved in water is biologically very
+important.
+
+(1) Marine life, like fish, use the oxygen of the air
+dissolved in water for respiration, and thus aquatic
+life is sustained. 1 dm? of water contains nearly
+40 cm? of dissolved oxygen.
+
+(2) Carbon dioxide
+(i) Aquatic plants make use of dissolved carbon
+dioxide for photosynthesis, i.e. to prepare
+
+their food.
+chlorophyll
+6CO, + 12H,O —— C,H,,0, + 60, + 6H,0
+
+sunlight glucose
+
+(ii) Carbon dioxide dissolved in water reacts with
+limestone to form calcium bicarbonate.
+CaCO, + CO, + H,O > Ca(HCO,),
+
+limestone calcium
+bicarbonate
+
+Marine organisms such as snails, oysters, etc.
+extract calcium carbonate from calcium
+bicarbonate to build their shells.
+
+EXCERCISE 3(A)
+
+1. Water exists in all the three states. Discuss.
+2. Why is water considered a compound ?
+
+3. (a) Why does temperature in Mumbai and Chennai
+not fall as low as it does in Delhi ?
+
+(b) Give the properties of water responsible for controlling
+the temperature of our body.
+
+4. ‘Water is a universal solvent’. Comment.
+5. What causes the violence associated with torrential rain ?
+
+6. (a) Which property of water enables it to modify the
+climate ?
+
+(b) Density of water varies with temperature. What are its
+consequences ?
+
+(c) State the melting point, boiling point, specific heat
+capacity, specific latent heat of fusion and specific
+latent heat of vaporization of water.
+
+7. How does fishes and aquatic animals survive when the pond
+gets covered with thick ice ?
+
+
+--- Page 5 ---
+8. The properties of water are different from the properties of
+the elements of which it is formed. Discuss.
+
+9. How is aquatic life benefitted by the fact that water has
+maximum density at 4°C ?
+
+10. Describe an experiment to show :
+(a) tap water contains dissolved salts.
+(b) tap water contains dissolved gases.
+
+11. State the importance of the solubility of CO, and O, in
+water.
+
+12. How is air dissolved in water different from ordinary air ?
+13. Why do rivers and lakes not freeze easily ?
+14. What is the importance of dissolved salts in water ?
+15. Explain why :
+(a) Boiled or distilled water taste flat.
+
+(b) Ice at zero degree centigrade has greater cooling effect
+than water at 0°C.
+
+(c) Burns caused by steam are more severe than burns
+caused by boiling water.
+
+(d) Rain water does not leave behind concentric rings when
+boiled.
+
+(e) Air dissolved in water contains a higher proportion of
+oxygen.
+
+(f) If distilled water is kept in a sealed bottle for a long
+time, it leaves etchings on the surface of the glass.
+
+16. Explain what you understand from the following diagram :
+
+Latent heat of fusion
+
+Ls Naperization
+aporization
+__Solid_]
+
+Latent heat
+Latent heat of condensation
+
+of solidification
+
+3 B. SOLUTIONS
+
+3.4 SOLUTIONS AS MIXTURES OF SOLIDS
+IN WATER
+
+A solution is a homogeneous mixture of two or
+more components whose composition may be
+
+gradually changed by changing the relative
+amounts of the components.
+
+Solution = Solute + Solvent
+
+The medium of dissolution that allows one or
+more component to dissolve in it to form a solution
+is known as SOLVENT. The substance that dissolves
+in the solvent to form a solution is known as
+SOLUTE.
+
+A solution which is made up of two
+components is a binary solution. Solutions which
+are made up of three or four components are called
+ternary and quaternary solutions respectively.
+Here we shall deal with binary solutions only,
+composed of a solute and a solvent.
+
+For example : When salt crystals dissolve in
+water to form saline water, the salt is classified as
+the solute, the water is classified as the solvent and
+the saline water is an example of a solution.
+
+If the components exist in different physical
+States, then the solvent is that component which exists
+in the same phase (state) as the final solution.
+
+For example, if sugar is dissolved in water, the
+final solution is a liquid solution. So water (liquid)
+is the solvent and sugar the solute.
+
+If the two substances are in the same phase
+(state), the component that is in excess is termed the
+solvent.
+
+A solution may be formed by mixing :
+(i) a liquid with another liquid
+
+Water and alcohol
+
+(ii) a solid with a liquid
+
+Example :
+Example : Sugar solution
+(ili) a liquid with a gas.
+Example :
+(iv) a solid with another solid
+Example : Alloys
+A homogeneous solution of a solid into
+another solid is called a solid solution. Common
+metal alloys are solid solutions. The gold used in
+
+making jewellery is a solid solution containing gold
+and small quantities of copper or silver.
+
+Soda water
+
+Brass is a solid solution containing 70%
+copper and 30% zinc. Here, copper acts as the
+solvent and zinc as the solute.
+
+A solution in which the size of the solute particles
+is about 10-' m is called a true solution. In a true
+solution, the solute particles and the solvent molecules
+cannot be distinguished even under a microscope. In
+common use, the term solution actually means true
+solution.
+
+a
+
+
+--- Page 6 ---
+Characteristics of a true solution (or simply a
+solution)
+
+1. It is a homogeneous mixture.
+
+2. The solute particles are very small, about
+10° m.
+
+. It is clear and transparent.
+. It does not scatter light.
+. Its components cannot be separated by filtration.
+
+Nn nA fb WD
+
+. The solute particles in a solution do not settle down.
+
+Note:
+
+. Water is the most common solvent (a solution
+produced by dissolving a substance in water is
+known as an aqueous solution) but it is not the only
+solvent. Alcohol, petrol, ether, benzene, carbon
+disulphide, liquid ammonia, efc. are some
+
+non-aqueous liquid solvents in common use. The
+solutions made in these liquids are known as non-
+aqueous solutions.
+
+. When the solvent is alcohol, the solution is called a
+tincture. Tincture of iodine is a solution of iodine in
+alcohol.
+
+Dilute solution
+
+It is the solution in which the amount of solute
+is rather small compared to the mass of the solvent.
+
+Concentrated solution
+
+It is the solution in which the amount of solute
+is relatively large for 4 given mass of the solvent.
+
+3.5 SATURATED SOLUTION
+
+A solution that cannot dissolve any more of the
+solute at a given temperature is called a saturated
+solution.
+
+Preparation of a saturated solution
+
+Experiment : Take 100 g of distilled water in a
+beaker. Add 1 g of nitre and stir with a glass rod till
+the nitre dissolves. Add one gram more of nitre and
+stir it. It too will dissolve. Continue adding a gram
+of nitre at a time, and stir vigorously after each
+addition. A stage will come when no more of the
+nitre will dissolve at that temperature, no matter how
+long it is left there or how vigorously it is stirred.
+The solution is then said to be saturated with nitre
+at that temperature. This is the saturated solution of
+
+nitre in water adn it cannot dissolve any more of the
+solute without changing temperature.
+
+A solution is a homogeneous mixture of a solute
+in a solvent; its composition may vary till a
+
+saturated solution is obtained at a particular
+temperature.
+
+Effect of cooling on a saturated solution
+
+The solubility of a solid usually decreases with
+fall in temperature. Thus, if the temperature of a
+saturated solution is lowered, or if a solution is
+left open at a higher temperature for long, (the
+solvent slowly vaporizes) and a part of the dissolved
+solute separates out in the form of crystals. The
+remaining solution is still a saturated solution but at
+a lower temperature.
+
+A saturated solution can also be made unsaturated
+by adding more solvent to it.
+
+Unsaturated solution
+
+A solution in which more of the solute can be
+
+dissolved at a given temperature is known
+as an unsaturated solution.
+
+Supersaturated solution
+
+A solution that holds more solute than it
+can theoretically do at room temperature is a
+supersaturated solution. Heat a saturated solution
+and dissolve some more solute to it. Then cool it
+back to room temperature; you will get a
+supersaturated solution since it holds more solute
+than it can theoretically hold at that temperature.
+
+A supersaturated solution at a particular
+temperature is one that is more concentrated
+(contains more solute) than its saturated solution
+at that temperature.
+
+Preparation of supersaturated solutions
+
+A saturated solution of a solute, say potassium
+nitrate, is prepared in slightly warm water. On cooling
+this solution, the excess nitre does not separate out.
+This solution contains more solute in it than it can
+hold at room temperature, and therefore it is a
+supersaturated solution.
+
+
+--- Page 7 ---
+Note : It is possible to bring down the temperature
+
+of a saturated solution a little without the excess
+
+solute crystallizing out, if :
+
+(i) no suspended impurities, like dust particles,
+are present in it.
+
+(ii) the solution is not disturbed physically, i.e. it is
+
+left standing still in its container.
+
+3.6 CONCENTRATION OF A SOLUTION
+
+Concentration of a solution is the amount of solute
+dissolved in a given quantity of that solution. It can
+be expressed in many ways. For example :
+
+(i) Mass percent
+
+It is defined as the mass of solid solute in grams
+present in 100 grams of the solution. It is mostly used
+when solute is solid and solvent is liquid.
+
+Concentration of solution
+
+Mass of solute
+~ Mass of solution (solute + solvent)
+
+x 100
+
+For example, if 10 grams of sodium chloride
+is added to 90 grams of water, the concentration
+
+10 10
+= 10490 x 100 = 100 x 100 = 10%.
+
+(ii) Volume percent
+
+It is defined as the volume of solute in millilitres
+present in 100 mL of a solution. It is mostly used when
+solute and solvent are liquid.
+
+Volume percent
+Volume of solute
+= Volume of solute + Volume of solvent
+For example, if 30 mL of alcohol is mixed
+with 70 mL of water to get 100 mL of solution, volume
+percent
+
+x 100
+
+30 30
+= 30470 x 100= 100 x 100 = 30%
+
+Solved examples :
+
+Example | : 2-5 litres of alcohol is present in 10
+litres of aqueous solution of alcohol. Calculate volume
+percent.
+
+Volume of solute = 2-5 litres
+Volume of solution = 10-0 litres
+
+Solution : Volume percent
+Volume of Solute
+
+x 100
+
+~ Volume of solution
+2:5
+= 70 * 100 = 25%
+Example 2 : 50 gram of sugar is dissolved in 2-45
+
+kg of water. Calculate the concentration of solution.
+
+Solution : Mass of solute = 50 gram,
+
+mass of solvent = 2450 gram,
+
+mass of solution = mass of solute + mass of
+solvent = 2500 gram
+
+Mass of solute x 100
+
+Mass% = Mass of solution
+Mass% = —2- x 100 = 2% solution
+assfo = Fo05 = 2% solu
+
+3.7 SOLUBILITY
+
+Different substances dissolve to different extents
+in the same volume of a given solvent. In other
+words, they have different solubilities. For example,
+the masses of sodium chloride and potassium nitrate
+that dissolve in 100 g of water at 40°C are 36.5 g
+and 65 g respectively. Obviously, the solubility of
+potassium nitrate is greater than that of sodium
+chloride.
+
+The solubility of a solute in a particular solvent at
+a given temperature is equivalent to the maximum
+number of grams of the solute necessary to saturate
+100 g of that solvent at that temperature.
+
+A substance that has negligible solubility is
+called insoluble, e.g., silver chloride, which has
+0-000015 g as its solubility. On the other hand, a
+substance that has more than negligible but less
+than high solubility is called sparingly soluble,
+e.g. calcium hydroxide, which has 0-17 g as its
+solubility. A substance having high solubility such
+as sodium chloride is simply called soluble.
+
+Determination of the solubility of a solute at a
+particular temperature
+
+1. Note the temperature of the saturated solution.
+
+2. Weigh a clean, dry evaporating dish = M.
+
+3. Put the saturated solution in it and weigh —
+again = M,.
+
+renee 27 Ba
+
+
+--- Page 8 ---
+4. Now heat the solution to dryness and again
+weigh = M,.
+
+5. Mass of saturated solution = M, - M.
+
+6. Mass of solute = M, - M.
+
+7. Mass of solvent = Mass of saturated solution
+— mass of solute = (M, — M) - (M, - M)
+At the noted temperature :
+
+Solubility = asso! solute, 199
+Mass of solvent
+M,-M
+
+= (M,-M)—(M, -M) * 100
+3.7.1 Factors affecting solubility
+
+The rate of dissolution or rate of solubility of a
+solid in a liquid depends on the following factors :
+
+(a) Size of solute particles : The smaller the size of
+the solute particles, the greater is its total
+surface area exposed to the solvent. Therefore,
+the greater is the solubility of that solute.
+
+(b) Stirring : This brings more of the solvent in
+contact with the solute and thus increases the
+rate of formation of solution.
+
+(c) Temperature : The solubility of a gas in a
+liquid always decreases with rise in
+temperature. But the solubility of most solids
+in water usually increases with rise in
+temperature.
+
+For example, the solubility of potassium nitrate
+in water at 20°C is 31-6 grams, whereas its
+solubility at 60°C is 63-9 grams.
+
+All these factors affect solubility because in
+process of dissolution, the particles of solute
+merely occupies the spaces between particles of
+solvent without undergoing chemical change.
+
+3.7.2 Solubility curves
+
+A solubility curve is a line graph that plots
+changes in solubility of a solute in a solvent against
+changing temperature.
+
+Variation in solubility of a given substance with
+temperature can be shown by means of solubility
+curves. Here, solubility is plotted along the ordinate
+(y-axis) and temperature along the abscissa (x-axis).
+Solubility curves of some common compounds are
+shown in Fig. 3.7.
+
+40
+
+SOLUBILITY ——>
+
+nN
+o
+
+CALCIUM SULPHATE
+(hydrated)
+
+TEMPERATURE IN °C ——>
+
+Fig. 3.7 Variation in solubility of some
+solids with changing temperature
+
+(i) Solubility curves of substances like calcium
+sulphate (CaSO,-2H,O) show that there is a
+decrease (after attaining a certain temperature) in
+their solubilities with further rise in temperature.
+Other examples are ceric sulphate Ce,(SO,),, slaked
+lime Ca(OH),, etc.
+
+(ii) Substances like sodium nitrate, potassium nitrate,
+potassium bromide, etc., show considerable
+increase in their solubilities with rise in
+temperature.
+
+(iii) Solubility of sodium chloride increases only a little
+with increase in temperature.
+
+In an endothermic process the solubility of
+solute increase with the increase of temperature. For
+example solubility KNO, increases with rise in
+
+temperature. In an enothermic process, the solubility
+increases on lowering the temperature. For example,
+solubility by calcium hydroxide in water decreases
+on increasing the temperature.
+
+Anomalous solubility :
+
+There are some salts whose solubilities first increase,
+and then decrease, with rise in temperature.
+
+For example : Na,SO, . 10H,O (Glauber salt)
+
+Solubility curve of Na,SO,.10H,O rises till it
+reaches 32-8°C, and then it falls slightly. This is
+because Na,SO,.10H,O is hydrous below 32-8°C and
+anhydrous above it (Fig. 3.8).
+
+
+--- Page 9 ---
+SOLUBILITY ———>
+
+32.8°C
+TEMPERATURE (IN °C) ———>
+
+Fig. 3.8 Solubility curve for Na,SO,10H,O
+
+3.7.3, Applications of solubility curves
+
+(a) Shape of the curve indicates how the solubility
+of the given substance in a solvent varies with
+change in temperature. The solubility of a
+substance at a particular temperature can be
+determined from the curve.
+
+(b) Solubilities of different solutes in a solvent at
+different temperatures can be compared by
+comparing at their respective solubility curves
+plotted on the same chart (Fig. 3.7).
+
+(c) The effect of cooling of hot solutions of different
+
+substances can be found from the curves.
+When a saturated solution is prepared at 40°C
+and then it is cooled to 15°C, some salts gets
+precipitated out. On the other hand, if a saturated
+solution is heated to a higher temperature, then
+it becomes unsaturated. More solute can be
+dissolved in this solution now.
+
+Some solved examples :
+
+Example 1 :
+
+12 g of a saturated solution of potassium chloride at
+20°C, when evaporated to dryness, leaves a solid residue
+of 3 g. Calculate the solubility of potassium chloride.
+
+Solution :
+Weight of water in solution = 12 g-3 g=9g
+9 g of H,O dissolves 3 g of solid
+
+. 100 g of water will dissolve
+3
+9* 100 = 33-3 g
+Ans. Solubility of KCl in H,O at 20°C = 33-3 g
+
+Example 2 :
+
+Find the weight of sodium nitrate required to
+prepare 60 g pure crystals from its saturated solution
+at 70°C. Solubility of sodium nitrate is 140 g at 70°C
+and 100 g at 25°C.
+
+Solubility at 70°C = 140
+Solubility at 25°C = 100
+Amount of crystals obtained when the solution is
+cooled from 70°C to 25°C
+= 140-100 =40¢
+To obtain 40 g of crystals, sodium nitrate taken is
+140 g.
+To obtain 60 g crystals, sodium nitrate required will
+
+= x 60=210¢2 Ans. 210 g
+
+40
+
+Solution :
+
+3.7.4 Effect of pressure and temperature on
+solubility of gases in water (liquids)
+Pressure : An increase in pressure on the surface
+of water increases the solubility of a gas in water.
+
+At any given temperature, the mass of gas dissolved
+by a fixed volume of liquid is directly proportional
+to the pressure on the surface of the liquid. This law
+is known as Henry’s Law.
+
+For example, the solubility of carbon dioxide in
+water under normal atmospheric pressure is rather low,
+but when the water surface is subjected to higher
+pressure a lot more of CO, gas dissolves in it, as is
+seen in the case of soda water. On opening the soda
+water bottle, the dissolved gas rapidly bubbles out since
+pressure on the surface of water suddenly decreases.
+
+Temperature : An increase in temperature of
+water causes a decrease in solubility of a gas in it.
+Thus, on boiling, water loses its taste. Since some taste
+of water is due to the gases in it, on boiling, these
+gases escape from water, leaving it tasteless.
+
+3.8 CRYSTALS AND CRYSTALLIZATION
+
+A crystal is a homogeneous solid of definite
+geometrical shape. It has symmetrically arranged
+smooth plane surfaces which meet forming the sharp
+edges.
+
+Crystallization is a process by which crystals
+of a substance are obtained by cooling a hot
+saturated solution.
+
+All crystals of a pure compound are of similar
+shape, but those of different compounds may be of
+different shapes. Some shapes in which crystals exist
+are :
+
+Cubic (e.g., NaCl)
+
+
+--- Page 10 ---
+RhombohedriT (€.2.; Cusuyy
+Octahedral (e.g., FeSO,)
+Prismatic, with sharp edges (e.g., KNO,)
+
+FOI
+
+CUBIC = RHOMBOHEDRIC OCTAHEDRAL PRISMATIC
+Fig. 3.9 Some shapes of crystals
+
+In nature too, several crystals are formed, some
+of which are recovered from the earth as minerals,
+e.g. common salt, potassium nitrate, ruby, saphire,
+diamond. In some cases, their beautiful colours are
+due to traces of water or impurities present in them.
+For example, the red colour of ruby is due to a
+trace of mercury oxide present in its crystals.
+
+_ Ina laboratory, crystals may be obtained by the
+
+following methods :
+
+(1) By cooling a hot saturated solution
+
+(2) By slowly evaporating a saturated solution
+
+(3) By cooling a fused mass
+
+(4) By sublimation
+Experiment : To prepare large crystals of copper
+sulphate.
+
+Procedure : Make a saturated solution of copper
+sulphate at 80°C. Filter it. Allow the filtrate to cool
+and leave it for a day. Next morning, a number of tiny
+crystals will be seen lying at the bottom of the beaker.
+Pick up these small crystals, which are well formed.
+Now, suspend a well-shaped crystal by means of a
+thread tied to a glass rod into the cooled saturated
+solution (Fig. 3.10). Cover the beaker with a piece of
+paper to prevent dust from getting in. Leave the beaker
+undisturbed and watch the crystal grow.
+
+GROWING
+CRYSTAL
+COPPER
+
+SULPHATE
+SOLUTION
+
+Fig. 3.10 A growing crystal of CuSO,
+
+Observation : After a few days, the crystal will
+be found to have grown quite big. The suspended
+crystal acts as a seed crystal.
+
+This process of inducing crystallization by
+adding a crystal of a pure substance into its saturated
+solution is called seeding.
+
+Caution : Avoid addition of dust particles, or
+crystals will form around them as well.
+
+3.9 HYDRATED AND ANHYDROUS SUBSTANCES
+
+Substances which contain water molecules
+along with salts like sodium carbonate decahydrate
+(NaCO,-10H,O) and copper sulphate pentahydrate
+(CuSO,-5H,O) are hydrated substances.
+
+Substances which do not contain any water
+along with the salts are anhydrous substances. For
+example sodium chloride (NaCl), potassium nitrate
+(KNO,) etc.
+
+3.9.1 Hydrated substances
+
+The crystals of some salts contain water of
+crystallisation. This water gives the crystals their
+shape. In some cases it also gives them their colour
+(copper sulphate crystals are blue in colour). Such salts
+are known as hydrated salts.
+
+WATER OF CRYSTALLIZATION
+
+The fixed amount of water that is associated
+with hydrated crystals which is an integral part of
+the crystal, is called water of crystallisation.
+
+Table 3.2 Some salts containing water of crystallisation
+
+Washing soda crystals
+Epsom salt
+
+Potash alum
+Glauber’s salt
+
+Blue vitriol
+
+Plaster of Paris
+White vitriol
+Gypsum
+
+Sodium carbonate decahydrate
+Magnesium sulphate heptahydrate
+Hydrated potassium aluminium sulphate
+Sodium sulphate decahydrate
+
+Copper (II) sulphate pentahydrate
+
+Calcium sulphate semihydrate
+
+Zinc sulphate heptahydrate
+Hydrated calcium sulphate
+
+Na,CO,.10H,O
+MgSO,.7H,O
+
+K,SO,.Al, (SO,), .24H,0
+Na,SO,.10H,O
+CuSO,.5H,O
+
+CaSO,. H,0
+ZnSO,,7H,O
+CaSO,.2H,0
+
+
+--- Page 11 ---
+Some solids, while crystallizing out from their
+solutions, combine with a definite quantity of water,
+known as water of crystallization or water of hydration.
+
+This water of crystallization is in loose chemical
+combination and can be driven off as steam by
+heating the crystals above 100°C, the vapours
+produced are condensed and the liquid formed is
+tested. This liquid gives test of water. In this
+process, the crystals lose their water and become
+anhydrous, i.e. all the water combined in the
+crystalline material is removed.
+
+Experiment : To show that hydrated copper
+sulphate crystals (blue vitriol) contain water of
+crystallization.
+
+Procedure : Take some powdered copper sulphate
+crystals in a clean dry test tube, and clamp it in a tilted
+position (Fig. 6.11) so that the condensed water does
+not trickle or flow back. Gently heat the crystals.
+
+Observation : Drops of colourless liquid
+condense on the cooler parts of the test tube, leaving
+behind a residue that is anhydrous (without water) and
+amorphous (non-crystalline), i.e. with no definite
+shape or structure.
+
+COPPER SULPHATE CRYSTALS
+
+DROPS OF
+WATER
+
+Fig. 3.11 To show loss of water of
+crystallization on heating
+When blue crystals of hydrated copper sulphate
+are heated in a test tube, they turn into a white powder,
+which turns back into a blue solid when a few drops
+of water are added.
+
+Heat
+CuSO,5H,0 == CuSO,+5H,O
+Hydrated blue Cool Anhydrous white
+colour salt colour salt powder
+
+When preparing crystals of a hydrated salt, we
+must be careful not to heat them too strongly when
+drying them, otherwise the product is a dehydrated
+powder, not crystals.
+
+Determination of water of crystallization
+
+Take a known weight of crystals in a china dish
+
+and heat it above 100°C. When the weight of the
+residue becomes constant, stop heating.
+
+Wt. of crystals at room temperature = a g
+
+Wt. of crystals after heating at 101°C = b g
+
+Wt. of water = (a — b) g
+
+Now a g of crystals contain water = (a — b) g
+
+—b
+.. % of water of crystallization = — x 100
+
+3.9.2 Anhydrous substances
+
+A substance is anhydrous if it contains no water,
+for example, salts lacking their water of crystallisation.
+The term ‘Anhydrous’. is most often applied to
+crystalline substances when the water of crystallisation
+is removed.
+
+Anhydrous can also refer to the gaseous form of
+
+some concentrated solutions such as ammonia to
+distinguish it from its aqueons solution form.
+
+Anhydrous solvents are used to perform
+certain chemical reactions that cannot proceed
+in presence of water. Examples of anhydrous
+substances.
+
+* Table salt is anhydrous sodium chloride.
+
+¢ Gaseous HCI is anhydrous.
+
+Anhydrous salts can be obtained from hydrated
+salts by carefully removing the water of crystallisation
+from them. It can be done by
+
+¢ Direct heating.
+
+¢ Heating in dry and hot air.
+
+¢ Heating under vacuum.
+
+¢ By using dehydrating/desicating agents such
+
+as warm concentrated sulphuric acid.
+
+The crystalline shape of a substance is not
+necessarily the result of the presence of water of
+crystallization. In fact, there are a number of crystalline.
+solids that crystallize from water without holding any
+water of crystallization.
+
+Examples of crystalline substance which do
+not contain water of crystallization :
+
+Common salt (NaCl),
+Nitre (KNO,),
+
+Sugar (C,,H,,0,)),
+Potassium permanganate (KMnO,),
+Ammonium chloride (NH,C1).
+
+
+
+--- Page 12 ---
+Experiment : To study the action of heat on
+anhydrous crystals of sodium chloride and potassium
+nitrate.
+
+Procedure : Gently heat a few crystals of pure
+sodium chloride (common salt) in one test tube and a
+few crystals of potassium nitrate in another.
+
+Observation : On heating, crystals of sodium
+chloride produce a crackling sound, called
+decrepitation. This is due to the breaking of bigger
+crystals of sodium chloride into smaller ones. On the
+other hand, crystals of potassium nitrate first melt
+into a colourless liquid, and then, on strong heating,
+they produce oxygen, which rekindles a glowing
+splint. Potassium nitrite, a light yellow solid residue,
+is left behind.
+
+2KNO, — 2KNO, + 0,T
+Potassium Potassium
+nitrate nitrite (light yellow solid)
+
+Conclusion : Both the substances do not contain
+
+water of crystallization.
+
+3.10 PROPERTIES
+3.10.1 Efflorescence
+
+A phenomenon where a compound loses its water
+of crystallisation on exposure to dry air is called
+efflorescency. This results in loss of crystalline shape,
+and finally the crumbling of crytals into a powder.
+
+Substances showing efflorescence are called
+efflorescent substances.
+
+Efflorescence occurs when vapour pressure in the
+hydrated crystals exceeds atmospheric vapour
+pressure. Thus, it is minimized during humid
+conditions.
+
+Examples of efflorescent substances :
+(a) Washing soda [hydrated sodium carbonate],
+when exposed to dry air, becomes a monohydrate.
+
+Na,CO;-10H,0_9ry air_, Na,CO;.H,O + 9H,O
+
+(b) Glauber’s salt [hydrated sodium sulphate,
+Na,SO,.10H,O] becomes a powdery anhydrous
+sodium sulphate when exposed to air.
+NaSO,-10H,O_4ry air_, Na,SO, + 10H,O
+
+(c) Epsom salt [magnesium sulphate heptahydrate],
+when exposed to dry air, becomes a monohydrate.
+MgSO,-7H,O _4ry air_, MgSO,-H,O + 6H,O
+
+Note : The higher the temperature of the air, the
+higher the efflorescence. This is because the air
+absorbs more water with rising temperature and
+decreasing moisture.
+
+3.10.2 Deliquescence
+
+Certain water soluble substances, when exposed
+to the atmosphere at ordinary temperatures, absorb
+moisture from atmospheric air, become moist, lose
+their crystalline form, and ultimately dissolve in the
+absorbed water, forming a saturated solution. Such
+a substance is called a deliquescent substance and
+the phenomenon is called deliquescency.
+
+Deliquescence occurs when vapour pressure
+inside the crystals is very low compared to vapour
+pressure in the atmospheric air. Thus, deliquescence
+is minimized during dry conditions.
+
+Deliquescent substances
+
+Example of caustic soda NaOH, caustic potash KOH,
+magnesium chloride MgCl, zinc chloride ZnCl,, calcium
+chloride CaCl, and ferric chloride FeC],.
+
+Note : Table salt [sodium chloride] turns moist
+and ultimately forms a solution, on exposure to air
+[especially during the rainy season]. Though pure
+sodium chloride is not deliquescent, the
+commercial version of the salt contains impurities,
+like magnesium chloride and calcium chloride,
+which are deliquescent substances.
+
+This kind of impurity can be removed by
+passing a current of dry hydrogen chloride gas
+through a saturated solution of the affected salt.
+Pure sodium chloride is produced as a
+precipitate, which can be recovered by filtering
+and washing first with a little water and finally
+with alcohol.
+
+3.10.3 Hygroscopic Substances
+
+Certain substances absorb moisture (water
+vapour) from the atmosphere when they are exposed
+to it. Such substances are called hygroscopic
+substances. The phenomenon is known as hygroscopy.
+
+Some examples of hygroscopic substances are :
+
+(i) Conc. sulphuric acid (H,SO,)
+
+(ii) Phosphorus pentoxide (P,O,)
+
+(iii) Quicklime (CaO)
+
+
+--- Page 13 ---
+Hygroscopic substances have a tendency to take
+up moisture from the air.
+
+3.11 DRYING AND DEHYDRATING AGENTS
+
+Drying agents are substances that can readily
+absorb moisture from other substances without
+chemically reacting with them.
+
+For example, anhydrous calcium chloride,
+anhydrous zinc chloride, phosphorus pentoxide,
+magnesium sulphate, dry sodium sulphate, etc., are used
+to absorb water vapour from the air.
+
+These substances are also called desiccants or
+desiccating agents.
+
+Almost all hygroscopic substances are
+desiccating agents, e.g. conc. sulphuric acid,
+phosphorus pentoxide, silica gel, quicklime.
+
+Dehydrating agents are substances that can
+remove even the chemically combined water
+molecules from compounds. For example,
+conc. sulphuric acid can remove water molecules
+from blue vitriol (CuSO,.5H,O). Therefore, it is a
+dehydrating agent.
+
+Cone H_SO
+
+CuSO, - SH,0 ——————> CuSO, + 5H,O
+(blue) (white)
+
+Gases are dried by :
+
+(i) Passing the gases through conc. sulphuric acid
+conc. sulphuric acid has strong affinity for water,
+so it easily extracts water from many substances
+[Fig. 3.12(a)].
+
+Conc. Sulphuric acid is used to dry gases which
+
+(b)
+
+are acidic in nature like hydrogen chloride gas.
+(ii) Passing them through a drying tower or a
+U-tube containing anhydrous sodium sulphate
+[Fig. 3.12(b) and Fig. 3.12(c)].
+(iii) A drying bulb containing anhydrous calcium
+chloride [Fig. 3.12(d)].
+
+Quicklime being basic in nature is suitable for
+drying NH,, a basic gas. Basic gas will not react
+with a base.
+
+Liquids are dried by keeping them overnight
+over anhydrous Na,SO, or MgSO, or CaCl, at
+room temperature. The solid is then removed by
+filtration.
+
+Solids are dried by spreading them on a watch
+glass or a dish and keeping it in a desiccator
+for some days.
+
+A desiccator is an air-tight glass vessel with a
+suitable drying agent (anhydrous calcium chloride)
+placed at the bottom. It is used for drying the solids
+placed in it.
+
+ANHYDROUS
+CALCIUM
+CHLORIDE
+
+Fig. 3.13 A desiccator
+
+(c) (d)
+
+Fig. 3.12 (a) Drying bottle containing concentrated sulphuric
+acid (b) drying tower (c) U-tube (d) drying bulb
+
+
+--- Page 14 ---
+(i) They remove moisture from other substances.
+
+(ii) They are used to dry gases like chlorine, sulphur dioxide,
+
+hydrogen chloride, etc. They are. also used i in desiccators
+to keep substances ary.
+
+(iii) They represeat physical change.
+
+_
+
+Examples :
+Phosphorus pentoxide P,O,, fused calcium. chloride
+CaCl,, calcium oxide CaO, conc. sulphuric acid H,SO,.
+
+(i) They remove chemically combined elements of water in
+the ratio of 2 : 1 (hydrogen : oxygen) from a compound.
+
+(ii) They prepare substances like carbon monoxide,
+sugar charcoal, etc.
+
+HCOOH —Z2tmcone. 2804 oc 4 H,O
+
+cone sugar sugar charcoal
+
+(iii) They represent chemical change.
+
+For example :
+Conc. Sulphuric acid H,SO,.
+
+EXCERCISE 3(B)
+
+. Explain the terms :
+
+(a) solution (b) solute (c) solvent.
+
+. Explain why a hot saturated solution of potassium nitrate
+
+forms crystals as it cools.
+
+. Give three factors which affect the solubility of a solid solute
+
+in a solvent.
+
+. If you are given some copper sulphate crystals, how would
+
+you proceed to prepare its saturated solution at room
+temperature ? Give practical details. How can you show
+that your solution is really saturated ?
+
+. (a) Define (i) Henry’s law (ii) Crystallization.
+
+(b) State the different methods of crystallization.
+
+. What would you observe when crystals of copper (ID
+
+sulphate and iron (II) sulphate are separately heated in two
+test tubes ?
+
+. Table salt becomes sticky on exposure to humid air during
+
+the rainy season. Explain.
+
+. What is the effect of temperature on solubility of KNO,
+
+and CaSO, in water ?
+
+. Solubility of NaCl at 40°C is 36-5 g. What is meant by this
+
+statement ?
+
+. Which test will you carry out to find out if a given solution
+
+is saturated or unsaturated or supersaturated ?
+
+. What is the effect of pressure on solubility of gases. Explain
+
+with an example.
+
+. What are solubility curves ? Give their uses.
+- Explain why :
+
+(a) water is an excellent liquid to use in cooling systems.
+(b) asolution is always clear and transparent.
+(c) lakes and rivers do not suddenly freeze in the winters.
+
+(d) the solute cannot be separated from a solution
+by filtration.
+
+14.
+
+(e) fused CaCl, or conc. H,SO, is used in a desiccator.
+(f) effervescence is seen an opening a bottle of soda water.
+
+Normally, solubility of a crystalline solid increases with
+temperature. Does it increase uniformly in all cases ?
+Name a substance whose solubility :
+
+(a) increases rapidly with temperature.
+(b) increases gradually with temperature.
+(c) increases slightly with temperature.
+
+(d) initially increase than decreases with rise in
+temperature.
+
+. What are drying or desiccating agents. Give examples.
+
+. Complete the following table :
+
+Efflorescent,
+hygroscopic or
+deliquescent
+
+
+--- Page 15 ---
+17. In which of the following substances will there be :
+(a) increase in mass (b) decrease in mass
+(c) no change in mass when they are exposed to air ?
+1. Sodium chloride 2. Iron
+3. Conc. sulphuric acid 4. Table salt
+5. Sodium carbonate crystals
+18. To make a saturated solution, 136 g of a salt is dissolved
+in 500 g of water at 293 K. Find its solubility at
+this temperature. Ans, 27.2g
+19. (a) A solution contains 15 g of sodium chloride in 285 g of
+water. Calculate concentration of solution. Ans. 5%
+
+(b) 4 litres of an organic compound, acetone, is present in
+90 litres of an aqeuous solution. Calculate its
+volume percent. Ans, 4:44%
+
+20. The following table gives the solubility at different
+temperatures of different salts,
+
+[| _Temperature in Kelvin
+
+Substance dissolved | 283 293
+
+Answer the following questions bases on the table iven
+above.
+
+(a) What mass of KNO, would be needed to produce a
+saturated solution of KNO, in 50 grams of water at
+313 K.
+
+(b) If saturated solution of KCl is made at 353 K and then
+cooled at room temperature, what would you observe?
+Explain.
+
+(c) Find the solubility of each salt at 293 K.
+
+(d) Which salt has the lowest solubility at 283 K ?
+
+(e) What is the effect of change of temperature on the
+solubility of a salt.
+Ans. (a) 31 g (b) Crystals of KCI (c) KNO, 32 g, NaCl 36 g,
+KCl 35 g, NH,Cl 37 g (d) KNO,
+
+21. (a) Find the solubility of KNO, at 20°C when the mass of
+the empty dish is 50 g, the mass of dish and solution is
+65 g, while the mass of dish and residue is 54.3 g.
+Ans, 40.18 g
+(b) What weight of sodium nitrate will separate when a saturated
+solution containing 50 gram of water is cooled from 50°C
+to 30°C ? The solubility of NaNO, at 50°C and 30°C is 114
+g and 86 g respectively. Ans. 14 g
+22. To make a saturated solution, 36 g of sodium chloride is
+dissolved in 100 g of water at 293 K. Find its concentration
+at this temperatures. Ans. 26.47%
+
+3 C. SOFT AND HARD WATER
+
+3.12 SOFT AND HARD WATER
+
+Water is said to be soft, if it readily forms lather
+with soap. Pure water or water containing sodium salts
+easily gives lather with soap. Such a water sample is
+called ‘soft water’ and is suitable for use. Distilled
+water and rain water are example of soft water.
+
+Water is said to be hard when it does not readily
+form lather with soap.
+
+3.12.1 Causes of hardness
+
+Water of some springs, wells and rivers contain
+dissolved mineral matter. If this happens to be the
+
+Soft Hard
+
+lL. [
+
+Pain hh ot
+ta
+
+es water Forms
+
+Lime water
+many suds ,
+
+Forms
+
+Fig. 3.14 Soft and hard water
+
+few suds
+
+hydrogen carbonates, sulphates or chlorides of calcium
+and magnesium, the water gets hard.
+
+Hard water contains bicarbonates, chlorides
+
+or sulphates of calcium or magnesium.
+
+When water flows over beds of limestone and
+dolomite (CaCO,, MgCO,) carbon dioxide slowly
+converts some of these into soluble calcium and
+magnesium bicarbonates which get mixed with the
+water and make it hard. The formation of stalactities
+and stalagmites in caves is due to the same reason.
+
+Stalagmites and stalactites : In some lime-stone
+caves, One sometimes sees conical pillar like objects,
+some hanging from the roof of the caves and some
+rising from their floors. These are formed by water
+dropping from the cracks in the rocks, containing
+dissolved calcium hydrogen carbonate. Release of
+pressure results in the conversion of some hydrogen
+carbonate to calcium carbonate.
+
+Ca(HCO,), + CaCO, + CO, + H,O
+This calcium carbonate, little by little gets
+deposited both on the roof and floor of the cave.
+
+
+
+--- Page 16 ---
+The conical pillar which grows downwards
+from the roof is called Stalacite and the one which
+grows upward from the floor of the cave is called
+stalagmite (Fig. 3.15).
+
+cette eo:
+
+Fig. 3.15 Stalactites and stalagmites
+They meet after a time. In a year some grow less
+than even a centimeter but some as tall as 100 cm.
+CaCO,+CO,+H,O -— Ca(HCO,),
+
+(insoluble) calcium bicarbonate
+(soluble)
+MgCo, + CO, + H,O — Mg(HCO,),
+(insoluble) magnesium bicarbonate
+
+(soluble)
+If water flows over beds of gypsum (CaSO,,
+2H,0), a little bit of gypsum gets dissolved in water
+and makes it hard.
+
+3.13 TYPES OF HARDNESS TEMPORARY AND
+PERMANENT HARDNESS
+
+Hardness of water is of two types : temporary
+hardness and permanent hardness. Water that contains
+only hydrogen carbonates of calcium and magnesium
+is called temporary hard water.
+
+It is called temporary hard water because its
+hardness can be removed just by boiling.
+
+Ca(HCO,), _Boil_, CaCO,/ + H,O + CO,T
+
+Mg(HCO,), _Boil_, MgCO,/ + H,O + CO,T
+
+The calcium ions and magnesium ions are thus
+removed from the water by the formation of insoluble
+calcium carbonate and hence the water becomes soft.
+
+Water containing sulphates and chloride of
+magnesium and calcium is called permanent hard
+water. This hardness can not be removed by boiling.
+
+Note : The removing of temporary hardness of
+water by boiling is, however, not a practical method;
+it is costly and slow.
+
+3.13.1 Advantages of hard water
+
+Hard water containing some dissolved salts has
+the following advantages.
+
+(i) Soft water free from dissolved salts has a very
+flat taste. The presence of salts in hard water
+makes it tasty. Hard water is therefore, used in
+the preparation of beverages and wines.
+
+(ii) Calcium and magnesium salts present in small
+amounts in hard water are essential for the
+growth of our bones and teeth.
+
+(iii) Hard water checks the poisoning of water by
+lead pipes. When these pipes are used for
+carrying water, some lead salts dissolve in
+water to make it poisonous calcium sulphate
+present in hard water forms insoluble lead
+sulphate in the form of a layer inside the lead
+pipe and this checks the lead poisoning.
+
+3.13.2 Disadvantages of hard water
+Hard water is not suitable for producing steam
+
+Steam is usually made in boilers which are made
+up of a number of narrow copper tubes surrounded by
+fire. As the cold water enters these tubes, it is
+immediately changed into steam, while the dissolved
+solids incapable of changing into vapour get deposited
+on the inner walls of the tubes. This goes on and thus
+making the bore of the tubes narrower and narrower
+(Fig. 3.16). The result is that less water flows through
+the tubes at one time and less steam is produce.
+
+Fig. 3.16 Boiler scales due to hard water
+
+When the bore of the tube becomes very narrow,
+the pressure of steam increases so much that at times
+the boiler itself bursts. Not only that, the boiler scale
+formed inside the tube being a bad conductor of heat
+allows only part of the outside heat to go in and convert
+the water into steam. This results in further loss of
+heat. To minimise the loss, the boiler scale is removed
+from time to time by using a boiler compound or else
+water is first softened and then used. Both cost money.
+
+
+--- Page 17 ---
+The furring of the tea kettle is also caused by
+the sediment formed on its walls from boiling hard
+water. This fur is nothing but carbonates of calcium
+and magnesium.
+
+Hard water is also unit for washing purposes
+
+For washing purposes soap is invariably used.
+Soap is chemically a sodium salt of stearic acid (an
+organic acid, formula C,,H;,;COOH) and has the
+formula C,,H,;;COONa. If the water is hard, the
+calcium and magnesium ions of the water combine
+with the negative ions of the soap to form a slimy
+precipitate of insoluble calcium and magnesium
+usually given the name of soap-curd or scum.
+
+2NaSt + Ca(HCO,), = CaSt,d + 2NaHCO,
+
+(soap)
+
+The formation of soap-curd will go on as long as
+there are calcium and magnesium ions present. Till
+then no soap lather will be formed and cleaning of
+cloth or body will not be possible. Moreover these
+precipitates are difficult to wash out from the fabrics
+and sometimes form rusty spots if iron salts are also
+present in water.
+
+(soap curd)
+
+This difficulty has been solved to a great extent
+by using synthetic detergents.
+
+Synethetic detergents such as SURF, DET, etc.,
+are used in place of soap in domestic and laundry work.
+These are made by sulphonating some higher alkenes
+(organic compounds) with sulphuric acid and then
+converting them into their sodium salts by caustic
+soda. These sodium salts are called the detergents.
+
+Detergents are more soluble in water than soap
+and are unaffected by hardness of water as their
+calcium salts are soluble in water.
+
+Cleansing action of soaps and detergents
+
+When a soap or detergents is dissolved in water,
+the molecules gather as clusters called micelles. The
+tails stick inwards and the head outwards.
+
+In cleansing, the hydrocarbon tail attaches itself
+to oily dirt. When water is stirred, the oily dirt tends
+to lift off from the dirty surface and dissociates into
+fragments. This gives an opportunity to other tails to
+
+‘Stick to oil. The solution now contains small globules
+of oil surrounded by detergent molecules. The
+negatively charged heads present in water prevent the
+
+small globules from coming together and form
+aggregates. Thus, the oily dirt is removed from the
+object.
+
+Fig. 3.17 Cleaning action of soap
+
+3.13.3. Removal of hardness
+
+Removal of temporary hardness :
+
+(1) By boiling, carbon dioxide is driven off and
+the soluble hydrogen carbonates are converted into
+insoluble carbonates and could be removed by
+filtration or decantation.
+
+Ca(HCO,), > CaCO,1 + H,0 + CO,T
+
+Calcium carbonate and magnesium carbonate are
+precipitated leaving the water soft.
+
+This is, however, not very practical when large
+quantities of water are concerned.
+
+(2) By addition of lime (Clark’s Process).
+
+A more practical method is to add a calculated
+quantity of slaked lime. The following reaction takes
+place.
+
+Ca(HCO,), + Ca(OH), — 2CaCO,1 + 2H,0
+Mg(HCO,), + Ca(OH), > MgCO,1 + CaCO,J + 2H,O
+
+Lime is first thoroughly mixed with water in a
+tank and then fed into another tank containing the hard
+water. Revolving paddles thoroughly mix the two
+solutions. Most of the calcium carbonate settles down.
+If there is any solid left over it is removed by a filter.
+The process goes by the name of Clarke’s process.
+
+(3) By the addition of washing soda.
+
+When washing soda or soda ash is added to hard
+water, the corresponding insoluble carbonates settle
+down and can be removed by filtration.
+
+Ca(HCO,), + Na,CO, CaCO,J + 2NaHCO,
+Mg(HCO,), + Na,CO, > MgCO,\ + 2NaHCO,
+
+
+--- Page 18 ---
+Removal of permanent hardness
+
+To remove permanent hardness of water, it is
+treated with a calculated quantity of soda ash, when
+the following reaction takes place
+
+By heating By chemicals
+
+Permanently
+
+becomes
+hard water With toft water
+
+AS
+
+With sulphate or chloride mineral
+
+Temporary When
+hard water, boiled becomes
+
+ay aa
+wey
+
+With bicarbonate minerat
+Fig. 3.18 Softening of hard water
+
+CaSO, + Na,CO, — CaCO,J + Na,SO,
+(soda-ash) not harmful to boilers or
+(clothing)
+
+CaCl, + Na,CO, > CaCO, + 2NaCl
+
+If, however, some magnesium sulphate is also
+present in the water, lime has also to be used besides
+soda ash, as magesium carbonate is not fully
+precipitated. In that case the reaction will be
+
+MgSO, + Na,CO, + Ca(OH),
+— Mg(OH),J + CaCO,J + Na,SO,
+Magnesium hydroxide is less soluble than
+magnesium carbonate.
+
+Note : The above methods are suitable, for
+domestic purposes only when small amounts of water
+have to be treated.
+
+If hardness is both temporary and permanent.
+In such a case, particularly when large amounts of
+water are concerned, the permutit process is used.
+
+Permutit is an artificial zeolite. Chemically, it is
+hydrated sodium aluminium orthosilicate, having the
+
+formula Na,Al,Si,0,-XH,O. For the sake of
+convenience let us give it the formula Na,P.
+
+INLET FOR
+HARD WATER |
+
+HARD WATER
+
+PERMUTIT
+
+OUTLET FOR
+SOFT WATER
+
+Fig. 3.19 Softening of hard water by permit it
+
+A tall cylinder is loosely filled with lumps of
+permutit. When hard water containing calcium and
+magnesium ions percolates through these lumps,
+exchange of ions takes place. The sodium permutit is
+slowly changed into calcium and magnesium permutit,
+and with the removal of calcium and magnesium ions,
+the water becomes soft.
+
+When no longer active, the permutit is regenerated
+by running a concentrated solution of brine over it
+and removing the calcium chloride formed by repeated
+washing.
+
+CaP + 2NaCl > Na,P + Cal,
+
+Softening hard water, using ion exchange resins
+
+For laundries and boilers, water softened by the
+permutit process is quite satisfactory.
+
+For scientific purposes even the presence of +ve
+sodium ion and —ve bicarbonate and sulphate ions is not
+desirable. To remove these ions, the water is passed
+through synthetically prepared cation (+ve ion) and anion
+(—ve ion) exchange resins one by one. The sodium ions
+are replaced by H+ ions and HCO,” and SO,” ions by
+OH ions and the water gets completely deionised.
+
+EXCERCISE 3(C)
+
+1. What do you understand by
+
+(a) Soft water (b) Hard water
+
+(c) Temporary Hard water (d) Permanent hard water.
+. What are the causes for
+
+(a) Temporary hardness (b) Permanent hardness
+
+tw
+
+3. What are the advantages of (i) soft water (ii) hard water ?
+4. What are stalgmites and stalactites. How are they formed ?
+
+5. Name the substances which make water (i) temporary hard
+(ii) permanet hard.
+
+6. Give equations to show what happens when temporary hard
+water is
+
+(a) boiled (b) treated with slaked lime.
+7. State the disadvantages of using hard water.
+8. What is a soap, what for is it used ?
+9. What is the advantage of a detergent over soap ?
+
+10. Why does the hardness of water render it unfit for use in a
+(i) boiler (ii) for washing purposes.
+
+11. Explain with equation, what is noticed when permanent hard
+water is treated with
+(a) slaked lime (b) washing soda
+
+12. Explain the permutit method for softening hard water.
+
+ner
