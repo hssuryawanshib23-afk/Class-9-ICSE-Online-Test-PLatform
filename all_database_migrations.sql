@@ -21,6 +21,9 @@ ALTER TABLE users ADD COLUMN IF NOT EXISTS board_name VARCHAR(100);
 -- Add subject column (default to Physics for existing data)
 ALTER TABLE chapters ADD COLUMN IF NOT EXISTS subject VARCHAR(50) DEFAULT 'Physics';
 
+-- Add chapter_name column
+ALTER TABLE chapters ADD COLUMN IF NOT EXISTS chapter_name VARCHAR(255);
+
 -- Update existing Physics chapters to have subject explicitly set
 UPDATE chapters SET subject = 'Physics' WHERE subject IS NULL OR subject = '';
 

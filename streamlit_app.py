@@ -1297,6 +1297,12 @@ def custom_test_setup():
     # Get concepts grouped by chapter for selected subject
     concepts_by_chapter = get_concepts_by_chapter(subject)
     
+    # DEBUG: Show what was fetched
+    if not concepts_by_chapter:
+        st.error(f"⚠️ No concepts found for {subject}. Database connection issue!")
+    else:
+        st.info(f"✓ Found {len(concepts_by_chapter)} chapters for {subject}")
+    
     # Create expandable sections for each chapter
     st.markdown("### 📚 Select Concepts to Include")
     selected_concept_ids = []
