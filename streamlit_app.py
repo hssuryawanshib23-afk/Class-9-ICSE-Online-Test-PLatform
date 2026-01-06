@@ -1269,6 +1269,10 @@ def show_history_test_details(attempt_id, test_type):
 def setup_page():
     st.title("Student Dashboard")
     
+    # Check if student needs to complete their profile
+    if check_and_prompt_profile_completion():
+        return  # Stop here until profile is completed
+    
     # Add tabs for custom test, admin tests, and history
     tab1, tab2, tab3 = st.tabs(["🎯 Create Custom Test", "📋 Take Admin Test", "📊 My Test History"])
     
@@ -1280,6 +1284,77 @@ def setup_page():
     
     with tab3:
         show_student_history()
+
+
+def check_and_prompt_profile_completion():
+    """Check if student has completed their profile. Returns True if profile incomplete."""
+    user_id = st.session_state.user['id']
+    
+    conn = get_connection()
+    cur = conn.cursor()
+    placeholder = get_placeholder()
+    
+    # Check if school_name, class_name, board_name are filled
+    cur.execute(f"""
+        SELECT school_name, class_name, board_name
+        FROM users
+        WHERE id = {placeholder}
+    """, (user_id,))
+    
+    row = cur.fetchone()
+    conn.close()
+    
+    # Check if any field is NULL or empty
+    if not row or not all(row):
+        st.warning("⚠️ **Please complete your profile before accessing the test platform**")
+        
+        with st.form("complete_profile_form"):
+            st.markdown("### 🎓 Complete Your Profile")
+            
+            school = st.text_input(
+                "School Name *",
+                value=row[0] if row and row[0] else "",
+                placeholder="e.g., Delhi Public School"
+            )
+            
+            class_name = st.text_input(
+                "Class *",
+                value=row[1] if row and row[1] else "",
+                placeholder="e.g., 9"
+            )
+            
+            board = st.selectbox(
+                "Board *",
+                ["", "ICSE", "CBSE", "State Board", "Other"],
+                index=0 if not row or not row[2] else ["", "ICSE", "CBSE", "State Board", "Other"].index(row[2]) if row[2] in ["ICSE", "CBSE", "State Board", "Other"] else 0
+            )
+            
+            submitted = st.form_submit_button("✅ Save & Continue", type="primary")
+            
+            if submitted:
+                if not school or not class_name or not board:
+                    st.error("❌ Please fill in all fields")
+                else:
+                    # Update profile
+                    conn = get_connection()
+                    cur = conn.cursor()
+                    
+                    cur.execute(f"""
+                        UPDATE users
+                        SET school_name = {placeholder}, class_name = {placeholder}, board_name = {placeholder}
+                        WHERE id = {placeholder}
+                    """, (school, class_name, board, user_id))
+                    
+                    conn.commit()
+                    conn.close()
+                    
+                    st.success("✅ Profile completed successfully!")
+                    time.sleep(1)
+                    st.rerun()
+        
+        return True  # Profile incomplete
+    
+    return False  # Profile is complete
 
 
 def custom_test_setup():

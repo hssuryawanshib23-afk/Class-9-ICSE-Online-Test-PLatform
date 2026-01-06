@@ -3,6 +3,10 @@ Database connection manager - works with both SQLite (local) and PostgreSQL (pro
 """
 import os
 import sqlite3
+from dotenv import load_dotenv
+
+# Load .env file
+load_dotenv()
 
 # Check if running on Streamlit Cloud (has secrets) or locally
 USE_POSTGRES = os.getenv("USE_POSTGRES", "false").lower() == "true"
@@ -10,16 +14,32 @@ USE_POSTGRES = os.getenv("USE_POSTGRES", "false").lower() == "true"
 def get_connection():
     """Get database connection - PostgreSQL in production, SQLite locally"""
     if USE_POSTGRES:
-        # PostgreSQL for production (Streamlit Cloud)
+        # PostgreSQL for production
         import psycopg2
-        import streamlit as st
+        
+        # Try to get from environment variables first (for scripts)
+        host = os.getenv("POSTGRES_HOST")
+        database = os.getenv("POSTGRES_DATABASE")
+        user = os.getenv("POSTGRES_USER")
+        password = os.getenv("POSTGRES_PASSWORD")
+        port = os.getenv("POSTGRES_PORT", "5432")
+        
+        # If env vars not found, try Streamlit secrets
+        if not host:
+            import streamlit as st
+            host = st.secrets["postgres"]["host"]
+            database = st.secrets["postgres"]["database"]
+            user = st.secrets["postgres"]["user"]
+            password = st.secrets["postgres"]["password"]
+            port = st.secrets["postgres"]["port"]
         
         conn = psycopg2.connect(
-            host=st.secrets["postgres"]["host"],
-            database=st.secrets["postgres"]["database"],
-            user=st.secrets["postgres"]["user"],
-            password=st.secrets["postgres"]["password"],
-            port=st.secrets["postgres"]["port"]
+            host=host,
+            database=database,
+            user=user,
+            password=password,
+            port=port,
+            sslmode='require'
         )
         return conn
     else:
