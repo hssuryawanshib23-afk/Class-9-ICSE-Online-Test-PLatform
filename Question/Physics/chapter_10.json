@@ -1,0 +1,3177 @@
+{
+  "chapter": {
+    "subject": "Physics",
+    "chapter_number": 10,
+    "chapter_name": "Magnetism"
+  },
+  "concepts": [
+    {
+      "concept_name": "Lodestone and Natural Magnets",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH10_C1_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a lodestone?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A type of artificial magnet made from steel.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A naturally occurring ore of iron oxide (Fe3O4) which attracts iron and aligns north-south.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A piece of copper that becomes magnetic when current passes through it.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A type of magnet used in electric bells.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Definition and origin of lodestone.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH10_C1_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "From which region is the term 'magnet' derived?",
+          "options": [
+            {
+              "label": "A",
+              "text": "India",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "China",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Magnesia in Asia Minor",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Egypt",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Origin of the word 'magnet'.",
+          "exam_relevance": "low"
+        },
+        {
+          "question_id": "CH10_C1_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Why are natural magnets not widely used?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They are too heavy.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "They are found in irregular shapes and are not magnetically strong enough.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "They are electrically conductive, which is dangerous.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They lose their magnetism in the presence of heat.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Limitations of natural magnets.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH10_C1_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Which ancient civilization is mentioned as using lodestone for navigation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Romans",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Greeks",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Chinese",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Babylonians",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Historical application of natural magnets.",
+          "exam_relevance": "low"
+        },
+        {
+          "question_id": "CH10_C1_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Which of the following is a key difference between a natural magnet and a typical artificial magnet?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Only artificial magnets can have a north and south pole.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Natural magnets are made from iron oxide, while artificial magnets are made from pure iron.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Natural magnets are found in irregular shapes and are weak, while artificial magnets are made in convenient shapes with controlled strength.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Natural magnets are permanent, while artificial magnets are always temporary.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Comparison between natural and artificial magnets.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH10_C1_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "conceptual",
+          "question_text": "Why were artificial magnets developed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because natural magnets were too expensive.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because natural magnets are electrically charged and unsafe.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "To overcome the limitations of natural magnets (irregular shape and weak strength) for practical use.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Because natural magnets cannot be used in compasses.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Reason for the development of artificial magnets.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Properties of Magnetic Poles (Attraction/Repulsion)",
+      "concept_type": "law",
+      "questions": [
+        {
+          "question_id": "CH10_C2_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the law of magnetic poles?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Like poles attract, unlike poles repel.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Like poles repel, unlike poles attract.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "North poles attract all other poles.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Magnetic force depends only on distance, not polarity.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Fundamental law of attraction and repulsion between magnetic poles.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C2_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "When a freely suspended magnet comes to rest, its north pole points towards the geographic ___.",
+          "options": [
+            {
+              "label": "A",
+              "text": "East",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "West",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "North",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "South",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Behavior of a freely suspended magnet.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C2_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "If the north pole of magnet A attracts the south pole of magnet B, what will happen when the north pole of A is brought near the north pole of B?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They will attract each other.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "They will repel each other.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "They will have no effect on each other.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They will first attract, then repel.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Application of the law of poles; trap in confusing attraction with repulsion.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C2_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Two identical bars look alike. When the ends labeled 'X' of both bars are brought close, they repel. What can be concluded?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Both bars are unmagnetized.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The 'X' ends are like poles.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The 'X' ends are unlike poles.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "One bar is made of iron, the other of steel.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Using repulsion to identify magnetic poles.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C2_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the force between two magnetic poles differ from the force between two electric charges?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Magnetic poles always attract; electric charges can attract or repel.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Both follow the same rule: like repel, unlike attract.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Magnetic poles can be isolated like electric charges.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Electric force depends on material, magnetic force does not.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Comparison of fundamental force laws (analogy).",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH10_C2_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is repulsion considered a sure test for magnetism?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because only magnets can produce a force strong enough to repel.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because attraction can occur between a magnet and an unmagnetized magnetic material, but repulsion occurs only between two like poles of magnets.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because unmagnetized materials always repel each other.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because the Earth's magnetic field causes repulsion between magnets.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Reasoning behind the repulsion test for a magnet.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Induced Magnetism and Magnetic Induction",
+      "concept_type": "principle",
+      "questions": [
+        {
+          "question_id": "CH10_C3_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is induced magnetism?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Permanent magnetism acquired by heating a magnetic material.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Temporary magnetism acquired by a magnetic material when kept near a magnet.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Magnetism produced by passing electric current through a coil.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The natural magnetism of lodestone.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Definition of induced magnetism.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C3_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "The process by which a magnetic material temporarily acquires magnetism in the presence of a magnet is called ___.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Magnetic attraction",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Magnetic induction",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Polarization",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Electromagnetism",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Terminology for the process of inducing magnetism.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C3_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A north pole of a magnet is brought near end A of an unmagnetized iron bar. What polarity is induced at end A?",
+          "options": [
+            {
+              "label": "A",
+              "text": "North",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "South",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "No polarity is induced.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It depends on the material of the bar.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Rule of induction: opposite polarity on the near end. Trap is choosing the same pole.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C3_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Why do iron filings cling to a magnet?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Due to gravitational force.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Each filing becomes a temporary magnet by induction and is then attracted.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Due to static electricity generated by the magnet.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because they are naturally magnetic.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Application of magnetic induction to explain attraction of iron filings.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C3_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does induced magnetism in soft iron differ from that in steel when the inducing magnet is removed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Both lose magnetism instantly.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Soft iron loses magnetism quickly; steel retains it longer.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Steel loses magnetism quickly; soft iron retains it.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Neither gets magnetized by induction.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Comparison of magnetic retention (retentivity) post-induction.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH10_C3_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does the statement 'induction precedes attraction' hold true?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because a magnetic field must first be created before any force can act.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because the unmagnetized piece first becomes a magnet (with opposite pole induced near the magnet) and then attraction occurs between unlike poles.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because attraction is a slower process than induction.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because the Earth's magnetic field induces first, then the magnet attracts.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Reasoning behind the sequence: induction then attraction.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Magnetic Field Definition and Properties",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH10_C4_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a magnetic field?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The force between two magnets.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The space around a magnet where its influence can be detected by a magnetic needle.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The lines drawn on paper around a magnet.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The region inside a magnet.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Definition of magnetic field.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C4_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "How is the direction of the magnetic field at a point defined?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Direction of force on a stationary charge.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Direction in which the north pole of a compass needle points when placed at that point.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Direction from south to north pole inside the magnet.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Direction of gravitational force.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Definition of magnetic field direction.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C4_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Magnetic field is a ___ quantity.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Scalar",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Vector",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Tensor",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Dimensionless",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Nature of magnetic field (vector). Trap is confusing it with scalar.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH10_C4_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "If a compass needle does not deflect from geographic north-south at a point, what does it indicate about the magnetic field at that point?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The magnetic field is very strong.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The magnetic field is zero or aligned with Earth's field.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The compass is broken.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The point is exactly at the magnetic pole.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Interpreting compass behavior to infer magnetic field.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C4_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the magnetic field strength typically vary with distance from a bar magnet?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It increases with distance.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It decreases with distance.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It remains constant.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It first increases, then decreases.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Relationship between field strength and distance.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH10_C4_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is a magnetic field considered a vector field?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because it has both magnitude and a specified direction at every point.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because it can be seen as lines.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because it affects only magnetic materials.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because its strength is measured in tesla.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Reasoning for the vector nature of magnetic field.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Magnetic Field Lines and their Properties",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH10_C5_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What are magnetic field lines?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Straight lines connecting north and south poles.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Curved lines along which an iron filing aligns itself or a compass needle points.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Lines of force that exist only inside a magnet.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Grid lines used to map geographic locations.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Definition of magnetic field lines.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C5_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Outside a magnet, the direction of magnetic field lines is from ___ pole to ___ pole.",
+          "options": [
+            {
+              "label": "A",
+              "text": "south, north",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "north, south",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "east, west",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "west, east",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Standard direction of magnetic field lines outside a magnet.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C5_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Which of the following is NOT a property of magnetic field lines?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They are closed continuous curves.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "They can intersect each other.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The tangent at a point gives the field direction.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They are crowded where the field is strong.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Properties of field lines. Trap is identifying the false statement.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C5_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "What does a pattern of parallel, equidistant magnetic field lines represent?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The field of a bar magnet.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A non-uniform magnetic field.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "A uniform magnetic field.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "A neutral point.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Interpreting field line patterns to identify uniform field.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C5_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How do magnetic field lines behave near the poles compared to near the middle of a bar magnet?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They are more crowded near the poles, indicating stronger field.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "They are more crowded near the middle, indicating stronger field.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "They are equally spaced everywhere.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They disappear near the poles.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Comparison of field line density and field strength.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C5_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why can two magnetic field lines never intersect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because they would cancel each other out.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because at the point of intersection, a compass needle would point in two different directions, which is impossible.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because magnetic fields are always parallel.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because they are lines of different magnets.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Reasoning behind the non-intersection property of field lines.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Earth's Magnetic Field - Evidence and Nature",
+      "concept_type": "principle",
+      "questions": [
+        {
+          "question_id": "CH10_C6_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the primary evidence that Earth has a magnetic field?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Volcanic eruptions.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A freely suspended magnetic needle rests in geographic north-south direction.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The presence of iron in Earth's core.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Solar flares.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Key evidence for Earth's magnetic field.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C6_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Earth's magnetic south pole is located near the geographic ___.",
+          "options": [
+            {
+              "label": "A",
+              "text": "South pole",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "North pole",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Equator",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Prime Meridian",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Location of Earth's magnetic poles relative to geographic poles.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH10_C6_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "An iron rod buried along the north-south direction becomes a weak magnet. This happens due to:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Lightning strikes.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Induction by the Earth's magnetic field.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Heating from the Earth's interior.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Chemical reaction with soil.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Evidence of Earth's magnetism through induction. Trap is choosing a non-magnetic cause.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C6_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Where on Earth would a magnetic needle become vertical?",
+          "options": [
+            {
+              "label": "A",
+              "text": "At the magnetic equator.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "At the geographic equator.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "At the magnetic poles.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "At any place with high altitude.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Application of Earth's field direction at different locations.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C6_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the direction of Earth's magnetic field lines compare to that of a bar magnet placed along the north-south direction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Earth's field lines go from geographic south to north (like from S to N outside a magnet).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Earth's field lines go from geographic north to south.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "They are identical to the field lines of a bar magnet with N pointing geographic north.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Earth has no defined field line direction.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Comparison of Earth's field direction with a standard bar magnet.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C6_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does a freely suspended magnet point north-south?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Due to gravitational pull of the poles.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because Earth's magnetic south pole (near geographic north) attracts the magnet's north pole.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because of the rotation of the Earth.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because the magnet aligns with the Sun's position.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Reasoning for the north-south alignment of a compass.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Uniform Magnetic Field of Earth and Plotting",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH10_C7_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In a limited space, Earth's magnetic field lines are ___.",
+          "options": [
+            {
+              "label": "A",
+              "text": "curved and converging",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "parallel and equidistant",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "intersecting",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "circular",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Nature of Earth's magnetic field in a limited space (uniform).",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH10_C7_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What instrument is used to plot the magnetic field lines of Earth?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Barometer",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Thermometer",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Compass needle",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Voltmeter",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Tool for plotting Earth's magnetic field lines.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH10_C7_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "When plotting Earth's uniform magnetic field lines, the direction indicated by the arrow on the field line is from:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Geographic north to geographic south.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Geographic south to geographic north.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Magnetic north to magnetic south.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "East to west.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Direction of Earth's magnetic field lines. Trap is confusing geographic with magnetic poles.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C7_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In the experiment to plot Earth's magnetic field, why are dots marked at both ends of the compass needle?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To determine the needle's length.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To get a straight line connecting the dots, representing the field line direction.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "To calculate the magnetic field strength.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To check if the needle is magnetized.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Methodology of plotting field lines with a compass.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH10_C7_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the pattern of Earth's magnetic field lines in a limited space differ from the pattern around a bar magnet?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Earth's lines are parallel and equidistant; bar magnet's lines are curved and non-uniform.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Earth's lines are circular; bar magnet's lines are straight.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Earth's lines intersect; bar magnet's lines do not.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no difference; both patterns are identical.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Comparison between uniform (Earth) and non-uniform (bar magnet) field patterns.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C7_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is Earth's magnetic field considered uniform in a limited space?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because the Earth is perfectly spherical.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because at a small scale, the field lines appear parallel and equidistant due to the large distance from Earth's magnetic poles.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because the field strength is zero everywhere.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because the compass needle always points north.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Reasoning for the uniformity of Earth's magnetic field locally.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Non-uniform Magnetic Field of a Bar Magnet",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH10_C8_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What characterizes a non-uniform magnetic field?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Parallel and equidistant field lines.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Field lines that are curved and not equally spaced.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Field lines that intersect each other.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Field lines that are only straight.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Definition of a non-uniform magnetic field.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C8_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "The magnetic field lines around a bar magnet are ___.",
+          "options": [
+            {
+              "label": "A",
+              "text": "uniform",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "non-uniform",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "absent",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "always circular",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Nature of magnetic field around a bar magnet.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C8_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Where is the magnetic field strongest around a bar magnet?",
+          "options": [
+            {
+              "label": "A",
+              "text": "At the exact center.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Midway between the poles.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Near the poles.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "At a large distance from the magnet.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Location of maximum field strength. Trap is choosing the center.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C8_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "What does the crowding of magnetic field lines indicate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Weaker magnetic field.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Stronger magnetic field.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Uniform magnetic field.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Zero magnetic field.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Interpreting field line density.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C8_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the magnetic field pattern for two unlike poles facing each other differ from that of two like poles facing each other?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Unlike poles: field lines connect the poles; Like poles: field lines avoid the region between poles.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Unlike poles: field lines are parallel; Like poles: field lines are circular.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "There is no difference.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Unlike poles: field lines are straight; Like poles: field lines are curved.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Comparison of field patterns for different pole configurations.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C8_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why are magnetic field lines closer near the poles of a bar magnet?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because the magnetic force is weaker there.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because the magnetic field is stronger near the poles, and field line density represents field strength.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because the lines start and end at the poles.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because of the shape of the magnet.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Reasoning for field line density variation.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Neutral Points - Definition and Significance",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH10_C9_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a neutral point in magnetism?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A point where the magnetic field is maximum.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A point where the resultant magnetic field is zero.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The center of a magnet.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A point on the magnetic equator.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Definition of a neutral point.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C9_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "At a neutral point, a compass needle ___.",
+          "options": [
+            {
+              "label": "A",
+              "text": "points strongly north",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "points strongly south",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "is unaffected and can rest in any direction",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "vibrates rapidly",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Behavior of a compass at a neutral point.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C9_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Neutral points occur where:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Only the Earth's magnetic field is present.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The magnetic field of a magnet and Earth's horizontal field cancel each other.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Two magnets have equal and same direction fields.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The magnetic field is too weak to detect.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Condition for neutral point formation. Trap is choosing a scenario without cancellation.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C9_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "When a bar magnet is placed with its north pole facing geographic north, where are the neutral points located?",
+          "options": [
+            {
+              "label": "A",
+              "text": "North and south of the magnet.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "East and west of the magnet.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Above and below the magnet.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "At the poles of the magnet.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Location of neutral points for a specific magnet orientation.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C9_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How do the positions of neutral points differ when a magnet's north pole faces geographic north versus when its south pole faces geographic north?",
+          "options": [
+            {
+              "label": "A",
+              "text": "N facing N: east-west; S facing N: north-south.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "N facing N: north-south; S facing N: east-west.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both orientations give neutral points in the same position.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Neutral points exist only when N faces N.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Comparison of neutral point positions based on magnet orientation.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C9_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the resultant magnetic field zero at a neutral point?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because there are no magnetic materials nearby.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because the magnetic field due to the magnet and the horizontal component of Earth's field are equal and opposite.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because gravity cancels the magnetic force.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because the point is too far from all magnets.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Reasoning for zero net field at neutral point.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Plotting Field Lines with Neutral Points (Magnet in Meridian)",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH10_C10_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is meant by placing a magnet in the 'magnetic meridian'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Placing it along the geographic east-west direction.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Placing it along the direction in which a freely suspended magnet rests (north-south).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Placing it vertically.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Placing it at the magnetic equator.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Definition of magnetic meridian in context of experiments.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH10_C10_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In the plotted field pattern of a bar magnet (N facing geographic N), field lines are curved near the magnet and straight at a distance because:",
+          "options": [
+            {
+              "label": "A",
+              "text": "The paper is too small.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Near the magnet, its field dominates; far away, Earth's uniform field dominates.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The compass needle is unreliable near the magnet.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The field lines always start straight and then curve.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Interpretation of combined field line pattern.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C10_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "When plotting the field of a bar magnet with its north pole facing geographic north, the neutral points lie on a line that is ___ to the magnetic axis.",
+          "options": [
+            {
+              "label": "A",
+              "text": "parallel",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "perpendicular",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "at 45 degrees",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "coincident",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Geometric relation of neutral points to magnet axis. Trap is choosing parallel.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C10_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In the experiment, if you start plotting a field line from a point very close to the north pole of the magnet, where will the line end?",
+          "options": [
+            {
+              "label": "A",
+              "text": "At the south pole of the same magnet.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "At the geographic north pole.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It will go off to infinity in a straight line.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "At the neutral point.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Path of a field line starting near a pole.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH10_C10_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the field line pattern when a magnet's N faces N vs. when its S faces N. What is a key visual difference regarding neutral points?",
+          "options": [
+            {
+              "label": "A",
+              "text": "N faces N: neutral points are inside the magnet; S faces N: neutral points are outside.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "N faces N: neutral points are on the equatorial line (E-W); S faces N: neutral points are on the axial line (N-S).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Both patterns have neutral points at the same locations.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Only one orientation produces neutral points.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Comparison of field plots showing different neutral point alignments.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C10_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does the plotted field line pattern for a magnet in the meridian show a combination of curved and straight lines?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It's an error in the plotting technique.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It represents the vector superposition of the non-uniform field of the magnet and the uniform field of the Earth.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The paper is not large enough to show all curved lines.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The compass needle is only sensitive near the magnet.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Reasoning behind the combined field line pattern.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Electromagnet - Basic Construction and Principle",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH10_C11_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is an electromagnet?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A permanent magnet made from steel.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A temporary magnet formed when electric current flows through a coil wound on a soft iron core.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A magnet found in nature.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A magnet that works only with alternating current.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Definition of an electromagnet.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C11_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which material is used for the core of an electromagnet?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Steel",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Copper",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Soft iron",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Aluminium",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Core material for electromagnets.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C11_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "An electromagnet loses its magnetism when the current is switched off because:",
+          "options": [
+            {
+              "label": "A",
+              "text": "The coil gets heated.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Soft iron has low retentivity.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The magnetic field is stored in the battery.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The coil's insulation breaks down.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Reason for temporary magnetism. Trap is choosing an unrelated cause.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C11_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "To determine the polarity of an I-shaped electromagnet, one can use:",
+          "options": [
+            {
+              "label": "A",
+              "text": "The right-hand grip rule.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "The left-hand rule.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The law of gravitation.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "By measuring its weight.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Determining polarity of an electromagnet.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH10_C11_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the magnetism of an I-shaped electromagnet differ from that of a U-shaped (horse-shoe) electromagnet with the same core material and current?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The U-shaped magnet produces a stronger field in the gap between its poles.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "The I-shaped magnet is always permanent.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The U-shaped magnet works only with AC.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no difference in magnetic field strength.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Comparison of field strength based on electromagnet shape.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH10_C11_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is soft iron preferred over steel for the core of an electromagnet?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because soft iron is cheaper.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because soft iron has high retentivity, making the magnet permanent.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because soft iron has high permeability and low retentivity, allowing quick magnetization and demagnetization.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Because steel cannot be wound with a coil.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Reasoning for choice of core material based on magnetic properties.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Factors Affecting Strength of an Electromagnet",
+      "concept_type": "principle",
+      "questions": [
+        {
+          "question_id": "CH10_C12_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "The strength of an electromagnet can be increased by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Using a steel core.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Increasing the number of turns in the coil.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Using thicker insulation on the wire.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Decreasing the current.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "One factor affecting electromagnet strength.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C12_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following will NOT increase the strength of an electromagnet?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Increasing the current.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Increasing the number of turns.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Using a core with lower permeability.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Using a U-shaped core instead of an I-shaped one.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Identifying a factor that does not increase strength.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH10_C12_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "If you double the current in an electromagnet's coil, its magnetic field strength typically:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Halves.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Remains the same.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Doubles.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Becomes zero.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Direct proportionality between current and field strength (within limits). Trap is inverse relationship.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C12_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "An electromagnet needs to lift heavier scrap iron. What practical change can be made?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Use a longer connecting wire.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Increase the voltage of the power supply to increase current.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Paint the core a different color.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Use a smaller battery.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Practical application of increasing electromagnet strength.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C12_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does increasing the number of turns differ from increasing the current in terms of their effect on the electromagnet's heat production?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Both increase heat production equally.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Increasing turns increases resistance and may increase heat for the same voltage; increasing current directly increases heat (I²R).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Increasing turns decreases heat; increasing current increases heat.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Neither affects heat production.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Comparison of side effects when strengthening an electromagnet.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH10_C12_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does increasing the number of turns in the coil strengthen the electromagnet?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It increases the resistance, reducing heat loss.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It makes the coil more compact.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It increases the total magnetic effect (ampere-turns) for a given current.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "It decreases the need for a core.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Reasoning behind the 'number of turns' factor.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Permanent Magnet vs Electromagnet",
+      "concept_type": "comparison",
+      "questions": [
+        {
+          "question_id": "CH10_C13_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a permanent magnet?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A magnet that lasts for only a few minutes.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A magnet that retains its magnetism for a long time after being magnetized.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A magnet that works only when electricity is supplied.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A magnet made from soft iron.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Definition of a permanent magnet.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C13_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which material is typically used to make a permanent magnet?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Soft iron",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Steel",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Copper",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Aluminium",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Material for permanent magnets.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C13_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A major difference between an electromagnet and a permanent magnet is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Only permanent magnets have poles.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The strength of an electromagnet can be easily varied, while that of a permanent magnet cannot.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Permanent magnets are always weaker.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Electromagnets are made of steel.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Key difference. Trap is choosing a false or minor difference.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C13_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Where would you most likely use a permanent magnet rather than an electromagnet?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In a scrap yard crane to lift iron.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "In the core of a transformer.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "In a magnetic compass.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "In an electric bell.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Application suited for permanent magnet's constant field.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C13_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Which property of the core material primarily dictates whether the resulting magnet is temporary (electromagnet) or permanent?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Color",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Density",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Retentivity (or coercivity)",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Electrical conductivity",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Material property governing permanence of magnetism.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C13_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is steel not suitable for the core of a typical electromagnet?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It is not magnetic.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It has high retentivity, so it would not lose magnetism quickly when current stops, defeating the purpose of a switchable magnet.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It is too expensive.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It has low permeability, so it wouldn't get strongly magnetized.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Reasoning against using steel for electromagnet core.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Advantages and Uses of Electromagnets",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH10_C14_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which is a major advantage of an electromagnet over a permanent magnet?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It is always lighter.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Its strength can be easily controlled.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It does not require any power source.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It is always cheaper.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Key advantage of electromagnets.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C14_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Electromagnets are used in:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Magnetic compasses.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Permanent magnet speakers.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Electric bells and cranes.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Bar magnets for school experiments.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Common uses of electromagnets.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C14_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Why are electromagnets preferred in cranes for lifting iron scrap?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because they are naturally stronger than any permanent magnet.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because they can be switched on to lift and switched off to drop the load easily.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because they work without electricity.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because they are not affected by heat.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Advantage for material handling. Trap is choosing an incorrect or exaggerated reason.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C14_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In which device is the 'make and break' mechanism of an electromagnet's circuit essential for its function?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Electric heater",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Electric bell",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Electric lamp",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Magnetic compass",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Specific application using the intermittent operation of an electromagnet.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C14_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compared to a permanent magnet, what operational flexibility do electromagnets offer? (Choose the most comprehensive)",
+          "options": [
+            {
+              "label": "A",
+              "text": "Only strength can be changed.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Strength can be changed, polarity can be reversed, and they can be turned on/off.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Only polarity can be reversed.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They can change shape.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Combined advantages/flexibilities of electromagnets.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C14_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the ability to reverse polarity an advantage of an electromagnet?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It allows the magnet to attract both north and south poles.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It is useful in devices like DC motors where the direction of force needs to be reversed.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It makes the magnet stronger.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It prevents the core from heating up.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Reasoning behind the advantage of polarity reversal.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Electric Bell - Working Principle",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH10_C15_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the main function of the electromagnet in an electric bell?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To power the entire circuit.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To attract the soft iron armature when current flows.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "To produce sound directly.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To hold the bell in place.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Role of electromagnet in electric bell.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C15_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In an electric bell, what breaks the circuit when the armature is attracted?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The gong",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The hammer",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The contact screw (adjusting screw)",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "The battery",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Component responsible for the 'break' in make-and-break.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C15_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "What happens immediately after the circuit of an electric bell is broken?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The electromagnet becomes stronger.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The armature springs back, remaking the contact.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The bell stops ringing permanently.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The battery discharges instantly.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Sequence after break. Trap is thinking the process stops.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C15_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Why is soft iron used for the armature of an electric bell?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It is a good conductor of electricity.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It can be easily magnetized and demagnetized rapidly.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It is the cheapest metal.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It produces sound when hit.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Suitability of soft iron for the armature.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C15_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How would the bell's operation be affected if a permanent magnet were used instead of an electromagnet?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It would ring continuously without stopping.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The armature would be permanently attracted, and the make-and-break action would not occur.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It would ring louder.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It would not work at all because no circuit would be formed.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Criticality of the electromagnet's temporary magnetism for the bell's working.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C15_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does an electric bell work with both DC and AC supply?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because the bell has a built-in rectifier.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because the attraction of the armature depends only on the presence of a magnetic field, not its steady polarity.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because AC generates more heat, making it work better.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because the gong vibrates at AC frequency.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Reasoning for compatibility with AC.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Testing and Identifying Magnetic Materials and Poles",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH10_C16_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Without any other magnet, how can you identify which of two identical bars is magnetized?",
+          "options": [
+            {
+              "label": "A",
+              "text": "By weighing them.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "By suspending each freely; the one that rests in N-S direction is magnetized.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "By touching them to paper.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "By heating them.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Test to identify a magnet.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C16_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "To test if a rod is made of iron or copper, you can:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Measure its length.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Bring a magnet near it; iron will be attracted, copper will not.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Bring a magnet near it; iron will get magnetized by induction and attract filings, copper will not.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Check its color.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Test to distinguish magnetic from non-magnetic material.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C16_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Why is repulsion, not attraction, a sure test for magnetism?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because attraction is weaker.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because an unmagnetized magnetic material can be attracted, but only a magnet can repel.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because repulsion is easier to observe.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because all materials repel magnets.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The 'sure test' principle. Trap is misstating the reason.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C16_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Given a magnetized bar and a compass, how do you find the north pole of the bar?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Bring the bar near the compass's north pole; the end that repels is the north pole of the bar.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Bring the bar near the compass's south pole; the end that attracts is the north pole.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Heat the bar; the end that gets hot is the north pole.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Dip it in water; the end that floats points north.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Practical method to identify pole using a compass.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH10_C16_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the behavior of a soft iron bar and a magnet when suspended freely.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Both will align north-south.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The magnet aligns north-south; the soft iron bar may come to rest in any direction.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The soft iron bar aligns north-south; the magnet aligns east-west.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both will come to rest in any direction.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Comparison of behavior when suspended.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH10_C16_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "A bar is brought near the north pole of a known magnet. If it is repelled, why can you conclusively say the bar is a magnet with its north pole facing the known magnet?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because only a north pole can cause repulsion.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because repulsion occurs only between like poles, so the end facing the known magnet's north must also be a north pole.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because unmagnetized iron always repels north poles.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because the Earth's field causes the repulsion.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Reasoning based on the law of poles and the sure test.",
+          "exam_relevance": "high"
+        }
+      ]
+    }
+  ]
+}

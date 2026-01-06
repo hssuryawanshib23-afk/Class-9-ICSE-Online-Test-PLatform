@@ -1,0 +1,999 @@
+{
+  "chapter": {
+    "subject": "Physics",
+    "chapter_number": 8,
+    "chapter_name": "Atmospheric Pollution"
+  },
+  "concepts": [
+    {
+      "concept_name": "Pollution and Pollutants",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH8_C1_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is environmental pollution?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The addition of nutrients to the environment that benefit life forms.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The effect of undesirable changes in our surroundings that have harmful effects on plants, animals and human beings.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The natural process of recycling elements like carbon and nitrogen.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The increase in temperature of the earth's atmosphere due to human activity.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Definition of environmental pollution.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C1_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "A substance that contaminates and degrades the earth's environment, having an adverse impact on life forms, is called a:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Catalyst",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Nutrient",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Pollutant",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Scavenger",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Definition of a pollutant.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C1_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Based on their origin, pollutants are classified into two types. What are they?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Organic and Inorganic",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Primary and Secondary",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Natural and Man-made",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Biodegradable and Non-biodegradable",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Classification of pollutants by origin.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH8_C1_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Which of the following is NOT a natural source of air pollutants?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Volcanic eruptions releasing sulphur dioxide.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Decaying vegetation releasing nitrous oxide.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Factories releasing carbon monoxide.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Forest fires releasing carbon monoxide.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Identifying man-made vs. natural sources of pollution.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH8_C1_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the role of pollutants added naturally differ from those added by human activities, regarding the environment's capacity to handle them?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Nature can accommodate pollutants from both sources at the same fast rate indefinitely.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Nature can accommodate natural pollutants but not man-made ones under any condition.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Nature can recycle or store pollutants in harmless form, but when added faster than this rate (often by human activity), it leads to environmental deterioration.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Man-made pollutants are always harmless, while natural pollutants are always toxic.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Comparison of environmental impact based on the rate of pollutant addition.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C1_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is 'air pollution' specifically defined as a degradation of air quality?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because air always has a fixed, pure composition that never changes.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because the concentration of harmful contaminants alters the composition of ordinary air, adversely affecting life.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because pollution only occurs when the oxygen level drops to zero.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because air pollution is only caused by gases and not by particulate matter.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Reasoning behind the definition of air pollution.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Gaseous Pollutants: Sources and Effects",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH8_C2_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is a gaseous air pollutant?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Dust",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Smoke",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Sulphur dioxide",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Sand",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Identifying a gaseous pollutant.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C2_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "The poisonous gas that prevents haemoglobin from carrying oxygen to body tissues is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Carbon dioxide",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Sulphur dioxide",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Carbon monoxide",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Nitrogen dioxide",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Identifying the pollutant that binds with haemoglobin.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C2_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Which pollutant is primarily responsible for causing lung cancer and is NOT generally a product of fuel combustion in vehicles?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Carbon monoxide",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Tobacco smoke",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Sulphur dioxide",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Nitrogen oxides",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Common trap: Associating all lung cancer with vehicular exhaust, ignoring tobacco.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH8_C2_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "A dark, thick fog laden with dust and soot, formed from a combination of nitrogen oxides, sulphur oxides, and partially oxidized hydrocarbons, is known as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Mist",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Smog",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Dew",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Fume",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Application: Identifying smog from its description.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C2_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the primary sources of Carbon Monoxide (CO) and Lead in the air. Which statement is accurate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Both CO and Lead primarily come from the decay of crop residues.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "CO comes from incomplete combustion of fuels, while Lead comes from motor vehicles using tetraethyl lead.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "CO is a natural pollutant from volcanoes, while Lead is purely industrial.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both are emitted in equal quantities from fertilizer industries.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Comparing the distinct sources of different gaseous/particulate pollutants.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH8_C2_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is carbon monoxide considered particularly dangerous even at low concentrations?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It is denser than air and settles in lungs.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It has a strong smell that causes immediate nausea.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It binds with haemoglobin over 200 times more strongly than oxygen, drastically reducing blood's oxygen-carrying capacity.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "It converts directly into solid carbon in the bloodstream.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Reasoning behind the high toxicity of carbon monoxide.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Acid Rain: Composition, Cause, and Impact",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH8_C3_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is acid rain?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Rainwater with a pH greater than 7.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Any precipitation (rain, snow, fog) that is more acidic than normal water.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Rainwater contaminated only with nitric acid.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Rain that falls only in industrial areas.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Definition of acid rain.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C3_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Normal rainwater is slightly acidic mainly due to the presence of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sulphuric acid",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Nitric acid",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Carbonic acid from dissolved CO2",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Hydrochloric acid",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Identifying the cause of normal rainwater acidity.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH8_C3_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Acid rain with a pH as low as 2 is primarily caused by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Dissolved carbon dioxide alone.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Oxides of nitrogen and sulphur dissolving in rainwater to form strong mineral acids.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "High concentrations of oxygen in the atmosphere.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The evaporation of sea water.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Trap: Confusing normal weak acidity with strong acidity from pollution.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C3_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Which chemical reaction correctly represents the formation of a major component of acid rain?",
+          "options": [
+            {
+              "label": "A",
+              "text": "2NO2 + H2O -> HNO2 + HNO3",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "CO2 + H2O -> CH4 + O2",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "N2 + O2 -> NO2",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "S + H2O -> H2SO4",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Application: Identifying the correct chemical equation for acid rain formation.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C3_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the impact of acid rain on soil differ from its impact on marble structures?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It adds nutrients to soil but strengthens marble.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It makes soil more fertile and cleans marble surfaces.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It removes basic nutrients (like calcium) from soil, reducing fertility, and reacts with calcium carbonate in marble to weaken it.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "It has no effect on soil but discolors marble.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Comparing two distinct damaging effects of acid rain.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C3_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is using a scrubber an effective method to reduce acid rain?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It increases the combustion temperature, preventing acid formation.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It absorbs gaseous pollutants like sulphur dioxide from industrial emissions before they enter the atmosphere.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It neutralizes acid rain after it has fallen on the ground.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It converts nitric acid in the air back into nitrogen and oxygen.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Reasoning behind a control method for acid rain.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Global Warming and Greenhouse Effect",
+      "concept_type": "principle",
+      "questions": [
+        {
+          "question_id": "CH8_C4_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the greenhouse effect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The trapping of solar heat by gases like CO2 and water vapour in the atmosphere, warming the Earth.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "The process of growing plants in glass houses in cold regions.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The depletion of the ozone layer by CFCs.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The formation of smog in industrial cities.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Definition of the greenhouse effect.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C4_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which gas makes the largest relative contribution to the greenhouse effect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Methane (CH4)",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Chlorofluorocarbons (CFCs)",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Carbon Dioxide (CO2)",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Nitrous Oxide (N2O)",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Identifying the primary greenhouse gas.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C4_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "What is the relationship between the greenhouse effect and global warming?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They are the same phenomenon.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Global warming is the harmful rise in Earth's average temperature caused by an enhanced greenhouse effect due to increased greenhouse gases.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Global warming causes the greenhouse effect.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The greenhouse effect is a myth, but global warming is real.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Trap: Confusing the natural effect with the harmful consequence.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C4_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Which of the following is a predicted consequence of global warming?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Decrease in sea levels due to increased evaporation.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Flooding of coastal areas due to melting glaciers and polar ice caps.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "More stable and predictable rainfall patterns worldwide.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A significant global cooling trend by 2050.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Application: Identifying an effect of global warming.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C4_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the primary sources of Carbon Dioxide (CO2) and Methane (CH4) as greenhouse gases.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Both are primarily released from the incomplete combustion of gasoline in cars.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "CO2 primarily comes from burning fossil fuels and respiration, while CH4 comes from anaerobic decay of organic matter and incomplete combustion.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "CO2 is a natural gas only from volcanoes, while CH4 is only man-made from industries.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both are primarily emitted from refrigerators and air conditioners.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Comparing sources of different greenhouse gases.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH8_C4_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is planting more trees suggested as a way to reduce global warming?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Trees block sunlight from reaching the Earth, causing cooling.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Trees absorb carbon dioxide (a greenhouse gas) during photosynthesis, reducing its atmospheric concentration.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Trees release large amounts of oxygen which dilutes other greenhouse gases.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Trees increase the albedo (reflectivity) of the Earth, deflecting heat.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Reasoning behind a method to combat global warming.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Ozone: Formation, Function, and Depletion",
+      "concept_type": "law",
+      "questions": [
+        {
+          "question_id": "CH8_C5_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Ozone is a gas found in which layer of the atmosphere?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Troposphere (near Earth's surface)",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Stratosphere (upper layer)",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Hydrosphere",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Lithosphere",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Definition/Location of the ozone layer.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C5_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the primary function of the ozone layer in the atmosphere?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To trap heat and keep the Earth warm.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To absorb harmful ultraviolet (UV) rays from the sun.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "To provide oxygen for breathing.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To cause acid rain.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Identifying the protective function of ozone.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C5_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "The formation of ozone in the stratosphere involves which process?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Burning of fossil fuels.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Action of ultraviolet rays on oxygen molecules (O2).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Combustion in automobile engines.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Decay of organic matter.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Trap: Confusing ozone formation with ozone destruction processes.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH8_C5_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "A hole in the ozone layer was first detected above which region?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The Arctic",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Antarctica",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The Himalayas",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The Sahara Desert",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Application: Recalling a key fact about ozone depletion.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH8_C5_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How do Chlorofluorocarbons (CFCs) and Oxides of Nitrogen contribute to ozone depletion differently?",
+          "options": [
+            {
+              "label": "A",
+              "text": "CFCs directly produce ozone, while NOx absorbs it.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Both are harmless gases that have no effect on ozone.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "CFCs release chlorine radicals that destroy ozone in a chain reaction, while NO from aircraft fuels reacts directly with ozone.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "CFCs are the main cause of acid rain, while NOx depletes ozone.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Comparing the mechanisms of two major ozone-depleting agents.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C5_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the depletion of the ozone layer a serious concern?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It leads to increased levels of carbon dioxide, causing global warming.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It allows more harmful ultraviolet radiation to reach Earth, increasing risks like skin cancer and damage to organisms.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It causes the greenhouse effect to cease, leading to an ice age.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It results in the formation of more ozone at ground level, which is beneficial.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Reasoning behind the dangers of ozone depletion.",
+          "exam_relevance": "high"
+        }
+      ]
+    }
+  ]
+}

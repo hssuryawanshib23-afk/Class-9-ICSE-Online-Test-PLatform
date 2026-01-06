@@ -1,0 +1,5355 @@
+{
+  "chapter": {
+    "subject": "Physics",
+    "chapter_number": 7,
+    "chapter_name": "Reflection of light"
+  },
+  "concepts": [
+    {
+      "concept_name": "Definition of Reflection of Light",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH7_C1_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the definition of reflection of light?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The bending of light when it passes from one medium to another.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The return of light into the same medium after striking a surface.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The splitting of white light into its constituent colours.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The absorption of light by an opaque material.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Reflection is the return of light into the same medium.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C1_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "conceptual",
+          "question_text": "Which of the following phenomena is NOT a result of light reflection?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Seeing a non-luminous object.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Formation of a rainbow.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Seeing your image in a mirror.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A parallel beam of light bouncing off a smooth surface.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Rainbow is due to dispersion and refraction, not reflection.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C1_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "analytical",
+          "question_text": "A student states: 'For reflection to occur, the surface must be perfectly smooth and polished.' What is the flaw in this statement?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Reflection occurs only from transparent surfaces.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Reflection occurs from all surfaces; smoothness determines the type (regular or irregular).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Reflection does not require a surface; it occurs in a vacuum.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The statement is completely correct.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "All surfaces reflect light; the nature of the surface determines if it's regular or irregular reflection.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C1_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Why can we see a book lying on a table in a room?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The book emits its own light.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Light from a source reflects off the book and enters our eyes.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Our eyes produce light that illuminates the book.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The table reflects light onto the book.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "We see non-luminous objects by the light they reflect.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C1_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the phenomenon of reflection differ for a luminous body (like the Sun) and a non-luminous body (like the Moon)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Both reflect light, but the Sun reflects more efficiently.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The Sun is seen due to light it emits; the Moon is seen due to light it reflects from the Sun.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The Sun's light is reflected by the atmosphere, while the Moon's light is direct.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "None of the above",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Luminous bodies emit light; non-luminous bodies are seen by reflected light.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C1_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "In a completely dark room with no light source, why is a white piece of paper not visible?",
+          "options": [
+            {
+              "label": "A",
+              "text": "White paper absorbs all light and becomes invisible.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Vision requires light to be emitted from the object, which paper does not do.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "There is no light to reflect off the paper into our eyes.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "The human eye cannot adjust to complete darkness.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Visibility of non-luminous objects depends on the availability of light to be reflected.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Plane Mirror Construction",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH7_C2_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "How is a plane mirror typically constructed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A thin silver sheet polished on both sides.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A glass plate with one surface polished and the other surface silvered.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A transparent plastic sheet coated with aluminium.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A curved glass surface polished to a high degree.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "A plane mirror is a glass plate with a polished front and silvered back.",
+          "exam_relevance": "low"
+        },
+        {
+          "question_id": "CH7_C2_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "conceptual",
+          "question_text": "In a plane mirror, from which surface does most of the reflection occur?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The front polished glass surface.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The back silvered surface.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The protective coating behind the silvering.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both surfaces reflect equally.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The back silvered surface is the primary reflecting surface.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C2_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "analytical",
+          "question_text": "A student says the protective coating on the back of a mirror is to enhance reflection. Is this correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Yes, the coating reflects additional light.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "No, the coating is opaque and protects the silvering; it does not reflect.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Yes, it makes the reflection sharper.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "No, the coating is only for aesthetic purposes.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The back coating protects the silvered layer and is opaque.",
+          "exam_relevance": "low"
+        },
+        {
+          "question_id": "CH7_C2_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Why is the front surface of a plane mirror polished to a high degree of smoothness?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To allow light to pass through with minimal scattering before reaching the silvered surface.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "To reflect most of the light itself.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "To absorb unwanted colours.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To make the mirror stronger.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Smooth front surface minimizes scattering, allowing light to reach the reflective silvered layer.",
+          "exam_relevance": "low"
+        },
+        {
+          "question_id": "CH7_C2_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the reflection from the front glass surface of a plane mirror differ from the reflection from its back silvered surface?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The front surface gives a dim, ghost image; the back gives the main, bright image.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "The front surface reflects coloured light; the back reflects white light.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The front surface reflects only IR light; the back reflects visible light.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no difference; both reflections are identical.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "A faint secondary image can come from front surface reflection.",
+          "exam_relevance": "low"
+        },
+        {
+          "question_id": "CH7_C2_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does a thick plane mirror sometimes produce multiple images?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Due to repeated refraction within the glass.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Due to multiple reflections between the front glass surface and the back silvered surface.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Due to diffraction of light at the edges.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Due to the protective coating acting as a second mirror.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Multiple images arise from successive internal reflections.",
+          "exam_relevance": "low"
+        }
+      ]
+    },
+    {
+      "concept_name": "Regular vs Irregular Reflection",
+      "concept_type": "comparison",
+      "questions": [
+        {
+          "question_id": "CH7_C3_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is regular reflection?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Reflection from a rough surface that scatters light.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Reflection from a smooth surface where parallel incident rays remain parallel after reflection.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Reflection that occurs only at a specific angle.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Reflection that produces colours.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Regular reflection preserves the parallelism of incident rays.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C3_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "conceptual",
+          "question_text": "Which of the following surfaces is most likely to produce irregular reflection?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A still water surface.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A newly polished car body.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "A page of a book.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "A plane mirror.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Irregular reflection occurs from microscopically rough surfaces like paper.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C3_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "analytical",
+          "question_text": "A student claims that irregular reflection does not obey the laws of reflection. Why is this claim incorrect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Irregular reflection obeys Snell's law, not the laws of reflection.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Each tiny portion of the rough surface obeys the laws of reflection, but normals are in different directions.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Irregular reflection only occurs for non-visible light.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The claim is correct; irregular reflection does not follow the laws.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "At each microscopic point, i=r, but surface unevenness causes scattered rays.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C3_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Why can you see the reflected light from a wall from any position in the room, but from a plane mirror only from a specific direction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The wall emits its own light.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The wall absorbs light and re-emits it in all directions.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The wall causes irregular reflection, scattering light everywhere; the mirror causes regular reflection in a fixed direction.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "The mirror's silvering is less efficient.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Irregular reflection provides diffused light, visible from many angles.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C3_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How do the 'plane of incidence' and 'plane of reflection' relate in regular versus irregular reflection from a single incident ray?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In both types, they are always the same plane.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "In irregular reflection, they are perpendicular.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "In regular reflection, they are different; in irregular, they are the same.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The concept does not apply to irregular reflection.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "For any single ray, the incident ray, normal, and reflected ray are coplanar (2nd law).",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C3_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is irregular reflection essential for comfortable vision in a lighted room?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It increases the intensity of light from sources.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It prevents glare by ensuring light reaches our eyes from many surfaces, not just in one direct beam.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It filters out harmful UV rays.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It helps in forming sharp images of objects.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Diffused illumination reduces harsh shadows and glare.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Laws of Reflection",
+      "concept_type": "law",
+      "questions": [
+        {
+          "question_id": "CH7_C4_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the first law of reflection?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The incident ray, the normal, and the reflected ray lie in the same plane.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The angle of incidence is equal to the angle of reflection.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The speed of light remains constant during reflection.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Light travels in a straight line.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "First law: ∠i = ∠r.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C4_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "conceptual",
+          "question_text": "In a diagram showing reflection, which line represents the normal?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The line showing the path of the incident ray.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The line perpendicular to the reflecting surface at the point of incidence.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The line showing the path of the reflected ray.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The line along the reflecting surface.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The normal is a constructed perpendicular at the point of incidence.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C4_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "analytical",
+          "question_text": "A light ray is incident normally (i=0°) on a plane mirror. According to the laws of reflection, what is the angle of reflection?",
+          "options": [
+            {
+              "label": "A",
+              "text": "90°",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "45°",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "0°",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "180°",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "If i = 0°, then r = 0°. The ray retraces its path.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C4_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In an experiment to verify the laws of reflection, the positions of pins P and Q (object) and R and S (image) are marked. What measurement verifies the first law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Checking that all pin tips lie on the same plane (the drawing board).",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Measuring angles AON and BON and finding they are equal.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Measuring the distance of the image behind the mirror.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Checking that the lines AO and OB are straight.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Equality of ∠i and ∠r verifies the first law.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C4_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the second law of reflection (coplanarity) differ from the first law in terms of experimental verification?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The first law is verified by angle measurement; the second is verified by ensuring all pins lie on the same flat surface (plane of paper).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "The first law is for plane mirrors only; the second is for spherical mirrors.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The first law is about intensity; the second is about direction.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no way to verify the second law experimentally.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Coplanarity is verified by the setup geometry.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C4_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why must the mirror be kept vertical on the line MM1 in the verification experiment?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To ensure the incident ray is horizontal.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To ensure the plane of incidence (the paper) is perpendicular to the mirror, making the normal lie in the plane of paper.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "To make the image brighter.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To prevent the mirror from falling.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Vertical alignment ensures the experimental geometry accurately represents the laws in 2D.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Real vs Virtual Image",
+      "concept_type": "comparison",
+      "questions": [
+        {
+          "question_id": "CH7_C5_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a real image?",
+          "options": [
+            {
+              "label": "A",
+              "text": "An image that cannot be obtained on a screen.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "An image formed when reflected rays actually meet.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "An image that is always upright.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "An image formed behind the mirror.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Real image is formed by actual intersection of rays.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C5_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "conceptual",
+          "question_text": "Which type of image is always virtual?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Image formed by a concave mirror for an object at infinity.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Image formed by a plane mirror.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Image formed by a concave mirror for an object at C.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Image formed by a concave mirror for an object beyond C.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Plane mirrors always form virtual images.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C5_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "analytical",
+          "question_text": "A student says, 'A virtual image is just an illusion and cannot be photographed.' Is this correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Yes, because it cannot be projected.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "No, a virtual image can be photographed because the camera lens can focus the diverging rays entering it.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Yes, only real images affect photographic film.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "No, but only if special film is used.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "A virtual image is a point from which rays appear to diverge; cameras can record it.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C5_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "How can you practically distinguish between a real and a virtual image formed by a mirror?",
+          "options": [
+            {
+              "label": "A",
+              "text": "By touching the mirror surface.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "By trying to project it onto a screen. A real image will form on the screen.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "By measuring its distance from the mirror.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "By checking if it is upright or inverted.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The screen test is a direct method.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C5_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How do the paths of reflected rays differ for a real image and a virtual image formed by a mirror?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For a real image, rays converge to a point; for a virtual image, rays diverge but appear to come from a point.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "For a real image, rays diverge; for a virtual image, rays converge.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "In both cases, rays actually converge.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "In both cases, rays actually diverge.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Converging vs. diverging rays after reflection define real vs. virtual.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C5_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the image formed on the retina of our eye considered real, even though we 'see' virtual images in mirrors?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The eye lens forms a real image on the retina from the rays entering the eye, regardless of whether they came from a real or virtual object.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "The retina itself acts as a mirror forming a virtual image.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Light rays stimulate the retina directly without forming an image.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Virtual images cannot be seen by the human eye.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Perception involves the eye forming a real image on the retina from incoming light.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Image Formation by Plane Mirror",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH7_C6_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Where is the image of an object formed by a plane mirror located?",
+          "options": [
+            {
+              "label": "A",
+              "text": "At the surface of the mirror.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "As far behind the mirror as the object is in front.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "At the focus of the mirror.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "At twice the object distance in front.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Image distance = Object distance (perpendicular).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C6_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "conceptual",
+          "question_text": "In a ray diagram for a point object and a plane mirror, how is the image point located?",
+          "options": [
+            {
+              "label": "A",
+              "text": "By drawing one incident ray and its reflection.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "By drawing at least two incident rays and producing their reflected rays backwards until they meet.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "By drawing a line from the object parallel to the mirror.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "By measuring the focal length.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Intersection of extended reflected rays locates the virtual image.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C6_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "analytical",
+          "question_text": "If an object is 10 cm in front of a plane mirror, and the mirror is moved 2 cm towards the object, what is the new distance between the object and its image?",
+          "options": [
+            {
+              "label": "A",
+              "text": "16 cm",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "20 cm",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "12 cm",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "8 cm",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Object distance becomes 8 cm, image distance behind mirror = 8 cm. Separation = 16 cm.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C6_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "A man 1.8 m tall wishes to see his full-length image in a plane mirror. What is the minimum vertical length of the mirror required?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1.8 m",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "0.9 m",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "3.6 m",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It depends on his distance from the mirror.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Minimum mirror height is half the object height for a full view.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C6_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the image formation for an extended object differ from that for a point object in a plane mirror?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For an extended object, images of individual points are found, and joining them gives the complete image. The process is the same in principle.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "For an extended object, only one ray from each point is needed.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "For a point object, the image is real; for an extended object, it is virtual.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no difference.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "The image is built point-by-point using the same method.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C6_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is it necessary to use at least two rays from an object point to locate its image in a plane mirror?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To verify the law of reflection for each ray.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because a single reflected ray gives a direction but not a unique point; two lines are needed to fix a point in a plane.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "To make the image brighter.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "One ray is sufficient if it is incident normally.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Geometric principle: two intersecting lines determine a point.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Characteristics of Plane Mirror Image",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH7_C7_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is NOT a characteristic of an image formed by a plane mirror?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Erect",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Real",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Laterally inverted",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Of the same size as the object",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Plane mirror images are virtual, not real.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C7_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "conceptual",
+          "question_text": "The image in a plane mirror is said to be 'laterally inverted'. What does this mean?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The top and bottom are swapped.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The left and right sides are interchanged.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The image is rotated by 90 degrees.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The image is upside down.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Lateral inversion refers to left-right reversal.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C7_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "analytical",
+          "question_text": "A student writes the letter 'P' on a card and views its image in a plane mirror. What will the image look like?",
+          "options": [
+            {
+              "label": "A",
+              "text": "P",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "b",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "d",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "q",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Lateral inversion reverses the letter horizontally.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C7_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Why are the letters on the front of an ambulance written laterally inverted (e.g., Ǝɯɐɔᴉꓷ∀)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To make them look unique.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "So that drivers ahead see them correctly (as 'AMBULANCE') in their rear-view mirrors.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "To save paint.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because it is easier to read that way.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Lateral inversion by the mirror corrects the inverted writing.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C7_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the 'perpendicular distance' of the image from the mirror compare to that of the object?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Image distance is always greater.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Image distance is always half.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "They are equal.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Image distance depends on the angle of view.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Object distance in front = Image distance behind.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C7_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "If a person moves towards a plane mirror at a speed v, at what speed does the image appear to approach the person?",
+          "options": [
+            {
+              "label": "A",
+              "text": "v",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "2v",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "v/2",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "0",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Relative speed between object and image is twice the object's speed relative to the mirror.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Images in Inclined Mirrors - Formula",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH7_C8_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the formula for the number of images 'n' formed by two inclined mirrors, if 360/θ is an integer?",
+          "options": [
+            {
+              "label": "A",
+              "text": "n = 360/θ",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "n = (360/θ) - 1",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "n = 180/θ",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "n = θ/360",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "General formula when n=360/θ is even OR object is symmetric: No. of images = n-1.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C8_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "conceptual",
+          "question_text": "Two mirrors are inclined at 90°. How many images of an object placed asymmetrically between them are formed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "2",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "3",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "4",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "1",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "For θ=90°, n=360/90=4 (even). Number of images = n-1 = 3 for all positions.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C8_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "analytical",
+          "question_text": "Two mirrors are inclined at 72°. An object is placed symmetrically on the angle bisector. How many images are formed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "5",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "4",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "6",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "3",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "For θ=72°, n=360/72=5 (odd). For symmetric object, images = n-1 = 4.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C8_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "As the angle between two inclined mirrors is gradually increased from a small value, what happens to the number of images?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Increases",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Decreases",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Remains constant",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "First increases then decreases",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Number of images is inversely related to the angle θ.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C8_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the formula for the number of images differ when the object is placed symmetrically versus asymmetrically for an odd value of n = 360/θ?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For asymmetric: images = n; For symmetric: images = n-1.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "For asymmetric: images = n-1; For symmetric: images = n.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It is always n-1 for both.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It is always n for both.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "For odd n, symmetry causes two images to overlap, reducing count by one.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C8_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why are an infinite number of images formed when two plane mirrors are placed parallel to each other?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because the angle θ = 0°, and n = 360/0 is infinite.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because light gets trapped between them forever.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because each mirror has an infinite aperture.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because the reflection is 100% efficient.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "The formula conceptually leads to infinity as θ approaches 0.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Images in Parallel Mirrors",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH7_C9_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "How many images are formed of an object placed between two parallel plane mirrors facing each other?",
+          "options": [
+            {
+              "label": "A",
+              "text": "One",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Two",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "A finite number (like 5 or 6)",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "An infinite number",
+              "is_correct": true
+            }
+          ],
+          "correct_label": "D",
+          "key_concept": "Parallel mirrors (θ=0°) lead to infinite images.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C9_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "conceptual",
+          "question_text": "In a barber's shop, two mirrors are often placed on opposite walls. How are they arranged?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Perpendicular to each other.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Parallel to each other.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "At 60° to each other.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "At 45° to each other.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Parallel mirrors allow seeing the back of the head via multiple images.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C9_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "analytical",
+          "question_text": "Why do we not actually see an infinite number of images in parallel mirrors?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Our eyes cannot resolve more than a few images.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "With each reflection, some light is absorbed, so remote images become too faint.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The mirrors are never perfectly parallel.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Infinite images would require infinite time to form.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Light loss at each reflection limits visibility.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C9_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "All images formed by two parallel mirrors lie on a line that is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Parallel to the mirrors.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The perpendicular drawn from the object to the mirrors.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "At 45° to the mirrors.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Randomly distributed.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Images are aligned along the common normal from the object.",
+          "exam_relevance": "low"
+        },
+        {
+          "question_id": "CH7_C9_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the brightness of successive images in parallel mirrors compare?",
+          "options": [
+            {
+              "label": "A",
+              "text": "All images are equally bright.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Brightness increases for later images.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Brightness decreases for later images.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Only the first image is bright; others are dark.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Light absorption at each reflection reduces intensity.",
+          "exam_relevance": "low"
+        },
+        {
+          "question_id": "CH7_C9_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "In the context of parallel mirrors, why is the image formed by the first reflection from the back silvered surface the brightest?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because it undergoes the fewest reflections and hence minimal light loss.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because the back surface is more reflective than the front.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because it is a real image.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because our eyes are adapted to see it better.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Brightness is inversely related to the number of reflections.",
+          "exam_relevance": "low"
+        }
+      ]
+    },
+    {
+      "concept_name": "Images in Perpendicular Mirrors",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH7_C10_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "How many images are formed when an object is placed between two plane mirrors perpendicular to each other?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "2",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "3",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "4",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "For θ=90°, number of images = 3.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C10_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "conceptual",
+          "question_text": "Where are the three images located relative to the mirrors?",
+          "options": [
+            {
+              "label": "A",
+              "text": "All behind one mirror.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "One behind each mirror and one behind the intersection line.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "They lie on a circle with centre at the mirrors' intersection.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "They are randomly placed.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Images and object lie on a circle centred at the intersection point O.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C10_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "analytical",
+          "question_text": "In perpendicular mirrors, why is the total number of images 3 and not 4?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because one image is too dim to see.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because the image formed by mirror 1 of the image in mirror 2 overlaps with the image formed by mirror 2 of the image in mirror 1.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because the object blocks one possible image.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because the formula n-1 gives 3 when n=4.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Two of the potential secondary images coincide.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C10_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Which optical instrument uses two plane mirrors inclined at 90°?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Kaleidoscope",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Periscope",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Neither, a periscope uses parallel or 45° inclined mirrors.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Both use 90° mirrors.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Periscope uses mirrors at 45° to the vertical.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C10_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does image formation in perpendicular mirrors differ from that in parallel mirrors in terms of the object-image geometry?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In parallel mirrors, images are colinear; in perpendicular mirrors, they are co-circular.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "In parallel mirrors, images are virtual; in perpendicular, one is real.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Parallel mirrors produce odd number of images; perpendicular produce even number.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no geometric difference.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Different arrangements lead to different geometric loci for the images.",
+          "exam_relevance": "low"
+        },
+        {
+          "question_id": "CH7_C10_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the overlapping image in perpendicular mirrors not visually distinct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It is formed by rays undergoing two reflections, and it coincides perfectly with another doubly reflected image from the other path.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "It is much fainter and therefore invisible.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It is formed behind the mirrors where we cannot see.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It is a real image that gets projected away.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Symmetry leads to a single image from two equivalent optical paths.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Uses of Plane Mirrors",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH7_C11_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is a common use of a plane mirror?",
+          "options": [
+            {
+              "label": "A",
+              "text": "As a rear-view mirror in vehicles.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "As a looking glass.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "To converge sunlight in a solar cooker.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To diverge light in street lamps.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Looking glass is the most basic use.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C11_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "conceptual",
+          "question_text": "In an optician's room, a plane mirror is used on the wall opposite the patient. What is its purpose?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To make the room look bigger.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To increase the effective viewing distance of the eye chart for the patient.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "To provide better lighting.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To test for lateral inversion.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The mirror doubles the apparent distance of the chart.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C11_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "analytical",
+          "question_text": "A student suggests using a plane mirror as the main reflector in a torch. Why is this not ideal?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A plane mirror produces a parallel beam only if the source is at infinity, which is not practical.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Plane mirrors are too expensive.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Plane mirrors absorb too much light.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Plane mirrors produce a diverging beam.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "A plane mirror does not converge light; a concave mirror is needed for a directed beam from a near source.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C11_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In a periscope, what is the angle of inclination of the two plane mirrors with respect to the vertical walls?",
+          "options": [
+            {
+              "label": "A",
+              "text": "30°",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "45°",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "60°",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "90°",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "45° inclination allows turning the line of sight by 90° twice.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C11_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the use of a plane mirror in a solar cooker differ from its use in a periscope?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In a solar cooker, it redirects light; in a periscope, it redirects the line of sight.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "In a solar cooker, it converges light; in a periscope, it diverges light.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "A solar cooker uses a concave mirror, not a plane mirror.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no difference; both simply reflect light.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "The purpose defines the application: energy collection vs. vision.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C11_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is a plane mirror suitable for use in a kaleidoscope?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Its lateral inversion creates interesting patterns.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Multiple reflections between inclined mirrors create symmetric patterns from random objects.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It magnifies the objects placed inside.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It filters specific colours.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Repeated reflection in a confined angular space generates geometric patterns.",
+          "exam_relevance": "low"
+        }
+      ]
+    },
+    {
+      "concept_name": "Concave and Convex Mirrors - Definitions",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH7_C12_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a concave mirror?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A mirror with a reflecting surface that bulges outwards.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A mirror with a reflecting surface that caves inwards.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A flat reflecting surface.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A mirror that always forms virtual images.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Concave = inward curving (like a cave).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C12_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "conceptual",
+          "question_text": "A spherical mirror is silvered on the outer surface of a hollow glass sphere. What type of mirror is it?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Concave mirror",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Convex mirror",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Plane mirror",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Cannot be determined",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Silvering the outer surface makes the inner hollow surface the reflecting surface (concave).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C12_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "analytical",
+          "question_text": "A student says, 'A convex mirror converges light rays.' Why is this statement wrong?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A convex mirror diverges parallel rays; a concave mirror converges them.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Both mirrors converge light.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "A convex mirror does not reflect light at all.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The statement is correct.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Convex mirrors diverge incident parallel rays.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C12_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Which type of mirror would you use as a 'security mirror' in a shop to see a wide area?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Plane mirror",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Concave mirror",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Convex mirror",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Any spherical mirror",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Convex mirrors provide a wider field of view.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C12_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the reflecting surface relate to the silvered surface in concave vs convex mirrors?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In concave, reflecting surface is the silvered inner surface; in convex, it is the silvered outer surface.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "In concave, silvering is on the outer surface (bulging side); reflecting surface is the inner hollow side. In convex, silvering is on the inner surface; reflecting surface is the outer bulging side.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "In both, silvering is on the inner surface.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "In both, silvering is on the outer surface.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The side opposite to silvering becomes the reflecting surface.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C12_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is a convex mirror not suitable for use as a shaving mirror?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It always forms a diminished image, making fine details hard to see.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "It forms an inverted image.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It does not reflect light properly.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It is too expensive.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Magnification is needed for shaving; convex mirrors diminish.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Terms Related to Spherical Mirrors (Pole, Centre, Radius, Aperture, Axis)",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH7_C13_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the 'pole' of a spherical mirror?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The centre of the sphere from which the mirror is made.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The midpoint of the aperture.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The central point on the mirror's reflecting surface.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "The point where light rays converge.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Pole (P) is the geometric centre of the mirror surface.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C13_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "conceptual",
+          "question_text": "The distance from the pole to the centre of curvature is called:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Focal length",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Radius of curvature",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Aperture",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Principal axis",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Radius of curvature (R) = distance PC.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C13_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "analytical",
+          "question_text": "A student measures the diameter of the mirror's glass. Has he measured the aperture?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Yes, aperture is the diameter of the mirror's surface through which light enters.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "No, aperture is the radius of curvature.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "No, aperture is the distance from pole to focus.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "No, aperture is the thickness of the mirror.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Aperture is the size (diameter) of the mirror's exposed surface.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C13_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In a spherical mirror, the normal at any point on its surface passes through:",
+          "options": [
+            {
+              "label": "A",
+              "text": "The pole.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The centre of curvature.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The focus.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A point on the principal axis.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "For a spherical surface, normals are radii, all passing through C.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C13_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How do the 'principal axis' and the 'radius of curvature' differ?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The principal axis is a line; the radius of curvature is a distance along that line.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "The principal axis is curved; the radius is straight.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The principal axis passes through the focus; the radius passes through the pole.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They are the same thing.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Axis is the reference line; radius is a specific measured length on it.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C13_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the concept of 'aperture' important in practical uses of spherical mirrors?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A larger aperture allows more light to be collected, affecting brightness and image quality.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "It determines the focal length of the mirror.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It defines whether the mirror is concave or convex.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It is only important for manufacturing, not for use.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Aperture relates to light-gathering power and aberrations.",
+          "exam_relevance": "low"
+        }
+      ]
+    },
+    {
+      "concept_name": "Focus and Focal Length of Spherical Mirrors",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH7_C14_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the focus of a concave mirror?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A point behind the mirror where reflected rays appear to meet.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A point on the principal axis where rays parallel to the axis converge after reflection.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The centre of the sphere.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The midpoint of the radius of curvature.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Focus (F) is the real convergence point for parallel rays in a concave mirror.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C14_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "conceptual",
+          "question_text": "The focal length of a convex mirror is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Positive according to sign convention.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Negative according to sign convention.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Zero.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Equal to its radius of curvature.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "For convex mirror, f is positive (virtual focus behind mirror).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C14_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "analytical",
+          "question_text": "A parallel beam of light, not parallel to the principal axis, is incident on a spherical mirror. Where will it be focused?",
+          "options": [
+            {
+              "label": "A",
+              "text": "At the focus F on the principal axis.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "At a point on the focal plane.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It will not focus at all.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "At the centre of curvature.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Rays parallel to each other but not to the axis meet in the focal plane.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C14_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "If the radius of curvature of a concave mirror is 24 cm, what is its focal length?",
+          "options": [
+            {
+              "label": "A",
+              "text": "48 cm",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "24 cm",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "12 cm",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "6 cm",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "f = R/2. For concave, f is negative, but magnitude is 12 cm.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C14_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the nature of the focus differ between a concave and a convex mirror?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Concave has a real focus in front; convex has a virtual focus behind.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Concave has a virtual focus; convex has a real focus.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both have real foci.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both have virtual foci.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Real vs virtual focus is a fundamental difference.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C14_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the focal length of a spherical mirror half its radius of curvature?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It is a geometric property derived from the law of reflection and small aperture approximation.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "It is an experimental fact with no theoretical basis.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It is true only for convex mirrors.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It is true only if the object is at infinity.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "The relation f = R/2 arises from geometry and the law of reflection.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Ray Diagrams - Convenient Rays for Construction",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH7_C15_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is NOT one of the standard rays used to construct images in spherical mirrors?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A ray passing through the centre of curvature.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A ray incident at the pole.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "A ray making an arbitrary angle with the principal axis.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "A ray parallel to the principal axis.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Standard rays have predictable paths after reflection.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C15_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "conceptual",
+          "question_text": "A ray incident on a concave mirror parallel to its principal axis will, after reflection:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Pass through the focus.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Appear to come from the focus.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Pass through the centre of curvature.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Retrace its path.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Key property of a concave mirror.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C15_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "analytical",
+          "question_text": "For a convex mirror, a ray directed towards the centre of curvature C (which is behind the mirror) will, after reflection:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Retrace its path back along the same line.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Pass through the focus.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Reflect back along the same path because it is incident normally (since the normal at the point of incidence passes through C).",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Become parallel to the principal axis.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "A ray directed towards C is normal to the surface, so i=0, r=0.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C15_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "To locate the image of an object placed between F and P of a concave mirror, which two rays are most convenient to draw?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ray parallel to axis and ray through C.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Ray through F and ray through C.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Ray incident at pole and ray parallel to axis.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Any two arbitrary rays.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "These two rays are easy to draw and their reflected rays diverge; extending them backwards locates the virtual image.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C15_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the path of a 'ray passing through the focus' differ between concave and convex mirrors during construction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For concave: incident ray through F reflects parallel to axis. For convex: incident ray directed towards F (behind mirror) reflects parallel to axis.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "For both, the incident ray actually passes through F.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "For convex, such a ray cannot be drawn.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "For both, the ray reflects back through F.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "For convex, you draw a ray directed towards the virtual focus F behind the mirror.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C15_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is it sufficient to draw just two of the standard rays to locate an image?",
+          "options": [
+            {
+              "label": "A",
+              "text": "All rays from a point object will intersect at the same image point after reflection. Two lines uniquely determine that point.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "The other rays are too complicated to draw.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The laws of reflection only apply to these two rays.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Drawing more rays would create confusion.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Geometric principle of point formation.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Image Formation by Concave Mirror - Object at Infinity",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH7_C16_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Where is the image formed by a concave mirror when the object is at infinity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "At the centre of curvature.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "At the focus.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Between F and P.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Behind the mirror.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Parallel rays converge at F.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C16_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "conceptual",
+          "question_text": "The image of the sun formed by a concave mirror is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Real, inverted, and highly diminished.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Real, inverted, and point-sized.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Virtual, erect, and magnified.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Real, erect, and diminished.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Sun is at infinity, image is at F, point-sized.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C16_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "analytical",
+          "question_text": "For an object at a very far but finite distance (like a tree), the image in a concave mirror is formed:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Exactly at the focus F.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "In the focal plane, very close to F.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "At the centre of curvature.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Behind the mirror.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "For a far but finite object, rays are not perfectly parallel, so image is in focal plane near F.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C16_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "What is the nature of the image formed by a concave mirror for an object at infinity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Virtual and erect",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Real and inverted",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Real and erect",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Virtual and inverted",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "All real images formed by concave mirror (for object beyond F) are inverted.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C16_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the image size for an object at infinity compare to that for an object at a far but finite distance?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Both are point images; no difference.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "For infinity, it's a point; for far distance, it's highly diminished but has a finite size.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "For infinity, it's magnified; for far distance, it's diminished.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "For infinity, it's virtual; for far distance, it's real.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "A true point object at infinity gives a point image. An extended far object gives a small, real image.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C16_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the image of a distant object formed in the focal plane of a concave mirror?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because rays from a point on a distant object are nearly parallel, and parallel rays converge in the focal plane after reflection.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because the object is at the centre of curvature.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because the mirror formula forces v = f when u is very large.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because the image must be virtual.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Geometry of reflection for near-parallel rays.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Image Formation by Concave Mirror - Object beyond C",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH7_C17_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "When an object is placed beyond the centre of curvature (C) of a concave mirror, where is the image formed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Beyond C.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Between C and F.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "At C.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Between F and P.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Image lies between F and C.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C17_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "conceptual",
+          "question_text": "The image formed when the object is beyond C is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Real, inverted, and magnified.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Real, inverted, and diminished.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Virtual, erect, and diminished.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Real, erect, and of same size.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Key characteristics for this position.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C17_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "analytical",
+          "question_text": "As an object moves from infinity towards the centre of curvature C of a concave mirror, how does the image move?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Image moves from F towards C.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Image moves from C towards F.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Image moves from F towards P.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Image remains stationary at F.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Object moves in from infinity to C; image moves out from F to C.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C17_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "An object is placed at a distance of 30 cm from a concave mirror of focal length 10 cm. Where is the image formed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "15 cm in front of mirror",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "15 cm behind the mirror",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "30 cm in front of mirror",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "7.5 cm in front of mirror",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "u=-30, f=-10. Using mirror formula, v=-15 cm (between F and C).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C17_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the image size for an object beyond C compare to that for an object at C?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Beyond C: diminished; At C: same size.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Beyond C: magnified; At C: diminished.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both are magnified.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both are diminished.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Size increases as object approaches C.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C17_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the image diminished when the object is beyond C?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because the image is closer to the mirror than the object (|v| < |u|), leading to magnification |m| < 1.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because the rays diverge after reflection.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because the image is virtual.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because the mirror's aperture is small.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Magnification m = v/u. For real image, both u and v negative. If |v| < |u|, |m| < 1.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Image Formation by Concave Mirror - Object at C",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH7_C18_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "When an object is placed at the centre of curvature (C) of a concave mirror, where is the image formed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "At F",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "At C",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Between F and P",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Behind the mirror",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Object at C => Image at C.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C18_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "conceptual",
+          "question_text": "The image formed by a concave mirror when the object is at C is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Real, inverted, and magnified.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Real, inverted, and of the same size.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Virtual, erect, and magnified.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Real, erect, and diminished.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Key characteristics.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C18_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "analytical",
+          "question_text": "For an object at C of a concave mirror, the linear magnification (m) is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "m = -1",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "m = +1",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "m = -2",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "m = 0",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "m = v/u. v = u = -R. So m = (-R)/(-R) = -1.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C18_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "If a concave mirror has a focal length of 15 cm, where should an object be placed to get an image of the same size?",
+          "options": [
+            {
+              "label": "A",
+              "text": "At 15 cm",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "At 30 cm",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "At 7.5 cm",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "At infinity",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Same size image => object at C. R = 2f = 30 cm.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C18_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the image formed when the object is at C serve as a reference point in the object-image movement relationship?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It is the transition point where image size equals object size. For u > R, image is diminished; for u < R, image is magnified.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "It is where the image changes from real to virtual.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It is where the image becomes erect.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It has no special significance.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "C is the boundary for diminished vs magnified real images.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C18_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does the image form exactly at C when the object is at C?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Due to symmetry: rays from a point on the object at C strike the mirror and reflect back through C because the normal at any point passes through C.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because the focal length is half of C.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It is an experimental coincidence.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because the mirror formula gives v = u when u = R.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Geometric symmetry ensures that all rays from C return to C.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Image Formation by Concave Mirror - Object between C and F",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH7_C19_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "When an object is placed between C and F of a concave mirror, the image is formed:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Between F and P.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Beyond C.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "At C.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "At F.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Image lies beyond C.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C19_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "conceptual",
+          "question_text": "The image formed when the object is between C and F is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Real, inverted, and diminished.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Real, inverted, and magnified.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Virtual, erect, and magnified.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Real, erect, and magnified.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Key characteristics.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C19_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "analytical",
+          "question_text": "As the object moves from C towards F, the image:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Moves from C away towards infinity.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Moves from C towards F.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Moves from F towards C.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Remains at C.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Object moves from C to F; image moves from C to infinity.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C19_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "An object is placed 20 cm from a concave mirror of focal length 15 cm. Where is the image formed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "60 cm in front of mirror",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "60 cm behind mirror",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "8.6 cm in front of mirror",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "8.6 cm behind mirror",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "u=-20, f=-15. Using mirror formula, v=-60 cm (beyond C).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C19_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the image size for an object between C and F compare to that for an object at C?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Between C and F: magnified; At C: same size.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Between C and F: diminished; At C: magnified.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both are magnified.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both are same size.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Magnification increases as object moves from C to F.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C19_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does the magnification become greater than 1 when the object is between C and F?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because the image distance |v| becomes greater than the object distance |u|, leading to |m| = |v/u| > 1.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because the image becomes virtual.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because the focal length changes.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because the mirror is concave.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Magnification is directly related to the ratio of distances.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Image Formation by Concave Mirror - Object at F",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH7_C20_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "When an object is placed at the focus (F) of a concave mirror, where is the image formed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "At C",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "At F",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "At infinity",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Between F and P",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Object at F => Image at infinity.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C20_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "conceptual",
+          "question_text": "The image formed when the object is at F is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Real, inverted, and highly magnified.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Virtual, erect, and highly magnified.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Real, erect, and point-sized.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Virtual, inverted, and diminished.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Key characteristics.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C20_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "analytical",
+          "question_text": "If an object is placed exactly at the focus of a concave mirror, the reflected rays are:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Parallel to each other.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Diverging.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Converging at C.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Retracing their path.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Rays from F become parallel after reflection.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C20_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "To project a bright patch of light of the same size as the mirror's aperture on a screen, where should a point source be placed relative to a concave mirror?",
+          "options": [
+            {
+              "label": "A",
+              "text": "At C",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "At F",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Between F and P",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Beyond C",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Source at F gives parallel reflected rays, illuminating the entire aperture evenly onto a distant screen.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C20_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the image at infinity for an object at F conceptually differ from the image of an object at infinity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They are inverse processes: Object at infinity gives image at F; object at F gives image at infinity.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Both are virtual images.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both are point images.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no relation.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Principle of reversibility of light.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C20_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is it said that the image is 'highly magnified' when the object is at F?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because the image is at a very large distance (infinity), making the ratio |v/u| very large, hence magnification is very large.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because the mirror's curvature causes magnification.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because the image is virtual.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It is not magnified; it is point-sized.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Magnification tends to infinity as v tends to infinity.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Image Formation by Concave Mirror - Object between F and P",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH7_C21_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "When an object is placed between the focus (F) and the pole (P) of a concave mirror, the image is formed:",
+          "options": [
+            {
+              "label": "A",
+              "text": "In front of the mirror, between F and C.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Behind the mirror.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "At infinity.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "At C.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Image is virtual and behind the mirror.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C21_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "conceptual",
+          "question_text": "The image formed when the object is between F and P is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Real, inverted, and magnified.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Virtual, erect, and magnified.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Virtual, erect, and diminished.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Real, erect, and magnified.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Key characteristics.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C21_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "analytical",
+          "question_text": "As the object is moved from F towards P, the virtual image:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Moves from infinity behind the mirror towards the pole.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Moves from the pole towards infinity behind the mirror.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Remains at a fixed point behind the mirror.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Moves from behind the mirror to in front of it.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Object moves from F to P; virtual image moves from far behind towards the pole.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C21_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "A concave mirror is used as a shaving mirror. Where should the face be placed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Beyond C",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "At C",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Between C and F",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Between F and P",
+              "is_correct": true
+            }
+          ],
+          "correct_label": "D",
+          "key_concept": "To get an erect, magnified virtual image for grooming.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C21_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the magnification for an object between F and P compare to that for an object between C and F?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Both are magnified (|m| > 1), but one is virtual (positive m) and the other is real (negative m).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Between F and P: diminished; between C and F: magnified.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both are diminished.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Between F and P: real; between C and F: virtual.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Magnification can be >1 for both real and virtual images.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C21_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the image virtual when the object is between F and P?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because the reflected rays diverge; they do not actually meet but appear to come from a point behind the mirror.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because the object is too close to the mirror.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because the focal length becomes positive.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because the mirror is concave.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Divergence of reflected rays defines a virtual image.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Image Formation by Convex Mirror",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH7_C22_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "For any position of a real object in front of a convex mirror, the image is always:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Real and inverted.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Virtual and erect.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Real and erect.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Virtual and inverted.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Convex mirrors always produce virtual, erect images.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C22_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "conceptual",
+          "question_text": "Where is the image formed by a convex mirror for an object at infinity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "At the focus F behind the mirror.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "At the pole P.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "At the centre of curvature C.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "At infinity.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Parallel rays appear to diverge from F.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C22_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "analytical",
+          "question_text": "As the object is moved from infinity towards the pole of a convex mirror, the image:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Moves from F towards P (behind the mirror).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Moves from P towards F.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Moves from C to F.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Remains at F.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Image shifts from focus to pole behind the mirror as object approaches.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C22_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "A convex mirror is preferred over a plane mirror as a rear-view mirror in vehicles because it:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Gives a magnified view.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Gives an erect and diminished view with a wider field of view.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Gives a clearer image.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Is cheaper.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Wider field of view is the key advantage.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C22_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the image size in a convex mirror change as the object distance decreases?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Image size increases but remains smaller than the object (diminished).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Image size decreases.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Image size becomes larger than the object.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Image size remains constant.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Image is always diminished but grows as object comes closer.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C22_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the image formed by a convex mirror always diminished?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because the image distance |v| is always less than the object distance |u| for a convex mirror, leading to |m| = |v/u| < 1.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because convex mirrors absorb light.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because the image is virtual.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because the focal length is positive.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Geometry of reflection ensures v < u in magnitude.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Sign Convention for Spherical Mirrors",
+      "concept_type": "principle",
+      "questions": [
+        {
+          "question_id": "CH7_C23_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "According to the Cartesian sign convention, where is the origin for measuring distances for spherical mirrors?",
+          "options": [
+            {
+              "label": "A",
+              "text": "At the centre of curvature.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "At the focus.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "At the pole.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "At the object.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "All distances measured from the pole (P).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C23_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "conceptual",
+          "question_text": "For a concave mirror, the focal length (f) is taken as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Positive",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Negative",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Zero",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Infinity",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Concave mirror has a real focus in front, so f is negative.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C23_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "analytical",
+          "question_text": "A virtual image formed by a concave mirror has a image distance (v) that is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Negative",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Positive",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Zero",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Equal to u",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Virtual image is behind the mirror, so v is positive.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C23_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "An object is placed 20 cm in front of a convex mirror of focal length 15 cm. Using sign convention, what are the values of u and f?",
+          "options": [
+            {
+              "label": "A",
+              "text": "u = -20 cm, f = +15 cm",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "u = +20 cm, f = -15 cm",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "u = -20 cm, f = -15 cm",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "u = +20 cm, f = +15 cm",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Object in front => u negative. Convex mirror => f positive.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C23_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the sign of magnification (m) relate to the nature of the image?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Positive m => virtual and erect; Negative m => real and inverted.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Positive m => real and inverted; Negative m => virtual and erect.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Sign of m has no relation to nature.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Positive m => diminished; Negative m => magnified.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Sign of m indicates orientation.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C23_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the object distance (u) always taken as negative in mirror problems?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because the object is always placed in front of the mirror (in the direction opposite to incident light as per convention).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because the object is a source of light.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It is positive for virtual objects.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It is a random choice.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Sign convention defines distances against incident light direction as negative.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Mirror Formula and Magnification",
+      "concept_type": "formula",
+      "questions": [
+        {
+          "question_id": "CH7_C24_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the mirror formula?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1/u + 1/v = 1/f",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "u + v = f",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "uv = f",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "1/f = u + v",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Mirror formula relates object distance (u), image distance (v), and focal length (f).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C24_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "conceptual",
+          "question_text": "The linear magnification (m) for a mirror is given by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "m = v/u",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "m = -v/u",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "m = u/v",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "m = height of object / height of image",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Magnification formula with sign.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C24_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "analytical",
+          "question_text": "For a convex mirror, if u = -20 cm and f = +10 cm, using the mirror formula, v is calculated to be +6.67 cm. What does the positive sign for v indicate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The image is real and in front of the mirror.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The image is virtual and behind the mirror.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The calculation is wrong; v should be negative.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The image is at the pole.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Positive v indicates virtual image behind mirror for spherical mirrors.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C24_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "An object 2 cm high produces a real image 3 cm high in a concave mirror. What is the magnification?",
+          "options": [
+            {
+              "label": "A",
+              "text": "+1.5",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "-1.5",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "+0.67",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "-0.67",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "m = h_i/h_o = -3/2 = -1.5. Negative for real, inverted image.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C24_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How are the mirror formula and the magnification formula related?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They are independent formulas.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Magnification can be expressed in terms of f and v or f and u: m = f/(f-u) = (v-f)/f.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The magnification formula is derived by differentiating the mirror formula.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no relation.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The formulas are interconnected through algebra.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C24_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why must the values of u, v, and f be substituted with their proper signs in the mirror formula?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To obtain a mathematically consistent result that correctly predicts the image position and nature for both concave and convex mirrors.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because the formula only works with positive numbers.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "To make calculations more complicated.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Signs are optional; magnitude is enough.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "The sign convention is built into the formula's validity.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Uses of Spherical Mirrors",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH7_C25_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which mirror is used as a shaving mirror?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Plane mirror",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Concave mirror",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Convex mirror",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Any spherical mirror",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Concave mirror gives erect, magnified virtual image when object between F and P.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C25_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "conceptual",
+          "question_text": "In a torch, the reflector is a:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Concave mirror",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Convex mirror",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Plane mirror",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Concave lens",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Concave mirror produces a parallel or converging beam when source is at focus.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C25_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "analytical",
+          "question_text": "A student suggests using a convex mirror as a dentist's head mirror to concentrate light. Why is this not suitable?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A convex mirror diverges light; it cannot concentrate light on a small area.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "A convex mirror is too small.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "A convex mirror forms real images.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A convex mirror is too expensive.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Concentration requires convergence, which a convex mirror cannot provide.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C25_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Why is a convex mirror used as a rear-view mirror in vehicles?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It gives a wider field of view, allowing the driver to see more traffic behind.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "It gives a magnified image of vehicles behind.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It gives a clearer image than a plane mirror.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It is cheaper to manufacture.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Wider field of view is the primary advantage.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C25_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the use of a concave mirror in a solar cooker differ from its use in a torch?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In a solar cooker, a large concave mirror focuses parallel sunlight onto a small area (heating). In a torch, a small concave mirror collimates light from a point source at focus into a parallel beam (illumination).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "There is no difference; both concentrate light.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "A solar cooker uses a plane mirror; a torch uses a concave mirror.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A solar cooker uses a convex mirror.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Same optical principle applied in reverse: converging vs collimating.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C25_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why might a plane mirror sometimes be preferred over a convex mirror for a rear-view mirror, despite the narrower field of view?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A plane mirror gives an undistorted, true-to-size image, making it easier to judge actual distances and sizes of following vehicles.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "A plane mirror is always safer.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "A plane mirror is cheaper.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A plane mirror can be used at night.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Trade-off between field of view and image fidelity.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Distinguishing Between Mirrors (Without Touching)",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH7_C26_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "You bring your face close to a mirror. The image is upright and of the same size, and does not change size when you move. The mirror is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Plane mirror",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Concave mirror",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Convex mirror",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Cannot be determined",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Plane mirror gives same-size, erect image unaffected by distance.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C26_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "conceptual",
+          "question_text": "You see an upright and magnified image of your face in a mirror. When you move away, the image size increases. The mirror is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Plane mirror",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Concave mirror",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Convex mirror",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Either concave or convex",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Concave mirror can give magnified virtual image; moving away (towards F) increases magnification.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C26_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "analytical",
+          "question_text": "A mirror forms an upright and diminished image. When you move away from it, the image size decreases further. What type of mirror is it?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Plane mirror",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Concave mirror",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Convex mirror",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Cannot be determined",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Convex mirror always gives diminished, erect image. Moving away makes object distance larger, image smaller.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C26_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "To distinguish a concave mirror from a convex mirror without touching, you bring your face close. What observation indicates a concave mirror?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The image is inverted.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The image is erect and magnified, and grows larger as you move slightly away.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The image is erect and same size.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The image is erect and diminished, and shrinks as you move away.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The specific behaviour of magnification change with distance is key.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C26_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the test for distinguishing mirrors rely on the relative positions of object (face) and the mirror's focal point?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For a concave mirror, when face is between P and F, image is virtual, erect, magnified. Moving away changes magnification. For convex, image is always virtual, erect, diminished.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "It does not rely on focal point; it relies on curvature.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The focal point is only relevant for convex mirrors.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The test only works if the face is beyond C.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "The test exploits the different image formation rules based on object position relative to F.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C26_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is it impossible to get an inverted image of your face in a convex mirror during the distinguishing test?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because a convex mirror always forms a virtual, erect image for any real object position.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because your face is too close.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because the focal length is positive.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because convex mirrors are flat.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Fundamental property of convex mirrors.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Difference Between Concave and Convex Mirrors (Summary)",
+      "concept_type": "comparison",
+      "questions": [
+        {
+          "question_id": "CH7_C27_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which mirror has a reflecting surface that caves inwards?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Concave mirror",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Convex mirror",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Plane mirror",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both (a) and (b)",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Basic definition.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C27_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "conceptual",
+          "question_text": "A mirror that always diverges incident parallel light rays is a:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Concave mirror",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Convex mirror",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Plane mirror",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "None of these",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Convex mirrors diverge parallel rays.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C27_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "analytical",
+          "question_text": "Which statement about image formation is TRUE for both concave and convex mirrors?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They can both form real and virtual images.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "They both obey the laws of reflection.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "They both always form diminished images.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They both have a real focus.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "All mirrors obey the fundamental laws of reflection.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C27_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "For which mirror can the image be magnified, real, and inverted?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Plane mirror",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Concave mirror",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Convex mirror",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both (b) and (c)",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Only concave mirrors can produce such images (object between C and F).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C27_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How do the uses of concave and convex mirrors generally differ based on their image-forming properties?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Concave mirrors are used where convergence or magnification is needed (shaving, focusing). Convex mirrors are used where a wide field of view is needed (security, rear-view).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Concave mirrors are used for wide view; convex for magnification.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both are used interchangeably.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Concave mirrors are only used in scientific instruments.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Application is driven by the mirror's optical properties.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C27_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is a convex mirror not suitable for applications requiring a focused, high-intensity spot of light?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because it diverges light rays, spreading them out rather than concentrating them.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because it absorbs most of the light.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because it forms real images.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because its focal length is too short.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Divergence vs convergence is the key differentiating factor.",
+          "exam_relevance": "medium"
+        }
+      ]
+    }
+  ]
+}

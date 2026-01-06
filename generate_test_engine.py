@@ -79,7 +79,7 @@ def generate_test_from_concepts(concept_ids, total_questions, easy_pct=30, mediu
     return questions
 
 
-def generate_test_with_difficulty_cap(chapters, total_questions, easy_pct=30, medium_pct=30, hard_pct=40):
+def generate_test_with_difficulty_cap(chapters, total_questions, easy_pct=30, medium_pct=30, hard_pct=40, subject="Physics"):
     """
     Generate a test with specific difficulty distribution.
     
@@ -89,6 +89,7 @@ def generate_test_with_difficulty_cap(chapters, total_questions, easy_pct=30, me
         easy_pct: int - Percentage of easy questions (default 30%)
         medium_pct: int - Percentage of medium questions (default 30%)
         hard_pct: int - Percentage of hard questions (default 40%)
+        subject: str - Subject name (default "Physics")
     
     Returns:
         list of question dicts or None if insufficient questions
@@ -121,10 +122,11 @@ def generate_test_with_difficulty_cap(chapters, total_questions, easy_pct=30, me
             JOIN concepts c ON q.concept_id = c.id
             JOIN chapters ch ON c.chapter_id = ch.id
             WHERE ch.chapter_number IN ({})
+              AND ch.subject = {}
               AND q.difficulty = {}
-        """.format(ch_placeholders, placeholder)
+        """.format(ch_placeholders, placeholder, placeholder)
         
-        cur.execute(query, (*chapters, difficulty))
+        cur.execute(query, (*chapters, subject, difficulty))
         rows = cur.fetchall()
         
         if len(rows) < count:
@@ -214,7 +216,7 @@ def generate_test(chapters, difficulties, total_questions):
 
 
 def create_admin_test(test_name, chapters, total_questions, duration_minutes, 
-                      easy_pct, medium_pct, hard_pct, created_by_user_id):
+                      easy_pct, medium_pct, hard_pct, created_by_user_id, subject="Physics"):
     """
     Create an admin test with pre-generated questions.
     
@@ -225,6 +227,7 @@ def create_admin_test(test_name, chapters, total_questions, duration_minutes,
         duration_minutes: int - Test duration
         easy_pct, medium_pct, hard_pct: int - Difficulty percentages
         created_by_user_id: int - Admin user ID
+        subject: str - Subject name (default "Physics")
     
     Returns:
         int - admin_test_id or None if failed
@@ -235,7 +238,7 @@ def create_admin_test(test_name, chapters, total_questions, duration_minutes,
     try:
         # Generate questions with difficulty distribution
         questions = generate_test_with_difficulty_cap(
-            chapters, total_questions, easy_pct, medium_pct, hard_pct
+            chapters, total_questions, easy_pct, medium_pct, hard_pct, subject
         )
         
         if questions is None:

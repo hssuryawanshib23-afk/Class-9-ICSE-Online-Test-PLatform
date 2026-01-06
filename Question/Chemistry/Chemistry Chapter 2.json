@@ -1,0 +1,4959 @@
+{
+  "chapter": {
+    "subject": "Chemistry",
+    "chapter_number": 2,
+    "chapter_name": "Chemical Changes and Reactions"
+  },
+  "concepts": [
+    {
+      "concept_name": "Definition of Chemical Reaction",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH2_C1_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a chemical reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A process where only the physical state of a substance changes.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A process of breaking chemical bonds in reactants and forming new bonds to create new substances.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A process where substances are mixed without any energy change.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The separation of mixtures into their components.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Chemical reaction involves bond breaking and forming.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C1_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following processes is the best example of a chemical reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Melting of ice.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Dissolving sugar in water.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Burning of magnesium ribbon in air.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Breaking of a glass tumbler.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Chemical reactions form new substances with different properties.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C1_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student claims that mixing salt and sand is a chemical reaction because a new mixture is formed. Why is this incorrect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because no heat is released during mixing.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because no new chemical substances with different bonds are formed; it's a physical mixture.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because the process is reversible, and all chemical reactions are irreversible.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because it does not require a catalyst.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Chemical reactions involve formation of new substances via bond changes, not just mixing.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C1_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In the reaction: Zn + H2SO4 -> ZnSO4 + H2, what indicates that a chemical reaction has occurred?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The zinc metal dissolves.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Effervescence due to hydrogen gas evolution.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The temperature of the solution decreases slightly.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The sulfuric acid changes from liquid to solid.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Evolution of gas is a characteristic of a chemical reaction.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C1_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does a chemical reaction fundamentally differ from a physical change?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A chemical change always requires heating, while a physical change does not.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A chemical change alters the chemical composition and identity of substances, while a physical change does not.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A chemical change is always reversible, while a physical change is not.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A chemical change never involves a change in state, while a physical change always does.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Chemical changes involve formation of new substances with new properties.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C1_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the process of digestion considered a chemical reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because it involves only the mechanical breakdown of food into smaller pieces.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because complex food molecules like starch are broken down into simpler molecules like glucose by enzymatic action, involving bond breaking and forming.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because it produces heat, and all heat-producing processes are chemical reactions.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because it happens inside the body, and all biological processes are chemical reactions.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Digestion involves decomposition reactions breaking down complex molecules.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Chemical Bond",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH2_C2_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a chemical bond?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The physical attraction between two different substances.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The force that holds the atoms of a molecule together in a compound.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The energy required to mix two solutions.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The space between molecules in a gas.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Chemical bond is the attractive force holding atoms together in molecules/compounds.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C2_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In a water molecule (H2O), what holds the hydrogen and oxygen atoms together?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Gravitational force.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Magnetic force.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Chemical bonds.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "The container in which the water is kept.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Atoms within a single molecule are held by chemical bonds.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C2_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student says that when salt (NaCl) dissolves in water, the chemical bonds within the NaCl molecules break permanently. What is the flaw in this statement?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Salt does not dissolve in water.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The ionic bonds in NaCl are broken during dissolution, but this is a physical change; the ions can recombine if the water evaporates.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The bonds in NaCl are not chemical bonds; they are physical bonds.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "When salt dissolves, new chemical bonds form between Na and water, creating a new compound.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Dissolution can involve bond separation (ionic dissociation) which is often physical and reversible.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C2_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "During the reaction 2H2 + O2 -> 2H2O, what happens to the chemical bonds?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The H-H and O=O bonds break, and new H-O bonds form in water molecules.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "The H-H and O=O bonds become stronger but do not break.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Only the O=O bond breaks, and the H-H bonds remain intact.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "No bonds break; the atoms simply rearrange their positions.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Chemical reactions involve breaking bonds in reactants and forming new bonds in products.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C2_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the role of a 'chemical bond' differ between a reactant molecule and a product molecule in a reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Bonds in reactants store energy that is always completely lost when they break.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Bonds in reactants are broken, releasing energy; bonds in products are formed, absorbing energy. The net energy change determines if the reaction is exo/endothermic.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Bonds only exist in products, not in reactants.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Bonds in reactants are physical, while bonds in products are chemical.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Bond breaking requires energy, bond forming releases energy. The net difference causes energy change.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C2_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the concept of a chemical bond essential for understanding chemical reactions?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because it explains why some substances are solid at room temperature.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because reactions involve the rearrangement of atoms, which is only possible through the breaking and forming of these bonds.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because it defines the color of a substance.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because all substances with chemical bonds are reactive.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Chemical reactions are fundamentally about changes in chemical bonding.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Conditions Necessary for Chemical Change",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH2_C3_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is NOT a general condition that can bring about a chemical change?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Mixing (Close Contact)",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Change in container shape",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Heat",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Light",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Chemical changes require conditions like mixing, heat, light, electricity, pressure, catalyst.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C3_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Lead nitrate and potassium iodide powders react when mixed together. Which condition is primarily responsible?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Light",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Electricity",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Mixing/Close Contact",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "High Pressure",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Some reactions occur simply by bringing reactants into close contact.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C3_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student thinks that all chemical reactions require an external energy source like heat to start. Which example proves this wrong?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Decomposition of potassium chlorate requires heating.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Reaction between lead nitrate and potassium iodide in solid state occurs on mere mixing at room temperature.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Electrolysis of water requires electricity.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Photosynthesis requires sunlight.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Some reactions occur spontaneously on mixing without external energy.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C3_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Why is a solution state sometimes necessary for a chemical reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To increase the volume of the reactants.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To allow ions or molecules to move freely and collide effectively.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "To decrease the temperature of the reaction.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To change the color of the reactants predictably.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Solution state increases particle mobility and collision frequency, facilitating reaction.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C3_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the role of 'pressure' as a condition differ from 'catalyst' in causing a chemical reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Pressure is always required, while a catalyst is never required.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Pressure primarily affects gaseous reactions by increasing particle collisions; a catalyst provides an alternative pathway with lower activation energy.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Pressure changes the chemical identity of reactants, while a catalyst does not.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They are the same thing; 'pressure' is a type of catalyst.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Pressure increases collision frequency (especially for gases). Catalyst lowers activation energy.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C3_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why might a chemical reaction that occurs readily in solution not occur when the same reactants are in solid state?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Solid-state reactions are always faster than solution reactions.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "In solids, particles are fixed and cannot move to collide effectively, whereas in solution, ions/molecules are mobile.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Light cannot penetrate solids, so photochemical reactions are impossible.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Solids have higher energy than solutions, preventing reactions.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Particle mobility is crucial for effective collisions leading to reaction.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Role of Heat (Thermal)",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH2_C4_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is meant by a thermal chemical reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A reaction that produces heat.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A reaction that occurs with the application of heat.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A reaction that absorbs sound energy.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A reaction that occurs only at very low temperatures.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Thermal reactions are initiated or sustained by heat.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C4_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following reactions requires heat to proceed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Zn + H2SO4 -> ZnSO4 + H2",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "CuCO3(s) -> CuO(s) + CO2(g) (with Δ symbol)",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "AgNO3(aq) + NaCl(aq) -> AgCl(s) + NaNO3(aq)",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "H2 + Cl2 -> 2HCl (in sunlight)",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Decomposition of copper carbonate is a thermal decomposition reaction.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C4_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student heats a mixture of iron and sulfur. It reacts to form iron sulfide. She concludes that heat is a reactant in this reaction. Why is this conclusion incorrect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Heat is a product, not a reactant, in this reaction.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Heat is a condition providing activation energy; it is not a substance that gets incorporated into the products.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Iron and sulfur do not react even on heating.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The reaction is photochemical, not thermal.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Heat is an energy condition, not a material reactant that appears in the chemical equation.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C4_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In industrial ammonia production (Haber process), why is heat applied even though the reaction N2 + 3H2 -> 2NH3 is exothermic?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To make the reaction endothermic.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To increase the reaction rate by providing activation energy, even though net heat is released.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "To decompose the ammonia as soon as it forms.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Heat is not used; the process is carried out at very low temperatures.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Heat can be used to initiate a reaction (overcome activation barrier) even if the overall process is exothermic.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C4_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does heating affect a reversible reaction like CuSO4.5H2O ⇌ CuSO4 + 5H2O compared to an irreversible decomposition like ZnCO3 -> ZnO + CO2?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In both cases, heating only causes forward reaction and the change is permanent.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "In reversible reaction, heating drives the forward reaction (dehydration), but on cooling/hydration, it can reverse. In irreversible decomposition, heating causes permanent breakdown.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Heating has no effect on the reversible reaction but causes the irreversible one.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Heating causes the reverse reaction in both cases.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Heat can be used to shift equilibrium in reversible reactions, while it simply causes irreversible decomposition in others.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C4_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does the decomposition of some substances, like potassium chlorate, require continuous heating?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because the decomposition reaction is endothermic and needs continuous energy input to proceed.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because heating is needed to cool down the products.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because the substance only reacts with the heat energy itself, consuming it.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because heating prevents the catalyst from working.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Endothermic reactions require continuous input of thermal energy to break bonds in reactants.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Role of Light (Photochemical)",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH2_C5_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a photochemical reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A reaction involving sound energy.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A reaction that occurs with the absorption of light energy.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A reaction that produces light.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A reaction that occurs only in the dark.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Photochemical reactions are initiated by light (photons).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C5_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is a photochemical reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Formation of HCl from H2 and Cl2 in sunlight.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Decomposition of CuCO3 on heating.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Neutralization of NaOH and HCl.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Electrolysis of water.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Reaction of hydrogen and chlorine requires light energy.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C5_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student stores a clear solution of silver nitrate in a transparent bottle on a windowsill. After a week, he finds a black deposit. He thinks the solution evaporated. What is the more likely cause?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The silver nitrate reacted with glass.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The silver nitrate underwent photochemical decomposition to form silver metal due to exposure to light.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The water in the solution absorbed carbon dioxide from air.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The silver nitrate crystallized out of solution.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Silver nitrate decomposes in light; hence it is stored in colored bottles.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C5_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Why are substances like hydrogen peroxide and silver nitrate solution stored in brown bottles in the lab?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Brown bottles are cheaper than clear ones.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To prevent photochemical decomposition by blocking light.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "To keep them warm.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To indicate they are dangerous chemicals.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Brown bottles protect light-sensitive chemicals from undergoing photochemical reactions.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C5_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the energy source in a photochemical reaction differ from that in a thermal reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Photochemical reactions use light energy (photons) to activate molecules, while thermal reactions use heat (kinetic energy).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Both use exactly the same form of energy but at different intensities.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Photochemical energy is always absorbed, thermal energy is always released.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Thermal reactions are faster than photochemical ones.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Different forms of energy (light vs. heat) can provide activation energy for reactions.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C5_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Photosynthesis is a vital photochemical reaction. What would be the direct consequence if light were completely absent?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The reaction would proceed faster in the dark.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The reaction would stop, as light energy is needed to break bonds in water and carbon dioxide to form glucose and oxygen.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The reaction would become exothermic.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Plants would start using heat energy from soil instead.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Photosynthesis is driven by light energy; it is the essential condition.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Role of Electricity (Electrochemical)",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH2_C6_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is an electrochemical reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A reaction that produces electricity.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A reaction that occurs with the absorption of electrical energy.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A reaction involving only metals.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A reaction that occurs spontaneously without any energy.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Electrochemical reactions are driven by electrical energy.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C6_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "The decomposition of acidulated water into hydrogen and oxygen is an example of a reaction requiring:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Light",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Electricity",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Pressure",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A Catalyst only",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Electrolysis of water is a classic electrochemical reaction.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C6_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "In the electrolysis of molten NaCl, sodium metal is produced at the cathode. A student argues that electricity is a reactant because it gets used up. What is incorrect about this?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Electricity is not used up; it is a form of energy that causes the decomposition, not a material substance.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Electricity is a product of this reaction.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Sodium is not produced; chlorine is produced at the cathode.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Molten NaCl decomposes on heating without electricity.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Electricity is an energy condition, not a chemical reactant that appears in the balanced equation.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C6_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Why is it necessary to pass electricity through molten NaCl rather than solid NaCl to obtain sodium metal?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Solid NaCl is a good conductor of electricity.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "In the molten state, ions are free to move and carry current, allowing the redox reaction to occur.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Solid NaCl reacts violently with electricity.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Heating solid NaCl produces sodium without electricity.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Electrolysis requires mobile ions to conduct electricity and undergo chemical change.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C6_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does an electrochemical decomposition reaction differ from a thermal decomposition reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Electrochemical decomposition uses electrical energy to break compounds, often producing elements. Thermal decomposition uses heat and often produces an element and a compound or two compounds.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "They are identical; both always produce gases.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Electrochemical reactions are always reversible, thermal ones are not.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Thermal decomposition requires a catalyst, electrochemical does not.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Different energy sources (electricity vs. heat) can cause decomposition, often yielding different products.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C6_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why can't we obtain aluminium metal by simply heating aluminium oxide, but we can obtain it by the electrolysis of molten aluminium oxide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Heating aluminium oxide makes it too volatile.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The bond between aluminium and oxygen is very strong. Heating alone cannot break it, but electrical energy provided during electrolysis can force the reduction of Al3+ ions to Al metal.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Heating converts it to another compound that is not useful.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Aluminium oxide is not ionic, so it cannot be electrolysed.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Some compounds are too stable for thermal decomposition and require the stronger driving force of electrolysis.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Role of Pressure",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH2_C7_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "For which type of reactants is high pressure most commonly applied to cause a chemical reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Solid-solid mixtures",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Gaseous reactants",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Aqueous solutions",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Molten ionic compounds",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Pressure significantly affects reactions involving gases by increasing collision frequency.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C7_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "The Haber process for ammonia synthesis: N2(g) + 3H2(g) ⇌ 2NH3(g) is carried out under high pressure (above 200 atm). Why?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To decrease the reaction rate.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To favor the forward reaction which produces a smaller number of gas molecules.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "To decompose ammonia into nitrogen and hydrogen.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To prevent the catalyst from working.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "High pressure favors the side with fewer gas molecules (4 vols -> 2 vols).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C7_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student reads that high pressure is used in the ammonia synthesis. He concludes that high pressure is a reactant. What is the correct interpretation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Pressure is a product of the reaction.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Pressure is a reaction condition that increases the rate and yield by forcing gas molecules closer together, not a consumed substance.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Pressure is only needed to contain the gases, not for the reaction itself.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Pressure is the catalyst for this reaction.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Pressure is a physical condition affecting equilibrium and rate, not a chemical entity.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C7_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "For the reaction 2SO2(g) + O2(g) ⇌ 2SO3(g), what would be the effect of increasing pressure on the yield of SO3?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Yield decreases because pressure favors reactants.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Yield increases because the reaction proceeds in the direction of fewer gas molecules (3 vols -> 2 vols).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Yield remains unchanged because pressure does not affect gas reactions.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Yield increases only if a catalyst is present.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Le Chatelier's Principle: High pressure favors the side with fewer moles of gas.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C7_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does applying high pressure differ from using a catalyst in affecting a chemical reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Pressure increases the rate by increasing collisions and can shift equilibrium. A catalyst increases rate by lowering activation energy but does not shift equilibrium.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Both shift the equilibrium position to the right.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Pressure is only for solids, catalyst is only for gases.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A catalyst is always required, pressure is never required.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Pressure affects both rate and equilibrium position for gaseous reactions. Catalyst affects only rate.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C7_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is high pressure NOT typically used for reactions involving only liquids or solids?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Liquids and solids are incompressible, so pressure does not significantly increase particle concentration or collision frequency.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "High pressure would cause them to evaporate instantly.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Liquids and solids react only at low pressure.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It is too dangerous to pressurize solids.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Pressure significantly affects gases because they are compressible; liquids/solids are not.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Catalyst and its Types",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH2_C8_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a catalyst?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A substance that is consumed in a reaction and appears in the products.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A substance that changes the rate of a chemical reaction without itself undergoing any permanent chemical change.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A substance that always slows down a reaction.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A substance that provides the energy for a reaction.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Catalyst alters rate, remains unchanged in mass and composition at the end.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C8_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In the decomposition of KClO3 to give oxygen, manganese dioxide (MnO2) is used. What is its role?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Reactant",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Positive Catalyst",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Negative Catalyst",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Promoter",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "MnO2 speeds up the decomposition of KClO3; it is a positive catalyst.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C8_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student adds a pinch of MnO2 to H2O2 and observes rapid bubbling. He filters the solution, dries the leftover solid, and finds its mass unchanged. He concludes the solid is a reactant that got used up and then regenerated. What is the more accurate conclusion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The solid is a catalyst; it facilitated the reaction without being consumed, hence mass remains the same.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "The solid dissolved completely and then reappeared after drying.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The mass should have increased because the solid absorbed oxygen.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The solid is a promoter for a different catalyst present in water.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "A catalyst remains unchanged in mass and chemical composition at the end of the reaction.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C8_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In the Ostwald process for nitric acid, ammonia and oxygen react in the presence of platinum catalyst. What is the primary advantage of using platinum?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It makes the reaction endothermic.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It increases the rate of reaction at a lower temperature, making the process economically viable.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It changes the products formed.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It is consumed and needs continuous replacement.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Catalysts allow reactions to proceed at practical rates and temperatures.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C8_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does a positive catalyst differ from a negative catalyst (inhibitor)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Positive catalyst increases reaction rate; negative catalyst decreases reaction rate.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Positive catalyst is used up, negative catalyst is not.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Positive catalyst works only for exothermic reactions.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Negative catalyst always changes the products formed.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Catalysts can accelerate (positive) or decelerate (negative) a reaction.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C8_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does a catalyst not appear in the stoichiometric chemical equation for a reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because its quantity is too small to matter.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because it is not a reactant or product; it remains chemically unchanged and is often written above the arrow as a condition.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because it is a gas and escapes.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because it gets completely consumed and converted into products.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Catalyst is not consumed, so it is not part of the reactant/product list in the equation.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Promoter",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH2_C9_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a promoter in the context of catalysis?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A substance that slows down the catalyst.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A substance that improves the efficiency of a catalyst.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A substance that replaces the catalyst.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A substance that is the main reactant.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Promoter enhances the performance of a catalyst.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C9_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In the Haber process for ammonia, iron is the catalyst. Which substance acts as a promoter?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Nitrogen",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Hydrogen",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Molybdenum",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Ammonia",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Molybdenum is a promoter for the iron catalyst in ammonia synthesis.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C9_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student confuses a promoter with a catalyst. What is the key distinguishing feature?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A promoter itself does not catalyze the reaction; it enhances the action of the true catalyst.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "A promoter is always a gas, while a catalyst is a solid.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "A promoter is consumed, while a catalyst is not.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no difference; the terms are interchangeable.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Promoter is a helper substance that increases the effectiveness of a catalyst.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C9_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Why is a promoter used in industrial processes like ammonia manufacture?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To make the catalyst more selective and active, reducing cost and energy requirements.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "To slow down the reaction to prevent explosions.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "To neutralize acidic by-products.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To act as a main reactant alongside nitrogen.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Promoters improve process economics by making the catalyst work better.",
+          "exam_relevance": "low"
+        },
+        {
+          "question_id": "CH2_C9_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the role of a promoter differ from that of a negative catalyst?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A promoter enhances a catalyst's activity to speed up a reaction. A negative catalyst directly slows down a reaction.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Both are types of catalysts that speed up reactions.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "A promoter is always a metal, a negative catalyst is always a non-metal.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A promoter is consumed, a negative catalyst is not.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Promoter aids a catalyst (indirect effect on rate). Negative catalyst directly retards rate.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C9_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "If molybdenum were omitted from the catalyst bed in an ammonia plant, what might be a likely consequence?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The iron catalyst would work even better.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The iron catalyst would be less efficient, possibly requiring higher temperature/pressure to achieve the same yield, increasing costs.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The reaction would stop completely.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A different product, like nitric oxide, would form.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Promoters enhance catalyst performance; their absence reduces efficiency.",
+          "exam_relevance": "low"
+        }
+      ]
+    },
+    {
+      "concept_name": "Characteristics of Chemical Reactions - Evolution of Gas",
+      "concept_type": "identification",
+      "questions": [
+        {
+          "question_id": "CH2_C10_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is effervescence in a chemical reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Change in color of the solution.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Formation of gas bubbles in a liquid during a reaction.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Formation of a solid precipitate.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Increase in temperature.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Effervescence is the visible evolution of a gas as bubbles.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C10_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which reaction is most likely to show effervescence?",
+          "options": [
+            {
+              "label": "A",
+              "text": "AgNO3(aq) + NaCl(aq) -> AgCl(s) + NaNO3(aq)",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Zn(s) + H2SO4(aq) -> ZnSO4(aq) + H2(g)",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Fe(s) + CuSO4(aq) -> FeSO4(aq) + Cu(s)",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "NaOH(aq) + HCl(aq) -> NaCl(aq) + H2O(l)",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Reaction of a metal with acid produces hydrogen gas, causing effervescence.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C10_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "On heating solid lead nitrate, brown fumes are seen. A student says this is not gas evolution because the fumes are colored. Is the student correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Yes, only colorless gas evolution counts.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "No, evolution of any gaseous product (colored or colorless) is gas evolution. The brown fumes are nitrogen dioxide gas.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Yes, the brown substance is a solid dust.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "No, it's a change of state, not gas evolution.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Gas evolution includes colored gases like NO2, Cl2, etc.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C10_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "How can you test that the gas evolved when zinc reacts with dilute acid is hydrogen?",
+          "options": [
+            {
+              "label": "A",
+              "text": "By passing it through lime water.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "By bringing a burning splinter near the gas; it burns with a pop sound.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "By observing its brown color.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "By testing with blue litmus paper which turns red.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Hydrogen is combustible and produces a characteristic pop sound.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C10_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does evolution of gas as a characteristic differ from a change of state?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Evolution of gas involves formation of a new gaseous product from non-gaseous reactants. Change of state may involve a physical transformation (e.g., gas to solid) of an existing substance without new gas formation.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "They are the same characteristic.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Evolution of gas always produces heat, change of state absorbs heat.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Change of state is more reliable evidence of a chemical change.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Gas evolution is production of a new gas. Change of state is a physical transformation of a reactant/product.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C10_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is effervescence considered a clear, observable sign of a chemical reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because bubbles always mean a gas is being produced from a chemical change, not just from boiling (physical change).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because it only happens in neutralization reactions.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because it changes the mass of the container.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because it is always accompanied by a color change.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Formation of a new gaseous product is strong evidence of chemical change.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Characteristics of Chemical Reactions - Change of Colour",
+      "concept_type": "identification",
+      "questions": [
+        {
+          "question_id": "CH2_C11_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is an example of a chemical reaction identified by a change in colour?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Mixing of red and blue inks to get purple.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Adding iron to blue copper sulphate solution to give a green solution.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Heating blue hydrated copper sulphate to get white powder.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Dissolving potassium permanganate crystals in water to give a purple solution.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "A chemical change where reactants/products have different colors indicates a reaction.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C11_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "When chlorine gas is passed through a colorless potassium iodide solution, the solution turns brown. What does this colour change indicate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A physical mixing has occurred.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Iodine has been displaced and formed in the solution, indicating a chemical reaction.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "The chlorine has dissolved to give a brown solution.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The potassium iodide has evaporated.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Formation of brown iodine indicates a displacement reaction.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C11_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Heating green vitriol (FeSO4.7H2O) gives a white residue. A student says this is not a colour change because green to white is not a dramatic colour. Is the student correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Yes, only changes to primary colors like red or blue count.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "No, any distinct change in the colour of a substance during a process is a colour change, indicating a chemical change here.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Yes, because the green substance was impure.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "No, it is actually a change of state, not colour.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Any perceptible and permanent colour change of reactants/products can signal a chemical reaction.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C11_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In a test, a colourless solution turns milky when carbon dioxide is bubbled through it. What was the likely solution and what does the colour change signify?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Copper sulphate solution; formation of copper carbonate.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Limewater (Ca(OH)2); formation of insoluble white calcium carbonate.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Acidified KMnO4; decolorization.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Starch solution; formation of a blue complex.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Limewater turns milky due to formation of white CaCO3 precipitate.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C11_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How is a colour change due to chemical reaction different from a colour change due to dilution?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Chemical colour change involves formation of new colored substances, is permanent and not reversed by simple physical means. Dilution just decreases intensity and is reversible by evaporation.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Both are permanent changes.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Dilution always produces a darker color.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Only chemical colour changes involve gases.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Chemical colour change results from new chemical species; physical colour change from concentration/path length.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C11_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why might a colour change NOT always be a reliable indicator of a chemical reaction on its own?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Some chemical reactions produce no colour change, and some physical processes (like mixing paints) can cause colour changes without chemical change.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Colour changes are always caused by temperature changes only.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Our eyes cannot detect all colour changes.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "All colour changes are due to changes in state.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Colour change is a supporting characteristic; other evidence (gas, precipitate, energy change) confirms chemical change.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Characteristics of Chemical Reactions - Formation of Precipitate",
+      "concept_type": "identification",
+      "questions": [
+        {
+          "question_id": "CH2_C12_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a precipitate in a chemical reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A gas that rises to the surface.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "An insoluble solid substance formed during a reaction in a solution.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The liquid portion after a reaction.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A change in the temperature of the mixture.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Precipitate is an insoluble solid formed from a reaction in solution.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C12_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which reaction results in the formation of a precipitate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "HCl(aq) + NaOH(aq) -> NaCl(aq) + H2O(l)",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Na2SO4(aq) + BaCl2(aq) -> BaSO4(s) + 2NaCl(aq)",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "H2(g) + Cl2(g) -> 2HCl(g)",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "C(s) + O2(g) -> CO2(g)",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Barium sulphate is a classic white precipitate.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C12_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "On mixing two clear solutions, a white solid appears. A student filters it, dries it, and finds it dissolves in water. Was it a true precipitate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Yes, all solids formed in solutions are precipitates.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "No, a true precipitate is insoluble in the reaction medium (the solvent used). If it dissolves in the same solvent (water), it was likely a crystallized soluble salt or a different phenomenon.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Yes, because it was white.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "No, precipitates are always colored.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Precipitate is defined by its insolubility under the reaction conditions.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C12_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "How can you confirm that the solid formed in the reaction between silver nitrate and sodium chloride is a precipitate and not an undissolved reactant?",
+          "options": [
+            {
+              "label": "A",
+              "text": "By checking if it dissolves on adding more water (a true precipitate won't).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "By measuring its melting point.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "By seeing if it floats on water.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "By tasting it.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Insolubility distinguishes a precipitate from an unreacted solid.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C12_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does precipitate formation as a characteristic differ from a simple change of state (like liquid to solid)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Precipitate formation involves two solutions reacting to form an insoluble solid. A change of state may involve cooling/freezing of a single substance without chemical change.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "They are identical; both produce a solid.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Precipitate formation always releases heat, change of state always absorbs heat.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Change of state is a better indicator of chemical change.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Precipitate is a new, insoluble product from a reaction. Freezing is a physical change of the same substance.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C12_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the formation of a precipitate considered strong evidence for a chemical reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because it usually indicates the formation of a new, insoluble compound from ions in solution, which is a clear change in chemical identity.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because all precipitates are gases that have solidified.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because it always happens with a color change.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because it proves the reaction is exothermic.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Precipitation reactions are double decomposition reactions forming new ionic compounds.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Characteristics of Chemical Reactions - Change of State",
+      "concept_type": "identification",
+      "questions": [
+        {
+          "question_id": "CH2_C13_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is an example of a chemical reaction accompanied by a change of state?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Melting of ice.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Ammonia gas reacting with hydrogen chloride gas to form solid ammonium chloride.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Sublimation of iodine.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Condensation of water vapor on a cold surface.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Formation of a solid from gaseous reactants is a change of state due to chemical reaction.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C13_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In the reaction: 2H2(g) + O2(g) -> 2H2O(l), what is the change of state observed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Gas to solid",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Gas to liquid",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Liquid to gas",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "No change of state",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Gaseous reactants combine to form liquid water under suitable conditions.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C13_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Heating hydrated copper sulphate converts blue crystals to a white powder. A student says this is only a change of state (solid to solid). Why is this statement incomplete?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because the mass changes dramatically.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because it is primarily a chemical decomposition reaction (loss of water of crystallization) that results in a change of state (release of water vapor) and colour.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because the white powder is actually a liquid.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because no heat was applied.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "A change of state during a reaction is often a consequence of a chemical change, not the change itself.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C13_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Burning of a candle involves melting of wax (solid to liquid) and burning of wax vapour. Which part involves a change of state due to a chemical reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Melting of wax (physical change).",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Burning of wax vapour in air to produce CO2 and H2O gases (chemical change, but state remains gaseous).",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The overall process shows a solid fuel converting to gases, but the key chemical change (combustion) produces gases from a vapour.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "None, it's all physical.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "In complex processes, isolate the chemical reaction step to identify if a change of state in products occurs.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C13_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How is a change of state as evidence for a chemical reaction different from a simple physical change of state?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In a chemical reaction, the change of state occurs because new substances with different physical states are formed. In a physical change, the same substance changes state.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Chemical change of state always requires heating, physical does not.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Physical change of state is permanent, chemical is temporary.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no way to differentiate.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "The key is whether the substance undergoing the state change is chemically the same or different.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C13_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is a change of state alone not conclusive proof of a chemical reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because many physical processes (melting, freezing, sublimation) involve changes of state without any change in chemical identity.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because all chemical reactions involve a change of state.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because changes of state are always reversible, and chemical reactions are not.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because it is impossible to observe state changes.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "One must corroborate state change with other evidence (new substance formed) to confirm chemical change.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Direct Combination (Synthesis) Reaction",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH2_C14_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a direct combination or synthesis reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A reaction where a compound breaks down into simpler substances.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A reaction where two or more substances combine to form a single new substance.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A reaction where one element displaces another from a compound.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A reaction where two compounds exchange ions.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Combination reactions have multiple reactants and a single product.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C14_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is a synthesis reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "2HgO -> 2Hg + O2",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "2Mg + O2 -> 2MgO",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Zn + CuSO4 -> ZnSO4 + Cu",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "BaCl2 + Na2SO4 -> BaSO4 + 2NaCl",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Metal combining with oxygen is a classic synthesis reaction.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C14_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Is the reaction CaO + H2O -> Ca(OH)2 a synthesis reaction? A student says no because water is a compound, not an element. Is the student correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Yes, synthesis reactions are only between elements.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "No, synthesis reactions include combinations of elements and/or compounds to form a single product. This is a synthesis reaction.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Yes, because the product is not a single substance.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "No, because it is a decomposition reaction in disguise.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Synthesis reactions can involve elements, compounds, or both.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C14_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Which of the following industrial processes is based on a synthesis reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Electrolysis of water to produce hydrogen and oxygen.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Haber process: N2(g) + 3H2(g) -> 2NH3(g)",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Extraction of iron from haematite in a blast furnace.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Neutralization of acid with base.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Ammonia synthesis is a critical industrial combination reaction.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C14_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does a synthesis reaction differ from a polymerization reaction (which also combines many small molecules into one large one)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Synthesis reactions as defined at this level are typically simpler, combining two or a few reactants. Polymerization is a specific type of synthesis involving many monomer units.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "They are exactly the same.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Synthesis reactions always produce gases, polymerization produces solids.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Polymerization is a decomposition reaction.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Polymerization is a sub-class of addition/combination reactions.",
+          "exam_relevance": "low"
+        },
+        {
+          "question_id": "CH2_C14_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why are many synthesis reactions exothermic?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because bond formation in the product releases more energy than is required to break bonds in the reactants.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because they always require a catalyst that generates heat.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because they involve only gases, which always release heat on reaction.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because synthesis is the opposite of decomposition, which is endothermic.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Net energy release (exothermic) often accompanies bond formation in stable products.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Decomposition Reaction",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH2_C15_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a decomposition reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Two compounds exchanging ions.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A single compound breaking down into two or more simpler substances (elements or compounds).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Two elements combining to form a compound.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "An element displacing another from a compound.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Decomposition: One reactant -> Two or more products.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C15_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is a decomposition reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "2H2 + O2 -> 2H2O",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "2KClO3 -> 2KCl + 3O2",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Fe + CuSO4 -> FeSO4 + Cu",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "NH3 + HCl -> NH4Cl",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Potassium chlorate decomposes on heating to give potassium chloride and oxygen.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C15_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Heating ammonium chloride produces ammonia and hydrogen chloride gases which recombine on cooling. A student says this is not a true decomposition reaction because it's reversible. Is the student correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Yes, decomposition reactions are always irreversible.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It is still a decomposition reaction (thermal dissociation), a sub-type that is reversible. The forward process is decomposition.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Yes, because the products are gases.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "No, it's a combination reaction.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Reversible decomposition is called thermal dissociation.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C15_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In the decomposition of lead nitrate, what are the products observed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Lead, nitrogen, oxygen.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Lead monoxide (yellow solid), nitrogen dioxide (brown gas), oxygen (colorless gas).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Lead dioxide, nitric oxide, oxygen.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Lead nitride and oxygen.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "2Pb(NO3)2 -> 2PbO + 4NO2 + O2",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C15_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does thermal decomposition differ from electrolytic decomposition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Thermal decomposition uses heat energy, often producing an oxide and gas(es). Electrolytic decomposition uses electrical energy, often producing elements.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Thermal decomposition is always reversible, electrolytic is not.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Electrolytic decomposition only works for solids, thermal for liquids.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They are identical; both use electricity.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Different energy sources lead to different decomposition pathways and products.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C15_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why are most decomposition reactions endothermic?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because energy (heat, light, electricity) is required to break the chemical bonds in the reactant compound.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because they always occur spontaneously.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because they produce gases which cool the surroundings.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because a catalyst is always needed, and catalysts absorb heat.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Bond breaking requires an input of energy.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Thermal Decomposition of Metal Compounds",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH2_C16_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is thermal decomposition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Decomposition caused by light.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Decomposition caused by heat.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Decomposition caused by electricity.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Decomposition caused by pressure.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Thermal = related to heat.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C16_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which metal carbonate decomposes on heating to give the metal oxide and carbon dioxide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sodium carbonate",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Calcium carbonate",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Potassium carbonate",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "All of the above",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Carbonates of less reactive metals (Ca, Mg, Zn, Cu, Pb) decompose on heating. Na2CO3, K2CO3 are stable.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C16_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student heats sodium hydrogen carbonate and obtains sodium carbonate, water, and carbon dioxide. He classifies it as thermal decomposition of a metal carbonate. What is inaccurate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It is decomposition, but of a metal hydrogen carbonate (bicarbonate), not a metal carbonate.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Sodium hydrogen carbonate does not decompose on heating.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The products are wrong; it should give sodium oxide and CO2.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It is a combination reaction, not decomposition.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Metal hydrogen carbonates decompose to carbonates, not directly to oxides.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C16_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "On strong heating, which nitrate gives a metal, nitrogen dioxide, and oxygen?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Potassium nitrate",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Silver nitrate",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Calcium nitrate",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Sodium nitrate",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Silver nitrate decomposes to silver metal, NO2, and O2. Nitrates of metals low in reactivity series decompose to metal.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C16_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the thermal decomposition pattern of nitrates differ for metals high vs. low in the reactivity series?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Highly reactive metals (K, Na) give nitrite + O2. Less reactive metals (Pb, Cu) give metal oxide + NO2 + O2. Silver gives metal + NO2 + O2.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "All metal nitrates give the same products: metal oxide, nitrogen, and oxygen.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Highly reactive metals give metal + nitrogen + oxygen.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no pattern; it's random.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Thermal stability of nitrates decreases down the reactivity series.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C16_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is lime (CaO) manufactured by the thermal decomposition of limestone (CaCO3)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because it is an endothermic reaction that requires heat input, but it's a simple and effective way to obtain the useful base CaO from a abundant mineral.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because CaCO3 decomposes at room temperature spontaneously.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because the reaction produces electricity which can be used.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because it's a reversible reaction, so CaO can be easily converted back.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Industrial application of thermal decomposition.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Reversible Reaction and Thermal Dissociation",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH2_C17_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a reversible reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A reaction that proceeds in one direction only.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A reaction where products can recombine to form the original reactants under suitable conditions.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A reaction that is very fast.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A reaction that produces a gas.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Reversible reactions can go forward and backward.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C17_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which symbol is used to represent a reversible reaction in a chemical equation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "->",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "=>",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "⇌",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "+",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Double-headed arrow signifies reversibility.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C17_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Heating blue vitriol (CuSO4.5H2O) gives white anhydrous CuSO4 and water vapour. On adding water to the white powder, blue crystals reform. A student says this is not a reversible reaction because different conditions (heat vs. add water) are used. Is the student correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Yes, reversible reactions must occur in the same closed system without adding/removing components.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It is still considered reversible because the products can be converted back to reactants, even if conditions change (common example in textbooks).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Yes, because water is added from outside.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "No, it's a displacement reaction.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Reversibility often requires changing a condition (heat, pressure, concentration).",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C17_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "What is thermal dissociation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Decomposition caused by light.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A reversible decomposition reaction brought about by heat.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Permanent decomposition using electricity.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Combination reaction requiring heat.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Thermal dissociation is a specific type of reversible decomposition.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C17_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does a reversible reaction differ from a physical change like melting and freezing?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Reversible chemical reactions involve breaking and forming of chemical bonds to create new substances. Physical changes like melting involve overcoming intermolecular forces without changing chemical identity.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "They are the same; both use double arrows.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Physical changes are never reversible.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Reversible reactions never reach a state of balance.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Reversibility can occur in both chemical and physical processes; the nature of change differs.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C17_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the concept of reversible reactions important in industrial chemistry (e.g., Haber process)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because it allows chemists to manipulate conditions (pressure, temperature, catalyst) to maximize the yield of the desired product at equilibrium.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because reversible reactions are faster than irreversible ones.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because they are easier to control and always give 100% yield.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because they don't require any energy input.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Understanding equilibrium is key to optimizing industrial chemical synthesis.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Displacement Reaction",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH2_C18_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a displacement reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Two compounds exchanging ions.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A more reactive element displacing a less reactive element from its compound.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A single compound breaking into two.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Two elements combining.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Displacement is based on relative reactivity.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C18_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is a displacement reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "2Na + Cl2 -> 2NaCl",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Fe + CuSO4 -> FeSO4 + Cu",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "CaCO3 -> CaO + CO2",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "NaOH + HCl -> NaCl + H2O",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Iron displaces copper from copper sulphate.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C18_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Will copper metal displace zinc from zinc sulphate solution?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Yes, because copper is shiny.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "No, because zinc is more reactive than copper. A more reactive element cannot be displaced by a less reactive one.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Yes, because copper is heavier.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "No, because zinc sulphate is insoluble.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The reactivity series determines the direction of displacement.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C18_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Chlorine gas is passed through a solution of potassium bromide. What happens and what type of reaction is it?",
+          "options": [
+            {
+              "label": "A",
+              "text": "No reaction; mixture remains colorless.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The solution turns brown due to formation of iodine; it's a displacement reaction.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The solution turns brown due to formation of bromine; it's a displacement reaction (Cl2 + 2KBr -> 2KCl + Br2).",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "A white precipitate forms; it's a double decomposition.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "More reactive halogen (Cl) displaces less reactive halogen (Br) from its salt.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C18_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does a single displacement reaction differ from a double displacement reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Single displacement: One element displaces another from a compound (A + BC -> AC + B). Double displacement: Two compounds exchange ions (AB + CD -> AD + CB).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Single displacement always produces a gas, double displacement always produces a precipitate.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "They are the same; 'single' and 'double' refer to the number of reactants.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Single displacement is irreversible, double displacement is reversible.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Fundamental difference in the process: one element vs. ion exchange.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C18_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why can displacement reactions be used to extract metals like copper from their ores?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because a more reactive metal (like iron) can displace a less reactive metal (copper) from its compound in solution, providing a simple extraction method.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because displacement always produces the metal in pure gaseous form.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because it is the only reaction that involves metals.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because it requires no energy input.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Application of displacement in metallurgy.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Activity Series of Metals",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH2_C19_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What does the activity series of metals represent?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The density of metals.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The order of reactivity of metals, with the most reactive at the top.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The melting points of metals.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The alphabetical order of metal names.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Activity series orders metals by tendency to lose electrons.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C19_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which metal is the most reactive according to the typical activity series?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Silver",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Copper",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Potassium",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Iron",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Potassium (K) is at the top of the series.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C19_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Hydrogen is placed in the activity series between lead and copper. What does this imply?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hydrogen is a metal.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Metals above hydrogen can displace it from acids, metals below cannot.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Hydrogen can displace all metals from their salts.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Hydrogen is less reactive than copper.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Hydrogen's position benchmarks metal reactivity with acids.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C19_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Which of the following pairs will NOT react via displacement?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Zinc + Copper sulphate solution",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Silver + Zinc sulphate solution",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Magnesium + Iron sulphate solution",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Aluminium + Lead nitrate solution",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Silver is less reactive than zinc, so no displacement.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C19_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the activity series for metals differ from the reactivity trend for halogens?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For metals, reactivity increases going up the series (losing electrons easily). For halogens, reactivity decreases going down the group (gaining electrons less easily).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "They are identical; both have potassium at the top.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Metals become more reactive down the series, halogens become more reactive up the series.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no series for halogens.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Metal reactivity is based on electron loss, halogen reactivity on electron gain.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C19_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is gold found in nature mainly as the free metal, while sodium is never found free?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Gold is very low in the activity series (unreactive) and does not readily form compounds. Sodium is very high (very reactive) and forms stable compounds instantly.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Gold is lighter than air.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Sodium is insoluble in water.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Gold is artificially made in labs.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Activity series explains natural occurrence of elements.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Double Decomposition (Double Displacement) Reaction",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH2_C20_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a double decomposition reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "One element replaces another in a compound.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Two compounds react by exchange of ions to form two new compounds.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A compound breaks into simpler substances.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Two elements combine to form a compound.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Double decomposition involves ion exchange.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C20_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which is an example of double decomposition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Zn + 2HCl -> ZnCl2 + H2",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Pb(NO3)2 + 2KI -> PbI2 + 2KNO3",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "2KClO3 -> 2KCl + 3O2",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "CH4 + 2O2 -> CO2 + 2H2O",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Lead nitrate and potassium iodide exchange ions to form lead iodide (ppt) and potassium nitrate.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C20_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "In the reaction: FeS(s) + H2SO4(aq) -> FeSO4(aq) + H2S(g), a gas is evolved. Is this still a double decomposition reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "No, double decomposition only forms precipitates.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Yes, it involves exchange of ions (Fe2+ and H+), and one product is a gas. It is a type of double decomposition with gas evolution.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "No, it's a displacement reaction because hydrogen is displaced.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "No, it's a decomposition of FeS.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Double decomposition can produce a precipitate, gas, or water.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C20_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "What is the driving force for many double decomposition reactions occurring in solution?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Formation of an insoluble precipitate, a gas, or water (a weakly ionized substance).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Increase in temperature.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Absorption of light.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The presence of a catalyst.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Removal of ions from solution (as ppt, gas, or H2O) drives the reaction to completion.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C20_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does a precipitation reaction relate to a double decomposition reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Precipitation reaction is a sub-category of double decomposition where one product is an insoluble solid (precipitate).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "They are completely different; precipitation is physical, double decomposition is chemical.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Precipitation involves only metals, double decomposition involves only non-metals.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Double decomposition is a type of precipitation reaction.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Precipitation reactions are a common outcome of double decomposition.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C20_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is a double decomposition reaction between NaCl and KNO3 in aqueous solution not observed to proceed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because all possible products (NaNO3 and KCl) are soluble in water, so no precipitate, gas, or water is formed to drive the reaction. All ions remain in solution.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because sodium and potassium are too reactive.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because it requires a catalyst.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because it is a very fast reaction that completes instantly.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Double decomposition needs a driving force like insolubility.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Neutralization Reaction",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH2_C21_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a neutralization reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Reaction between an acid and a base to form salt and water only.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Reaction between two acids.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Reaction that produces a gas.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Reaction between two salts.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Acid + Base -> Salt + Water.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C21_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is a neutralization reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "NaOH + HCl -> NaCl + H2O",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Zn + H2SO4 -> ZnSO4 + H2",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "CaCO3 -> CaO + CO2",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "AgNO3 + NaCl -> AgCl + NaNO3",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Classic example of acid-base neutralization.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C21_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student reacts copper oxide (a base) with sulphuric acid to get copper sulphate and water. He says it's not neutralization because copper oxide is not an alkali (soluble base). Is he correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Yes, only reactions with alkalis like NaOH are neutralization.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "No, neutralization is between an acid and any base (soluble or insoluble) producing salt and water. This is a neutralization reaction.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Yes, because the product is blue, not colorless.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "No, it's a displacement reaction.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Base includes both soluble alkalis and insoluble metal oxides/hydroxides.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C21_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Why is milk of magnesia (Mg(OH)2) used for stomach acidity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It neutralizes excess stomach acid (HCl) via a neutralization reaction, relieving pain.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "It cools the stomach.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It acts as a catalyst to digest food faster.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It displaces the acid from the stomach lining.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Practical application of neutralization.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C21_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How is a neutralization reaction a special case of a double decomposition reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In neutralization, H+ from acid and OH- from base exchange to form water (H2O), a weakly ionized product, while the metal and acid radical form the salt. This ion exchange fits the double decomposition pattern.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "They are completely unrelated.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Neutralization always produces a precipitate, double decomposition does not.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Double decomposition is a type of neutralization.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Neutralization can be viewed as double decomposition where water is the driving product.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C21_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does the temperature usually increase during a neutralization reaction between a strong acid and a strong base?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because the formation of water from H+ and OH- ions is a highly exothermic process.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because the salt formed releases heat when it dissolves.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because acids and bases are always hot.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because a catalyst is always present that produces heat.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Neutralization is exothermic due to bond formation in water.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Hydrolysis of Salts",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH2_C22_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is hydrolysis of a salt?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Decomposition of salt by water.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Reaction of a salt with water to form an acidic or basic solution.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Neutralization of an acid and a base.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Double decomposition between two salts.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Hydrolysis involves salt + water -> acid + base (partial).",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C22_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "A solution of ammonium chloride turns blue litmus red. This is due to:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Neutralization",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Hydrolysis (salt of weak base and strong acid)",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Displacement",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Decomposition",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "NH4Cl hydrolyses to give acidic solution (HCl).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C22_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Sodium chloride solution is neutral. A student says this is because it does not undergo hydrolysis. Why is this correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "NaCl is formed from strong acid (HCl) and strong base (NaOH). Their ions do not react with water to change pH, so no hydrolysis occurs.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because NaCl is insoluble in water.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because it is a covalent compound.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because hydrolysis only occurs with heating.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Salts of strong acid + strong base do not hydrolyse; solution is neutral.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C22_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Which salt, when dissolved in water, will give a solution that turns red litmus blue?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ammonium nitrate",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Sodium carbonate",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Potassium sulphate",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Aluminium chloride",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Na2CO3 (salt of strong base + weak acid) hydrolyses to give basic solution.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C22_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How is hydrolysis chemically the reverse of neutralization?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Neutralization: Acid + Base -> Salt + Water. Hydrolysis: Salt + Water -> Acid + Base (often partial).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "They are exactly the same process.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Neutralization produces heat, hydrolysis absorbs heat, but they are not reverses.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Hydrolysis always needs a catalyst, neutralization does not.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Hydrolysis can be seen as the reverse of the neutralization that formed the salt.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C22_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does the hydrolysis of a salt of a weak acid and strong base (like CH3COONa) make the solution basic?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The anion (CH3COO-) reacts with water to form the weak acid (CH3COOH) and OH- ions, increasing OH- concentration.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "The sodium metal reacts with water to give NaOH.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Water itself decomposes to give more OH-.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The salt absorbs CO2 from air making it basic.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "The anion of the weak acid is a strong conjugate base that hydrolyses.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Exothermic Reaction",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH2_C23_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is an exothermic reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A reaction that absorbs heat from surroundings.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A reaction that releases heat to the surroundings.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A reaction that requires continuous heating.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A reaction that occurs only in sunlight.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Exo = exit, thermic = heat.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C23_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is an exothermic reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Decomposition of CaCO3",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Burning of carbon in oxygen",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Photosynthesis",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Electrolysis of water",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Combustion reactions are highly exothermic.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C23_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "In the Haber process, N2 + 3H2 -> 2NH3 + heat, heat is released. Yet the process is carried out at high temperature. A student says this makes it endothermic. Is the student correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Yes, if heat is applied, it must be endothermic.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "No, the reaction itself is exothermic (net heat release). High temperature is used to increase the rate, even though it slightly reduces yield (Le Chatelier).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Yes, because a catalyst is used.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "No, it is neither exo nor endothermic.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "A reaction can be exothermic but still require initial heating for kinetics.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C23_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Which of the following processes is NOT exothermic?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Respiration",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Setting of cement",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Decomposition of vegetable matter into compost",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Evaporation of water",
+              "is_correct": true
+            }
+          ],
+          "correct_label": "D",
+          "key_concept": "Evaporation is a physical endothermic process.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C23_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the energy profile of an exothermic reaction differ from an endothermic one?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In exothermic, the energy of products is lower than reactants; heat is released. In endothermic, energy of products is higher; heat is absorbed.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Exothermic reactions have higher activation energy.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Endothermic reactions always start spontaneously.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both have the same energy profile.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Energy difference between reactants and products determines exo/endothermic nature.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C23_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the reaction of quicklime (CaO) with water used in self-heating cans?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because it is a highly exothermic reaction that releases sufficient heat to warm food/drink.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because it absorbs heat and cools the can.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because it produces hydrogen gas which burns.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because it is a reversible reaction.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Practical application of exothermic reactions.",
+          "exam_relevance": "low"
+        }
+      ]
+    },
+    {
+      "concept_name": "Endothermic Reaction",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH2_C24_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is an endothermic reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A reaction that releases heat.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A reaction that absorbs heat from the surroundings.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A reaction that occurs without any energy change.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A reaction that produces light.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Endo = inside, thermic = heat.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C24_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which is an endothermic reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Neutralization of acid and base",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Decomposition of limestone (CaCO3) on heating",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Burning of methane",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Formation of water from hydrogen and oxygen",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Thermal decomposition reactions are typically endothermic.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C24_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Photosynthesis is endothermic because it absorbs sunlight. A student argues it's not a chemical reaction because it happens in plants. Is the student correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Yes, only lab reactions are chemical.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "No, photosynthesis is a photochemical endothermic reaction where light energy is converted to chemical energy in glucose.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Yes, because plants are living, so it's a biological process, not chemical.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "No, it's exothermic because plants release oxygen.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Biological processes are governed by chemistry; photosynthesis is a classic endochemical reaction.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C24_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Why does the temperature drop when barium hydroxide octahydrate reacts with ammonium chloride?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It is an endothermic reaction absorbing heat from the surroundings, causing cooling.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "It is an exothermic reaction that releases cold.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The reactants are naturally cold.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because a gas is evolved which cools things.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Some double decomposition reactions are endothermic.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C24_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the sustainability of an endothermic reaction differ from an exothermic one if the energy source is removed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "An endothermic reaction stops immediately when the energy supply (heat, light) is cut off. An exothermic reaction, once started, may sustain itself if it produces enough heat to maintain temperature.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Both stop immediately.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Endothermic reactions continue on their own, exothermic need continuous energy.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Energy supply has no effect on either.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Endothermic reactions require continuous energy input.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C24_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the formation of nitric oxide from nitrogen and oxygen (at ~3000°C) endothermic, and why is this high temperature needed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The N≡N triple bond is very strong, requiring high energy input (high temperature) to break. The net process absorbs heat, making it endothermic.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because oxygen is a gas.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "To make the reaction exothermic.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To prevent the product from decomposing.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Strong bonds in reactants often lead to endothermic reactions requiring high activation energy.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Photochemical and Electrochemical Reactions as Energy Changes",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH2_C25_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What type of energy change is involved in a photochemical reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Absorption of light energy.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Release of electrical energy.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Release of sound energy.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Absorption of heat energy.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Photochemical reactions use light as the energy source.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C25_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of these is both a photochemical and an endothermic reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Burning of magnesium",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Photosynthesis",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Formation of ammonia",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Electrolysis of water",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Photosynthesis absorbs light energy (photochemical) and stores it as chemical energy (endothermic).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH2_C25_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A glow stick produces light when snapped. Is this a photochemical reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Yes, because light is produced.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "No, it is a chemiluminescent reaction where chemical energy is converted to light. Photochemical reactions require light as an input to occur.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Yes, because it involves chemicals.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "No, it's an electrical reaction.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Photochemical reactions are initiated by light, not just producing light.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C25_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Electroplating uses an electrochemical reaction. What is the primary energy change involved?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Electrical energy is absorbed to cause a non-spontaneous chemical change (reduction of metal ions).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Light energy is absorbed to plate the metal.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Heat energy is released to melt the metal.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Sound energy is used to vibrate the solution.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Electroplating is an application of electrolysis (electrochemical).",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C25_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How do photochemical and electrochemical reactions compare as methods for driving non-spontaneous chemical changes?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Both use a specific form of energy (light or electricity) to provide activation energy or drive endothermic/redox reactions that wouldn't occur otherwise.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Photochemical reactions are always spontaneous, electrochemical are not.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Electrochemical reactions always produce gases, photochemical do not.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They are the same; light is a form of electricity.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Different energy forms can be used to force desired chemical transformations.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH2_C25_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the decomposition of silver nitrate in sunlight considered a photochemical reaction, while its decomposition on strong heating is not?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because sunlight (light energy) provides the specific activation for the photochemical pathway. Heat provides a different thermal activation pathway. The energy source defines the reaction type.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because the products are different.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because only the sunlight reaction is reversible.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because silver nitrate only decomposes in light, not on heating.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "The same compound can decompose via different mechanisms depending on the energy source.",
+          "exam_relevance": "medium"
+        }
+      ]
+    }
+  ]
+}

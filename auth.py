@@ -2,7 +2,7 @@ import bcrypt
 from db_connection import get_connection, get_placeholder, get_last_insert_id, USE_POSTGRES
 
 
-def create_user(username, phone_number, password, role="student"):
+def create_user(username, phone_number, password, role="student", school_name=None, class_name=None, board_name=None):
     conn = get_connection()
     cur = conn.cursor()
     placeholder = get_placeholder()
@@ -22,14 +22,17 @@ def create_user(username, phone_number, password, role="student"):
     # Decode hash to string for storage
     if USE_POSTGRES:
         cur.execute(
-            f"INSERT INTO users (username, phone_number, password_hash, role) VALUES ({placeholder}, {placeholder}, {placeholder}, {placeholder}) RETURNING id",
-            (username, phone_number, hashed.decode('utf-8'), role)
+            f"""INSERT INTO users (username, phone_number, password_hash, role, school_name, class_name, board_name, created_at) 
+               VALUES ({placeholder}, {placeholder}, {placeholder}, {placeholder}, {placeholder}, {placeholder}, {placeholder}, CURRENT_TIMESTAMP) 
+               RETURNING id""",
+            (username, phone_number, hashed.decode('utf-8'), role, school_name, class_name, board_name)
         )
         user_id = cur.fetchone()[0]
     else:
         cur.execute(
-            f"INSERT INTO users (username, phone_number, password_hash, role) VALUES ({placeholder}, {placeholder}, {placeholder}, {placeholder})",
-            (username, phone_number, hashed.decode('utf-8'), role)
+            f"""INSERT INTO users (username, phone_number, password_hash, role, school_name, class_name, board_name, created_at) 
+               VALUES ({placeholder}, {placeholder}, {placeholder}, {placeholder}, {placeholder}, {placeholder}, {placeholder}, datetime('now'))""",
+            (username, phone_number, hashed.decode('utf-8'), role, school_name, class_name, board_name)
         )
         user_id = cur.lastrowid
 

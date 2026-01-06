@@ -1,0 +1,1989 @@
+{
+  "chapter": {
+    "subject": "Physics",
+    "chapter_number": 8,
+    "chapter_name": "Propagation of sound waves"
+  },
+  "concepts": [
+    {
+      "concept_name": "Production of sound",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH8_C1_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "How is sound produced?",
+          "options": [
+            {
+              "label": "A",
+              "text": "By heating an object.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "By cooling an object.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "By the vibrations of a body.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "By applying pressure on an object.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Sound is produced by a vibrating body.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C1_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is a source of sound?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A stationary ball.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A vibrating tuning fork.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A block of ice.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A still water surface.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "A vibrating body is a source of sound.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C1_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "When a stretched rubber string is plucked, sound is heard. If the string is made to vibrate in a vacuum, what will happen?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sound will be louder because there is no air resistance.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Sound will not be heard because a medium is required for sound propagation.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Sound will have a higher pitch.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The string will not vibrate at all in a vacuum.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Sound production requires a vibrating body, but propagation requires a material medium. In vacuum, sound cannot travel to the ear.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C1_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In an experiment, a paper rider is placed on a stretched wire. When the wire is plucked, the rider flies off. What does this demonstrate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The wire expands when plucked.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The wire vibrates and produces sound.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The paper rider is magnetic.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The wire conducts electricity.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The flying off of the rider shows the wire is vibrating, which is the cause of sound production.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH8_C1_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the production of sound differ from the production of light?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Both require a medium for production.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Sound requires a vibrating body; light does not require a vibrating source.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Light requires a vibrating body; sound does not.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Neither requires a source for production.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Sound is produced by mechanical vibrations of a body. Light is produced by electronic transitions or other processes, not necessarily by vibrations.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH8_C1_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does sound cease when a vibrating tuning fork is touched with a hand?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The hand absorbs the sound waves.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The hand increases the frequency of vibration.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The hand dampens the vibrations, stopping the source of sound.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "The hand reflects the sound waves away.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Sound is produced by vibrations. Touching the fork stops the vibrations, thus stopping sound production.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Medium for sound propagation",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH8_C2_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is necessary for the propagation of sound from one place to another?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Vacuum",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A material medium",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "High temperature",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Magnetic field",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "A material medium is necessary for the propagation of sound.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C2_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In which of the following can sound NOT travel?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Air",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Water",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Steel",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Vacuum",
+              "is_correct": true
+            }
+          ],
+          "correct_label": "D",
+          "key_concept": "Sound cannot travel through vacuum as it requires a material medium.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C2_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "In the bell jar experiment, when air is removed, the sound of the electric bell becomes fainter and eventually inaudible. What does this prove?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The bell stops vibrating in a vacuum.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Sound requires a medium for propagation; in vacuum, it cannot travel.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Sound becomes ultrasonic in vacuum.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The observer's ears stop working in vacuum.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The experiment demonstrates that sound needs a material medium. The bell still vibrates (seen) but sound is not heard because the medium (air) is removed.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C2_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Why can two astronauts on the moon's surface not hear each other directly?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because they wear helmets.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because the moon has no atmosphere (medium) for sound to travel.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because sound travels too fast on the moon.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because the moon's gravity is too low.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The moon has no atmosphere (a material medium), so sound cannot propagate.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C2_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the requirement of a medium for sound differ from that for light?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Both sound and light require a material medium.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Sound requires a material medium; light can travel through vacuum.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Light requires a material medium; sound can travel through vacuum.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Neither requires a medium.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Sound is a mechanical wave requiring a medium. Light is an electromagnetic wave and can travel through vacuum.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C2_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why are thick curtains used in studios to reduce sound?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They reflect all sound waves.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "They absorb sound energy, reducing its propagation through the medium (air).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "They increase the speed of sound.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They convert sound into light.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Porous materials like curtains absorb sound energy, dampening the vibrations in the medium and reducing propagation.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Sound as a longitudinal wave",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH8_C3_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In which form does sound travel through air?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Transverse wave",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Longitudinal wave",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Electromagnetic wave",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Stationary wave",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Sound travels in air as a longitudinal wave.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C3_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What are the regions of high pressure and low pressure in a longitudinal sound wave called?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Crest and trough",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Compression and rarefaction",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Peak and valley",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Node and antinode",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "In a longitudinal wave, compression (high pressure) and rarefaction (low pressure) are formed.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C3_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "As a longitudinal sound wave propagates, the particles of the medium:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Travel along with the wave from the source to the listener.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Vibrate about their mean positions in the direction of wave propagation.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Vibrate perpendicular to the direction of wave propagation.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Remain completely stationary.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "In a longitudinal wave, particles oscillate back and forth along the direction of propagation, not travel with the wave.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C3_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "When a vibrating tuning fork is placed with its stem on a table, the sound becomes louder. This is because:",
+          "options": [
+            {
+              "label": "A",
+              "text": "The table stops the vibrations.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The table provides a larger surface area to set more air particles into longitudinal vibration.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The table absorbs the sound.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The table changes the frequency.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The table acts as a larger vibrating surface, forcing more air particles to oscillate longitudinally, increasing the intensity.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH8_C3_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does a longitudinal wave differ from a transverse wave?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Longitudinal waves can travel in vacuum; transverse cannot.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "In longitudinal waves, particle vibration is parallel to wave direction; in transverse, it is perpendicular.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Longitudinal waves have crests and troughs; transverse have compressions and rarefactions.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Transverse waves can only travel in gases.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The fundamental difference is the direction of particle vibration relative to wave propagation.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C3_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why are sound waves classified as mechanical longitudinal waves?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because they are produced by machines.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because they require a material medium (mechanical) and involve particle vibrations parallel to propagation (longitudinal).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because they travel at the speed of light.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because they are electromagnetic in nature.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "\"Mechanical\" indicates need for a medium. \"Longitudinal\" describes the nature of particle oscillation.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Transverse waves",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH8_C4_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a transverse wave?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A wave where particles vibrate parallel to the wave direction.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A wave where particles vibrate perpendicular to the wave direction.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A wave that can only travel in gases.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A wave that does not transfer energy.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "In a transverse wave, particles vibrate perpendicular to the direction of wave propagation.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C4_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is an example of a transverse wave?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sound wave in air",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Wave on a stretched string",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Sound wave in water",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Ultrasonic wave in metal",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Waves on strings or water surfaces are transverse. Sound in fluids is longitudinal.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C4_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Can transverse waves be produced inside a gas like air?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Yes, because gases can support shearing stress.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "No, because gases cannot sustain shearing stress; they only support longitudinal waves.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Yes, but only at very high frequencies.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "No, but light is a transverse wave in air.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Transverse waves require a restoring force due to shear stress, which gases lack. Light is electromagnetic, not mechanical.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C4_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "When a stone is dropped in a pond, a cork on the surface bobs up and down but does not move towards the shore. This illustrates:",
+          "options": [
+            {
+              "label": "A",
+              "text": "The cork is too heavy.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The wave is longitudinal.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The wave is transverse, transferring energy outward while particles oscillate perpendicularly.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "The water is not a good medium.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "The cork's vertical motion shows particle vibration is perpendicular to the direction of wave travel (radially outward), characteristic of transverse waves on surfaces.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C4_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "In which media can transverse waves propagate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Only in solids",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "In solids and on the surface of liquids",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "In solids, liquids, and gases",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Only in vacuum",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Transverse mechanical waves need a restoring force (elasticity). Solids support them throughout. Liquids support them only at surfaces due to surface tension. Gases do not.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH8_C4_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why are light waves considered transverse while sound waves in air are not?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because light travels faster.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because light is an electromagnetic wave with electric and magnetic fields oscillating perpendicular to direction; sound is a mechanical longitudinal wave.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because light can travel in vacuum.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because sound has compressions and rarefactions.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The classification is based on the nature of oscillation: light's field oscillations are transverse to propagation. Sound's pressure oscillations are longitudinal.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Wave characteristics: Amplitude, Time Period, Frequency",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH8_C5_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the amplitude of a wave?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The number of waves per second.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The time for one complete vibration.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The maximum displacement of a particle from its mean position.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "The distance between two consecutive crests.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Amplitude is the maximum displacement of a vibrating particle from its mean position.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C5_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which unit is used for frequency?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Metre (m)",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Second (s)",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Hertz (Hz)",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Metre per second (m/s)",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "The SI unit of frequency is hertz (Hz), which is equivalent to per second (s⁻¹).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C5_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "If the frequency of a source is 50 Hz, what is its time period?",
+          "options": [
+            {
+              "label": "A",
+              "text": "50 s",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "0.02 s",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "0.5 s",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "20 s",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Time period T = 1/f. So T = 1/50 = 0.02 s. A common mistake is to confuse reciprocal.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C5_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "The amplitude of a sound wave is doubled. How does this affect its loudness and pitch?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Loudness increases, pitch remains the same.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Loudness remains same, pitch increases.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both loudness and pitch increase.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Loudness decreases, pitch increases.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Amplitude determines loudness (energy). Frequency determines pitch. Doubling amplitude increases loudness, not pitch.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C5_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How are frequency and time period related?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They are directly proportional.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "They are inversely proportional.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "They are unrelated.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They are equal.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Frequency (f) = 1 / Time period (T). Hence, they are inversely proportional.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C5_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does the frequency of a sound wave remain unchanged when it travels from air into water?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because frequency depends on the source, not the medium.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because water is denser than air.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because the speed of sound changes.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because the wavelength remains constant.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Frequency is a characteristic of the source. When wave enters a new medium, speed and wavelength change, but frequency remains constant.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Wavelength and Wave Velocity",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH8_C6_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the wavelength of a wave?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The speed at which the wave travels.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The distance between two consecutive points in the same phase (e.g., two compressions).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The height of the wave from the mean position.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The number of waves passing a point per second.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Wavelength (λ) is the distance between two consecutive points in the same phase of vibration.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C6_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "The wave velocity is defined as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "The velocity of a particle of the medium.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The distance travelled by the wave per unit time.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The number of waves per unit time.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The maximum velocity of a vibrating particle.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Wave velocity (V) is the speed at which the wave disturbance (energy) travels through the medium.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C6_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "If the frequency of a wave is doubled and its speed remains constant, what happens to its wavelength?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It doubles.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It becomes half.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It remains the same.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It becomes four times.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "From V = fλ, if V constant, f ∝ 1/λ. Doubling f halves λ.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C6_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "A wave has a frequency of 100 Hz and a wavelength of 3.3 m. What is its speed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "33 m/s",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "330 m/s",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "0.33 m/s",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "303 m/s",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "V = fλ = 100 Hz * 3.3 m = 330 m/s. This is approximately the speed of sound in air.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C6_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does wavelength change when a sound wave goes from air to water? (Assume frequency constant)",
+          "options": [
+            {
+              "label": "A",
+              "text": "Wavelength decreases because speed decreases.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Wavelength increases because speed increases.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Wavelength remains the same.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Wavelength becomes zero.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "V = fλ. Speed of sound is higher in water. For constant f, λ increases with V.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C6_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the relation V = fλ fundamental for wave motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It defines the unit of frequency.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It connects the wave's speed (a medium property) with its frequency (source property) and wavelength (medium property).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It is only true for light waves.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It shows that speed depends on amplitude.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The equation V = fλ is a universal wave relation linking the three key wave characteristics.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Speed of sound in different media",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH8_C7_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In which medium does sound travel fastest?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Gases",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Liquids",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Solids",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Vacuum",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Sound travels fastest in solids, then liquids, and slowest in gases.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C7_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the approximate speed of sound in air at 0°C?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1450 m/s",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "330 m/s",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "5000 m/s",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "3 x 10^8 m/s",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The speed of sound in air at 0°C is about 330 m/s.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C7_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "The speed of sound in a medium depends on:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Frequency and amplitude of the wave.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Elasticity and density of the medium.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Wavelength and frequency of the wave.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Pressure and humidity only.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Speed of sound depends on the properties of the medium: elasticity (E) and density (ρ), given by V = √(E/ρ). It is independent of frequency and amplitude.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C7_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "A person hears two sounds when a long steel bar is struck at one end. Why?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because sound reflects from the other end.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because sound travels at different speeds in steel and air, reaching the ear at different times.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because the ear detects two different frequencies.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because the sound is produced twice.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Sound travels faster in steel (~5100 m/s) than in air (~330 m/s). The sound through steel arrives first, followed by the sound through air.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C7_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Arrange the speed of sound in the following media in increasing order: Air, Water, Steel.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Steel < Water < Air",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Air < Water < Steel",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Water < Air < Steel",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Air < Steel < Water",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Typical speeds: Air (~330 m/s), Water (~1450 m/s), Steel (~5100 m/s).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C7_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does sound travel faster in solids than in gases?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because solids are hotter than gases.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because particles in solids are closer, leading to higher elasticity (greater restoring force) which increases speed more than the increase in density.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because gases have no density.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because sound waves are longitudinal in solids and transverse in gases.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Speed V = √(E/ρ). Solids have a much higher modulus of elasticity (E) compared to gases, which outweighs their higher density (ρ), resulting in a higher speed.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Factors affecting speed of sound in a gas",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH8_C8_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "How does temperature affect the speed of sound in air?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Speed decreases with increase in temperature.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Speed increases with increase in temperature.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Speed is independent of temperature.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Speed first increases then decreases.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The speed of sound in air increases with temperature.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C8_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In which condition does sound travel faster?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Dry air",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Humid air",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Both at the same speed",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "In a vacuum",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Sound travels faster in humid air because the density of moist air is less than dry air (V ∝ 1/√ρ).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C8_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Does the speed of sound in air change with a change in atmospheric pressure (at constant temperature)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Yes, it increases with pressure.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Yes, it decreases with pressure.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "No, it remains constant because the ratio P/ρ remains constant.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "It becomes zero at very high pressure.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "For an ideal gas, V = √(γP/ρ). At constant temperature, P/ρ is constant, so speed is independent of pressure.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C8_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "If the temperature rises from 0°C to 20°C, by how much does the speed of sound in air approximately increase? (Use 0.61 m/s per °C)",
+          "options": [
+            {
+              "label": "A",
+              "text": "About 6.1 m/s",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "About 12.2 m/s",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "About 0.61 m/s",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "About 61 m/s",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Increase = 0.61 m/s per °C * 20 °C = 12.2 m/s.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH8_C8_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the speed of sound in hydrogen and oxygen at the same temperature and pressure.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Speed is greater in oxygen because it is heavier.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Speed is greater in hydrogen because its density is lower (V ∝ 1/√ρ).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Speed is the same in both.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Speed depends on the volume, not density.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "V = √(γP/ρ). At same P and T, ρ(H2) < ρ(O2). Therefore, V(H2) > V(O2).",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH8_C8_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does sound travel faster when the wind is blowing in the direction of sound?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because wind increases the frequency of sound.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because the net speed of sound relative to ground becomes (speed in still air + wind speed).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because wind reduces the density of air.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because wind carries the sound particles.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The speed of sound is relative to the medium. If the medium (air) itself moves with wind speed W in the sound direction, the ground-relative speed becomes V + W.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Comparison of speed of sound and light",
+      "concept_type": "comparison",
+      "questions": [
+        {
+          "question_id": "CH8_C9_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the approximate speed of light in air/vacuum?",
+          "options": [
+            {
+              "label": "A",
+              "text": "330 m/s",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "3 x 10^8 m/s",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "1450 m/s",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "5100 m/s",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The speed of light in vacuum/air is about 3 x 10^8 m/s.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C9_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which travels faster in air?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sound",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Light",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Both travel at the same speed.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Depends on temperature.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Light travels about a million times faster than sound in air.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C9_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "During a thunderstorm, we see lightning before hearing thunder because:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Lightning occurs before thunder.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Light travels much faster than sound in air.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Our eyes react faster than our ears.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Thunder is produced after lightning.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Light and sound are produced simultaneously. The large difference in their speeds causes the observed delay.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C9_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "A gun is fired at a distance. An observer sees the flash and hears the sound 2 seconds later. If the speed of sound is 340 m/s, what is the distance? (Assume light travel time is negligible)",
+          "options": [
+            {
+              "label": "A",
+              "text": "170 m",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "340 m",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "680 m",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "3 x 10^8 m",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Distance = speed of sound * time = 340 m/s * 2 s = 680 m. The approximation is that light travel time is zero.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C9_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the speed of light change when going from air to water, compared to the speed of sound?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Both increase.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Both decrease.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Light decreases, sound increases.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Light increases, sound decreases.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Light slows down in an optically denser medium (water). Sound speeds up in a denser medium (water compared to air).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C9_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why can we approximate the light travel time as zero in calculating distances using the sound delay method?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because light doesn't travel in air.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because the speed of light is so large that the distance covered in a few seconds is negligible compared to the distance sound travels.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because our eyes ignore the light travel time.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because light and sound start at different times.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "For distances on Earth, light takes microseconds, while sound takes seconds. The error from ignoring light time is minuscule.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Audible, Infrasonic, and Ultrasonic frequencies",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH8_C10_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the audible range of frequency for a healthy human ear?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Below 20 Hz",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "20 Hz to 20,000 Hz (20 kHz)",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Above 20 kHz",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "1 Hz to 1 MHz",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The normal human audible range is approximately 20 Hz to 20,000 Hz.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C10_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Sound of frequency 25 kHz is classified as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Audible sound",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Infrasonic sound",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Ultrasonic sound",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Sonic boom",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Ultrasonic sound has frequency above 20 kHz.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C10_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A seconds pendulum completes one oscillation in 2 seconds. Will the sound produced by its vibration be audible?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Yes, because it vibrates.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "No, because its frequency (0.5 Hz) is infrasonic (<20 Hz).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Yes, because its amplitude is large.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "No, because it doesn't produce sound.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Frequency f = 1/T = 1/2 = 0.5 Hz, which is below the audible range (infrasonic).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C10_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Which animal is known to use ultrasonic sound for navigation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Elephant",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Bat",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Dog",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Whale",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Bats produce and detect ultrasonic waves for echolocation.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH8_C10_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the audible range of a young child compare to that of an old person?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The child can hear higher frequencies than the old person.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "The old person can hear higher frequencies.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both have the same range.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The child can hear lower frequencies only.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Hearing sensitivity, especially to high frequencies, decreases with age.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH8_C10_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why are ultrasonic waves used for cleaning delicate instruments instead of audible sound?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because they are louder.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because they carry more energy (due to high frequency) and have high directivity, allowing precise cleaning.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because they are inaudible and less disturbing.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because they travel slower, giving more time for cleaning.",
+              "is_correct": false
+            }
+          ],
+          "key_concept": "High frequency means high energy per wave. Directivity allows focused application. Audible sound lacks these properties for effective cleaning.",
+          "exam_relevance": "medium",
+          "correct_label": "B"
+        }
+      ]
+    }
+  ]
+}

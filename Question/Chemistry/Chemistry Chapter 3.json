@@ -1,0 +1,2979 @@
+{
+  "chapter": {
+    "subject": "Chemistry",
+    "chapter_number": 3,
+    "chapter_name": "Water"
+  },
+  "concepts": [
+    {
+      "concept_name": "Water as a Universal Solvent",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH3_C1_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is meant by the term 'universal solvent' in the context of water?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Water can dissolve only organic compounds.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Water can dissolve a wide variety of substances, including many solids, gases, and liquids.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Water is the only liquid that can act as a solvent.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Water loses its solvent properties when heated.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Water's ability to dissolve many substances due to its high dielectric constant.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C1_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is NOT a reason why water is considered a universal solvent?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It has a high dielectric constant.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It reduces the force of attraction between ions.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It dissolves only ionic compounds.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "It can dissolve gases and other liquids.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Water dissolves many types of substances, not just ionic ones.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH3_C1_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student says, 'Distilled water stored in a sealed glass bottle leaves etchings because water is a poor solvent.' What is the flaw in this reasoning?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Distilled water is pure and cannot cause etchings.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The etchings prove water is a good solvent, as even glass dissolves in traces over time.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Etchings are caused by impurities in the glass, not by water.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Only tap water can act as a solvent, not distilled water.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Water's solvent property is so effective that it can dissolve traces of glass.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C1_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In an experiment to show tap water contains dissolved solids, water is evaporated from a watch glass. What would be observed if rainwater was used instead of tap water?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Concentric rings of solid matter would form.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "No concentric rings would be left on the watch glass.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The watch glass would crack due to impurities.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Coloured rings would form due to dissolved gases.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Rainwater and distilled water lack dissolved solids that leave a residue on evaporation.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH3_C1_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the composition of air dissolved in water differ from ordinary atmospheric air?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It has a lower percentage of oxygen and a higher percentage of nitrogen.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It has a higher percentage of oxygen and a lower percentage of nitrogen.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It contains no carbon dioxide, unlike atmospheric air.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Its composition is identical to atmospheric air.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Oxygen is more soluble in water than nitrogen, enriching the dissolved air with oxygen.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C1_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the presence of dissolved air in water crucial for aquatic life?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It provides nitrogen for fish to breathe.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The dissolved oxygen is used by aquatic animals for respiration, and dissolved carbon dioxide is used by plants for photosynthesis.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It increases the density of water, making it easier for plants to float.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It prevents water from freezing by lowering its boiling point.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Biological importance of dissolved gases (O2 for respiration, CO2 for photosynthesis).",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Physical Properties of Water (Density & Anomalous Expansion)",
+      "concept_type": "principle",
+      "questions": [
+        {
+          "question_id": "CH3_C2_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "At what temperature does pure water have its maximum density?",
+          "options": [
+            {
+              "label": "A",
+              "text": "0°C",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "4°C",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "10°C",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "100°C",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Water has maximum density (1 g/cm³) at 4°C.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C2_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the term for the property where water expands below 4°C upon cooling?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Normal contraction",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Anomalous expansion",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Thermal inflation",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Latent expansion",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Anomalous expansion of water.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C2_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student states, 'Ice sinks in water because it is solid.' Why is this statement incorrect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ice is less dense than water, so it floats.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Ice is more dense than water, but surface tension holds it up.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Ice sinks only in salt water, not in pure water.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The statement is correct; all solids sink in their liquid forms.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Water expands on freezing, making ice less dense (0.92 g/cm³) than liquid water.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C2_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Why does the anomalous expansion of water enable marine life to survive in cold regions?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It causes water to boil at a lower temperature, releasing heat.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It causes ice to form at the bottom of ponds, insulating the surface.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It causes ice to form as a layer on top, insulating the liquid water below where life exists.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "It increases the salt concentration of water, lowering its freezing point.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Ice floats due to lower density, forming an insulating layer on top.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C2_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the density of water at 0°C compare to its density at 10°C?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Water at 0°C is denser than water at 10°C.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Water at 10°C is denser than water at 0°C.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Water has the same density at both temperatures.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The density comparison depends on the pressure, not just temperature.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Density increases as water cools from 10°C to 4°C, then decreases from 4°C to 0°C.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH3_C2_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why do lakes and rivers not freeze suddenly from the bottom up in winter?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because water at the bottom is under high pressure, preventing freezing.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because the high specific latent heat of solidification releases heat slowly.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because sunlight penetrates to the bottom, keeping it warm.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because dissolved salts increase the density of bottom water, raising its freezing point.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Latent heat of fusion/solidification moderates temperature change during freezing.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Latent Heat of Fusion and Vaporization",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH3_C3_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the specific latent heat of fusion of ice?",
+          "options": [
+            {
+              "label": "A",
+              "text": "80 cal/g",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "100 cal/g",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "540 cal/g",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "1 cal/g",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Latent heat of fusion of ice is 336 J/g or 80 cal/g.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C3_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "The energy required to change 1g of water at 100°C to steam at 100°C is called:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Specific heat capacity",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Latent heat of fusion",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Latent heat of vaporization",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Heat of condensation",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Definition of latent heat of vaporization (2268 J/g or 540 cal/g).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C3_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student reasons, 'Steam at 100°C causes more severe burns than water at 100°C because steam is hotter.' What is the key scientific reason this explanation is incomplete?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Steam is actually cooler than boiling water.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Steam releases its high latent heat of condensation when it touches the skin, transferring more energy.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Water at 100°C has a higher specific heat capacity than steam.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Steam burns are worse only because they cover a larger area.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Severity of steam burns is due to the release of latent heat of condensation.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C3_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Why is water used as a coolant in car radiators and desert coolers?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because it is easily available and cheap.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because it has a low specific heat capacity, so it heats up quickly.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because it has a high specific heat capacity, so it absorbs a lot of heat without a large temperature rise.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Because it has a high latent heat of fusion, so it remains liquid over a wide range.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Application of water's high specific heat capacity (4.2 J/g/°C).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C3_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How do the latent heat of fusion of ice and the latent heat of vaporization of water compare in terms of energy per gram?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They are equal.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The latent heat of vaporization is much greater.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The latent heat of fusion is much greater.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The comparison depends on the pressure.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Latent heat of vaporization (540 cal/g) > Latent heat of fusion (80 cal/g).",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH3_C3_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does the release of latent heat of condensation cause the violence associated with torrential rain?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The heat release causes rapid evaporation, creating strong winds.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The sudden release of a large amount of heat energy fuels powerful upward air currents and storm intensity.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The heat melts hail stones instantly, causing flash floods.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The heat increases the pressure, which stops the rain from falling.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Link between latent heat release and meteorological phenomena.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Solution, Solute, Solvent",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH3_C4_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In a sugar solution, which component is the solvent?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sugar",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Water",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Both sugar and water are solvents.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Air",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Solvent is the medium in which solute dissolves; for liquid solutions, it's the liquid component.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C4_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is a characteristic of a true solution?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It scatters light (Tyndall effect).",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It is a heterogeneous mixture.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The solute particles are about 10^-10 m in size.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Its components can be separated by filtration.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "True solutions are homogeneous, have very small particles, and do not scatter light.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C4_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student labels a mixture of sand and water as a 'solution.' Why is this incorrect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because sand is not a solid.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because it is a heterogeneous mixture where particles settle and can be filtered, unlike a true solution.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because water cannot act as a solvent for sand.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because it is a compound, not a mixture.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Distinguishing a suspension (sand+water) from a true solution.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C4_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In brass, which is a solid solution of copper and zinc, which metal is the solvent?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Zinc, because it is added to copper.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Copper, because it is present in larger proportion (70%).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Neither; solid solutions do not have solvents.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Zinc, because it has a lower melting point.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "In solid solutions (alloys), the component in excess is the solvent.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH3_C4_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does an aqueous solution differ from a non-aqueous solution?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Aqueous solutions are always dilute, while non-aqueous are concentrated.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Aqueous solutions use water as the solvent, while non-aqueous solutions use other liquids like alcohol or petrol.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Aqueous solutions contain only ionic solutes, while non-aqueous contain covalent solutes.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no difference; the terms are interchangeable.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Definition based on the nature of the solvent.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH3_C4_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is tincture of iodine considered a non-aqueous solution?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because iodine is a solid.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because its solvent is alcohol, not water.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because it is used for external application only.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because it is a saturated solution.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Classification of solutions based on the solvent used.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Saturated, Unsaturated, and Supersaturated Solutions",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH3_C5_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "A solution in which no more solute can be dissolved at a given temperature is called:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Unsaturated solution",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Saturated solution",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Supersaturated solution",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Concentrated solution",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Definition of a saturated solution.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C5_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following can be done to change a saturated solution into an unsaturated one without changing the temperature?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Add more solute",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Add more solvent",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Cool the solution",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Heat the solution",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Adding solvent dilutes a saturated solution, making it unsaturated.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH3_C5_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student prepares a supersaturated solution of potassium nitrate and then adds a small crystal of KNO3 to it. What is the most likely immediate outcome?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The added crystal will dissolve rapidly.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The temperature of the solution will drop sharply.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Excess solute will rapidly crystallize out of the solution.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "The solution will become unsaturated.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Supersaturated solutions are unstable; adding a seed crystal triggers crystallization.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C5_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "If a saturated solution of a salt is cooled, what generally happens?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It becomes unsaturated.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It becomes more concentrated.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Some solute crystallizes out, leaving a saturated solution at the lower temperature.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "The solubility increases, so no change occurs.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Solubility of most solids decreases with temperature, causing precipitation on cooling.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C5_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does a supersaturated solution differ from a saturated solution at the same temperature?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It contains less solute per unit solvent.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It contains more solute per unit solvent than the saturated solution.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It is always hot, while a saturated solution is at room temperature.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It is heterogeneous, while a saturated solution is homogeneous.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Supersaturated solution holds solute in excess of its normal solubility at that temperature.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C5_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why must a supersaturated solution be prepared carefully, without impurities or physical disturbance?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To prevent the solute from reacting with the solvent.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To prevent the solute from oxidizing in air.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because impurities or disturbance can act as nucleation sites, causing spontaneous crystallization.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "To ensure the solution boils at a constant temperature.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Conditions for maintaining the metastable state of a supersaturated solution.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Solubility and Factors Affecting It",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH3_C6_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is meant by the 'solubility' of a solute in water at a given temperature?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The mass of solvent required to dissolve 1g of solute.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The maximum mass of solute (in grams) that can saturate 100g of solvent at that temperature.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The volume of solution formed when solute is dissolved.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The time taken for a solute to dissolve completely.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Definition of solubility.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C6_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which factor does NOT increase the rate of solubility of a solid in a liquid?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Increasing the temperature",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Stirring the mixture",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Using larger solute particles",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Crushing the solute into a powder",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Smaller particle size increases surface area and rate of dissolution.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C6_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student observes that sugar dissolves faster in hot tea than in iced tea and concludes, 'The solubility of sugar is lower at higher temperatures.' Why is this conclusion wrong?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The observation is incorrect; sugar dissolves faster in cold liquids.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The rate of dissolving is faster, but the conclusion confuses 'rate' with the maximum 'amount' (solubility) that can dissolve, which usually increases with temperature.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Sugar is an exception; its solubility decreases with temperature.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Tea contains other substances that affect solubility.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Distinguishing between the rate of dissolution and the solubility (maximum amount).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C6_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "According to Henry's Law, how does pressure affect the solubility of a gas in a liquid?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Increased pressure decreases gas solubility.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Increased pressure increases gas solubility proportionally.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Pressure has no effect on gas solubility.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Increased pressure only affects the solubility of oxygen, not other gases.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Henry's Law: Solubility of a gas is directly proportional to the pressure on the liquid surface.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C6_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the effect of temperature on the solubility of most solids compare with its effect on the solubility of gases in water?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Solubility of both solids and gases increases with temperature.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Solubility of solids usually increases, while solubility of gases decreases with increasing temperature.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Solubility of solids decreases, while solubility of gases increases with increasing temperature.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Temperature has no significant effect on either.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Opposite trends for solubility of solids (endothermic) vs. gases (exothermic) in water.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C6_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does boiled water taste 'flat' compared to tap water?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Boiling removes dissolved solids that add taste.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Boiling drives off dissolved gases (like air and CO2) that contribute to the taste.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Boiling concentrates harmful impurities, affecting taste.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The heat causes a chemical change in the water molecules.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Effect of temperature on gas solubility and its relation to taste.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Solubility Curves",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH3_C7_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is plotted on the Y-axis of a typical solubility curve?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Temperature",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Solubility (grams of solute per 100g solvent)",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Volume of solution",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Pressure",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Understanding the axes of a solubility curve.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH3_C7_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "From a solubility curve, what can you directly determine?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The colour of the saturated solution.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The mass of solute needed to make a saturated solution in 100g water at a specific temperature.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The rate at which the solute dissolves.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The pH of the solution.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Purpose of a solubility curve.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C7_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student looks at a solubility curve showing a line that rises steeply. He concludes the substance's solubility is not affected by temperature. Why is this conclusion incorrect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A steeply rising line indicates a strong decrease in solubility with temperature.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A steeply rising line indicates a strong increase in solubility with temperature, not no effect.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "All solubility curves are horizontal lines.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The slope of the curve indicates the colour change, not solubility change.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Interpreting the slope of a solubility curve.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C7_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Using a solubility curve, how would you find if a solution at 40°C containing 50g of solute in 100g water is saturated?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Check if the point (40°C, 50g) lies on the curve for that substance. If it's on the line, it's saturated.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Check if the solute is solid or liquid.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Heat the solution and see if more dissolves.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Compare the density of the solution with pure water.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Using the curve to determine saturation status.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C7_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Based on typical solubility curves, which salt's solubility is least affected by a temperature increase from 20°C to 60°C?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Potassium nitrate (KNO3)",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Sodium chloride (NaCl)",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Potassium bromide (KBr)",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Calcium sulphate (CaSO4.2H2O)",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "NaCl's solubility curve is relatively flat compared to others.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH3_C7_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does the solubility curve for Na2SO4.10H2O (Glauber's salt) show a decrease after 32.8°C?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because the hydrated salt loses all its water of crystallization and becomes anhydrous Na2SO4, which has different solubility behaviour.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because the solution becomes supersaturated automatically at that temperature.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because water starts to evaporate rapidly above that temperature.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It is an error in the graph; solubility always increases with temperature.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Anomalous solubility due to change in hydration state of the solute.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Hydrated and Anhydrous Substances",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH3_C8_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is 'water of crystallisation'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Water molecules trapped mechanically between crystals.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The fixed amount of water molecules chemically combined in a definite proportion within the crystal structure of a hydrated salt.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Water used to wash crystals after preparation.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Water present as impurities in a sample.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Definition of water of crystallisation.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C8_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is an example of a hydrated salt?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sodium chloride (NaCl)",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Copper sulphate pentahydrate (CuSO4.5H2O)",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Potassium nitrate (KNO3)",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Sugar (C12H22O11)",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Identifying hydrated substances from their formulas.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C8_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "When blue crystals of CuSO4.5H2O are heated strongly, they turn white. A student says the white powder is 'dried CuSO4.5H2O'. What is the correct description?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The student is correct; heating just removes surface moisture.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The white powder is anhydrous copper sulphate (CuSO4); the water of crystallisation has been driven off.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The white powder is copper oxide (CuO) formed by decomposition.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The colour change is due to a change in crystal shape, not loss of water.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Heating a hydrated salt yields the anhydrous salt, not a 'dried' version of the hydrate.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C8_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "What is observed when a few drops of water are added to the white anhydrous copper sulphate obtained by heating the blue crystals?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It dissolves without any colour change.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It turns blue again and may become warm.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It releases a gas.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It turns black.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Reversible nature of hydration/dehydration; exothermic rehydration.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C8_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does an anhydrous substance differ from a hygroscopic substance?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Anhydrous substances contain no water, while hygroscopic substances absorb moisture from air.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Anhydrous substances are always liquid, while hygroscopic are solid.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Anhydrous substances release water on heating, while hygroscopic substances do not.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no difference; the terms are synonyms.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Distinguishing between a state (anhydrous) and a property (hygroscopic).",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH3_C8_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why must crystals of a hydrated salt not be heated too strongly when drying them?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Strong heating may decompose the salt or drive off the water of crystallisation, resulting in a powder instead of crystals.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Strong heating always makes them melt, losing their shape.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Strong heating makes them absorb more moisture from the air.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Strong heating is necessary to get perfectly dry crystals.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Practical aspect of preparing hydrated crystals.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Efflorescence, Deliquescence, and Hygroscopy",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH3_C9_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is efflorescence?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Absorption of moisture from air to form a solution.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Loss of water of crystallisation when exposed to dry air, turning crystals to powder.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Formation of crystals from a solution.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Release of water vapour on heating.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Definition of efflorescence.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C9_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which substance is an example of a deliquescent substance?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Washing soda crystals (Na2CO3.10H2O)",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Calcium chloride (CaCl2)",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Common salt (NaCl)",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Blue vitriol (CuSO4.5H2O)",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Identifying deliquescent substances.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C9_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student finds that table salt (NaCl) becomes sticky in the rainy season. He concludes pure NaCl is deliquescent. Why is this conclusion not entirely accurate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Pure NaCl is not deliquescent; the stickiness is due to impurities like MgCl2 or CaCl2 which are deliquescent.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Pure NaCl is highly deliquescent, so the conclusion is accurate.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The stickiness is due to efflorescence, not deliquescence.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "All salts become sticky in the rainy season.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Commercial table salt vs. pure sodium chloride; role of impurities.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C9_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In which condition would efflorescence occur most rapidly?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Cold, humid air",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Hot, dry air",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Under water",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Inside a sealed container",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Factors affecting efflorescence (temperature and humidity).",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH3_C9_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does deliquescence differ from hygroscopy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hygroscopic substances absorb moisture and become wet or dissolve; deliquescent substances only become damp.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Deliquescent substances absorb enough moisture to dissolve and form a solution; hygroscopic substances absorb moisture but may not necessarily dissolve.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Deliquescence involves loss of water, hygroscopy involves gain of water.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They are the same phenomenon with different names.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Deliquescence is an extreme form of hygroscopy leading to dissolution.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C9_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is concentrated sulphuric acid kept in sealed bottles?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To prevent it from reacting with glass.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because it is hygroscopic and will absorb moisture from air, becoming diluted.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "To prevent it from efflorescing.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To stop it from decomposing in sunlight.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Hygroscopic nature of conc. H2SO4 and its practical storage.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Drying and Dehydrating Agents",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH3_C10_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a drying agent (desiccant)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A substance that adds water to compounds.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A substance that absorbs moisture from other substances without chemically reacting with them.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A substance that removes chemically combined water.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A substance that causes efflorescence.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Definition of a drying/desiccating agent.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C10_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is commonly used as a drying agent in a desiccator?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sodium chloride",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Anhydrous calcium chloride",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Hydrated copper sulphate",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Potassium nitrate",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Common drying agents.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C10_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student uses quicklime (CaO) to dry ammonia gas (NH3). Another student says this is wrong because CaO is basic and will react with NH3. Is the second student correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Yes, a base (CaO) will react with a base (NH3).",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "No, quicklime is suitable because it is a basic drying agent and will not react with the basic gas ammonia.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Yes, CaO is a dehydrating agent, not a drying agent.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "No, all drying agents work for all gases.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Choice of drying agent must not react chemically with the substance being dried.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C10_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Conc. H2SO4 can be used to dry HCl gas but not NH3 gas. Why?",
+          "options": [
+            {
+              "label": "A",
+              "text": "HCl is acidic and will not react with the acid H2SO4, while NH3 is basic and will react with it.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "HCl is a reducing agent and H2SO4 is an oxidizing agent, so they react.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "NH3 is lighter than air, so it cannot be dried.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Conc. H2SO4 absorbs NH3 faster than it absorbs water.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Chemical compatibility between drying agent and substance.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C10_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does a drying agent differ from a dehydrating agent?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Drying agents remove physically absorbed water; dehydrating agents remove chemically combined water (elements of H and O in 2:1 ratio).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Drying agents are used for solids, dehydrating agents for liquids.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Drying agents cause chemical changes, dehydrating agents cause physical changes.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no difference; the terms are synonyms.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Drying agent vs. dehydrating agent based on the type of water removed and the change involved.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C10_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is fused calcium chloride (CaCl2) preferred over the hydrated form as a drying agent in a desiccator?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Fused CaCl2 is anhydrous and has a strong affinity for water, whereas the hydrated form is already saturated with water.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Fused CaCl2 is cheaper.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Hydrated CaCl2 reacts with the substances kept in the desiccator.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Fused CaCl2 is a dehydrating agent, which is more effective.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Drying agents must be anhydrous to be effective.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Soft Water and Hard Water",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH3_C11_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Water is classified as 'soft' based on its reaction with what substance?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Litmus paper",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Soap",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Washing soda",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Lime",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Definition of soft water: readily forms lather with soap.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C11_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is an example of naturally soft water?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Well water",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "River water",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Rainwater",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Spring water",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Rainwater and distilled water are soft.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH3_C11_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student says, 'Hard water is unfit for drinking because it contains harmful minerals.' Is this a correct statement regarding the common definition of hardness?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Yes, hard water is defined as being poisonous.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "No, hard water is defined by its reaction with soap (forming scum), not necessarily by being harmful to drink. In fact, it contains useful minerals like calcium.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Yes, only soft water is safe to drink.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "No, all natural water is soft water.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Definition of hard water is based on soap reaction, not health effects.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C11_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "What is observed when soap is added to hard water?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It forms a rich, permanent lather immediately.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It forms a white, insoluble precipitate (scum) before lather forms.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It turns the water milky without any precipitate.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It causes effervescence due to CO2 release.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Formation of soap scum (calcium/magnesium stearate) with hard water.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C11_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the taste of soft water compare to that of hard water?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Soft water has a more pleasant taste due to dissolved salts.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Soft water (like distilled water) tastes flat, while hard water has a better taste due to dissolved minerals.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Both taste exactly the same.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Soft water tastes salty, while hard water tastes sweet.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Advantage of hard water: pleasant taste due to dissolved matter.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH3_C11_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is hard water considered advantageous for use in lead pipes?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It forms an insoluble layer of lead sulphate on the pipe interior, preventing lead poisoning of water.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "It dissolves the lead pipe, making the water flow faster.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It softens the lead pipe over time.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Hard water has no advantage; it corrodes lead pipes faster.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Hard water prevents lead poisoning by forming an insoluble coating.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Types and Causes of Hardness",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH3_C12_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What ions are primarily responsible for causing hardness in water?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sodium and Potassium ions",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Calcium and Magnesium ions",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Chloride and Sulphate ions",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Carbonate and Bicarbonate ions",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Hardness is caused by dissolved salts of calcium and magnesium.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C12_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Temporary hardness is caused by the presence of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Chlorides of calcium and magnesium",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Sulphates of calcium and magnesium",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Hydrogen carbonates (bicarbonates) of calcium and magnesium",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Nitrates of calcium and magnesium",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Cause of temporary hardness.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C12_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student tests a water sample. On boiling, some precipitate forms and the water becomes softer. He concludes the water had only permanent hardness. What is wrong with this conclusion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Boiling removes permanent hardness, not temporary hardness.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The observation indicates the presence of temporary hardness (removed by boiling), not necessarily only permanent hardness.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Boiling makes all hard water softer, regardless of type.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Precipitate formation indicates the water was soft to begin with.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Temporary hardness is removed by boiling; permanent hardness is not.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C12_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "How are stalactites and stalagmites in limestone caves related to water hardness?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They are formed by the deposition of calcium carbonate from hard water containing calcium bicarbonate.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "They are formed by the evaporation of soft water.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "They are made of sodium chloride deposited from sea water.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They are caused by the freezing of hard water in cold caves.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Natural phenomenon illustrating the reversible reaction involving temporary hardness.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH3_C12_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the cause of permanent hardness differ from that of temporary hardness?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Permanent: Chlorides/Sulphates of Ca/Mg; Temporary: Bicarbonates of Ca/Mg.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Permanent: Bicarbonates of Ca/Mg; Temporary: Chlorides/Sulphates of Ca/Mg.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Permanent: caused by sodium salts; Temporary: caused by potassium salts.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both are caused by the same salts, but in different concentrations.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Distinguishing salts causing temporary vs. permanent hardness.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C12_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is water that flows over gypsum (CaSO4.2H2O) beds permanently hard?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because gypsum dissolves to give calcium sulphate, a salt whose hardness cannot be removed by boiling.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because gypsum decomposes to give calcium bicarbonate, causing temporary hardness.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because gypsum absorbs all the calcium ions from water.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because gypsum is a soft mineral and does not affect water.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Permanent hardness caused by calcium/magnesium sulphates.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Disadvantages of Hard Water",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH3_C13_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the main disadvantage of using hard water in boilers?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It makes the boiler walls transparent.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It causes the formation of boiler scale (insoluble deposits) on the inner walls.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It makes the water boil at a lower temperature, wasting fuel.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It produces explosive gases.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Boiler scaling is a primary disadvantage.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C13_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "The insoluble precipitate formed when soap is used with hard water is called:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Lather",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Scum or soap curd",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Fur",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Scale",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Term for the precipitate formed by soap and hard water.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C13_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Why is boiler scale formation economically disadvantageous? A student says, 'It only makes cleaning difficult.' What other key point is missed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Scale is a good conductor of heat, improving efficiency.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Scale is a bad conductor of heat, wasting fuel, and can lead to boiler explosions by blocking tubes and increasing pressure.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Scale makes the water taste better.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Scale prevents corrosion, which is an advantage.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Multiple disadvantages of scale: poor heat conduction and safety hazard.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C13_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "What is the 'fur' found in kettles used to boil hard water?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Iron oxide rust",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Insoluble carbonates of calcium and magnesium deposited from temporary hardness.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Soap curd from washing the kettle.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A layer of algae growth.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Domestic example of scale/fur formation from temporary hardness.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH3_C13_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the problem caused by hard water in washing differ from its problem in boilers?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Washing: Forms scum, wastes soap; Boilers: Forms scale, wastes fuel, causes safety risks.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Washing: Corrodes fabrics; Boilers: Improves heat transfer.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both problems are identical, both involve scale formation.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Washing: Makes water boil faster; Boilers: Prevents lather formation.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Different disadvantages in different applications.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH3_C13_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why do synthetic detergents overcome the washing problem associated with hard water, while soaps do not?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Detergents are not salts of fatty acids; their calcium/magnesium salts are soluble in water, so they don't form scum.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Detergents are more acidic and dissolve the scum.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Soaps are synthetic, detergents are natural.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Detergents react with hardness ions to soften the water first.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Chemical reason for detergent's advantage over soap in hard water.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Removal of Temporary Hardness",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH3_C14_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the simplest method to remove temporary hardness from water?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Adding washing soda",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Boiling",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Adding slaked lime",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Using permutit",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Boiling removes temporary hardness.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C14_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Clark's process for removing temporary hardness involves adding:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Washing soda (Na2CO3)",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Slaked lime [Ca(OH)2]",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Common salt (NaCl)",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Soap",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Clark's process uses slaked lime.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C14_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student tries to soften temporary hard water by adding common salt (NaCl). Why will this method fail?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Common salt reacts with bicarbonates to form insoluble carbonates.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Common salt does not provide carbonate or hydroxide ions needed to precipitate calcium/magnesium ions.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Common salt makes the water permanently hard.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Common salt itself causes hardness.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Need for precipitating agents (CO3^2- or OH-) to remove Ca2+/Mg2+.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C14_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "What are the products formed when temporary hard water containing Ca(HCO3)2 is boiled?",
+          "options": [
+            {
+              "label": "A",
+              "text": "CaCO3 (precipitate), H2O, and CO2 (gas)",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Ca(OH)2 and CO2",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "CaSO4 and H2O",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "CaCl2 and H2O",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Chemical equation for removal of temporary hardness by boiling.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C14_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does Clark's process (using lime) differ from the use of washing soda in removing temporary hardness?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Clark's process uses Ca(OH)2 and precipitates CaCO3; Washing soda uses Na2CO3 and also precipitates CaCO3/MgCO3.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Clark's process is for permanent hardness, washing soda for temporary.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Clark's process makes water acidic, washing soda makes it basic.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no difference in the final precipitate.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Different chemicals, same goal of precipitating Ca/Mg ions.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH3_C14_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is boiling not a practical large-scale method for removing temporary hardness, despite being simple?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It is costly and slow, requiring a lot of fuel to heat large volumes of water.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "It makes the water toxic.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It removes permanent hardness as well, which is not always desired.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It requires complex machinery.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Economic and practical limitation of boiling for large quantities.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Removal of Permanent Hardness",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH3_C15_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Permanent hardness can be removed by adding:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Slaked lime only",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Washing soda (sodium carbonate)",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Boiling only",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Common salt",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Washing soda is used to remove permanent hardness.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C15_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which method is suitable for large-scale softening of water that may have both temporary and permanent hardness?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Boiling",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Clark's process",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Permutit (ion-exchange) process",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Adding soap",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Permutit process is used for large-scale softening.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C15_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student says, 'Adding slaked lime [Ca(OH)2] will soften water containing MgSO4 (permanent hardness).' Is this correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Yes, slaked lime alone is sufficient to precipitate Mg ions as Mg(OH)2.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "No, for MgSO4, both soda ash (Na2CO3) and lime are needed to effectively precipitate Mg as Mg(OH)2 and Ca as CaCO3.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "No, slaked lime makes permanent hardness worse.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Yes, but it will make the water acidic.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Treatment of permanent hardness due to magnesium salts may require both lime and soda.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C15_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "What is the precipitate formed when washing soda is added to water containing calcium sulphate (CaSO4)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Calcium carbonate (CaCO3)",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Calcium hydroxide [Ca(OH)2]",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Sodium sulphate (Na2SO4)",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Magnesium carbonate (MgCO3)",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Reaction of washing soda with calcium sulphate.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C15_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the permutit process differ from the washing soda method in terms of the principle used?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Washing soda: chemical precipitation; Permutit: ion exchange.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Both use chemical precipitation.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Washing soda: ion exchange; Permutit: distillation.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both are based on boiling.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Different softening principles: precipitation vs. ion exchange.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C15_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why can permutit be regenerated after it becomes inactive?",
+          "options": [
+            {
+              "label": "A",
+              "text": "By passing a concentrated brine (NaCl) solution through it, which replaces Ca2+/Mg2+ ions with Na+ ions again.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "By boiling it in water.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "By adding washing soda to it.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It cannot be regenerated; it is discarded.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Regeneration of permutit using brine, making the process economical.",
+          "exam_relevance": "medium"
+        }
+      ]
+    }
+  ]
+}

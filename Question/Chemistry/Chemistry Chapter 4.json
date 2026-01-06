@@ -1,0 +1,3771 @@
+{
+  "chapter": {
+    "subject": "Chemistry",
+    "chapter_number": 4,
+    "chapter_name": "Atomic Structure and Chemical Bonding"
+  },
+  "concepts": [
+    {
+      "concept_name": "Dalton's Atomic Theory",
+      "concept_type": "theory",
+      "questions": [
+        {
+          "question_id": "CH4_C1_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "According to Dalton's atomic theory, atoms are:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Divisible into subatomic particles",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Indivisible particles",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Created and destroyed in chemical reactions",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Always identical in mass for an element",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Dalton's postulate: Atoms are indivisible.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH4_C1_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which postulate of Dalton's theory is still considered correct in modern atomic theory?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Atoms are indivisible.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Atoms of an element are identical in all respects.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Atoms take part in chemical reactions.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Atoms can neither be created nor destroyed.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Modern theory retains that atoms are the smallest units taking part in chemical reactions.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C1_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student claims that according to Dalton, atoms of the same element have the same mass number. Why is this statement incorrect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Dalton said atoms of an element are alike, but modern isotopes prove they can differ in mass.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Dalton never mentioned mass; he only talked about size.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Dalton's theory applies only to gases, not solids.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Mass number is a concept from Bohr's model, not Dalton's.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Dalton's 'alike in all respects' is contradicted by isotopes.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C1_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "If two elements combine in a simple ratio to form a compound, which postulate of Dalton's theory does this illustrate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Atoms are indivisible.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Atoms combine in small numbers to form molecules.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Atoms of one element combine with atoms of another in a simple ratio.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Atoms can neither be created nor destroyed.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Law of definite proportions is explained by Dalton's postulate on simple ratios.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH4_C1_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the modern atomic theory's view on the creation/destruction of atoms differ from Dalton's?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Modern theory says atoms can be created and destroyed only in chemical reactions.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Modern theory says atoms can be created and destroyed by nuclear fusion and fission, not ordinary chemical reactions.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Modern theory fully agrees with Dalton that atoms are indestructible.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Modern theory says atoms are destroyed by radioactivity but not created.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Nuclear processes can create/destroy atoms, unlike ordinary chemical reactions.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH4_C1_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why did Dalton's atomic theory successfully explain the laws of chemical combination at the time?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It introduced the concept of subatomic particles, which allowed for ratio calculations.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It proposed that atoms combine in fixed, simple ratios, aligning with observed constant composition in compounds.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It accounted for the existence of isotopes, which affect combining masses.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It explained electrical conductivity in compounds, crucial for combination studies.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Dalton's theory provided a particulate basis for the laws of constant composition and multiple proportions.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Discovery and Properties of Electrons",
+      "concept_type": "discovery",
+      "questions": [
+        {
+          "question_id": "CH4_C2_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What are cathode rays?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Streams of positively charged particles originating from the anode.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Streams of negatively charged particles originating from the cathode.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Neutral radiation produced when X-rays hit a metal.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Visible light emitted by heated cathodes.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Cathode rays are streams of electrons from the cathode.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C2_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Who is credited with the discovery of the electron as a subatomic particle?",
+          "options": [
+            {
+              "label": "A",
+              "text": "E. Goldstein",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "J.J. Thomson",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "James Chadwick",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Lord Rutherford",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "J.J. Thomson studied cathode rays and identified the electron.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C2_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student states that the charge-to-mass ratio (e/m) of cathode rays depends on the gas in the discharge tube. Why is this wrong?",
+          "options": [
+            {
+              "label": "A",
+              "text": "e/m depends on the metal of the cathode, not the gas.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "e/m is constant for cathode rays regardless of the gas or cathode material, proving electrons are universal.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "e/m varies only for anode rays, not cathode rays.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Cathode rays do not have a measurable e/m ratio.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Constant e/m for cathode rays was key evidence for electrons as a fundamental particle.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C2_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Which property of cathode rays is utilized in the production of X-rays?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Their ability to cause fluorescence.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Their deflection by electric fields.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Their penetration through matter.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Their production when striking a hard metallic target like tungsten.",
+              "is_correct": true
+            }
+          ],
+          "correct_label": "D",
+          "key_concept": "Cathode rays produce X-rays upon striking a metal target.",
+          "exam_relevance": "low"
+        },
+        {
+          "question_id": "CH4_C2_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How do the properties of electrons differ from those of protons in terms of charge and mass?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Electrons and protons have equal but opposite charges, and protons are slightly lighter.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Electrons have a negative charge and negligible mass compared to protons, which have a positive charge and significant mass.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Electrons have a positive charge and mass equal to protons.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Electrons have no charge but have mass similar to neutrons.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Electron: negative, mass ~1/1837 of H atom. Proton: positive, mass ~1 amu.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C2_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does the deflection of cathode rays in an electric field towards the positive plate prove they are negatively charged?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Like charges attract, so negative rays are attracted to the positive plate.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Opposite charges repel, so they are pushed away from the negative plate.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The electric field accelerates all particles equally, regardless of charge.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The deflection is due to their mass, not their charge.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Oppositely charged objects attract. Negative cathode rays are attracted to the positive plate.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Discovery and Properties of Protons",
+      "concept_type": "discovery",
+      "questions": [
+        {
+          "question_id": "CH4_C3_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What are anode rays?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Rays of light emitted by the anode when heated.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Streams of positively charged particles originating from the anode or passing through a perforated cathode.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Neutral particles discovered by Chadwick.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Another name for cathode rays.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Anode rays are positive rays, discovered by Goldstein.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C3_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Who discovered the proton?",
+          "options": [
+            {
+              "label": "A",
+              "text": "J.J. Thomson",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "E. Goldstein",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "John Dalton",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Niels Bohr",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Goldstein discovered protons (positive rays) in discharge tube experiments.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C3_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student says the charge-to-mass ratio (e/m) for anode rays is constant, like for cathode rays. Why is this incorrect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Anode rays have no charge, so e/m is zero.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "e/m for anode rays varies with the gas used, as they are positive ions of different masses.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "e/m for anode rays is constant but much higher than for electrons.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Anode rays are not deflected by fields, so e/m cannot be measured.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Anode rays are positive ions; their e/m depends on the ion's mass, which varies with the gas.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C3_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "How is a proton formed from a hydrogen atom?",
+          "options": [
+            {
+              "label": "A",
+              "text": "By gaining an electron.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "By losing its neutron.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "By losing its single electron.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "By fusing with another hydrogen atom.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "H atom (1p, 1e) loses 1 electron to become H+ (a proton).",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH4_C3_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How do the deflection directions of cathode rays and anode rays in an electric field compare?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Both deflect towards the positive plate.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Cathode rays deflect towards the positive plate; anode rays deflect towards the negative plate.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Both deflect towards the negative plate.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Cathode rays are not deflected, only anode rays are.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Opposite charges deflect in opposite directions in the same field.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH4_C3_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why was the discovery of the proton necessary to explain the neutrality of the atom?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Atoms were known to be neutral, and electrons provided negative charge, so an equal positive charge was needed.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Protons were needed to account for the atom's volume, as electrons were too small.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Protons explained radioactivity, which electrons could not.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Protons were discovered before electrons, so they defined neutrality.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Neutral atom requires balancing negative electron charge with positive proton charge.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Thomson's Plum Pudding Model",
+      "concept_type": "model",
+      "questions": [
+        {
+          "question_id": "CH4_C4_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What was J.J. Thomson's model of the atom often called?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Nuclear model",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Planetary model",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Plum pudding model",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Bohr's model",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Thomson's model: electrons embedded in a uniform positive sphere.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH4_C4_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "According to Thomson's model, how is the atom's positive charge distributed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Concentrated in a tiny nucleus.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Uniformly spread throughout the atom.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Located in shells outside the nucleus.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Carried only by protons in fixed orbits.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Thomson's model: sphere of uniform positive charge.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH4_C4_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student suggests that in Thomson's model, electrons are stationary at fixed points. Why is this a misconception?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Thomson specifically stated electrons orbited the nucleus.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The model depicted electrons as embedded and possibly moving, but not in specific orbits; it was a diffuse cloud.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Electrons were outside the positive sphere, not embedded.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Thomson's model had no electrons at all.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Plum pudding model had electrons within the positive matrix, not in defined orbits.",
+          "exam_relevance": "low"
+        },
+        {
+          "question_id": "CH4_C4_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "How did Thomson's model explain the overall electrical neutrality of an atom?",
+          "options": [
+            {
+              "label": "A",
+              "text": "By having an equal number of protons and neutrons in the nucleus.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "By having the total positive charge of the sphere equal to the total negative charge of the embedded electrons.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "By having electrons with no charge.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "By having the positive and negative charges cancel in each electron.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Neutrality achieved by balancing charges.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH4_C4_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does Thomson's model differ fundamentally from Rutherford's model regarding mass distribution?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Thomson: mass uniformly distributed. Rutherford: mass concentrated in a nucleus.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Thomson: mass in electrons. Rutherford: mass in protons only.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both models have mass uniformly distributed.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Thomson: mass in nucleus. Rutherford: mass in orbits.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Key difference: uniform vs. concentrated mass.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C4_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why was Thomson's model eventually rejected?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It could not explain the emission spectra of elements.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It could not explain the results of Rutherford's alpha scattering experiment (most alpha particles passed through, but some were deflected sharply).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It predicted atoms should be unstable, which they are not.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It did not account for the existence of neutrons.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Rutherford's experiment showed a concentrated positive charge, contradicting the diffuse positive sphere.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Rutherford's Alpha Scattering Experiment",
+      "concept_type": "experiment",
+      "questions": [
+        {
+          "question_id": "CH4_C5_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is an alpha particle?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A high-energy electron.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A doubly charged helium ion (He²⁺).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A neutral particle discovered by Chadwick.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A positively charged hydrogen ion.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Alpha particle: He nucleus (2p, 2n), charge +2.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C5_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What was the key observation in Rutherford's experiment that suggested the atom had a dense, positive core?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Most alpha particles passed straight through the foil.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A few alpha particles were deflected by very large angles, some even bouncing back.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "All alpha particles were absorbed by the foil.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Alpha particles caused the foil to emit light.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Large-angle deflection indicated a concentrated positive charge (nucleus).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C5_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student thinks that if a light nucleus like lithium is used in the alpha scattering experiment, most alpha particles would bounce back. Why is this incorrect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Alpha particles are negatively charged and would be repelled by lithium.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Light nuclei have less mass/charge; alpha particles may push them aside and not be deflected back significantly.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Lithium is non-metallic, so it doesn't scatter alpha particles.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Alpha particles cannot penetrate lithium foil.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Heavy nuclei (like gold) cause large deflections; light nuclei may not.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH4_C5_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Why did Rutherford choose a gold foil for his experiment?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Gold is a good conductor of electricity.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Gold is the most malleable metal, allowing a very thin foil to be made.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Gold has the highest atomic number, making deflection easier to observe.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Gold does not react with alpha particles.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Thin foil minimizes multiple scattering events, making observations clearer.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH4_C5_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How do the observations 'most alpha particles passed straight' and 'very few were deflected back' together lead to conclusions about the atom?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Straight pass: atom is mostly solid. Deflected back: electrons are heavy.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Straight pass: atom is mostly empty space. Deflected back: positive charge and mass are concentrated in a tiny nucleus.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Straight pass: nucleus is large. Deflected back: electrons are in fixed orbits.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both observations prove the plum pudding model correct.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Combined observations led to the nuclear model.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C5_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why couldn't the large-angle deflections of alpha particles be explained by collisions with electrons?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Electrons are positively charged and would attract alpha particles.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Electrons have negligible mass compared to alpha particles; they cannot cause significant deflection.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Electrons are located in the nucleus, not in the path of alpha particles.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Alpha particles and electrons have the same charge, so they repel.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Deflection requires interaction with a massive, similarly charged object (nucleus).",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Rutherford's Nuclear Model of the Atom",
+      "concept_type": "model",
+      "questions": [
+        {
+          "question_id": "CH4_C6_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "According to Rutherford's model, where is most of the mass of an atom concentrated?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In the electrons orbiting the nucleus.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Uniformly throughout the atom.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "In the nucleus at the centre.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "In the empty space between the nucleus and electrons.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Mass is concentrated in the nucleus.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C6_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What did Rutherford name the central, positively charged part of the atom?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Orbit",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Proton",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Nucleus",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Neutron",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Rutherford discovered and named the nucleus.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C6_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student says that in Rutherford's model, electrons are stationary around the nucleus. What is the error?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Electrons were said to revolve in orbits, not be stationary.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Electrons were inside the nucleus.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Rutherford's model did not include electrons.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Electrons were vibrating, not revolving.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Rutherford proposed electrons revolve around the nucleus.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH4_C6_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "How does Rutherford's model explain the electrical neutrality of an atom?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The positive charge of the protons in the nucleus is balanced by the negative charge of the electrons in orbits.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "The nucleus contains equal protons and neutrons, making it neutral.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Electrons have no charge.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The empty space has a neutralizing effect.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Neutrality: number of protons = number of electrons.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C6_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How is Rutherford's model similar to the solar system?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Both have a central, massive body (sun/nucleus) around which lighter bodies (planets/electrons) revolve.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Both have bodies of equal mass orbiting each other.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "In both, the central body has a negative charge.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both systems are held by gravitational force only.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Analogy: sun/nucleus (massive), planets/electrons (revolving).",
+          "exam_relevance": "low"
+        },
+        {
+          "question_id": "CH4_C6_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "What was the major drawback of Rutherford's model regarding atomic stability?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It could not explain the existence of isotopes.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "According to classical physics, a revolving electron should continuously lose energy and spiral into the nucleus, collapsing the atom.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It predicted atoms should be negatively charged.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It did not account for the neutron, so mass calculations were wrong.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Revolving charged particle radiates energy, leading to instability. Bohr solved this.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Bohr's Model of the Atom",
+      "concept_type": "model",
+      "questions": [
+        {
+          "question_id": "CH4_C7_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What are the fixed paths called in which electrons revolve according to Bohr's model?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Nuclei",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Orbits, shells, or energy levels",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Clouds",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Waves",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Bohr introduced stationary orbits/energy levels.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C7_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "According to Bohr's postulate, what happens to the energy of an electron while it is in a particular orbit?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It continuously increases.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It continuously decreases due to radiation.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It neither loses nor gains energy.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "It fluctuates randomly.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Electrons in stationary orbits do not radiate energy.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C7_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student thinks that in Bohr's model, an electron can exist anywhere between two orbits. Why is this incorrect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Electrons can only exist in the nucleus or in orbits, not between.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Electrons exist in specific, quantized orbits with fixed energies; they cannot exist in between.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Electrons form a cloud between orbits according to Bohr.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Bohr's model allows electrons to move freely in the empty space.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Energy levels are quantized; electrons jump between them, not exist in between.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH4_C7_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "How does Bohr's model explain the stability of the atom?",
+          "options": [
+            {
+              "label": "A",
+              "text": "By proposing that electrons do not radiate energy while in their fixed orbits.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "By introducing neutrons in the nucleus to provide strong force.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "By making the nucleus very small.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "By having electrons move at constant speed.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Fixed orbits without energy loss prevent collapse into nucleus.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C7_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How did Bohr's model improve upon Rutherford's model?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It introduced the nucleus.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It introduced the concept of stationary orbits to explain atomic stability and discrete energy levels.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It discovered the proton.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It explained the existence of isotopes.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Bohr added quantization to solve the stability issue of Rutherford's model.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C7_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the orbit closest to the nucleus (K-shell) said to have the least energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Electrons there move the slowest, so they have low kinetic energy.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It requires the most energy to remove an electron from that shell due to strong nuclear attraction.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The electron is most strongly bound to the nucleus; it has the lowest (most negative) potential energy.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "The nucleus shares its energy with the K-shell electrons.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Lower orbits have lower (more negative) energy; more energy is needed to remove the electron (ionize).",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Discovery and Properties of Neutrons",
+      "concept_type": "discovery",
+      "questions": [
+        {
+          "question_id": "CH4_C8_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a neutron?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A positively charged subatomic particle.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A negatively charged subatomic particle.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "A neutral subatomic particle with mass nearly equal to a proton.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "A type of electron found in the nucleus.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Neutron: neutral, mass ~1 amu, in nucleus.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C8_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Who discovered the neutron?",
+          "options": [
+            {
+              "label": "A",
+              "text": "J.J. Thomson",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "E. Goldstein",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "James Chadwick",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Niels Bohr",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Chadwick discovered the neutron in 1932.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C8_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student states that neutrons are deflected by electric fields. Why is this incorrect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Neutrons have a small positive charge, but the deflection is too small to observe.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Neutrons are electrically neutral, so they are not affected by electric fields.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Neutrons are too heavy to be deflected.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Electric fields only affect particles inside the nucleus.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "No charge means no force in an electric field.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH4_C8_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Why was the discovery of the neutron necessary to explain the atomic mass of elements?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Protons and electrons could not account for the total mass; neutrons provided the extra mass.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Neutrons were needed to balance the charge in the nucleus.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Electrons were found to have significant mass, so neutrons were not needed.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Neutrons explained chemical bonding, which affects mass.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "e.g., Helium: 2 protons give mass ~2 amu, but actual ~4 amu. Neutrons account for the difference.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C8_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How do protons and neutrons compare in terms of charge and approximate mass?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Both have the same charge but different masses.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Proton: positive charge, mass ~1 amu. Neutron: no charge, mass slightly greater than proton.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Proton: no charge, mass 1 amu. Neutron: negative charge, mass 1 amu.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both are neutral, but neutrons are much lighter.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Proton: +1, ~1 amu. Neutron: 0, ~1.008 amu (slightly heavier).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C8_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "In the equation for neutron discovery: Be⁹ + He⁴ → C¹² + n¹, why is the product particle (n¹) identified as a neutron?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It had a positive charge and mass of 1 amu.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It was not deflected by electric/magnetic fields (neutral) and had mass roughly equal to a proton.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It caused fluorescence like cathode rays.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It was attracted to the cathode in a discharge tube.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Neutrality and mass were key identifying properties.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Atomic Number (Z) and Mass Number (A)",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH4_C9_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the atomic number (Z) of an element?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The total number of protons and neutrons in its atom.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The number of protons in the nucleus of its atom.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The number of electrons in the outermost shell.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The total number of nucleons.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Atomic number = number of protons.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C9_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In a neutral atom, what is the relationship between atomic number (Z) and the number of electrons?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Z is always greater than the number of electrons.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Z is equal to the number of electrons.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Z is always less than the number of electrons.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no fixed relationship.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "In a neutral atom, protons = electrons, so Z = number of electrons.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C9_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student calculates the mass number of an atom as the sum of protons and electrons. What is the error?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Mass number is protons + neutrons; electron mass is negligible.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Mass number is protons only.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Electrons have significant mass and must be included.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Mass number is neutrons + electrons.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Mass number (A) = number of protons (Z) + number of neutrons (N).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C9_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "An element has atomic number 11 and mass number 23. How many neutrons does it have?",
+          "options": [
+            {
+              "label": "A",
+              "text": "11",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "12",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "23",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "34",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Number of neutrons = A - Z = 23 - 11 = 12.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C9_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How do atomic number (Z) and mass number (A) differ in terms of the information they provide about an atom?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Z identifies the element and its chemical properties; A gives the approximate mass and helps identify isotopes.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Z gives the mass; A gives the charge.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both Z and A identify the element uniquely.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Z is the number of shells; A is the number of electrons.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Z defines the element; A gives mass and helps distinguish isotopes.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C9_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the atomic number considered a more fundamental property of an element than its mass number?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It is always a whole number, while mass number can be fractional.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It determines the number of electrons and thus the chemical behavior; isotopes (same Z, different A) have similar chemistry.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It is easier to measure experimentally.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It was discovered before the mass number.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Chemical properties depend on electron configuration, which is determined by Z.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Electronic Configuration and the 2n² Rule",
+      "concept_type": "rule",
+      "questions": [
+        {
+          "question_id": "CH4_C10_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What does the 2n² rule determine?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The valency of an element.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The maximum number of electrons that can occupy a given shell (n).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The atomic mass of an element.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The number of protons in the nucleus.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Maximum electrons in a shell = 2n².",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C10_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the maximum number of electrons that can be present in the L-shell (n=2)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "2",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "8",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "18",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "32",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "L-shell (n=2): 2*(2)² = 8 electrons maximum.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C10_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student writes the electronic configuration of calcium (Z=20) as 2,8,10, thinking the M-shell can hold up to 18 electrons. What rule is being violated?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The 2n² rule is being followed correctly.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The rule that the outermost shell cannot have more than 8 electrons for stability (octet rule) is violated.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The duplet rule for the first shell is violated.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The rule that shells must be filled in numerical order is wrong.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "For stability, the outermost shell (when not the only shell) is filled only up to 8 electrons before starting the next shell.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C10_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "What is the electronic configuration of an element with atomic number 17?",
+          "options": [
+            {
+              "label": "A",
+              "text": "2,8,7",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "2,8,8,1",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "2,8,5",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "2,8,8",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Chlorine (Z=17): K=2, L=8, M=7.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C10_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the filling of electrons in shells for elements lighter than argon differ from those heavier than argon?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For lighter elements, inner shells are completely filled before outer shells. For heavier elements, outer shells may start filling before inner shells are full.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "For lighter elements (up to Ar), inner shells are completely filled stepwise. For heavier ones, the next shell may start after 8 electrons in the previous shell, even if it can hold more.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "There is no difference; the 2n² rule applies uniformly.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Lighter elements follow the duplet rule; heavier ones follow the octet rule.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Example: Potassium (Z=19) is 2,8,8,1, not 2,8,9, because M-shell stops at 8 before N-shell starts.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH4_C10_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the outermost shell of a stable atom (except helium) limited to 8 electrons, even if the 2n² rule allows more?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because 8 is the maximum number of orbits in a shell.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because atoms with 8 valence electrons have the stable configuration of noble gases (octet), which is energetically favorable.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because the nucleus cannot hold more than 8 electrons in the outer shell.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It is a limitation of Bohr's model only.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Octet rule: Atoms tend to achieve 8 electrons in the outermost shell for stability.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Valence Electrons and Chemical Properties",
+      "concept_type": "principle",
+      "questions": [
+        {
+          "question_id": "CH4_C11_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What are valence electrons?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Electrons in the innermost shell.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Electrons present in the outermost shell of an atom.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "All electrons present in an atom.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Electrons that have been lost by an atom.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Valence electrons are in the outermost shell.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C11_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "How many valence electrons does a magnesium atom (atomic number 12) have?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "2",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "8",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "12",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Mg config: 2,8,2. Valence electrons = 2.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C11_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student says that elements with 4 valence electrons are always metals. Why is this incorrect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Elements with 4 valence electrons are non-metals (like Carbon, Silicon) and can be metalloids, not typical metals.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "All elements with 4 valence electrons are inert gases.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Valence electrons have no relation to metallic character.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Metals always have 1, 2, or 3 valence electrons, without exception.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Metals typically have 1-3 valence electrons. 4 valence electrons is characteristic of Group 14 (Carbon group), which includes non-metals and metalloids.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C11_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "An element X has the electronic configuration 2,8,18,8,1. What type of ion will it form and what will be its charge?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Anion, charge -1",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Cation, charge +1",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Cation, charge +2",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It will not form an ion.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "1 valence electron (metal) tends to lose it to form a +1 cation.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C11_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How do metals and non-metals generally differ in terms of their valence electrons and the type of ions they form?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Metals: 1-3 valence electrons, lose electrons to form cations. Non-metals: 4-7 valence electrons, gain electrons to form anions.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Metals: 4-7 valence electrons, gain electrons. Non-metals: 1-3 valence electrons, lose electrons.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both metals and non-metals lose electrons to form cations.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Metals form anions; non-metals form cations.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Metals are electropositive (lose e-); non-metals are electronegative (gain e-).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C11_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why do elements with the same number of valence electrons show similar chemical properties?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because they have the same atomic mass.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because chemical reactions involve valence electrons; similar valence electron configuration leads to similar bonding behavior.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because they belong to the same period in the periodic table.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because they have the same number of electron shells.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Valence electrons determine bonding and reactivity.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Octet Rule and Chemical Activity",
+      "concept_type": "principle",
+      "questions": [
+        {
+          "question_id": "CH4_C12_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the octet rule?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Atoms tend to have 8 protons in the nucleus.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Atoms tend to gain, lose, or share electrons to achieve 8 electrons in their outermost shell.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Atoms always have 8 neutrons.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The maximum number of electrons in any shell is 8.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Octet rule: Atoms achieve stable noble gas configuration (8 valence e-).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C12_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following elements has an atom that naturally satisfies the octet rule?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sodium (Na)",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Chlorine (Cl)",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Neon (Ne)",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Oxygen (O)",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Noble gases have stable octet (or duplet for He) and are inert.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C12_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student says hydrogen follows the octet rule. What is the correct principle for hydrogen?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hydrogen follows the octet rule by gaining 7 electrons.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Hydrogen follows the duplet rule; it tends to achieve 2 electrons in its valence shell like helium.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Hydrogen does not follow any stability rule.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Hydrogen loses its electron to achieve zero electrons, like noble gases.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "H has only K-shell (max 2 e-), so it aims for a duplet.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C12_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Why is a sodium atom (2,8,1) chemically active?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It has an incomplete octet in its outermost shell.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "It has a complete octet.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It has too many protons.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It has no neutrons.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Atoms are active if they do not have a stable octet/duplet.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C12_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the octet rule explain the inertness of noble gases compared to the reactivity of other elements?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Noble gases already have a stable octet (or duplet for He), so they have no tendency to gain, lose, or share electrons. Other elements have incomplete octets and tend to react to achieve it.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Noble gases have no electrons, so they cannot react.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Noble gases have variable valence electrons, making them unstable.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Other elements have complete octets, making them too stable to react.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Stable configuration leads to chemical inertness.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C12_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "According to the octet theory, why do atoms combine?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To increase their mass.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To attain a stable electronic configuration (octet/duplet) of the nearest noble gas by gaining, losing, or sharing electrons.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "To become electrically charged.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To release neutrons.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Chemical bonding is driven by the tendency to achieve stability.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Isotopes",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH4_C13_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What are isotopes?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Atoms of different elements with the same mass number.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Atoms of the same element with the same atomic number but different mass numbers.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Atoms with the same number of neutrons but different protons.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Atoms that have lost or gained electrons.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Isotopes: same Z, different A (due to different neutrons).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C13_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following pairs are isotopes?",
+          "options": [
+            {
+              "label": "A",
+              "text": "¹⁷Cl₃₅ and ¹⁷Cl₃₇",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "¹⁸Ar₄₀ and ²₀Ca₄₀",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "¹H₁ and ²He₄",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "⁶C₁₂ and ⁷N₁₄",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Same element (Cl), same atomic number (17), different mass numbers (35, 37).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C13_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student says that isotopes of an element have different chemical properties. Why is this incorrect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Chemical properties depend on atomic number and electron configuration, which are the same for isotopes.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Isotopes have different proton numbers, causing different chemistry.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Isotopes are different elements altogether.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Only radioactive isotopes have the same chemical properties.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Isotopes have same electronic configuration, hence similar chemical properties.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C13_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Chlorine has two isotopes: Cl-35 (75%) and Cl-37 (25%). What is the average atomic mass of chlorine?",
+          "options": [
+            {
+              "label": "A",
+              "text": "35.0",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "35.5",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "36.0",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "37.0",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Average = (35*3 + 37*1) / 4 = (105+37)/4 = 142/4 = 35.5",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C13_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How do isotopes differ from isobars?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Isotopes: same element (same Z), different A. Isobars: different elements (different Z), same A.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Isotopes: different Z, same A. Isobars: same Z, different A.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both are atoms of the same element.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Isotopes have same neutrons, isobars have same protons.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Isotopes vs. Isobars based on Z and A.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH4_C13_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why do isotopes have different physical properties like density and boiling point?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because they have different numbers of protons, affecting nuclear charge.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because physical properties often depend on mass, and isotopes have different masses due to different neutron numbers.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because their electron clouds are shaped differently.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because only radioactive isotopes have different physical properties.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Mass affects properties like density, diffusion rate, boiling/melting points.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Electrovalent (Ionic) Bond - Definition and Formation",
+      "concept_type": "bond",
+      "questions": [
+        {
+          "question_id": "CH4_C14_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is an electrovalent (ionic) bond?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A bond formed by the mutual sharing of electrons.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A bond formed by the complete transfer of electrons from one atom to another, resulting in electrostatic attraction between ions.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A bond between two non-metal atoms.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A bond within a metal lattice.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Ionic bond: transfer of electron(s), attraction between cation and anion.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C14_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which pair of elements is most likely to form an ionic compound?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Carbon and oxygen",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Sodium and chlorine",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Hydrogen and chlorine",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Nitrogen and hydrogen",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Metal (Na) and non-metal (Cl) typically form ionic bonds.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C14_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student thinks that ionic bonds can form between two non-metal atoms if one is very electronegative. Why is this generally not true for typical ionic bonding?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ionic bonds require complete electron transfer, which typically happens from a metal (low IE) to a non-metal (high EA), not between two non-metals.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Non-metals cannot accept electrons.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "All bonds between non-metals are ionic.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Electronegativity has no role in bonding.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Ionic bonding is characteristic of metal + non-metal combination.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C14_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "What is the electrovalency of magnesium in MgCl₂?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "2",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "3",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "4",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Mg loses 2 electrons to form Mg²⁺, so its electrovalency is 2.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C14_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the formation of an ionic bond involve both oxidation and reduction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The metal atom loses electrons (oxidation) and the non-metal atom gains those electrons (reduction); it's a redox process.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Both atoms undergo reduction.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The metal atom is reduced, and the non-metal is oxidized.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Ionic bond formation does not involve electron transfer, so no redox.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Electron loss = oxidation; electron gain = reduction. Simultaneous in ionic bond formation.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH4_C14_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why are ionic compounds stable despite the repulsion between like-charged ions?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The repulsive forces are stronger than the attractive forces.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The electrostatic force of attraction between oppositely charged ions is much stronger and overcomes the repulsion between like charges.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Neutrons in the nucleus neutralize the repulsion.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Ionic compounds are not stable; they decompose easily.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Net Coulombic attraction leads to a stable lattice.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Formation of Specific Ionic Compounds (NaCl, MgCl₂, CaO)",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH4_C15_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In the formation of NaCl, which atom becomes the cation and which becomes the anion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Na becomes anion (Na⁻), Cl becomes cation (Cl⁺).",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Na becomes cation (Na⁺), Cl becomes anion (Cl⁻).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Both become cations.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both become anions.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Metal loses e- → cation; non-metal gains e- → anion.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C15_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What noble gas configurations do Na⁺ and Cl⁻ ions attain in NaCl?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Na⁺ attains Ne config (2,8); Cl⁻ attains Ar config (2,8,8).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Na⁺ attains Ar config; Cl⁻ attains Ne config.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both attain He config.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Neither attains a noble gas config.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Ions achieve stable octet of nearest noble gas.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C15_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student writes the formula of magnesium chloride as MgCl, thinking magnesium needs to lose only one electron. What is the mistake?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Magnesium has 2 valence electrons; it loses both to achieve stable octet, requiring two chlorine atoms to accept them, hence MgCl₂.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Magnesium gains one electron from chlorine.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Chlorine can accept two electrons.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The formula MgCl is correct.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Valency of Mg is 2, Cl is 1, so formula is MgCl₂.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C15_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In the formation of CaO, how many electrons are transferred per calcium atom?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "2",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "3",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "4",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Ca (2,8,8,2) loses 2 e- to form Ca²⁺; O gains 2 e- to form O²⁻.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C15_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the ratio of ions in MgCl₂ differ from that in CaO?",
+          "options": [
+            {
+              "label": "A",
+              "text": "MgCl₂ has a 1:2 ratio of metal to non-metal ions; CaO has a 1:1 ratio.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Both have a 1:1 ratio.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "MgCl₂ has 1:1; CaO has 1:2.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both have a 1:2 ratio.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Ratio depends on the valency of combining atoms.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH4_C15_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the formula of calcium oxide CaO and not Ca₂O?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Calcium has valency 2, oxygen has valency 2; they combine in a 1:1 ratio to balance charges.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Calcium can only lose one electron.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Oxygen needs only one electron to form O⁻.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Ca₂O would have an unbalanced charge.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Charge balance: Ca²⁺ and O²⁻ combine in 1:1 ratio.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Covalent Bond - Definition and Types",
+      "concept_type": "bond",
+      "questions": [
+        {
+          "question_id": "CH4_C16_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a covalent bond?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A bond formed by the transfer of electrons.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A bond formed by the mutual sharing of one or more pairs of electrons between atoms.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A bond between a metal and a non-metal.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A bond that exists only in gases.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Covalent bond: sharing of electron pairs.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C16_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which molecule contains a triple covalent bond?",
+          "options": [
+            {
+              "label": "A",
+              "text": "H₂",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "O₂",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "N₂",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Cl₂",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Nitrogen molecule (N≡N) has a triple bond.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C16_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student says that covalent bonds can only form between identical atoms. Why is this incorrect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Covalent bonds form between non-metal atoms, which can be different (e.g., H₂O, NH₃, CO₂).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Covalent bonds form only between metals.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Covalent bonds require transfer of electrons, so atoms must be different.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Only ionic bonds can form between different atoms.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Covalent bonds form between non-metals, same or different.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C16_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "What is the covalency of carbon in methane (CH₄)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "2",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "3",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "4",
+              "is_correct": true
+            }
+          ],
+          "correct_label": "D",
+          "key_concept": "Carbon shares 4 electron pairs, so covalency = 4.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C16_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does a single covalent bond differ from a double covalent bond in terms of electron sharing?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Single bond: sharing of 1 electron pair. Double bond: sharing of 2 electron pairs.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Single bond: sharing of 2 electron pairs. Double bond: sharing of 4 electron pairs.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both involve sharing of 1 electron pair, but the distance differs.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Single bond is ionic; double bond is covalent.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Number of shared electron pairs defines bond order.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH4_C16_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why do non-metal atoms usually form covalent bonds rather than ionic bonds when combining with each other?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Both have high electronegativity and tend to gain electrons; neither tends to lose electrons easily. Sharing electrons allows both to attain octet.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Non-metals have low ionization energy and readily lose electrons.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Covalent bonds are weaker, so they form easily.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Ionic bonds require metals, which are not present.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "High IE and EA of non-metals favor sharing over transfer.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Formation of Specific Covalent Molecules (H₂, Cl₂, N₂, HCl, H₂O, NH₃, CH₄, CCl₄)",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH4_C17_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "How many shared electron pairs are there in a chlorine molecule (Cl₂)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "2",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "3",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "4",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Cl-Cl single bond: one shared pair.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C17_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following molecules has a double covalent bond?",
+          "options": [
+            {
+              "label": "A",
+              "text": "H₂",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "O₂",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "N₂",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "HCl",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "O=O double bond.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C17_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student draws the electron dot structure for ammonia (NH₃) with nitrogen having only 6 electrons in its valence shell. What is missing?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Nitrogen should have a lone pair of electrons in addition to the three bonds, making its total valence electrons 8 (octet).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Nitrogen should form a double bond with one hydrogen.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Hydrogen should have 8 electrons.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There should be no lone pair on nitrogen.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "N has 5 valence e-. In NH₃, it forms 3 bonds (uses 3 e-) and retains one lone pair (2 e-), total 8.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C17_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "How many single covalent bonds are present in a molecule of methane (CH₄)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "2",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "3",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "4",
+              "is_correct": true
+            }
+          ],
+          "correct_label": "D",
+          "key_concept": "Carbon forms four single bonds with four hydrogen atoms.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C17_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the bonding in hydrogen chloride (HCl) differ from that in chlorine (Cl₂) in terms of electron pair distribution?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In HCl, the shared pair is closer to Cl (polar covalent). In Cl₂, the shared pair is equally distributed (non-polar covalent).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "HCl is ionic; Cl₂ is covalent.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both are ionic bonds.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both have equally shared electron pairs.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Polar vs. non-polar covalent bonds.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C17_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does carbon form four covalent bonds in compounds like CH₄ and CCl₄?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Carbon has 4 valence electrons; it needs 4 more to complete its octet, so it shares 4 electron pairs.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Carbon has 6 valence electrons and needs to lose 2.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Carbon can only form double bonds.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Carbon is a metal, so it loses 4 electrons.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Tetravalency of carbon due to its electronic configuration (2,4).",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Polar and Non-Polar Covalent Bonds",
+      "concept_type": "comparison",
+      "questions": [
+        {
+          "question_id": "CH4_C18_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a non-polar covalent bond?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A bond where electrons are transferred completely.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A bond where shared electrons are equally distributed between identical atoms.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A bond between a metal and a non-metal.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A bond that ionizes in water.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Non-polar: equal sharing, usually between identical atoms.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH4_C18_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is a polar covalent molecule?",
+          "options": [
+            {
+              "label": "A",
+              "text": "H₂",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Cl₂",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "HCl",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "CH₄",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "HCl has different electronegativities, leading to polar bond.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH4_C18_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student says that CCl₄ is a polar molecule because C-Cl bonds are polar. Why is the molecule as a whole considered non-polar?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The polar C-Cl bonds are symmetrically arranged (tetrahedral), canceling out the dipole moments, making the molecule non-polar.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Carbon and chlorine have the same electronegativity.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "CCl₄ ionizes completely in water, so it's ionic, not polar.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "All covalent molecules are non-polar.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Symmetry can make a molecule with polar bonds non-polar overall.",
+          "exam_relevance": "hard"
+        },
+        {
+          "question_id": "CH4_C18_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "What causes a covalent bond to be polar?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Difference in electronegativity between the bonded atoms.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "The presence of a metal atom.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The bond being a double or triple bond.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The molecule being linear in shape.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Unequal sharing due to electronegativity difference.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH4_C18_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How do polar and non-polar covalent compounds differ in their interaction with water?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Polar covalent compounds often dissolve in water due to dipole interactions; non-polar compounds generally do not.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Non-polar compounds dissolve easily in water; polar compounds do not.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both dissolve equally well.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Neither type dissolves in water; only ionic compounds do.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Like dissolves like: polar solvents dissolve polar solutes.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH4_C18_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does HCl conduct electricity in aqueous solution while Cl₂ gas does not?",
+          "options": [
+            {
+              "label": "A",
+              "text": "HCl is a polar covalent molecule that ionizes in water to form H⁺ and Cl⁻ ions, which conduct electricity. Cl₂ is non-polar and does not ionize.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "HCl is ionic in the solid state.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Cl₂ ionizes in water to form Cl⁻ ions.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both conduct electricity equally well.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Polar covalent molecules can dissociate into ions in water.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Comparison of Electrovalent and Covalent Compounds",
+      "concept_type": "comparison",
+      "questions": [
+        {
+          "question_id": "CH4_C19_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which type of compounds generally have high melting and boiling points?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Electrovalent (Ionic) compounds",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Covalent compounds",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both have similar melting points.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Neither have defined melting points.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Ionic compounds have strong electrostatic forces, requiring high heat to break.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C19_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which type of compounds are usually soluble in water?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Electrovalent compounds",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Covalent compounds",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both are equally soluble.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Neither is soluble.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Many ionic compounds dissolve in polar solvents like water.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C19_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student states that covalent compounds never conduct electricity. Under what condition might this be false?",
+          "options": [
+            {
+              "label": "A",
+              "text": "When dissolved in water, some polar covalent compounds (like HCl) ionize and conduct electricity.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "In the solid state, all covalent compounds conduct.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "When melted, all covalent compounds conduct.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Covalent compounds always conduct better than ionic compounds.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Polar covalent compounds can conduct in aqueous solution due to ionization.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C19_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "A solid is crystalline, hard, has a high melting point, and is soluble in water. What type of bonding is it most likely to have?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Electrovalent (Ionic) bonding",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Covalent bonding",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Metallic bonding",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Hydrogen bonding",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "These are typical properties of ionic compounds.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH4_C19_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How do the physical states of typical ionic and covalent compounds at room temperature often differ?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ionic compounds are usually solids; covalent compounds can be solids, liquids, or gases.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Ionic compounds are gases; covalent compounds are solids.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both are always solids.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both are always gases.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Ionic compounds form crystalline solids due to strong lattice forces. Covalent molecules have weaker intermolecular forces, allowing various states.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH4_C19_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why are electrovalent compounds brittle, whereas covalent compounds are not necessarily so?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In ionic solids, a shift in layers brings like charges adjacent, causing repulsion and fracture. Covalent networks or molecules do not necessarily have this charge-based repulsion.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Ionic compounds are soft and malleable.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Covalent compounds are always brittle.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Brittleness is unrelated to bond type.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Brittleness of ionic solids is due to the nature of the ionic lattice.",
+          "exam_relevance": "medium"
+        }
+      ]
+    }
+  ]
+}

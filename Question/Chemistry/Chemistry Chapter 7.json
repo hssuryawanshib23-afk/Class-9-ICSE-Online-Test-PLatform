@@ -1,0 +1,1989 @@
+{
+  "chapter": {
+    "subject": "Physics",
+    "chapter_number": 7,
+    "chapter_name": "Study of Gas Laws"
+  },
+  "concepts": [
+    {
+      "concept_name": "Definition and State of Gas",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH7_C1_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following best defines the state of matter known as a gas?",
+          "options": [
+            {
+              "label": "A",
+              "text": "State where inter-particle attraction is strong and particles are closely packed.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "State where inter-particle attraction is weak and particles are completely free to move randomly in the entire available space.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "State where particles have a definite volume and shape.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "State where particles are arranged in a regular, repeating pattern.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Definition of a gas based on inter-particle forces and motion.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C1_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which property is NOT characteristic of a gas?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It occupies the entire volume of its container.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It has a fixed shape and volume.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It exerts pressure in all directions.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It is highly compressible.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Gases have neither fixed volume nor fixed shape.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C1_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student states: 'Gases have a definite volume because they fill their container.' What is the error in this statement?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Gases do not fill their container; they only occupy the bottom.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Gases take the shape of the container, but their volume is not definite; it depends on the container's size.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Gases have a definite volume but an indefinite shape.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The statement is completely correct.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Gases have neither fixed volume nor shape; they expand to fill the container.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C1_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Why does chlorine gas, released from a jar, spread throughout a room even though it is heavier than air?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because it is repelled by air molecules.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because of diffusion due to constant random molecular motion.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because of gravitational pull from all directions.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because it reacts with air to become lighter.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Diffusion in gases is due to random molecular motion, overcoming density differences.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C1_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the inter-particle space in a gas compare to that in solids and liquids?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Inter-particle space is largest in solids, followed by liquids, and smallest in gases.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Inter-particle space is approximately the same in all three states.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Inter-particle space is very small in solids and liquids but very large in gases.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Inter-particle space is negligible in gases but significant in solids and liquids.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Gases have large inter-molecular spaces, leading to high compressibility and low density.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C1_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why do gases exert pressure on the walls of their container?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because gas molecules are stationary and push against the walls due to repulsive forces.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because gas molecules are in constant random motion and collide with the walls, exerting force per unit area.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because gas molecules are attracted to the walls of the container.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because external atmospheric pressure squeezes the gas against the walls.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Gas pressure results from collisions of randomly moving molecules with container walls.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Behaviour and Properties of Gases (Kinetic Theory)",
+      "concept_type": "principle",
+      "questions": [
+        {
+          "question_id": "CH7_C2_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "According to the kinetic theory, what is the state of molecules in a gas?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They are stationary and evenly distributed.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "They are in constant random motion at all possible speeds.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "They vibrate about fixed positions.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They move in an orderly, linear fashion.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Kinetic theory: Gas molecules are in constant, random motion.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C2_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of these is NOT an assumption of the kinetic molecular theory for gases?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Gas molecules are negligibly small compared to the volume occupied.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "There are strong forces of attraction between gas molecules.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Gas molecules collide with each other and the walls of the container.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The average kinetic energy of molecules is proportional to absolute temperature.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Kinetic theory assumes negligible intermolecular forces for ideal gases.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C2_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A common misconception is that gas pressure increases with temperature only because molecules move faster. What other factor, at constant volume, significantly contributes to the pressure increase?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The size of the molecules increases.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The number of molecules increases.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The rate of collision with the walls increases, and each collision has greater momentum.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "The intermolecular forces become repulsive.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Pressure increase at constant volume is due to increased collision rate and momentum.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C2_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "If the temperature of a fixed mass of gas in a rigid container is doubled (in Kelvin), what happens to the pressure exerted by the gas, according to the kinetic theory?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Pressure remains the same.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Pressure is halved.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Pressure is doubled.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Pressure becomes four times.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "At constant volume, pressure is directly proportional to absolute temperature (Gay-Lussac's Law).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C2_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Comparing the compressibility of gases and solids, which statement is correct based on kinetic theory?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Gases are highly compressible due to large inter-molecular spaces; solids are not compressible due to negligible spaces.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Solids are more compressible than gases because their molecules are tightly packed.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both gases and solids are equally compressible.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Gases are incompressible because their molecules are far apart.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Compressibility depends on inter-molecular space, which is large in gases.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C2_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does the density of a gas decrease when it is heated at constant pressure?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because the mass of the gas decreases upon heating.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because the molecules break down into lighter atoms.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because the volume increases (expands) while mass remains constant, leading to lower mass per unit volume.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Because the intermolecular forces increase, pushing molecules apart.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Density = mass/volume. At constant pressure, volume increases with temperature, decreasing density.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Boyle's Law (Statement and Mathematical Form)",
+      "concept_type": "law",
+      "questions": [
+        {
+          "question_id": "CH7_C3_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Boyle's law states that for a fixed mass of a dry gas:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Volume is directly proportional to absolute temperature at constant pressure.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Volume is inversely proportional to its pressure at constant temperature.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Pressure is directly proportional to absolute temperature at constant volume.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The product of pressure and volume is inversely proportional to absolute temperature.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Boyle's Law: V ∝ 1/P (at constant temperature).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C3_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which mathematical expression correctly represents Boyle's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "P₁/T₁ = P₂/T₂",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "V₁/T₁ = V₂/T₂",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "P₁V₁ = P₂V₂",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "P₁V₁/T₁ = P₂V₂/T₂",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Boyle's law equation: P₁V₁ = P₂V₂ (constant temperature).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C3_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student calculates the new volume of a gas after a pressure change using Boyle's law but gets an answer that seems too large. He forgot a critical condition. What is the most likely error?",
+          "options": [
+            {
+              "label": "A",
+              "text": "He used temperature in Celsius instead of Kelvin.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "He assumed the mass of the gas changed during the process.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "He used the wrong units for pressure.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "He applied Charles's law instead.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Boyle's law applies only to a fixed (constant) mass of gas.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C3_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "A gas occupies 400 cm³ at a pressure of 760 mm Hg. If the pressure is increased to 1520 mm Hg at constant temperature, what will be the new volume?",
+          "options": [
+            {
+              "label": "A",
+              "text": "200 cm³",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "800 cm³",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "300 cm³",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "600 cm³",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Applying Boyle's law: P₁V₁ = P₂V₂. Pressure doubles, volume halves.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C3_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the graph of Volume (V) vs. Pressure (P) for a gas obeying Boyle's law differ from the graph of V vs. 1/P?",
+          "options": [
+            {
+              "label": "A",
+              "text": "V vs P is a straight line through the origin; V vs 1/P is a hyperbola.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "V vs P is a hyperbola; V vs 1/P is a straight line through the origin.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Both are straight lines parallel to the x-axis.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both are parabolic curves.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Graphical representation of Boyle's law: V ∝ 1/P gives a straight line for V vs 1/P and a hyperbola for V vs P.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C3_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does inflating a balloon by blowing more air into it NOT violate Boyle's law, even though both pressure and volume increase inside?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because the temperature inside the balloon decreases significantly.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because Boyle's law is only valid for liquids, not gases.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because Boyle's law applies to a fixed mass of gas, and here the mass of air is increasing.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Because the pressure outside the balloon is also increasing.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Boyle's law requires constant mass; blowing air adds mass, changing the system.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Boyle's Law (Explanation via Kinetic Theory)",
+      "concept_type": "reasoning",
+      "questions": [
+        {
+          "question_id": "CH7_C4_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "According to kinetic theory, Boyle's law is explained by the relationship between:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Temperature and molecular speed.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Volume and the number of molecular collisions per unit area.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Pressure and absolute zero.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Mass and intermolecular forces.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "At constant T, reducing volume increases collision frequency per unit area, increasing pressure (Boyle's law).",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C4_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "When the volume of a fixed mass of gas is halved at constant temperature, what happens to the number of molecules striking a unit area of the container wall per second?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It is halved.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It remains the same.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It is doubled.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "It becomes four times.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Halving volume doubles molecular concentration and collision frequency per unit area.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C4_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student thinks that pressure increases when volume decreases because the molecules themselves become larger and hit the walls harder. What is the correct kinetic theory explanation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The molecules expand, increasing their collision cross-section.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The average kinetic energy increases at constant temperature.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The same number of molecules are confined to a smaller space, leading to more frequent collisions per unit area.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Intermolecular forces become repulsive, pushing against the walls.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Pressure change in Boyle's law (constant T) is due to change in collision frequency, not molecular size or kinetic energy.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C4_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "If the pressure on a gas is reduced to one-fourth at constant temperature, how does the average distance between its molecules change?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It becomes four times larger.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It is halved.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It becomes twice as large.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "It remains unchanged.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "P ∝ 1/V. Pressure reduces to 1/4, volume becomes 4 times. Volume ∝ (average distance)³. So distance increases by a factor of ∛4 ≈ 1.587, but simpler conceptual link: volume increases, so average distance increases. Closest correct: Volume quadruples, so linear dimension roughly doubles.",
+          "exam_relevance": "hard"
+        },
+        {
+          "question_id": "CH7_C4_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Comparing the effect on gas pressure: (I) Halving the volume at constant temperature. (II) Doubling the absolute temperature at constant volume. Which statement is true based on kinetic theory?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Both increase pressure by the same factor (doubling it).",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "(I) doubles pressure by increasing collision frequency; (II) doubles pressure by increasing collision momentum.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "(I) has no effect on pressure; (II) doubles the pressure.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "(I) quadruples pressure; (II) halves pressure.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Boyle's law (I): Pressure doubles due to doubled collision frequency. Gay-Lussac's law (II): Pressure doubles due to increased molecular speed (momentum).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C4_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is Boyle's law valid only at constant temperature?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because temperature affects the volume of the container.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because at constant temperature, the average kinetic energy (and thus average speed) of molecules remains constant, so pressure change is solely due to volume change affecting collision frequency.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because intermolecular forces become significant if temperature changes.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because the mass of the gas molecules changes with temperature.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Constant temperature ensures constant average molecular speed, isolating the effect of volume change on collision frequency.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Charles's Law (Statement and Mathematical Form)",
+      "concept_type": "law",
+      "questions": [
+        {
+          "question_id": "CH7_C5_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Charles's law states that for a fixed mass of a dry gas at constant pressure:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Volume is directly proportional to its Celsius temperature.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Volume is inversely proportional to its absolute temperature.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Volume is directly proportional to its absolute (Kelvin) temperature.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Pressure is directly proportional to its absolute temperature.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Charles's Law: V ∝ T (at constant pressure), where T is in Kelvin.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C5_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which equation represents Charles's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "V₁/T₁ = V₂/T₂",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "P₁V₁ = P₂V₂",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "P₁/T₁ = P₂/T₂",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "V₁/P₁ = V₂/P₂",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Charles's law equation: V₁/T₁ = V₂/T₂ (constant pressure).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C5_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A common mistake is to use Celsius temperature in Charles's law calculations. If the volume of a gas at 0°C is V₀, what would an incorrect application using Celsius give for the volume at 273°C?",
+          "options": [
+            {
+              "label": "A",
+              "text": "V₀",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "2V₀",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "V₀/2",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It would predict an infinite volume or nonsensical result because it uses ratio (273/0).",
+              "is_correct": true
+            }
+          ],
+          "correct_label": "D",
+          "key_concept": "Charles's law requires absolute temperature (Kelvin). Using Celsius leads to incorrect ratios, especially near 0°C.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C5_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "A gas occupies 300 cm³ at 27°C. What volume will it occupy at 127°C, pressure remaining constant?",
+          "options": [
+            {
+              "label": "A",
+              "text": "400 cm³",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "200 cm³",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "600 cm³",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "133.33 cm³",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "V₁/T₁ = V₂/T₂. T₁=300K, T₂=400K. V₂ = (400/300)*300 = 400 cm³.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C5_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How is the graph of Volume vs. Temperature (°C) for a gas at constant pressure different from Volume vs. Absolute Temperature (K)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "V vs °C is a straight line with a positive intercept on the V-axis; V vs K is a straight line passing through the origin.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Both are identical straight lines passing through the origin.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "V vs °C is a hyperbola; V vs K is a straight line.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "V vs °C is a parabola; V vs K is a circle.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "V vs T(°C) line extrapolates to zero volume at -273°C. V vs T(K) shows direct proportionality through origin.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C5_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "According to Charles's original statement, volume changes by 1/273 of its volume at 0°C per °C. How does this lead to the concept of absolute zero?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It suggests that at -273°C, the volume would be negative, which is impossible.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It suggests that at -273°C, the volume would become zero, implying a theoretical lower limit to temperature.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It shows that volume becomes infinite at -273°C.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It indicates that the gas turns into a liquid at -273°C.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Extrapolation of Charles's law to -273°C yields zero volume, defining absolute zero as the temperature where molecular motion theoretically ceases.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Charles's Law (Explanation via Kinetic Theory)",
+      "concept_type": "reasoning",
+      "questions": [
+        {
+          "question_id": "CH7_C6_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In kinetic theory terms, Charles's law is explained by the relationship between temperature and:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Intermolecular forces.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The average kinetic energy and speed of molecules.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The size of molecules.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The mass of individual molecules.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Higher temperature increases average molecular kinetic energy and speed.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C6_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "When a gas is heated at constant pressure, why does its volume increase?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Molecules expand in size.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Molecules move faster and push the movable boundary outward to maintain constant pressure.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Intermolecular attraction increases, pushing molecules apart.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The number of molecules increases.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Increased molecular momentum increases pressure momentarily; to keep pressure constant, the volume must increase (movable wall).",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C6_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student thinks that heating a gas at constant pressure only makes molecules move faster but doesn't understand why volume must change. What is the key idea linking speed and volume?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Faster molecules need more space to avoid colliding.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The increased force per collision would increase pressure; to prevent this, the gas expands, reducing collision frequency to balance the pressure.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Heating creates new molecules, requiring more volume.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The container itself expands on heating, creating more volume.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Constant pressure condition forces volume to adjust so that increased momentum per collision is offset by fewer collisions per unit area due to expansion.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C6_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "If the absolute temperature of a gas at constant pressure is reduced to one-third of its original value, what happens to the average speed of its molecules?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It reduces to one-third.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It reduces to about 0.577 (1/√3) of the original speed.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It remains the same.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It increases by a factor of three.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Average kinetic energy ∝ T. KE ∝ (speed)². So speed ∝ √T. If T becomes T/3, speed becomes √(1/3) ≈ 0.577 of original.",
+          "exam_relevance": "hard"
+        },
+        {
+          "question_id": "CH7_C6_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Comparing the density of a fixed mass of gas: (I) When heated at constant pressure. (II) When compressed at constant temperature. Which is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "(I) Density decreases; (II) Density increases.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "(I) Density increases; (II) Density decreases.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both increase density.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both decrease density.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Density = mass/volume. (I) Charles's law: Volume increases with T, so density decreases. (II) Boyle's law: Volume decreases with increased P, so density increases.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C6_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why do hot air balloons rise?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because the heated air inside is at a higher pressure than outside, creating lift.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because heating the air decreases its density (mass per volume) inside the balloon, making it lighter than the cooler, denser outside air.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because heating creates an upward current that pulls the balloon.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because the balloon material becomes lighter when hot.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Application of Charles's law: Heating air at constant pressure (atmospheric) increases volume, decreasing density, resulting in buoyancy.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Absolute Zero and Kelvin Scale",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH7_C7_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Absolute zero is defined as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "The freezing point of water.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The temperature at which molecular motion theoretically ceases.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The boiling point of liquid nitrogen.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "0°C.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Absolute zero is the theoretical temperature of zero kinetic energy.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C7_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the value of absolute zero on the Celsius scale?",
+          "options": [
+            {
+              "label": "A",
+              "text": "0°C",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "-100°C",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "-273°C",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "273°C",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Absolute zero = -273°C (approximately).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C7_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student says, 'At absolute zero, the volume of a gas becomes zero.' Why is this statement problematic?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It is perfectly correct; gases vanish at 0 K.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It is a theoretical extrapolation of Charles's law, but real gases liquefy or solidify long before reaching 0 K, and matter always occupies some volume.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Volume becomes infinite at absolute zero.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Absolute zero is defined as the temperature where volume is maximum.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Absolute zero is a theoretical limit from gas law extrapolation; real substances are not ideal gases at low temperatures.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C7_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Convert 27°C to Kelvin.",
+          "options": [
+            {
+              "label": "A",
+              "text": "300 K",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "246 K",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "27 K",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "273 K",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "K = °C + 273. So, 27 + 273 = 300 K.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C7_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the Kelvin scale fundamentally differ from the Celsius scale?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The size of one degree is different.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The Kelvin scale has its zero at a theoretically significant point (absolute zero), while Celsius zero is arbitrary (freezing point of water).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The Kelvin scale can have negative values, unlike Celsius.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The Kelvin scale is used only for gases.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Kelvin is an absolute scale with zero at absolute zero; Celsius is a relative scale.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C7_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why are all temperatures on the Kelvin scale positive?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because it is defined by adding 273 to Celsius, which is always positive.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because its zero is set at the lowest theoretically possible temperature; nothing can be colder.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "By convention, negative signs are not used in science.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because molecular motion can only be positive.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Absolute zero is the baseline; all attainable temperatures are above it.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Standard Temperature and Pressure (STP)",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH7_C8_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What does STP stand for in the context of gases?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Standard Temperature and Pressure",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Scientific Testing Protocol",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Systematic Temperature Pressure",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Standard Testing Pressure",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "STP: Standard Temperature and Pressure.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C8_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following are the standard values at STP?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Temperature = 25°C, Pressure = 1 atm",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Temperature = 0°C, Pressure = 760 mm Hg",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Temperature = 273 K, Pressure = 700 mm Hg",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Temperature = 100°C, Pressure = 1 atm",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "STP: Temperature = 0°C (273 K), Pressure = 760 mm Hg (1 atm).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C8_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student records the volume of a gas as 22.4 L at 25°C and 1 atm, calling it STP conditions. What is the error?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The pressure is wrong; it should be 760 torr.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The temperature is not standard; STP requires 0°C, not 25°C.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "The volume is incorrect for STP; it should be 24.5 L.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no error; these are common STP values.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "STP strictly uses 0°C. 25°C and 1 atm are often called 'standard ambient conditions' but not STP.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C8_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Why is it necessary to specify the volume of a gas at STP?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To confuse students.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because gas volume changes with temperature and pressure; STP provides a common reference for comparison.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because all gases have the same volume only at STP.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It is not necessary; volume can be given at any condition.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "STP standardizes conditions, allowing meaningful comparison of gas volumes from different experiments.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C8_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Comparing the molar volume of an ideal gas at STP and at 25°C/1 atm, which is larger and why?",
+          "options": [
+            {
+              "label": "A",
+              "text": "At STP; because lower temperature means smaller volume.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "At 25°C/1 atm; because higher temperature leads to larger volume at the same pressure.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "They are the same because pressure is 1 atm in both.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "At STP; because pressure is higher at 25°C.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "At constant pressure, volume ∝ T (Charles's law). 298 K (25°C) > 273 K (0°C), so volume is larger at 25°C.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C8_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "What is the advantage of using the Kelvin scale over Celsius when applying the gas equation (PV/T = constant)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It avoids negative temperature values in calculations, ensuring proportionality works correctly.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Kelvin numbers are smaller and easier to calculate.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Celsius scale is not accepted in scientific work.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no advantage; both scales yield the same result.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Gas laws are directly proportional only with absolute temperature (K). Using Celsius can give zero or negative values, breaking the proportionality.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "The Gas Equation (Combined Gas Law)",
+      "concept_type": "law",
+      "questions": [
+        {
+          "question_id": "CH7_C9_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "The gas equation (combined gas law) relates which variables for a fixed mass of gas?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Mass, Volume, Temperature",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Pressure, Volume, Temperature",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Density, Pressure, Mass",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Volume, Temperature, Density",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The gas equation: P, V, and T are related.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C9_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which equation represents the combined gas law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "P₁V₁ = P₂V₂",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "V₁/T₁ = V₂/T₂",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "P₁/T₁ = P₂/T₂",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "P₁V₁/T₁ = P₂V₂/T₂",
+              "is_correct": true
+            }
+          ],
+          "correct_label": "D",
+          "key_concept": "Combined gas law: (P₁V₁)/T₁ = (P₂V₂)/T₂.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C9_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A common error is to forget that temperature in the gas equation must be in Kelvin. If you use Celsius, what specific problem arises?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The equation becomes dimensionally incorrect.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The calculated volume or pressure can be zero or negative, or the ratios will be wrong, especially near 0°C.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The pressure units must be converted to Pascals.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The mass of the gas must be included.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Using Celsius can lead to division by zero (at 0°C) or negative ratios, making results nonsensical.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C9_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "A gas occupies 2 L at 300 K and 1 atm. What will be its volume at 600 K and 2 atm?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1 L",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "2 L",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "4 L",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "0.5 L",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "P₁V₁/T₁ = P₂V₂/T₂. (1*2)/300 = (2*V₂)/600. Solving gives V₂ = 2 L.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C9_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How is the combined gas law different from the ideal gas law (PV = nRT)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The combined law applies to changing conditions for a fixed mass; the ideal gas law relates P, V, T, and the number of moles at one state.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "The combined law includes density, while the ideal gas law does not.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The combined law uses Celsius, the ideal gas law uses Kelvin.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They are the same equation, just written differently.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Combined law: P₁V₁/T₁ = P₂V₂/T₂ (for fixed n). Ideal gas law: PV = nRT (introduces moles n and constant R).",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C9_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "If both the pressure and absolute temperature of a fixed mass of gas are doubled, what happens to its volume according to the gas equation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Volume is doubled.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Volume is halved.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Volume remains unchanged.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Volume becomes four times.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "From P₁V₁/T₁ = P₂V₂/T₂. If P₂=2P₁ and T₂=2T₁, then V₂ = V₁. Volume is constant.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Aqueous Tension and Pressure Correction",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH7_C10_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is aqueous tension?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The tension on the surface of water.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The pressure exerted by water vapour present in a gas collected over water.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The force required to dissolve a gas in water.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The difference in pressure between dry and wet gas.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Aqueous tension is the partial pressure of water vapour in equilibrium with liquid water.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C10_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "A gas is collected over water. The total pressure measured is 750 mm Hg. If aqueous tension at that temperature is 20 mm Hg, what is the pressure of the dry gas?",
+          "options": [
+            {
+              "label": "A",
+              "text": "770 mm Hg",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "730 mm Hg",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "750 mm Hg",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "20 mm Hg",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Pressure of dry gas = Total pressure - Aqueous tension.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C10_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student forgets to subtract aqueous tension before using the gas equation. How will the calculated volume at STP be affected?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It will be correct because aqueous tension is part of the pressure.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It will be too high because the student used an artificially high pressure for the dry gas.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It will be too low because water vapour reduces the gas volume.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It will be unaffected because temperature correction compensates.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Using total pressure (including water vapour) overestimates the dry gas pressure, leading to an overestimated STP volume.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH7_C10_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Why is gas collected over water moist?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because water reacts with the gas.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because the gas bubbles through water and gets saturated with water vapour.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because the collecting jar leaks water.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because atmospheric moisture condenses.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Contact with water saturates the gas with water vapour.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH7_C10_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Comparing the volume of a dry gas and the same gas collected over water (both at the same total pressure and temperature), which has a larger apparent volume and why?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The dry gas; because it is not mixed with water vapour.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The moist gas; because water vapour occupies additional space, making the total volume larger for the same number of dry gas molecules.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "They have the same volume; the presence of water vapour doesn't change the space occupied.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The measured volume is the same for both, but the partial pressure of the dry gas is less in the moist sample.",
+              "is_correct": true
+            }
+          ],
+          "correct_label": "D",
+          "key_concept": "The total volume measured is that of the mixture. For the same total P and T, adding water vapour (which exerts partial pressure) means the dry gas exerts less than the total pressure.",
+          "exam_relevance": "hard"
+        },
+        {
+          "question_id": "CH7_C10_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why must the aqueous tension value be known at the specific temperature of the experiment?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because aqueous tension decreases with increasing temperature.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because aqueous tension increases with increasing temperature; it is not a constant.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because it is needed to calculate the density of water.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because the gas solubility changes with temperature.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Vapour pressure of water (aqueous tension) is temperature-dependent, increasing with temperature.",
+          "exam_relevance": "medium"
+        }
+      ]
+    }
+  ]
+}

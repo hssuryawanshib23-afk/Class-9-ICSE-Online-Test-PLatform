@@ -1,0 +1,2187 @@
+{
+  "chapter": {
+    "subject": "Physics",
+    "chapter_number": 9,
+    "chapter_name": "Current electricity"
+  },
+  "concepts": [
+    {
+      "concept_name": "Direct Current (d.c.) - Definition and Sources",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH9_C1_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is Direct Current (d.c.)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Current whose magnitude and direction change periodically.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Current of constant magnitude flowing in one direction.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Current that flows only in metals.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Current produced only by batteries.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Definition of Direct Current",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C1_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is a source of direct current?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Mains electricity",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A.C. Generator",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Electric cell",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Transformer",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Source of d.c.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C1_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student claims: 'A dry cell provides alternating current because it has positive and negative terminals.' What is the flaw in this statement?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A dry cell provides d.c., which is constant in magnitude and direction, not a.c.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "A dry cell has no terminals.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "A dry cell provides current only in pulses.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The statement is correct; a cell provides a.c.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Cell provides d.c., not a.c.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C1_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In a torch, which component acts as the source of direct current?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The bulb",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The switch",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The cell(s)",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "The reflector",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Practical source of d.c.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C1_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the energy transformation in a cell differ from that in a power station generator (for mains)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Cell: Chemical to Electrical; Generator: Mechanical to Electrical (often).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Both transform chemical energy to electrical energy.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Cell: Electrical to Heat; Generator: Mechanical to Heat.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no energy transformation in a cell.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Energy transformation in sources",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH9_C1_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the current from a cell considered 'direct'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because it flows directly from the source to the load without wires.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because its magnitude remains constant for a long time and it flows in one direction (positive to negative externally).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because it can flow in both directions.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because it is generated directly from sunlight.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Characteristics of d.c.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Primary and Secondary Cells",
+      "concept_type": "comparison",
+      "questions": [
+        {
+          "question_id": "CH9_C2_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a primary cell?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A cell that can be recharged and reused.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A cell with a reversible chemical reaction.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "A cell that provides current from an irreversible chemical reaction and is discarded after use.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "The first cell invented by scientists.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Definition of primary cell",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C2_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is a secondary cell?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Dry cell",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Leclanche cell",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Lead accumulator",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Simple voltaic cell",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Example of secondary cell",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C2_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student thinks both primary and secondary cells can be recharged. What is the key difference?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Primary cells have reversible reactions and can be recharged; secondary cells cannot.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Secondary cells have reversible reactions and can be recharged; primary cells have irreversible reactions and cannot be recharged.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Both can be recharged, but primary cells are cheaper.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Neither can be recharged.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Reversibility of chemical reaction",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C2_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Where would you typically use a lead accumulator?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In a wristwatch",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "In a car battery",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "In a TV remote",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "In a torch",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Use of secondary cell",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C2_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the energy transformation during 'charging' and 'discharging' of a secondary cell.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Charging: Electrical → Chemical; Discharging: Chemical → Electrical.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Charging: Chemical → Electrical; Discharging: Electrical → Chemical.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both involve only chemical to electrical transformation.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both involve only electrical to heat transformation.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Energy transformation in secondary cells",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH9_C2_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why are secondary cells also called 'storage cells'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because they store electrical energy directly in wires.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because they store chemical energy during charging, which is later converted to electrical energy.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because they are used to store water.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because they have a larger physical size for storage.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Secondary cells as storage devices",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Electric Current as Rate of Flow of Charge",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH9_C3_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Electric current is defined as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "The total charge present in a conductor.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The rate of flow of electric charge.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The speed of electrons in a wire.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The potential difference per unit charge.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Definition of electric current",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C3_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the formula for current (I) if charge Q flows in time t?",
+          "options": [
+            {
+              "label": "A",
+              "text": "I = Q * t",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "I = Q / t",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "I = t / Q",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "I = Q + t",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Formula I = Q/t",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C3_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student calculates current as I = t/Q. What is the error?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Current is charge divided by time, not time divided by charge.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Current is charge multiplied by time.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The formula is correct for alternating current.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The formula needs the square of time.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Correct formula for current",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C3_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "If 10 coulombs of charge pass through a conductor in 5 seconds, what is the current?",
+          "options": [
+            {
+              "label": "A",
+              "text": "0.5 A",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "2 A",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "50 A",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "15 A",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Calculating current from charge and time",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C3_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the charge carriers in metallic conductors and in electrolytes.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Metals: free electrons only; Electrolytes: both positive and negative ions.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Both have free electrons as charge carriers.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Metals: ions; Electrolytes: electrons.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both have only positive ions as charge carriers.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Charge carriers in different media",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH9_C3_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "If 6.25 x 10^18 electrons pass a point per second, what is the current? (Charge on electron = 1.6 x 10^-19 C)",
+          "options": [
+            {
+              "label": "A",
+              "text": "0.1 A",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "1.0 A",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "10 A",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "6.25 A",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Relating electron flow to current",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Unit of Current - Ampere",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH9_C4_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the S.I. unit of electric current?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Volt",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Ampere",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Coulomb",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Ohm",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "S.I. unit of current",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C4_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "1 ampere is defined as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "1 coulomb per second.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "1 joule per coulomb.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "1 volt per ohm.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "1 coulomb per volt.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Definition of ampere",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C4_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student writes the unit of current as 'C/s' and claims it is called 'Columbus'. What is the correct name?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The unit is 'Coulomb-second'.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "C/s is the unit, and its correct name is 'Ampere'.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The unit is 'Volt'.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The unit is 'Ohm'.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Name of the unit C/s",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH9_C4_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Which of the following represents a unit for measuring very small currents?",
+          "options": [
+            {
+              "label": "A",
+              "text": "kiloampere (kA)",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "microampere (μA)",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "megavolt (MV)",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "milliohm (mΩ)",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Submultiples of ampere",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH9_C4_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the magnitudes: 1 mA, 1 A, and 1 μA.",
+          "options": [
+            {
+              "label": "A",
+              "text": "1 A > 1 mA > 1 μA",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "1 μA > 1 mA > 1 A",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "1 mA > 1 A > 1 μA",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "All are equal.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Relative magnitude of current units",
+          "exam_relevance": "low"
+        },
+        {
+          "question_id": "CH9_C4_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the ampere considered a fundamental unit, while the coulomb is a derived unit?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ampere measures current, which is a base quantity; coulomb (charge) is derived from current and time (C = A*s).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Ampere is derived from volt and ohm.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Coulomb is a base unit, ampere is derived.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both are fundamental units.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Fundamental vs derived units",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Symbols of Circuit Components",
+      "concept_type": "identification",
+      "questions": [
+        {
+          "question_id": "CH9_C5_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What does the symbol consisting of two vertical lines, one longer (+) and one shorter (-), represent?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ammeter",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Voltmeter",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Cell",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Resistor",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Symbol for a cell",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C5_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which symbol represents a closed key (switch)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A circle with a sine wave inside",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A circle with the letter 'A'",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "A line with a gap",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A line with a dot (or no break)",
+              "is_correct": true
+            }
+          ],
+          "correct_label": "D",
+          "key_concept": "Symbol for closed key",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C5_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student confuses the symbols for ammeter and voltmeter. How are they distinguished?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ammeter symbol has 'V', voltmeter has 'A'.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Ammeter symbol is a circle with 'A'; voltmeter is a circle with 'V'.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Both are represented by a circle with 'G'.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no difference in their symbols.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Ammeter vs voltmeter symbols",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C5_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In a circuit diagram, which component's symbol would you use to indicate a device for varying resistance smoothly?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A fixed resistor (box)",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A rheostat (arrow through resistor)",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A cell",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A galvanometer",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Symbol for rheostat/variable resistance",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C5_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the symbols for an a.c. source and a d.c. source (cell).",
+          "options": [
+            {
+              "label": "A",
+              "text": "d.c. source: two lines (+ longer); a.c. source: circle with sine wave.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "d.c. source: circle with sine wave; a.c. source: two lines.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both use the same symbol.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "d.c. source: circle with 'A'; a.c. source: circle with 'V'.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Symbols for a.c. and d.c. sources",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH9_C5_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the symbol for a galvanometer a circle with 'G', while an ammeter has 'A'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Galvanometer detects current and direction but doesn't measure magnitude quantitatively; ammeter measures magnitude.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "They are the same instrument with different names.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Galvanometer is for voltage, ammeter for current.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Galvanometer has higher resistance.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Function difference reflected in symbol",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Ammeter - Function and Connection",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH9_C6_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the function of an ammeter?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To measure potential difference.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To measure the magnitude of current flowing in a circuit.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "To provide a source of current.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To vary the resistance in a circuit.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Function of ammeter",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C6_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "How is an ammeter connected in a circuit?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In parallel with the component.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "In series with the circuit.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Across the terminals of the cell.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It can be connected anywhere, no specific rule.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Ammeter connection - series",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C6_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student connects an ammeter in parallel across a bulb to measure current through it. What will be the consequence?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It will correctly measure the current through the bulb.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It will create a short circuit, potentially damaging the ammeter because its resistance is very low.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It will measure the voltage across the bulb.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The bulb will glow brighter.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Incorrect connection of ammeter",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C6_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In a circuit with a cell, key, and a resistor, where should the ammeter be placed to measure the total current?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In series, anywhere in the main loop (e.g., between cell and key).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Across the terminals of the resistor.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Next to the cell, not connected.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "In parallel with the key.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Placement of ammeter in simple circuit",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C6_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the ideal internal resistance of an ammeter and a voltmeter.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ammeter: very low; Voltmeter: very high.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Ammeter: very high; Voltmeter: very low.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both should have very high resistance.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both should have very low resistance.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Internal resistance of measuring instruments",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C6_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why must an ammeter have a very low resistance?",
+          "options": [
+            {
+              "label": "A",
+              "text": "So that it does not significantly alter the total resistance of the circuit and thus the current being measured.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "To ensure it can withstand high voltages.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "To allow it to be connected in parallel.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To generate heat for its operation.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Reason for low resistance of ammeter",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Voltmeter - Function and Connection",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH9_C7_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the function of a voltmeter?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To measure current.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To measure potential difference between two points.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "To provide a variable resistance.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To detect the presence of current.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Function of voltmeter",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C7_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "How is a voltmeter connected to measure the potential difference across a resistor?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In series with the resistor.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "In parallel across the resistor.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "In series with the cell.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It is not connected to the circuit.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Voltmeter connection - parallel",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C7_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student connects a voltmeter in series with a bulb to measure the voltage across it. What will happen?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It will correctly measure the voltage.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Due to its high resistance, it will allow very little current, the bulb may not glow, and the reading will not be the voltage across the bulb alone.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It will measure the current through the bulb.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It will cause a short circuit.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Incorrect connection of voltmeter",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C7_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "To measure the potential difference across a cell, a voltmeter should be connected:",
+          "options": [
+            {
+              "label": "A",
+              "text": "In series with the cell.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Directly across the terminals of the cell (in parallel).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "In series with the key.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It cannot measure a cell's potential difference.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Measuring voltage of a cell",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C7_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the way an ammeter and a voltmeter draw current from the circuit.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ammeter draws the entire circuit current (as it's in series); voltmeter draws negligible current (due to high resistance).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Voltmeter draws large current; ammeter draws negligible current.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both draw large currents.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Neither draws any current.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Current drawn by measuring instruments",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH9_C7_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why must a voltmeter have a very high resistance?",
+          "options": [
+            {
+              "label": "A",
+              "text": "So that it draws very little current from the circuit, ensuring the measured potential difference is not significantly altered.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "To allow it to measure high currents.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "To protect it from high voltages.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To generate a magnetic field for its operation.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Reason for high resistance of voltmeter",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Galvanometer - Function and Use",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH9_C8_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the primary function of a galvanometer?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To measure the exact magnitude of current.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To detect the presence and direction of a weak current.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "To measure potential difference accurately.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To provide a source of current.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Function of galvanometer",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C8_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "How is a galvanometer connected in a circuit?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In parallel",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "In series",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Across the cell terminals",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It is not connected.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Galvanometer connection - series",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C8_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student uses a galvanometer to find the exact value of a 2 A current. Why is this not appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Galvanometers are only for a.c., not d.c.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Galvanometers are for detection and direction, not precise quantitative measurement of magnitude; an ammeter should be used.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Galvanometers can only measure voltage.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "2 A is too small a current for any instrument.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Galvanometer vs ammeter purpose",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C8_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In an experiment to test if a circuit is complete, which instrument is most suitable?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Voltmeter",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Galvanometer",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Ammeter",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Rheostat",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Using galvanometer to detect current",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C8_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the zero mark and scale of a galvanometer with that of an ammeter.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Galvanometer: zero at center, shows direction; Ammeter: zero at one end, shows magnitude.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Both have zero at one end.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both have zero at center.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Ammeter has zero at center, galvanometer at one end.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Scale design of galvanometer vs ammeter",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH9_C8_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does a galvanometer not have + and - marked on its terminals like an ammeter or voltmeter?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because current can enter through either terminal; the direction of deflection indicates the direction of current flow.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because it is always connected incorrectly.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because it measures only magnitude, not direction.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because it is a very old instrument.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Polarity of galvanometer terminals",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Simple Electric Circuit and Components",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH9_C9_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the simplest electric circuit mentioned in the chapter?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Cell, ammeter, voltmeter, rheostat",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Cell, bulb, and switch",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Cell, resistor, galvanometer",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Battery, motor, fuse",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Simple circuit components",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C9_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In a simple circuit with a cell, bulb, and key, what happens when the key is open?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The bulb glows brightly.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The bulb does not glow.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The cell gets discharged instantly.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The bulb glows dimly.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Open circuit condition",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C9_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student builds a circuit with a cell, wires, and a bulb, but the bulb does not glow. He concludes the cell is dead. What other simple possibility could it be?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The circuit might be open (incomplete connection, loose wire, or broken filament).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "The bulb is designed not to glow.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The wires are too thick.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Light is invisible.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Open circuit as cause of bulb not glowing",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C9_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In a circuit with a cell, key, rheostat, and bulb, what happens to the bulb's brightness when the rheostat's resistance is increased?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Brightness increases.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Brightness decreases.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Brightness remains the same.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The bulb fuses.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Effect of resistance on current and brightness",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C9_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the roles of a 'key' and a 'rheostat' in controlling a circuit.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Key: makes or breaks the circuit (on/off); Rheostat: varies the current smoothly (dimmer).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Key: varies current; Rheostat: turns circuit on/off.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both are used to turn the circuit on/off.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both are used to measure current.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Function of key vs rheostat",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C9_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "In a circuit diagram, components are shown connected by lines. What do these lines represent, and what property should they ideally have?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They represent connecting wires, which should have negligible resistance.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "They represent air gaps, which should have high resistance.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "They represent resistors, which should have precise resistance.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They represent the path of light, which should be transparent.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Meaning of connecting lines in circuit diagram",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Insulators and Conductors",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH9_C10_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What are conductors?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Substances that do not allow current to flow.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Substances that allow current to flow easily.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Substances that store electric charge.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Substances that produce light when current flows.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Definition of conductors",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C10_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is an insulator?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Copper",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Rubber",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Aluminium",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Mercury",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Example of insulator",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C10_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student says 'Pure water is a good conductor of electricity.' Why is this statement incorrect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Pure water has very few ions, so it is a poor conductor (insulator); impure/acidulated water conducts.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Pure water is the best conductor known.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Water can only conduct in solid state (ice).",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The statement is correct.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Conductivity of pure vs impure water",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C10_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Why are electric wires covered with a layer of plastic or rubber?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To make them look colorful.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To provide insulation and prevent electric shocks.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "To increase their resistance.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To help them conduct better.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Purpose of insulation on wires",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C10_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the number of free electrons in a typical conductor and an insulator.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Conductor: large number; Insulator: very few/negligible.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Conductor: very few; Insulator: large number.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both have large numbers.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both have very few.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Free electron density in conductors vs insulators",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH9_C10_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the human body considered a conductor of electricity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because the body contains fluids (like blood) which are ionic solutions and can conduct electricity.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because bones are good insulators.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because skin is a perfect insulator.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because the body produces its own electricity.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Human body as a conductor",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Closed and Open Circuits",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH9_C11_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a closed circuit?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A circuit with a break, preventing current flow.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A complete path that allows current to flow.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A circuit with only a cell and no other components.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A circuit that is always shorted.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Definition of closed circuit",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C11_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following will create an open circuit?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A closed switch",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "An unbroken metal wire",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "A broken filament in a bulb",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "A conducting path from cell to bulb",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Cause of open circuit",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C11_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student thinks that if a circuit has a cell connected to a bulb with metal wires, it is always closed. What condition could still make it open?",
+          "options": [
+            {
+              "label": "A",
+              "text": "If the bulb's filament is broken or if there is a loose connection, the path is incomplete, making it open.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "It is impossible for such a circuit to be open.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Only if the cell is removed.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Only if the wires are too long.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Open circuit despite apparent connections",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C11_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In a torch, when you slide the switch to 'ON', what happens to the circuit?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It becomes an open circuit.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It becomes a closed circuit.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It becomes a parallel circuit.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The cell is removed.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Switch action creates closed circuit",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C11_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the state of a circuit when the key is open vs when a conductor in the path is replaced by an insulator.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Both result in an open circuit, preventing current flow.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Open key: closed circuit; Insulator: closed circuit.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Open key: allows current; Insulator: stops current.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Open key: stops current; Insulator: allows current.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Different ways to create an open circuit",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH9_C11_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does current not flow in an open circuit?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because there is no complete path for electrons to flow from the negative terminal to the positive terminal of the source.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because the voltage becomes zero.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because resistance becomes infinite in a closed circuit.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because electrons are destroyed.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Reason for no current in open circuit",
+          "exam_relevance": "high"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3373 @@
+{
+  "chapter": {
+    "subject": "Chemistry",
+    "chapter_number": 6,
+    "chapter_name": "Study of the First Element — Hydrogen"
+  },
+  "concepts": [
+    {
+      "concept_name": "Position of Hydrogen in Periodic Table - Dual Nature",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH6_C1_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Hydrogen is said to have a dual nature in the periodic table because it resembles:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Only alkali metals (Group IA)",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Only halogens (Group VIIA)",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both alkali metals (Group IA) and halogens (Group VIIA)",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Noble gases (Group 0)",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Dual nature of hydrogen due to similarities with alkali metals and halogens.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C1_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Hydrogen's placement at the top of the periodic table without disturbing its symmetry was suggested by:",
+          "options": [
+            { "label": "A", "text": "Mendeleev", "is_correct": false },
+            { "label": "B", "text": "Henry Cavendish", "is_correct": false },
+            { "label": "C", "text": "Thompson", "is_correct": true },
+            { "label": "D", "text": "Lavoisier", "is_correct": false }
+          ],
+          "correct_label": "C",
+          "key_concept": "Historical placement of hydrogen in the periodic table.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C1_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Which statement is a common MISCONCEPTION about hydrogen's properties?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hydrogen has only one valence electron.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Hydrogen's oxide (H2O) is neutral.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Hydrogen's properties are identical to those of sodium and chlorine.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Hydrogen can form both cations and anions.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Hydrogen resembles but is not identical to alkali metals or halogens.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C1_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "If an element X has one electron in its outermost shell and forms a neutral oxide, which group characteristic is it LEAST likely to share completely?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The tendency to form a unipositive ion like Group IA.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The formation of acidic oxides like Group VIIA.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Having a valency of one.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Existing as diatomic molecules like Group VIIA.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Hydrogen's neutral oxide differs from acidic oxides of halogens.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C1_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare hydrogen with alkali metals and halogens. Which property is EXCLUSIVE to hydrogen among the three?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ability to form diatomic molecules.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Having only one electron shell (K-shell only).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Formation of a unipositive ion (H+).",
+              "is_correct": false
+            },
+            { "label": "D", "text": "Valency of one.", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "Hydrogen atom has only one shell, unlike alkali metals and halogens which have multiple shells.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C1_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Hydrogen is placed in Group IA but is not a true alkali metal. The primary reason for this distinction is that hydrogen:",
+          "options": [
+            {
+              "label": "A",
+              "text": "is a gas at room temperature while alkali metals are solids.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "forms a neutral oxide (H2O), while alkali metal oxides are basic.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "has a lower atomic number than lithium.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "does not react with water.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Nature of oxide is a key differentiating property.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Similarities of Hydrogen with Alkali Metals",
+      "concept_type": "comparison",
+      "questions": [
+        {
+          "question_id": "CH6_C2_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Hydrogen is similar to alkali metals because both:",
+          "options": [
+            {
+              "label": "A",
+              "text": "have seven electrons in their valence shell.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "form anions by gaining an electron.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "have one electron in their valence shell and form positive ions.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "are liquids at room temperature.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Similarity in valence electrons and ion formation.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C2_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is a property shared by hydrogen and alkali metals like sodium?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They act as strong oxidizing agents.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "They burn in oxygen to form their respective oxides.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Their oxides are acidic in nature.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They exist as diatomic molecules.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Both hydrogen and alkali metals burn in oxygen.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C2_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student says, 'Since hydrogen and sodium both have a valency of 1, they will form similar types of compounds with all elements.' What is the flaw in this reasoning?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Valency alone does not determine chemical behavior; the nature of the element (metal/non-metal) matters.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Sodium has a valency of 2, not 1.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Hydrogen does not form compounds with non-metals.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Sodium does not burn in oxygen.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Valency is one factor; chemical character (electropositive/electronegative) leads to different behaviors.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C2_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In the reaction CuO + H2 -> Cu + H2O, hydrogen acts as a reducing agent. Which alkali metal would show a SIMILAR application?",
+          "options": [
+            { "label": "A", "text": "Potassium (K)", "is_correct": true },
+            { "label": "B", "text": "Chlorine (Cl2)", "is_correct": false },
+            { "label": "C", "text": "Helium (He)", "is_correct": false },
+            { "label": "D", "text": "Copper (Cu)", "is_correct": false }
+          ],
+          "correct_label": "A",
+          "key_concept": "Both hydrogen and alkali metals (like K, Na) act as reducing agents.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C2_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the electropositive character of hydrogen and alkali metals. The correct order of decreasing electropositive character is:",
+          "options": [
+            { "label": "A", "text": "K > Na > H > Cu", "is_correct": true },
+            { "label": "B", "text": "H > K > Na > Cu", "is_correct": false },
+            { "label": "C", "text": "Cu > H > Na > K", "is_correct": false },
+            { "label": "D", "text": "Na > K > H > Cu", "is_correct": false }
+          ],
+          "correct_label": "A",
+          "key_concept": "Alkali metals are strongly electropositive; hydrogen is less electropositive than them but more than copper.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C2_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Hydrogen and alkali metals both can form cations (H+ and Na+). However, the H+ ion is unique because:",
+          "options": [
+            {
+              "label": "A",
+              "text": "it has no electrons, while Na+ has 10 electrons.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "it is larger in size than the Na+ ion.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "it is not formed in aqueous solutions.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "it carries a 2+ charge.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "H+ is just a proton with no electrons.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Similarities of Hydrogen with Halogens",
+      "concept_type": "comparison",
+      "questions": [
+        {
+          "question_id": "CH6_C3_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Hydrogen resembles halogens because both:",
+          "options": [
+            {
+              "label": "A",
+              "text": "form positive ions readily.",
+              "is_correct": false
+            },
+            { "label": "B", "text": "are metals.", "is_correct": false },
+            {
+              "label": "C",
+              "text": "exist as diatomic molecules (H2, Cl2, etc.).",
+              "is_correct": true
+            },
+            { "label": "D", "text": "have basic oxides.", "is_correct": false }
+          ],
+          "correct_label": "C",
+          "key_concept": "Diatomic nature is a key similarity with halogens.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C3_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which electronic configuration feature is shared by hydrogen and halogens?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They have one electron less than the nearest inert gas configuration.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "They have one electron more than the nearest inert gas configuration.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "They have completely filled valence shells.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They have two electrons in their valence shell.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "H (1) needs 1e- to attain He (2) config; Cl (2,8,7) needs 1e- to attain Ar (2,8,8) config.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C3_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student thinks hydrogen is exactly like a halogen because it can form an anion (H-). Why is this comparison limited?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hydrogen forms H- only under specific conditions, while halogens form anions (X-) much more readily and typically.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Hydrogen cannot form an anion under any condition.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Halogens never form anions.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Hydrogen is a metal, so it cannot form anions.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "While both can gain an electron, halogens are strongly electronegative and typically form anions, whereas hydrogen primarily shows electropositive character.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C3_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In a combination reaction with a reactive metal like sodium, which pair of elements would show analogous behavior?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hydrogen and Chlorine (both can form NaCl and NaH)",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Hydrogen and Oxygen (both can form Na2O and NaH)",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Chlorine and Neon (both are gases)",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Hydrogen and Helium (both are light gases)",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Both hydrogen and chlorine (a halogen) combine directly with sodium to form ionic compounds (NaH, NaCl).",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C3_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the physical states of hydrogen and halogens at room temperature. Which statement is accurate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hydrogen and fluorine are gases, chlorine is a gas, bromine is liquid, iodine is solid.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "All halogens and hydrogen are colorless gases.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Hydrogen is a solid, while halogens are all gases.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Hydrogen is a liquid, while fluorine and chlorine are gases.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Hydrogen is a gas; halogens show a gradation in physical states down the group.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C3_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Hydrogen shows some electronegative character like halogens. This is because hydrogen:",
+          "options": [
+            {
+              "label": "A",
+              "text": "can gain an electron to form a hydride ion (H-), attaining the stable helium configuration.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "always takes electrons from metals more easily than fluorine.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "forms acidic oxides like chlorine.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "is a stronger oxidizing agent than chlorine.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Electronegative character is shown by the tendency to gain electrons.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Discovery and Occurrence of Hydrogen",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH6_C4_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Who is credited with the discovery of hydrogen and established that water is formed when it burns?",
+          "options": [
+            { "label": "A", "text": "Robert Boyle", "is_correct": false },
+            { "label": "B", "text": "Henry Cavendish", "is_correct": true },
+            { "label": "C", "text": "Antoine Lavoisier", "is_correct": false },
+            { "label": "D", "text": "Dmitri Mendeleev", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "Henry Cavendish discovered hydrogen and its property of forming water on combustion.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C4_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Hydrogen gets its name from the Greek words meaning:",
+          "options": [
+            { "label": "A", "text": "Light gas", "is_correct": false },
+            { "label": "B", "text": "Water former", "is_correct": true },
+            { "label": "C", "text": "Inflammable air", "is_correct": false },
+            { "label": "D", "text": "First element", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "The name 'hydrogen' was given by Lavoisier based on its property of forming water.",
+          "exam_relevance": "low"
+        },
+        {
+          "question_id": "CH6_C4_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student reads, 'Hydrogen is abundant in the universe.' They conclude it must also be the most abundant free element in Earth's atmosphere. Why is this conclusion incorrect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hydrogen is abundant in the universe (e.g., sun, stars) but is present only in traces in Earth's free atmosphere (~0.01%).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Hydrogen is not abundant anywhere in the universe.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Hydrogen is the most abundant free element in Earth's atmosphere.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Hydrogen is only found deep inside the Earth's core.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Distinction between cosmic abundance and terrestrial occurrence (free vs. combined).",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C4_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Which of the following common substances is the richest source of hydrogen by chemical composition?",
+          "options": [
+            { "label": "A", "text": "Petroleum", "is_correct": false },
+            { "label": "B", "text": "Water (H2O)", "is_correct": false },
+            {
+              "label": "C",
+              "text": "Sucrose (C12H22O11)",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "All of these contain hydrogen in combined state.",
+              "is_correct": true
+            }
+          ],
+          "correct_label": "D",
+          "key_concept": "Hydrogen occurs in combined state in water, acids, hydrocarbons, carbohydrates, etc.",
+          "exam_relevance": "low"
+        },
+        {
+          "question_id": "CH6_C4_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the occurrence of hydrogen in the free state versus the combined state on Earth. The correct statement is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Free hydrogen is abundant in the atmosphere, while combined hydrogen is rare.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Free hydrogen is found in traces, while combined hydrogen is abundant in water, living tissues, and minerals.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Both free and combined hydrogen are found in equal amounts.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Hydrogen does not exist in the combined state on Earth.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Hydrogen is mainly found in combined form; free hydrogen is minimal.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C4_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Hydrogen is found in combined state in acids. This is because in acids, hydrogen is present as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "H- ions (hydride ions).",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "H+ ions (cations) combined with an anion.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "H2 molecules dissolved in water.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Neutral hydrogen atoms.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "In acids, hydrogen is present in the combined form as positively charged ions (H+).",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Preparation from Water - Reaction with Cold Water",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH6_C5_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which metals react with cold water to produce hydrogen gas?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Magnesium and Aluminium",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Potassium, Sodium, and Calcium",
+              "is_correct": true
+            },
+            { "label": "C", "text": "Zinc and Iron", "is_correct": false },
+            { "label": "D", "text": "Copper and Lead", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "Only very reactive metals (K, Na, Ca) react with cold water.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C5_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "When sodium reacts with cold water, the products are:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sodium oxide and hydrogen.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Sodium hydroxide and hydrogen.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Sodium hydride and oxygen.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Sodium carbonate and hydrogen.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "2Na + 2H2O -> 2NaOH + H2",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C5_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student observes that potassium and sodium both float and dart on water during their reaction. They conclude calcium will also float. Why is this conclusion likely wrong?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Calcium sinks in water because its density is greater than water, unlike K and Na.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Calcium is less reactive and does not react with water at all.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Calcium vaporizes and flies away, so floating is not observed.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Calcium reacts only with steam, not cold water.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Physical behavior (floating/sinking) depends on density, not just reactivity.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C5_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "To safely prepare a small amount of hydrogen using sodium, one should use:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sodium metal dropped directly into water.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Sodium amalgam (alloy with mercury) reacted with water.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Sodium heated strongly in air first.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Sodium chloride solution electrolyzed.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Sodium amalgam reacts smoothly and safely with water to produce hydrogen.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C5_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the reactions of potassium and calcium with cold water. Which observation is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Potassium reacts more violently than calcium and can catch fire; calcium produces a milky solution.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Calcium reacts more violently than potassium.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both produce colorless solutions that turn red litmus blue, but only potassium's solution is milky.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Neither reaction is exothermic.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Relative reactivity (K > Ca) and nature of product (Ca(OH)2 is sparingly soluble, making solution milky).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C5_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Potassium is stored under kerosene oil. The primary reason for this is to prevent:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Its reaction with nitrogen in the air.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Its reaction with oxygen and water vapour present in air, which would cause it to tarnish or catch fire.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Its evaporation, as it is volatile.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Its reaction with kerosene, which makes it more stable.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Highly reactive alkali metals are stored in inert organic solvents to avoid air and moisture.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Preparation from Water - Reaction with Hot Water/Steam on Metals",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH6_C6_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which metal reacts with boiling water to give hydrogen?",
+          "options": [
+            { "label": "A", "text": "Iron", "is_correct": false },
+            { "label": "B", "text": "Magnesium", "is_correct": true },
+            { "label": "C", "text": "Copper", "is_correct": false },
+            { "label": "D", "text": "Lead", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "Mg reacts with boiling water (hot water).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C6_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "When red-hot iron reacts with steam, the products are:",
+          "options": [
+            { "label": "A", "text": "FeO and H2", "is_correct": false },
+            { "label": "B", "text": "Fe2O3 and H2", "is_correct": false },
+            { "label": "C", "text": "Fe3O4 and H2", "is_correct": true },
+            { "label": "D", "text": "Fe(OH)3 and H2", "is_correct": false }
+          ],
+          "correct_label": "C",
+          "key_concept": "3Fe + 4H2O (steam) -> Fe3O4 + 4H2",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C6_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student heats aluminium with steam and observes that the reaction stops after some time. They think the aluminium is fully used up. What is the more likely reason?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The formed aluminium oxide (Al2O3) coats the metal, preventing further contact with steam.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Aluminium does not react with steam at all.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The hydrogen produced dissolves back into the metal.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The steam condenses into water.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Protective oxide layer formation halts the reaction for Al, Zn, and Mg.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C6_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "If you need to prepare hydrogen continuously using steam and a metal, and you must avoid a reversible reaction, which metal would you NOT choose?",
+          "options": [
+            { "label": "A", "text": "Magnesium", "is_correct": false },
+            { "label": "B", "text": "Zinc", "is_correct": false },
+            { "label": "C", "text": "Iron", "is_correct": true },
+            { "label": "D", "text": "Aluminium", "is_correct": false }
+          ],
+          "correct_label": "C",
+          "key_concept": "The reaction of iron with steam is reversible (3Fe + 4H2O ⇌ Fe3O4 + 4H2), so hydrogen must be removed to continue.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C6_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the reactions of magnesium with boiling water and with steam. The key difference is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "With boiling water, Mg forms Mg(OH)2; with steam, it forms MgO. Both liberate H2.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "With boiling water, Mg forms MgO; with steam, it forms Mg(OH)2.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Magnesium reacts only with steam, not with boiling water.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "No hydrogen is produced in either case.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Different conditions (hot water vs. steam) lead to different products (hydroxide vs. oxide).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C6_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "The reaction between steam and red-hot iron is described as reversible. This means:",
+          "options": [
+            {
+              "label": "A",
+              "text": "The products can react to re-form the original reactants under the same conditions, leading to an equilibrium.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "The reaction goes to completion and then reverses upon cooling.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The reaction is very fast in both directions simultaneously.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The reaction cannot occur in the forward direction.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Definition of a reversible reaction and equilibrium.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Activity Series of Metals and its Salient Features",
+      "concept_type": "principle",
+      "questions": [
+        {
+          "question_id": "CH6_C7_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the activity series of metals?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A list of metals arranged in alphabetical order.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A list of metals arranged in decreasing order of their reactivity.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A list of metals arranged by their atomic number.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A list of metals that do not react with water.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Definition of the activity/ reactivity series.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C7_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which metal is at the top of the activity series?",
+          "options": [
+            { "label": "A", "text": "Sodium", "is_correct": false },
+            { "label": "B", "text": "Potassium", "is_correct": true },
+            { "label": "C", "text": "Calcium", "is_correct": false },
+            { "label": "D", "text": "Magnesium", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "Potassium is the most reactive metal.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C7_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student sees the activity series: K, Na, Ca, Mg, Al, Zn, Fe... H... Cu. They conclude hydrogen is a metal. What is the actual reason for hydrogen's inclusion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hydrogen is included as a reference point because it can form H+ ions, and metals above it can displace it from acids/water.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Hydrogen is a metallic element with luster and conductivity.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "All non-metals are included in the activity series.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Hydrogen is placed there by mistake.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Hydrogen is included based on its ability to form positive ions, serving as a benchmark for displacement.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C7_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "According to the activity series, which of these reactions is NOT possible?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Zn + CuSO4 -> ZnSO4 + Cu",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Fe + H2SO4(dil) -> FeSO4 + H2",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Cu + H2O -> Cu(OH)2 + H2",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Mg + 2HCl -> MgCl2 + H2",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Copper is below hydrogen and does not react with water or dilute acids to give H2.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C7_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the reducing power and electropositive character of metals in the activity series. Which statement is true?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Both reducing power and electropositive character decrease down the series.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Reducing power increases but electropositive character decreases down the series.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Electropositive character increases but reducing power decreases down the series.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both remain constant throughout the series.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Metals at the top (like K) are strongest reducing agents and most electropositive.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C7_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "A metal higher in the activity series can displace a metal lower in the series from its salt solution. The underlying reason for this is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "The more reactive metal loses electrons more easily, reducing the ions of the less reactive metal to the metallic state.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "The less reactive metal forces the more reactive metal into solution.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The salt solution acts as an oxidizing agent only for metals at the top.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "An acid is always needed for such displacement.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Displacement reactions are redox reactions driven by relative ease of oxidation.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Displacement of Hydrogen from Dilute Acids",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH6_C8_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Hydrogen is displaced from dilute acids by metals that are:",
+          "options": [
+            {
+              "label": "A",
+              "text": "below hydrogen in the activity series.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "above hydrogen in the activity series.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "only from Group IA.",
+              "is_correct": false
+            },
+            { "label": "D", "text": "noble gases.", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "Metals more reactive than hydrogen (above H in series) displace it from dilute acids.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C8_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which acid is commonly NOT used for laboratory preparation of hydrogen from metals?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Dilute Sulphuric Acid",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Dilute Hydrochloric Acid",
+              "is_correct": false
+            },
+            { "label": "C", "text": "Dilute Nitric Acid", "is_correct": true },
+            {
+              "label": "D",
+              "text": "All of the above can be used.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Dilute nitric acid is an oxidizing agent and usually does not yield H2.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C8_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Lead (Pb) is above hydrogen in the activity series, yet it does not react with dilute HCl or H2SO4 to give hydrogen. This is because:",
+          "options": [
+            {
+              "label": "A",
+              "text": "The reaction initially forms an insoluble coating (PbCl2 or PbSO4) that stops further reaction.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Lead is actually below hydrogen in the series.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Lead needs to be heated strongly to react.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Dilute acids become concentrated when in contact with lead.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Exception due to formation of an insoluble, protective layer.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C8_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In a lab, you need to produce a steady stream of hydrogen using a metal and acid. Which combination is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sodium with dilute HCl",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Granulated Zinc with dilute H2SO4",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Copper with dilute HCl",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Pure Zinc with concentrated H2SO4",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Zinc with dilute acid is the standard lab method; granulated zinc contains impurities that catalyze the reaction.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C8_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the reactions of Mg, Al, Zn, and Fe with dilute HCl. The correct order of decreasing vigor (most vigorous first) is:",
+          "options": [
+            { "label": "A", "text": "Mg > Al > Zn > Fe", "is_correct": true },
+            { "label": "B", "text": "Fe > Zn > Al > Mg", "is_correct": false },
+            { "label": "C", "text": "Al > Mg > Zn > Fe", "is_correct": false },
+            { "label": "D", "text": "Zn > Fe > Mg > Al", "is_correct": false }
+          ],
+          "correct_label": "A",
+          "key_concept": "Vigor of reaction correlates with position in activity series (Mg is above Al, which is above Zn, which is above Fe).",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C8_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Dilute nitric acid is generally not used to prepare hydrogen from metals because it is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "a powerful oxidizing agent that oxidizes the hydrogen produced to water.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "too weak an acid to react with any metal.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "a reducing agent that absorbs hydrogen.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "unstable and decomposes into nitrogen.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Oxidizing nature of HNO3 prevents H2 evolution (except with very dilute HNO3 and Mg/Mn).",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Displacement of Hydrogen from Alkalis by Amphoteric Metals",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH6_C9_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which metals are known for their unique nature of reacting with alkalis to produce hydrogen?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sodium and Potassium",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Zinc, Lead, and Aluminium",
+              "is_correct": true
+            },
+            { "label": "C", "text": "Copper and Silver", "is_correct": false },
+            {
+              "label": "D",
+              "text": "Calcium and Magnesium",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Zn, Pb, Al are amphoteric and react with hot concentrated alkalis.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C9_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "When zinc reacts with hot concentrated sodium hydroxide, the salt formed is:",
+          "options": [
+            { "label": "A", "text": "Zinc hydroxide", "is_correct": false },
+            { "label": "B", "text": "Sodium zincate", "is_correct": true },
+            { "label": "C", "text": "Zinc chloride", "is_correct": false },
+            { "label": "D", "text": "Sodium oxide", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "Zn + 2NaOH -> Na2ZnO2 + H2",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C9_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student thinks that since zinc reacts with acids and alkalis, its oxide must be neutral. What is the correct nature of zinc oxide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It is amphoteric (reacts with both acids and bases).",
+              "is_correct": true
+            },
+            { "label": "B", "text": "It is acidic.", "is_correct": false },
+            { "label": "C", "text": "It is basic.", "is_correct": false },
+            { "label": "D", "text": "It is neutral.", "is_correct": false }
+          ],
+          "correct_label": "A",
+          "key_concept": "The unique nature (reacting with acids and alkalis) stems from the amphoteric nature of their oxides/hydroxides.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C9_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "If you have a sample containing aluminium and iron filings, which reagent could you use to dissolve only the aluminium and produce hydrogen?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Dilute Hydrochloric acid",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Hot concentrated Sodium Hydroxide solution",
+              "is_correct": true
+            },
+            { "label": "C", "text": "Cold water", "is_correct": false },
+            { "label": "D", "text": "Dilute Nitric acid", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "Aluminium is amphoteric and reacts with NaOH; iron does not react with alkalis.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C9_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the reactions of zinc with dilute acid and with concentrated alkali. The common product in both reactions is:",
+          "options": [
+            { "label": "A", "text": "Hydrogen gas", "is_correct": true },
+            { "label": "B", "text": "Zinc chloride", "is_correct": false },
+            { "label": "C", "text": "Water", "is_correct": false },
+            { "label": "D", "text": "Zinc oxide", "is_correct": false }
+          ],
+          "correct_label": "A",
+          "key_concept": "Both reactions produce H2, but different salts are formed.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C9_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Zinc, lead, and aluminium are called 'unique' in the context of hydrogen preparation because:",
+          "options": [
+            {
+              "label": "A",
+              "text": "They can displace hydrogen from both acids and hot concentrated alkalis, unlike most metals.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "They are the only metals that react with cold water.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "They are the least reactive metals known.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They do not react with any acid.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Definition of their unique nature based on dual reactivity.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Laboratory Preparation of Hydrogen (Standard Method)",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH6_C10_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In the standard laboratory preparation, hydrogen is produced by the action of:",
+          "options": [
+            { "label": "A", "text": "Sodium on water", "is_correct": false },
+            {
+              "label": "B",
+              "text": "Granulated zinc on dilute hydrochloric or sulphuric acid",
+              "is_correct": true
+            },
+            { "label": "C", "text": "Iron on steam", "is_correct": false },
+            { "label": "D", "text": "Carbon on steam", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "Standard lab method reactants.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C10_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Hydrogen gas is collected by the downward displacement of water because it is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Heavier than air and soluble in water.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Lighter than air and insoluble in water.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Virtually insoluble in water and forms explosive mixture with air.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Highly soluble in water and supports combustion.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Reasons for collection over water.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C10_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student uses pure zinc instead of granulated zinc for lab preparation. The reaction is slow. Adding a few drops of copper sulphate solution speeds it up. Why?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Copper ions get reduced to copper metal which deposits on zinc, setting up a galvanic cell and catalyzing the reaction.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Copper sulphate reacts with acid to produce more hydrogen.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Copper sulphate makes the zinc purer.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Copper sulphate absorbs impurities.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Granulated zinc contains impurities like copper that act as catalysts.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C10_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In the lab setup, the thistle funnel's end should be dipped under the acid. This is to:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Prevent the gas from escaping through the funnel.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Speed up the reaction by stirring.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Cool down the acid.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Prevent water from entering the flask.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Standard precaution to maintain a closed system.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C10_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the use of concentrated H2SO4 vs. dilute H2SO4 in hydrogen preparation from zinc. Concentrated H2SO4 is not used because it:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Produces SO2 gas instead of H2.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Does not react with zinc at all.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Produces H2S gas as an impurity.",
+              "is_correct": false
+            },
+            { "label": "D", "text": "Is a weak acid.", "is_correct": false }
+          ],
+          "correct_label": "A",
+          "key_concept": "Zn + 2H2SO4(conc) -> ZnSO4 + SO2 + 2H2O",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C10_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Before collecting hydrogen in a gas jar, a test tube full of the gas is collected and brought to a flame. If it burns quietly, it indicates:",
+          "options": [
+            {
+              "label": "A",
+              "text": "All air has been expelled from the apparatus, and pure hydrogen is coming out.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "The acid is exhausted and no more gas is produced.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The hydrogen is wet.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The gas is actually oxygen.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Precaution to avoid explosive mixture with air.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Impurities in Lab-prepared Hydrogen and their Removal",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH6_C11_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is a common impurity in hydrogen prepared from zinc and dilute sulphuric acid?",
+          "options": [
+            { "label": "A", "text": "Oxygen", "is_correct": false },
+            {
+              "label": "B",
+              "text": "Hydrogen Sulphide (H2S)",
+              "is_correct": true
+            },
+            { "label": "C", "text": "Helium", "is_correct": false },
+            { "label": "D", "text": "Nitrogen", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "Common impurities: H2S, SO2, oxides of nitrogen, PH3, AsH3, CO2, water vapour.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C11_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "To remove hydrogen sulphide impurity, the gas is passed through:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Silver nitrate solution",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Lead nitrate solution",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Caustic potash solution",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Conc. Sulphuric acid",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Pb(NO3)2 + H2S -> PbS (black precipitate) + 2HNO3",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C11_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student thinks concentrated sulphuric acid is the best drying agent for hydrogen. Why is it not used?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It reacts with hydrogen to form water and sulphur dioxide, thus consuming the gas.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "It is not hygroscopic and cannot absorb water.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It makes hydrogen wetter.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It is too expensive.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "H2SO4(conc) + H2 -> 2H2O + SO2",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C11_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "For obtaining pure dry hydrogen, what is the correct sequence of passing the impure gas through reagents?",
+          "options": [
+            {
+              "label": "A",
+              "text": "KOH -> AgNO3 -> Pb(NO3)2 -> Drying Agent",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "AgNO3 -> Pb(NO3)2 -> KOH -> Drying Agent",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Drying Agent -> KOH -> Pb(NO3)2",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Pb(NO3)2 -> Drying Agent -> AgNO3",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Logical sequence: remove PH3/AsH3 first, then H2S, then acidic gases, then dry.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C11_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the roles of caustic potash solution and fused calcium chloride in hydrogen purification. Caustic potash primarily removes ____, while calcium chloride removes ____.",
+          "options": [
+            {
+              "label": "A",
+              "text": "acidic gases (CO2, SO2); water vapour",
+              "is_correct": true
+            },
+            { "label": "B", "text": "water vapour; H2S", "is_correct": false },
+            { "label": "C", "text": "PH3; CO2", "is_correct": false },
+            { "label": "D", "text": "H2S; water vapour", "is_correct": false }
+          ],
+          "correct_label": "A",
+          "key_concept": "Specific functions of different purifying and drying agents.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C11_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Arsine (AsH3) and phosphine (PH3) impurities are removed by passing hydrogen through silver nitrate solution because:",
+          "options": [
+            {
+              "label": "A",
+              "text": "They react with AgNO3 to form non-volatile silver compounds (Ag3As, Ag3P), leaving the gas.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "They dissolve in AgNO3 solution without reacting.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "They reduce AgNO3 to silver metal which catalytically decomposes them.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They form soluble complexes with silver ions.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Chemical reaction involved in removal of PH3 and AsH3.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Manufacture of Hydrogen - Bosch Process",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH6_C12_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In the Bosch process, the primary raw materials are:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Water and natural gas",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Coke (carbon) and steam",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Zinc and dilute acid",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Electrolysis of brine",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Raw materials for Bosch process.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C12_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In the Bosch process, the catalyst used in the second step (conversion of water gas) is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Finely divided iron",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Ferric oxide (Fe2O3)",
+              "is_correct": true
+            },
+            { "label": "C", "text": "Platinum", "is_correct": false },
+            { "label": "D", "text": "Nickel", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "Catalyst: Fe2O3; Promoter: Cr2O3.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C12_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student thinks the Bosch process yields pure hydrogen directly after the catalytic step. What important separation step is actually needed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Separation of carbon dioxide (and any unreacted carbon monoxide) from the hydrogen mixture.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Separation of nitrogen from the mixture.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Separation of steam, as all other gases condense.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "No separation is needed; the product is pure H2.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "The product after the second step is a mixture of CO2 and H2 (with some CO).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C12_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Carbon monoxide is removed from the hydrogen mixture by passing it through:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Cold water under pressure",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Ammoniacal cuprous chloride solution",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Caustic potash solution",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Conc. Sulphuric acid",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "CuCl + CO + 2H2O -> CuCl.CO.2H2O (complex formation).",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C12_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the first and second steps of the Bosch process in terms of heat change. The first step (C + H2O -> CO + H2) is ____, while the second step (CO + H2 + H2O -> CO2 + 2H2) is ____.",
+          "options": [
+            {
+              "label": "A",
+              "text": "endothermic; exothermic",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "exothermic; endothermic",
+              "is_correct": false
+            },
+            { "label": "C", "text": "both exothermic", "is_correct": false },
+            { "label": "D", "text": "both endothermic", "is_correct": false }
+          ],
+          "correct_label": "A",
+          "key_concept": "Thermodynamics of the Bosch process steps.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C12_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "In the Bosch process, excess steam is used in the second step (catalytic conversion). The main purpose of this excess steam is to:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Shift the equilibrium towards the production of more hydrogen and carbon dioxide.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Cool down the catalyst.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Dissolve the carbon monoxide.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "React with the coke directly.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Application of Le Chatelier's principle to maximize H2 yield.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Manufacture of Hydrogen - Electrolysis of Water",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH6_C13_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In the electrolysis of acidulated water, hydrogen gas is evolved at the:",
+          "options": [
+            { "label": "A", "text": "Anode", "is_correct": false },
+            { "label": "B", "text": "Cathode", "is_correct": true },
+            { "label": "C", "text": "Both electrodes", "is_correct": false },
+            {
+              "label": "D",
+              "text": "Nowhere; oxygen is evolved instead.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "H+ ions move to cathode and get reduced to H2.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C13_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "A small amount of sulphuric acid is added to water before electrolysis to:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Increase the conductivity of water.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Produce sulphur dioxide gas.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "React with the electrodes.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Prevent the formation of hydrogen.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Pure water is a poor conductor; acid provides ions.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C13_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student sets up electrolysis of pure water (without adding acid) and observes no gas evolution. They conclude water cannot be electrolyzed. What is the actual reason?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Pure water has very few ions, so it is a poor conductor of electricity, resulting in negligible current.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Hydrogen and oxygen instantly recombine to form water.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The electrodes dissolve in pure water.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Electrolysis requires a base, not an acid.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Need for an electrolyte to facilitate electrolysis.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C13_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "If during electrolysis of acidulated water, the volume of hydrogen collected at cathode is 20 ml, the volume of oxygen collected at anode would be approximately:",
+          "options": [
+            { "label": "A", "text": "10 ml", "is_correct": true },
+            { "label": "B", "text": "20 ml", "is_correct": false },
+            { "label": "C", "text": "40 ml", "is_correct": false },
+            { "label": "D", "text": "5 ml", "is_correct": false }
+          ],
+          "correct_label": "A",
+          "key_concept": "2H2O -> 2H2 + O2, so H2:O2 volume ratio is 2:1.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C13_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the Bosch process and the electrolysis of water for hydrogen manufacture. A key advantage of electrolysis is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "It produces very pure hydrogen and oxygen simultaneously.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "It is much cheaper and uses low-grade coke.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It does not require any electricity.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It produces a mixture of gases that are easy to separate.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Advantages and disadvantages of different manufacturing methods.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C13_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "During electrolysis, the H+ ions move towards the cathode. This is because:",
+          "options": [
+            {
+              "label": "A",
+              "text": "H+ ions are positively charged and are attracted to the negatively charged cathode.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "H+ ions are negatively charged and are attracted to the positive anode.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Water molecules push them towards the cathode.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They are lighter than OH- ions.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Basic principle of electrolysis: opposite charges attract.",
+          "exam_relevance": "low"
+        }
+      ]
+    },
+    {
+      "concept_name": "Physical Properties of Hydrogen",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH6_C14_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Hydrogen is the _____ gas known.",
+          "options": [
+            { "label": "A", "text": "heaviest", "is_correct": false },
+            { "label": "B", "text": "lightest", "is_correct": true },
+            { "label": "C", "text": "most colored", "is_correct": false },
+            { "label": "D", "text": "most soluble", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "Hydrogen is the lightest gas.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C14_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which property of hydrogen is demonstrated when soap bubbles filled with it rise rapidly in air?",
+          "options": [
+            { "label": "A", "text": "High density", "is_correct": false },
+            { "label": "B", "text": "Low density", "is_correct": true },
+            {
+              "label": "C",
+              "text": "Solubility in water",
+              "is_correct": false
+            },
+            { "label": "D", "text": "Combustibility", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "Low density (lightness) causes bubbles to rise.",
+          "exam_relevance": "low"
+        },
+        {
+          "question_id": "CH6_C14_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student reads that hydrogen is 'slightly soluble' in water. They plan to collect it over water and are concerned all the gas will dissolve. Is this a valid concern?",
+          "options": [
+            {
+              "label": "A",
+              "text": "No, because its solubility is very low (~20 mL gas per liter of water), so collection over water is practical.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Yes, because hydrogen is highly soluble like ammonia.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Yes, because it reacts with water to form an acid.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "No, because it is completely insoluble.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Understanding the practical implication of 'slight solubility'.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C14_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Which application of hydrogen directly utilizes its property of being the lightest gas?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Oxy-hydrogen torch for welding",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Filling meteorological balloons",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Hydrogenation of oils",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Reduction of metal oxides",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Application linked to physical property.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C14_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare hydrogen and helium for filling balloons. Hydrogen is lighter, but helium is preferred because helium is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Non-flammable/ inert, while hydrogen is highly flammable.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Heavier than air, so balloons sink.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "More soluble in water, making balloons last longer.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Easier to produce than hydrogen.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Safety consideration overrides slight advantage in lift.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C14_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "The phenomenon where palladium metal can absorb a very large volume of hydrogen gas at room temperature is called:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Occlusion or adsorption.",
+              "is_correct": true
+            },
+            { "label": "B", "text": "Electrolysis.", "is_correct": false },
+            { "label": "C", "text": "Hydrogenation.", "is_correct": false },
+            { "label": "D", "text": "Reduction.", "is_correct": false }
+          ],
+          "correct_label": "A",
+          "key_concept": "Definition of occlusion/adsorption of hydrogen by certain metals.",
+          "exam_relevance": "low"
+        }
+      ]
+    },
+    {
+      "concept_name": "Chemical Properties - Reaction with Non-metals",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH6_C15_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Hydrogen burns in oxygen with a _____ flame.",
+          "options": [
+            { "label": "A", "text": "golden yellow", "is_correct": false },
+            { "label": "B", "text": "lilac", "is_correct": false },
+            { "label": "C", "text": "pale blue", "is_correct": true },
+            { "label": "D", "text": "green", "is_correct": false }
+          ],
+          "correct_label": "C",
+          "key_concept": "Color of hydrogen flame in air/oxygen.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C15_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "The product formed when hydrogen burns in chlorine is:",
+          "options": [
+            { "label": "A", "text": "Hydrogen chloride", "is_correct": true },
+            { "label": "B", "text": "Water", "is_correct": false },
+            { "label": "C", "text": "Hydrogen peroxide", "is_correct": false },
+            { "label": "D", "text": "Ammonia", "is_correct": false }
+          ],
+          "correct_label": "A",
+          "key_concept": "H2 + Cl2 -> 2HCl",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C15_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student hears a 'pop' sound when a mixture of hydrogen and air is ignited. They think the pop is due to hydrogen burning quietly. What does the pop actually indicate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It indicates a small, explosive combustion of hydrogen mixed with air (oxygen) in the test tube.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "It indicates the formation of water droplets.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It means hydrogen is impure and contains water vapour.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It is the sound of pure hydrogen burning silently.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "The 'pop' test: small explosion due to H2-air mixture. Pure H2 burns quietly.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C15_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In the Haber process, hydrogen reacts with nitrogen under specific conditions. The main product is:",
+          "options": [
+            { "label": "A", "text": "Ammonia (NH3)", "is_correct": true },
+            { "label": "B", "text": "Nitric acid (HNO3)", "is_correct": false },
+            {
+              "label": "C",
+              "text": "Nitrogen dioxide (NO2)",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Ammonium chloride (NH4Cl)",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "N2 + 3H2 ⇌ 2NH3 (Haber Process).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C15_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the reactions of hydrogen with oxygen and with chlorine. A key difference is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Reaction with O2 gives water (H2O), a liquid; reaction with Cl2 gives HCl, a gas that dissolves in water to form an acid.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Both reactions require a catalyst to proceed.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Reaction with Cl2 is endothermic, while with O2 it is exothermic.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Hydrogen does not burn in chlorine.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Different products and their states.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C15_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Hydrogen and chlorine can react explosively in direct sunlight because:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sunlight provides the activation energy for a rapid, chain reaction that releases a large amount of heat.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Sunlight cools the gases, making them more reactive.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Sunlight converts chlorine into an inert gas.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Hydrogen decomposes into atoms in sunlight, which are less reactive.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Photochemical reaction leading to explosion.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Chemical Properties - Reaction with Metals and Metallic Oxides",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH6_C16_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "When hydrogen is passed over heated copper(II) oxide, the observation is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Black copper oxide turns reddish-brown, and water droplets form.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "White powder is formed, and a gas with a smell is released.",
+              "is_correct": false
+            },
+            { "label": "C", "text": "No change occurs.", "is_correct": false },
+            {
+              "label": "D",
+              "text": "Copper oxide melts and turns yellow.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Reduction of CuO to Cu.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C16_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Hydrogen reacts with heated sodium metal to form:",
+          "options": [
+            { "label": "A", "text": "Sodium hydroxide", "is_correct": false },
+            { "label": "B", "text": "Sodium hydride", "is_correct": true },
+            { "label": "C", "text": "Sodium oxide", "is_correct": false },
+            { "label": "D", "text": "Sodium peroxide", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "2Na + H2 -> 2NaH",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C16_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student tries to reduce aluminium oxide (Al2O3) to aluminium by passing hydrogen over it. The reaction does not occur. This is because:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Aluminium is a very active metal; its oxide is stable and not reduced by hydrogen.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Hydrogen is not a reducing agent.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Aluminium oxide is already reduced.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The temperature was too low; all metal oxides are reduced by H2 at high temps.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Hydrogen reduces only oxides of less active metals (below Al in activity series).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C16_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In the extraction of which metal might hydrogen be used as a reducing agent?",
+          "options": [
+            { "label": "A", "text": "Sodium from NaCl", "is_correct": false },
+            { "label": "B", "text": "Copper from CuO", "is_correct": true },
+            {
+              "label": "C",
+              "text": "Aluminium from Al2O3",
+              "is_correct": false
+            },
+            { "label": "D", "text": "Calcium from CaCO3", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "Application of H2 as a reducing agent for less active metal oxides.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C16_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the reactions of hydrogen with potassium metal and with lead(II) oxide. In both cases, hydrogen acts as a:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Reducing agent (removes oxygen from PbO) and an oxidizing agent? Wait, with K, H2 gains electrons? Let's think: 2K + H2 -> 2KH. Here H2 gains electrons (each H gains 1e- to become H-), so it is reduced and acts as an oxidizing agent. With PbO, H2 loses electrons (is oxidized to H2O) and acts as a reducing agent. So the roles are opposite.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "In the reaction with K, hydrogen is reduced (acts as oxidizing agent). In the reaction with PbO, hydrogen is oxidized (acts as reducing agent).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Catalyst in both reactions.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Reducing agent in both reactions.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Hydrogen can act as both an oxidizing agent (with very active metals) and a reducing agent (with metal oxides).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C16_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Hydrogen is called a 'reducing agent' in the context of its reaction with metallic oxides because it:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Removes oxygen from the metallic oxide, itself getting oxidized to water.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Adds oxygen to the metal, forming a higher oxide.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Reduces the temperature of the reaction.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Increases the mass of the metal oxide.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Definition of a reducing agent in terms of oxygen removal.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Uses of Hydrogen",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH6_C17_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is a use of hydrogen based on its high heat of combustion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "As a fuel in oxy-hydrogen torch",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "In hydrogenation of oils",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "In the Haber process",
+              "is_correct": false
+            },
+            { "label": "D", "text": "In filling balloons", "is_correct": false }
+          ],
+          "correct_label": "A",
+          "key_concept": "Use as a fuel.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C17_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "The process of converting liquid vegetable oils to solid vanaspati ghee using hydrogen is called:",
+          "options": [
+            { "label": "A", "text": "Hydrogenation", "is_correct": true },
+            { "label": "B", "text": "Oxidation", "is_correct": false },
+            { "label": "C", "text": "Reduction", "is_correct": false },
+            { "label": "D", "text": "Electrolysis", "is_correct": false }
+          ],
+          "correct_label": "A",
+          "key_concept": "Hydrogenation of oils.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C17_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student thinks hydrogen is ideal for filling weather balloons because it is the lightest gas. In practice, helium is often used. The main reason is that hydrogen:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Is highly flammable, posing a safety risk.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Is heavier than helium.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Is not easily available.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Does not provide enough lift.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Safety concern overrides advantage in lightness.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C17_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In which industrial process is hydrogen used as a reactant for making ammonia?",
+          "options": [
+            { "label": "A", "text": "Haber process", "is_correct": true },
+            { "label": "B", "text": "Bosch process", "is_correct": false },
+            { "label": "C", "text": "Contact process", "is_correct": false },
+            { "label": "D", "text": "Ostwald process", "is_correct": false }
+          ],
+          "correct_label": "A",
+          "key_concept": "Specific industrial process.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C17_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare the use of hydrogen in an oxy-hydrogen torch and in hydrogenation of oils. The common factor in both uses is that hydrogen:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Undergoes a chemical reaction (combustion in torch, addition in hydrogenation).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Is used in its liquid state.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Acts as a reducing agent in both.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Is used because of its low density.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Different applications based on different chemical properties.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C17_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Hydrogen is used in the extraction of metals like tungsten from their oxides. This is because hydrogen:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Acts as a reducing agent, removing oxygen from the metal oxide.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Acts as an oxidizing agent, adding oxygen to the metal.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Dissolves the oxide to form a complex.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Cools down the reaction mixture.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Application based on reducing property.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Oxidation (Addition of Oxygen/Removal of Hydrogen)",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH6_C18_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In terms of addition and removal of oxygen, oxidation is:",
+          "options": [
+            { "label": "A", "text": "Addition of oxygen", "is_correct": true },
+            { "label": "B", "text": "Removal of oxygen", "is_correct": false },
+            {
+              "label": "C",
+              "text": "Addition of hydrogen",
+              "is_correct": false
+            },
+            { "label": "D", "text": "No change in oxygen", "is_correct": false }
+          ],
+          "correct_label": "A",
+          "key_concept": "Classical definition of oxidation.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C18_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In the reaction 2Mg + O2 -> 2MgO, magnesium is:",
+          "options": [
+            { "label": "A", "text": "Oxidized", "is_correct": true },
+            { "label": "B", "text": "Reduced", "is_correct": false },
+            {
+              "label": "C",
+              "text": "Neither oxidized nor reduced",
+              "is_correct": false
+            },
+            { "label": "D", "text": "An oxidizing agent", "is_correct": false }
+          ],
+          "correct_label": "A",
+          "key_concept": "Mg gains oxygen, so it is oxidized.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C18_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student sees the reaction H2S + Cl2 -> 2HCl + S. They say hydrogen sulphide is reduced because it loses hydrogen. What is the correct analysis?",
+          "options": [
+            {
+              "label": "A",
+              "text": "H2S is oxidized (loses hydrogen), and Cl2 is reduced (gains hydrogen).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "H2S is reduced (loses hydrogen), and Cl2 is oxidized (gains hydrogen).",
+              "is_correct": false
+            },
+            { "label": "C", "text": "Both are oxidized.", "is_correct": false },
+            {
+              "label": "D",
+              "text": "It is not a redox reaction.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Removal of hydrogen is oxidation, not reduction.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C18_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In the reaction CuO + H2 -> Cu + H2O, which substance is oxidized?",
+          "options": [
+            { "label": "A", "text": "Hydrogen (H2)", "is_correct": true },
+            { "label": "B", "text": "Copper oxide (CuO)", "is_correct": false },
+            { "label": "C", "text": "Copper (Cu)", "is_correct": false },
+            { "label": "D", "text": "Water (H2O)", "is_correct": false }
+          ],
+          "correct_label": "A",
+          "key_concept": "H2 gains oxygen (or loses hydrogen from its perspective) to form H2O, so it is oxidized.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C18_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare oxidation defined as 'addition of oxygen' and as 'loss of electrons'. In the reaction 2Na + Cl2 -> 2NaCl:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sodium is oxidized by both definitions (it combines with chlorine, effectively gaining an electronegative element, and loses electrons).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Sodium is reduced by both definitions.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Sodium is oxidized by addition of oxygen only.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Chlorine is oxidized.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Different definitions leading to the same conclusion.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C18_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "In the electronic concept, oxidation is defined as loss of electrons because:",
+          "options": [
+            {
+              "label": "A",
+              "text": "The substance that loses electrons increases its positive charge (or decreases negative charge), which corresponds to becoming more oxidized.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Electrons are added to the substance.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It always involves addition of hydrogen.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The substance gains mass.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Rationale behind the electronic definition.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Reduction (Removal of Oxygen/Addition of Hydrogen)",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH6_C19_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In terms of addition and removal of oxygen, reduction is:",
+          "options": [
+            { "label": "A", "text": "Addition of oxygen", "is_correct": false },
+            { "label": "B", "text": "Removal of oxygen", "is_correct": true },
+            {
+              "label": "C",
+              "text": "Removal of hydrogen",
+              "is_correct": false
+            },
+            { "label": "D", "text": "Loss of electrons", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "Classical definition of reduction.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C19_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In the reaction CuO + H2 -> Cu + H2O, copper oxide is:",
+          "options": [
+            { "label": "A", "text": "Oxidized", "is_correct": false },
+            { "label": "B", "text": "Reduced", "is_correct": true },
+            { "label": "C", "text": "Neither", "is_correct": false },
+            { "label": "D", "text": "A reducing agent", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "CuO loses oxygen, so it is reduced.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C19_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "In the reaction Cl2 + H2S -> 2HCl + S, chlorine gains hydrogen. A student concludes chlorine is oxidized. What is the correct term?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Chlorine is reduced (gains hydrogen).",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Chlorine is oxidized (gains hydrogen).",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Chlorine is neither oxidized nor reduced.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Chlorine acts as an oxidizing agent and is itself reduced.",
+              "is_correct": true
+            }
+          ],
+          "correct_label": "D",
+          "key_concept": "Gaining hydrogen is reduction. The oxidizing agent (Cl2) gets reduced.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C19_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Which of the following processes involves reduction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Burning of magnesium in air",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Heating of mercuric oxide to give mercury and oxygen",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Reaction of sodium with water",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Formation of rust on iron",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "2HgO -> 2Hg + O2; HgO is reduced to Hg (loss of oxygen).",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C19_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare reduction defined as 'removal of oxygen' and as 'gain of electrons'. In the reaction ZnO + C -> Zn + CO:",
+          "options": [
+            {
+              "label": "A",
+              "text": "ZnO is reduced by both definitions (loses oxygen and the Zn ion gains electrons).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "ZnO is oxidized by both definitions.",
+              "is_correct": false
+            },
+            { "label": "C", "text": "Carbon is reduced.", "is_correct": false },
+            {
+              "label": "D",
+              "text": "Only the oxygen definition applies.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Different definitions aligning for the same substance.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C19_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "In a redox reaction, if one substance is oxidized, another must be reduced. This is because:",
+          "options": [
+            {
+              "label": "A",
+              "text": "The electrons lost by the oxidized substance are gained by the reduced substance.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Oxygen atoms are created and destroyed simultaneously.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Hydrogen atoms are always transferred.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The reaction stops if only one process occurs.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Fundamental principle of redox: electron transfer.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Oxidizing and Reducing Agents",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH6_C20_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "An oxidizing agent is a substance that:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Itself gets oxidized.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Itself gets reduced.",
+              "is_correct": true
+            },
+            { "label": "C", "text": "Supplies hydrogen.", "is_correct": false },
+            {
+              "label": "D",
+              "text": "Removes oxygen from others.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Definition: Oxidizing agent is reduced.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C20_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In the reaction CuO + H2 -> Cu + H2O, the oxidizing agent is:",
+          "options": [
+            { "label": "A", "text": "H2", "is_correct": false },
+            { "label": "B", "text": "CuO", "is_correct": true },
+            { "label": "C", "text": "Cu", "is_correct": false },
+            { "label": "D", "text": "H2O", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "CuO is reduced, so it is the oxidizing agent.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C20_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A substance X removes hydrogen from H2S to form S. Student A says X is an oxidizing agent. Student B says X is a reducing agent because it takes hydrogen. Who is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Student A is correct: removing hydrogen from another substance is oxidation, so X causes oxidation and is itself reduced, making it an oxidizing agent.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Student B is correct: taking hydrogen means it is reduced, so it is a reducing agent.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both are wrong; X is a catalyst.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It cannot be determined.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "The agent that causes oxidation (H removal) is the oxidizing agent.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C20_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Which of the following is a common oxidizing agent?",
+          "options": [
+            { "label": "A", "text": "Hydrogen", "is_correct": false },
+            { "label": "B", "text": "Carbon", "is_correct": false },
+            {
+              "label": "C",
+              "text": "Potassium permanganate",
+              "is_correct": true
+            },
+            { "label": "D", "text": "Zinc", "is_correct": false }
+          ],
+          "correct_label": "C",
+          "key_concept": "Examples of oxidizing agents.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C20_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Compare hydrogen in the reactions: (i) CuO + H2 -> Cu + H2O and (ii) 2Na + H2 -> 2NaH. In reaction (i), H2 acts as a ____, and in reaction (ii), it acts as an ____.",
+          "options": [
+            {
+              "label": "A",
+              "text": "reducing agent; oxidizing agent",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "oxidizing agent; reducing agent",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "reducing agent in both",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "oxidizing agent in both",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Hydrogen can act as both, depending on the other reactant.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C20_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "In a redox reaction, the oxidizing agent is always reduced itself. This is because it:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Accepts electrons (or oxygen, or adds hydrogen) from the substance being oxidized.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Donates electrons to the other substance.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Loses oxygen atoms.",
+              "is_correct": false
+            },
+            { "label": "D", "text": "Remains unchanged.", "is_correct": false }
+          ],
+          "correct_label": "A",
+          "key_concept": "Mechanism of action of an oxidizing agent.",
+          "exam_relevance": "high"
+        }
+      ]
+    }
+  ]
+}

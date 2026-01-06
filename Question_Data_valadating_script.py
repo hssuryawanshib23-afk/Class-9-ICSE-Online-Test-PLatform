@@ -2,7 +2,9 @@ import json
 import os
 
 # ================= CONFIG =================
-JSON_FOLDER = r"C:\Users\Dell\Desktop\Harsh\Projects\classplus chatbot\Question"
+# Validate both Physics and Chemistry questions
+PHYSICS_FOLDER = r"C:\Users\Dell\Desktop\Harsh\Projects\classplus chatbot\Question\Physics"
+CHEMISTRY_FOLDER = r"C:\Users\Dell\Desktop\Harsh\Projects\classplus chatbot\Question\Chemistry"
 
 ALLOWED_FORMS = {
     "definition",
@@ -132,27 +134,56 @@ def validate_file(filepath):
 def main():
     print("\n🔍 VALIDATING QUESTION DATASET...\n")
 
-    files = [f for f in os.listdir(JSON_FOLDER) if f.endswith(".json")]
     total_errors = 0
+    
+    # Validate Physics questions
+    print("=" * 60)
+    print("📚 PHYSICS QUESTIONS")
+    print("=" * 60)
+    
+    if os.path.exists(PHYSICS_FOLDER):
+        physics_files = [f for f in os.listdir(PHYSICS_FOLDER) if f.endswith(".json")]
+        for file in physics_files:
+            path = os.path.join(PHYSICS_FOLDER, file)
+            errors = validate_file(path)
 
-    for file in files:
-        path = os.path.join(JSON_FOLDER, file)
-        errors = validate_file(path)
+            if errors:
+                print(f"\n❌ Physics/{file} — INVALID")
+                for err in errors:
+                    print("   -", err)
+                total_errors += len(errors)
+            else:
+                print(f"✅ Physics/{file} — VALID")
+    else:
+        print(f"⚠️ Physics folder not found: {PHYSICS_FOLDER}")
+    
+    # Validate Chemistry questions
+    print("\n" + "=" * 60)
+    print("🧪 CHEMISTRY QUESTIONS")
+    print("=" * 60)
+    
+    if os.path.exists(CHEMISTRY_FOLDER):
+        chemistry_files = [f for f in os.listdir(CHEMISTRY_FOLDER) if f.endswith(".json")]
+        for file in chemistry_files:
+            path = os.path.join(CHEMISTRY_FOLDER, file)
+            errors = validate_file(path)
 
-        if errors:
-            print(f"\n❌ {file} — INVALID")
-            for err in errors:
-                print("   -", err)
-            total_errors += len(errors)
-        else:
-            print(f"✅ {file} — VALID")
+            if errors:
+                print(f"\n❌ Chemistry/{file} — INVALID")
+                for err in errors:
+                    print("   -", err)
+                total_errors += len(errors)
+            else:
+                print(f"✅ Chemistry/{file} — VALID")
+    else:
+        print(f"⚠️ Chemistry folder not found: {CHEMISTRY_FOLDER}")
 
-    print("\n==============================")
+    print("\n" + "=" * 60)
     if total_errors == 0:
         print("🎉 ALL FILES PASSED VALIDATION")
     else:
         print(f"⚠️ Validation completed with {total_errors} total errors")
-    print("==============================\n")
+    print("=" * 60 + "\n")
 
 
 if __name__ == "__main__":

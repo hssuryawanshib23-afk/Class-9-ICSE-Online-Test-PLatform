@@ -1,0 +1,2575 @@
+{
+  "chapter": {
+    "subject": "Physics",
+    "chapter_number": 1,
+    "chapter_name": "Measurements and experimentation"
+  },
+  "concepts": [
+    {
+      "concept_name": "Need for a Unit and Definition of Measurement",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH1_C1_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the primary purpose of using a unit in measurement?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To increase the complexity of the measurement process.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To provide a constant standard quantity for comparison.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "To make measurements dependent on the observer.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To ensure the measurement changes with time and place.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "A unit is a constant standard quantity used to measure and compare other quantities of the same nature.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C1_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "The process of finding how many times a standard quantity is contained in a given physical quantity is called:",
+          "options": [
+            { "label": "A", "text": "Calibration", "is_correct": false },
+            { "label": "B", "text": "Measurement", "is_correct": true },
+            { "label": "C", "text": "Oscillation", "is_correct": false },
+            { "label": "D", "text": "Amplification", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "Measurement is the process of comparison with a known standard.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C1_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Which of the following statements about the result of a measurement is INCORRECT?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It is expressed as a numerical value multiplied by a unit.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The numerical value indicates how many times the unit is contained in the quantity.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The unit chosen can be of any arbitrary and changing size.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Both the unit and the numerical value are essential parts of the measurement.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "A unit must be of convenient, unambiguous, reproducible, and constant size.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C1_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "If the length of a cloth is stated as 15 metres, what does the '15' represent?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The unit of length, which is metre.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The number of times the standard unit 'metre' is contained in the cloth's length.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The least count of the measuring instrument.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The amplitude of the measurement.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The numerical value in a measurement expresses the multiple of the unit contained in the physical quantity.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C1_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Comparing the properties of a good unit, which property is MOST critical for it to be accepted internationally?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It should be of a conveniently large size.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It should be reproducible and constant over space and time.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It should be derived from other fundamental units.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It should be based on common everyday objects.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "International acceptance requires a unit to be unambiguous, reproducible, and invariant.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C1_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is it necessary for a unit to be 'of convenient size'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "So that measurements always result in large, easy-to-read numbers.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To ensure the numerical value is neither too large nor too small for practical use and comprehension.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "To make the unit dependent on the quantity being measured.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because all units must be smaller than a metre.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "A convenient-sized unit avoids impractical numerical values (like 0.000001 or 1000000) for common measurements.",
+          "exam_relevance": "low"
+        }
+      ]
+    },
+    {
+      "concept_name": "Fundamental and Derived Units",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH1_C2_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a fundamental (or basic) unit?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A unit that can be expressed in terms of other simpler units.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A unit that is independent of other units and cannot be derived from them.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A unit used only for measuring complex physical quantities.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A unit whose value changes with location.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Fundamental units are independent and form the base for all other units.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C2_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is a fundamental unit in the SI system?",
+          "options": [
+            { "label": "A", "text": "Newton", "is_correct": false },
+            { "label": "B", "text": "Joule", "is_correct": false },
+            { "label": "C", "text": "Second", "is_correct": true },
+            { "label": "D", "text": "Pascal", "is_correct": false }
+          ],
+          "correct_label": "C",
+          "key_concept": "Second (s) is the SI fundamental unit of time.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C2_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student says, 'The unit of speed, metre per second, is a fundamental unit because it involves two fundamental units.' What is wrong with this statement?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Metre per second is not a unit of speed.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A unit formed by combining fundamental units is a derived unit, not a fundamental one.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Speed is not a measurable physical quantity.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Metre and second are not fundamental units.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Units expressed in terms of fundamental units (like m/s) are derived units.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C2_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "If the unit of force (newton) is expressed in terms of fundamental SI units (mass, length, time), it would be:",
+          "options": [
+            { "label": "A", "text": "kg m s", "is_correct": false },
+            { "label": "B", "text": "kg m s⁻²", "is_correct": true },
+            { "label": "C", "text": "m s⁻²", "is_correct": false },
+            { "label": "D", "text": "kg s⁻²", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "Force = mass x acceleration. SI unit: kg * (m/s²) = kg m s⁻².",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C2_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does a derived unit fundamentally differ from a fundamental unit?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Derived units are always larger than fundamental units.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Derived units are used only in the CGS system, not in SI.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Derived units depend on and can be expressed as products/powers of fundamental units, while fundamental units are independent.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Derived units are less accurate for measurement than fundamental units.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "The core distinction is independence (fundamental) vs. dependence (derived) on other units.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C2_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is 'ampere' considered a fundamental unit in SI, while 'coulomb' is a derived unit?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because ampere is a smaller unit than coulomb.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because electric current is chosen as a fundamental quantity, and charge (coulomb) is derived from current and time.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because coulomb is used only in electrostatics, not in current electricity.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because ampere is easier to measure accurately than coulomb.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The choice of fundamental quantities (like current) defines the fundamental units. Charge = current x time (A s).",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Systems of Units (CGS, FPS, MKS, SI)",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH1_C3_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In the CGS system, what are the fundamental units for length, mass, and time?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Metre, kilogram, second",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Centimetre, gram, second",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Foot, pound, second",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Kilometre, gram, minute",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "CGS: Centimetre, Gram, Second.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C3_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which system of units is an enlarged and modified version of the metric system and is now the international standard?",
+          "options": [
+            { "label": "A", "text": "FPS System", "is_correct": false },
+            { "label": "B", "text": "CGS System", "is_correct": false },
+            { "label": "C", "text": "MKS System", "is_correct": false },
+            { "label": "D", "text": "SI System", "is_correct": true }
+          ],
+          "correct_label": "D",
+          "key_concept": "The Système Internationale d'Unités (SI) is the modern international system.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C3_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student claims that the FPS system uses 'foot' for length, 'pound' for weight, and 'second' for time. What is the misconception here?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The FPS system uses 'minute' for time, not 'second'.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "'Pound' in FPS is a unit of mass, not weight. Weight is a force.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The FPS system is also called the metric system.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The fundamental unit of length in FPS is actually the inch.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "In mechanics, the three fundamental quantities are length, mass, time. Pound (lb) is the unit of mass in FPS.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C3_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "If a historical document mentions a measurement in 'foot-pound-second', which system of units is it referring to?",
+          "options": [
+            { "label": "A", "text": "CGS System", "is_correct": false },
+            { "label": "B", "text": "MKS System", "is_correct": false },
+            { "label": "C", "text": "FPS System", "is_correct": true },
+            { "label": "D", "text": "SI System", "is_correct": false }
+          ],
+          "correct_label": "C",
+          "key_concept": "FPS stands for Foot, Pound, Second.",
+          "exam_relevance": "low"
+        },
+        {
+          "question_id": "CH1_C3_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the SI system fundamentally differ from the older MKS system?",
+          "options": [
+            {
+              "label": "A",
+              "text": "SI uses centimetre, gram, second while MKS uses metre, kilogram, second.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "SI has more than three fundamental quantities (seven), while MKS was limited to mechanics (length, mass, time).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The SI system is only used in France, while MKS was international.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no difference; SI is just another name for MKS.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "SI expanded the fundamental base to seven quantities (like current, temperature) from the three mechanical ones in MKS.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C3_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why were systems like CGS, FPS, and MKS replaced by the SI system?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They were too accurate and difficult for everyday use.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "They were limited to mechanics and lacked a unified, internationally agreed standard for all physical quantities.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "They used units that were not based on natural phenomena.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They prohibited the use of prefixes like kilo and milli.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "SI provides a coherent, comprehensive, and internationally accepted framework for all measurements.",
+          "exam_relevance": "low"
+        }
+      ]
+    },
+    {
+      "concept_name": "SI Units - Fundamental Quantities and Symbols",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH1_C4_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "How many fundamental quantities are there in the SI system?",
+          "options": [
+            { "label": "A", "text": "3", "is_correct": false },
+            { "label": "B", "text": "5", "is_correct": false },
+            { "label": "C", "text": "7", "is_correct": true },
+            { "label": "D", "text": "10", "is_correct": false }
+          ],
+          "correct_label": "C",
+          "key_concept": "SI has seven fundamental quantities: length, mass, time, electric current, thermodynamic temperature, luminous intensity, amount of substance.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C4_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the SI unit and its symbol for the fundamental quantity 'amount of substance'?",
+          "options": [
+            { "label": "A", "text": "Kelvin (K)", "is_correct": false },
+            { "label": "B", "text": "Mole (mol)", "is_correct": true },
+            { "label": "C", "text": "Candela (cd)", "is_correct": false },
+            { "label": "D", "text": "Ampere (A)", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "The mole (mol) is the SI unit for amount of substance.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C4_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Which of the following pairs of quantity and its SI unit is INCORRECT?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Luminous intensity - Candela (cd)",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Electric current - Coulomb (C)",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Thermodynamic temperature - Kelvin (K)",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Mass - Kilogram (kg)",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The SI fundamental unit for electric current is the ampere (A). Coulomb (C) is the derived unit for electric charge.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C4_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In an experiment, you measure the brightness of a light source. Which SI fundamental unit are you using?",
+          "options": [
+            { "label": "A", "text": "Metre (m)", "is_correct": false },
+            { "label": "B", "text": "Candela (cd)", "is_correct": true },
+            { "label": "C", "text": "Lumen (lm)", "is_correct": false },
+            { "label": "D", "text": "Watt (W)", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "Candela is the SI base unit for luminous intensity, the perceived brightness of a light source.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C4_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Comparing the SI units for mass and electric current, which statement is true about their symbols?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Both symbols (kg and A) are written with a capital first letter because they are named after scientists.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The symbol 'kg' uses small letters, while 'A' is a capital letter, as it is named after a scientist (Ampère).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Both symbols are always written in full (kilogram, ampere) and never abbreviated.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The symbol 'kg' is capitalised because kilogram is a large unit.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Symbols for units named after scientists (e.g., A, N, J) have a capital first letter. Others (e.g., m, kg, s) are in lowercase.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C4_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the 'kilogram' (kg) and not the 'gram' (g) chosen as the SI base unit for mass?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because 'gram' is a derived unit from kilogram.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because the kilogram is a more convenient size for defining the standard in terms of a physical artifact (International Prototype Kilogram).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because 'gram' is the unit in the CGS system, which is obsolete.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because all SI base units must start with the letter 'k'.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Historical and practical reasons led to the kilogram, defined by a physical platinum-iridium cylinder, being the base unit.",
+          "exam_relevance": "low"
+        }
+      ]
+    },
+    {
+      "concept_name": "Prefixes used with SI Units",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH1_C5_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the purpose of using prefixes like 'kilo' or 'milli' with SI units?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To change the fundamental nature of the physical quantity.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To express very large or very small measurements conveniently.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "To make the unit named after a scientist.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To indicate the instrument used for measurement.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Prefixes denote multiples or sub-multiples of the base unit to avoid unwieldy powers of ten.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C5_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which prefix represents a multiplication factor of 10⁻³?",
+          "options": [
+            { "label": "A", "text": "Centi", "is_correct": false },
+            { "label": "B", "text": "Milli", "is_correct": true },
+            { "label": "C", "text": "Micro", "is_correct": false },
+            { "label": "D", "text": "Kilo", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "Milli (m) = 10⁻³.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C5_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student writes '5 kms' to denote 5 kilometres. What is the error in this notation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The prefix 'k' should be capitalised as 'K'.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The correct symbol for kilometre is 'km'. Adding 's' makes it 'kms', which could be misinterpreted as 'kilometre-second'.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The number should come after the unit, like 'km 5'.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Kilometre should be written in full, not with a symbol.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Unit symbols are not written in plural. The symbol for kilometre is 'km', not 'kms'.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C5_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "The wavelength of green light is approximately 550 nm. What is this value in metres?",
+          "options": [
+            { "label": "A", "text": "550 x 10⁻⁶ m", "is_correct": false },
+            { "label": "B", "text": "550 x 10⁻⁹ m", "is_correct": true },
+            { "label": "C", "text": "550 x 10⁻³ m", "is_correct": false },
+            { "label": "D", "text": "550 x 10⁶ m", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "nano (n) = 10⁻⁹. Therefore, 550 nm = 550 x 10⁻⁹ m.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C5_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Comparing the prefixes 'micro' (µ) and 'nano' (n), which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Both represent factors greater than 1.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "1 microgram is larger than 1 nanogram.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "1 nanometre is equal to 1000 micrometres.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The symbol for micro is 'm'.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Micro (µ) = 10⁻⁶, Nano (n) = 10⁻⁹. Therefore, 1 µg = 1000 ng.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C5_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is it incorrect to write a unit with two prefixes, such as 'mµs' for 'microsecond'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because 'm' and 'µ' are both symbols for small prefixes, and their order doesn't matter.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because only one prefix should be used with a unit. The correct symbol is 'µs'. 'mµs' would mean 'milli-micro-second', which is confusing and non-standard.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because the symbol for microsecond is 'ms', not 'µs'.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because prefixes can only be used with fundamental units, not derived units like second.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The SI convention allows only one prefix per unit to maintain clarity and avoid compound prefixes.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Units of Length",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH1_C6_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the SI unit of length?",
+          "options": [
+            { "label": "A", "text": "Centimetre (cm)", "is_correct": false },
+            { "label": "B", "text": "Metre (m)", "is_correct": true },
+            { "label": "C", "text": "Kilometre (km)", "is_correct": false },
+            { "label": "D", "text": "Foot (ft)", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "The metre (m) is the SI base unit of length.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C6_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is a sub-multiple of a metre?",
+          "options": [
+            { "label": "A", "text": "Kilometre", "is_correct": false },
+            { "label": "B", "text": "Astronomical Unit", "is_correct": false },
+            { "label": "C", "text": "Millimetre", "is_correct": true },
+            { "label": "D", "text": "Light year", "is_correct": false }
+          ],
+          "correct_label": "C",
+          "key_concept": "Millimetre (mm = 10⁻³ m) is a sub-multiple (smaller unit) of the metre.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C6_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student states that 1 nanometre (nm) is equal to 10 Angstroms (Å). Is this correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Yes, because 1 nm = 10⁻⁹ m and 1 Å = 10⁻¹⁰ m, so 1 nm = 10 Å.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "No, because 1 nm = 1000 Å.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "No, because 1 nm = 0.1 Å.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "No, because Angstrom is not a unit of length.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "1 nm = 10⁻⁹ m, 1 Å = 10⁻¹⁰ m. Therefore, 1 nm = 10 Å.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C6_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "The size of a bacteria is given as 1 µm. How many such bacteria would align in 1 metre?",
+          "options": [
+            { "label": "A", "text": "10³", "is_correct": false },
+            { "label": "B", "text": "10⁶", "is_correct": true },
+            { "label": "C", "text": "10⁹", "is_correct": false },
+            { "label": "D", "text": "10¹²", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "1 µm = 10⁻⁶ m. Number in 1 m = 1 m / 10⁻⁶ m = 10⁶.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C6_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Arrange the following units in order of increasing length: Light year, Astronomical Unit, Parsec, Metre.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Metre, Astronomical Unit, Light year, Parsec",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Metre, Astronomical Unit, Parsec, Light year",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Metre, Light year, Astronomical Unit, Parsec",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Metre, Astronomical Unit, Light year, Parsec (Note: 1 Parsec ≈ 3.26 light years)",
+              "is_correct": true
+            }
+          ],
+          "correct_label": "D",
+          "key_concept": "1 AU ≈ 1.5e11 m, 1 ly ≈ 9.46e15 m, 1 pc ≈ 3.08e16 m ≈ 3.26 ly. So order: m < AU < ly < pc.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C6_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the 'light year' used as a unit for astronomical distances, even though it is not an SI unit?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because it is easier to spell than 'parsec'.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because it intuitively relates vast distances to the time light (the fastest known entity) takes to travel, making the scale comprehensible.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because the SI unit metre is too large for such measurements.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because it is the official unit mandated by the International Astronomical Union.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "A light year provides a tangible context for unimaginably large distances by linking them to a fundamental constant (speed of light) and time.",
+          "exam_relevance": "low"
+        }
+      ]
+    },
+    {
+      "concept_name": "Units of Mass",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH1_C7_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the SI unit of mass?",
+          "options": [
+            { "label": "A", "text": "Gram (g)", "is_correct": false },
+            { "label": "B", "text": "Pound (lb)", "is_correct": false },
+            { "label": "C", "text": "Kilogram (kg)", "is_correct": true },
+            { "label": "D", "text": "Quintal", "is_correct": false }
+          ],
+          "correct_label": "C",
+          "key_concept": "The kilogram (kg) is the SI base unit of mass.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C7_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is a multiple of the kilogram?",
+          "options": [
+            { "label": "A", "text": "Gram (g)", "is_correct": false },
+            { "label": "B", "text": "Milligram (mg)", "is_correct": false },
+            { "label": "C", "text": "Quintal", "is_correct": true },
+            {
+              "label": "D",
+              "text": "Atomic mass unit (u)",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "1 quintal = 100 kg. It is a larger unit (multiple) of the kilogram.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C7_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A common mistake is to confuse mass and weight. Which unit is specifically for mass, not weight (force)?",
+          "options": [
+            { "label": "A", "text": "Newton (N)", "is_correct": false },
+            { "label": "B", "text": "Kilogram (kg)", "is_correct": true },
+            { "label": "C", "text": "Pound-force (lbf)", "is_correct": false },
+            { "label": "D", "text": "Dyne", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "Kilogram is the unit of mass. Newton and dyne are units of force (weight = mass x gravity).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C7_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "The mass of a proton is approximately 1.67 x 10⁻²⁷ kg. What is a more convenient unit to express this?",
+          "options": [
+            { "label": "A", "text": "Gram (g)", "is_correct": false },
+            { "label": "B", "text": "Metric Tonne", "is_correct": false },
+            {
+              "label": "C",
+              "text": "Atomic Mass Unit (u)",
+              "is_correct": true
+            },
+            { "label": "D", "text": "Quintal", "is_correct": false }
+          ],
+          "correct_label": "C",
+          "key_concept": "Atomic mass unit (u) is used for masses of atomic and subatomic particles. 1 u ≈ 1.66 x 10⁻²⁷ kg.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C7_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How many milligrams (mg) are there in one metric tonne?",
+          "options": [
+            { "label": "A", "text": "10³", "is_correct": false },
+            { "label": "B", "text": "10⁶", "is_correct": false },
+            { "label": "C", "text": "10⁹", "is_correct": true },
+            { "label": "D", "text": "10¹²", "is_correct": false }
+          ],
+          "correct_label": "C",
+          "key_concept": "1 tonne = 1000 kg = 10⁶ g. 1 g = 1000 mg. Therefore, 1 tonne = 10⁶ g * 10³ mg/g = 10⁹ mg.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C7_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the 'atomic mass unit' (u) defined as 1/12th the mass of a carbon-12 atom, and not the mass of a hydrogen atom?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because hydrogen is too light.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To provide a stable and unambiguous standard based on a specific isotope, ensuring consistency in atomic and molecular mass measurements.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because carbon is the most abundant element.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It is defined relative to hydrogen, but the fraction is 1/12th for historical reasons.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The carbon-12 standard was adopted for its purity, stability, and the advantage of making the atomic mass of many elements close to whole numbers.",
+          "exam_relevance": "low"
+        }
+      ]
+    },
+    {
+      "concept_name": "Units of Time",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH1_C8_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the SI unit of time?",
+          "options": [
+            { "label": "A", "text": "Minute (min)", "is_correct": false },
+            { "label": "B", "text": "Hour (h)", "is_correct": false },
+            { "label": "C", "text": "Second (s)", "is_correct": true },
+            { "label": "D", "text": "Day", "is_correct": false }
+          ],
+          "correct_label": "C",
+          "key_concept": "The second (s) is the SI base unit of time.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C8_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is NOT a bigger unit of time compared to a second?",
+          "options": [
+            { "label": "A", "text": "Microsecond (µs)", "is_correct": true },
+            { "label": "B", "text": "Minute", "is_correct": false },
+            { "label": "C", "text": "Day", "is_correct": false },
+            { "label": "D", "text": "Year", "is_correct": false }
+          ],
+          "correct_label": "A",
+          "key_concept": "Microsecond (10⁻⁶ s) is a smaller unit of time. Minute, day, year are larger.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C8_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student calculates that 1 mean solar day is exactly 86400 seconds. What potential error is being overlooked?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A mean solar day is slightly longer than 86400 seconds due to the slowing of Earth's rotation, so the second is now defined atomically, not by solar day.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "A mean solar day is exactly 24 hours, but an hour is not 3600 seconds.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The calculation should be 24 x 60 x 60 = 86400, which is perfectly accurate.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It overlooks the difference between a solar day and a lunar day.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "The modern second is defined by atomic vibrations (Cs-133), not astronomical periods, because the Earth's rotation is not perfectly constant.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C8_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "How many seconds are there in a leap year?",
+          "options": [
+            { "label": "A", "text": "3.1536 x 10⁷ s", "is_correct": false },
+            { "label": "B", "text": "3.16224 x 10⁷ s", "is_correct": true },
+            { "label": "C", "text": "3.14496 x 10⁷ s", "is_correct": false },
+            { "label": "D", "text": "8.64 x 10⁴ s", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "1 leap year = 366 days. Seconds = 366 * 24 * 60 * 60 = 366 * 86400 = 3.16224 x 10⁷ s.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C8_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Comparing a lunar month (~29.5 days) and a calendar month (average ~30.44 days), which is shorter and by approximately how many hours?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Lunar month is shorter by about 24 hours.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Calendar month is shorter by about 24 hours.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Lunar month is shorter by about 22.5 hours (difference ~0.94 days).",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Both are exactly the same length.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Average calendar month = 365/12 ≈ 30.44 days. Lunar month ≈ 29.5 days. Difference ≈ 0.94 days ≈ 22.5 hours.",
+          "exam_relevance": "low"
+        },
+        {
+          "question_id": "CH1_C8_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does the definition of a 'leap year' have exceptions for century years (like 1900) unless they are divisible by 400 (like 2000)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To make the calendar more complicated.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To account for the fact that the tropical year (365.2422 days) is not exactly 365.25 days. The rule fine-tunes the average year length over centuries.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because Earth's orbit speed changes every century.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To synchronize the calendar with lunar phases.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The Gregorian calendar rules (divisible by 4, but not by 100 unless by 400) make the average year 365.2425 days, very close to the tropical year (365.2422 days).",
+          "exam_relevance": "low"
+        }
+      ]
+    },
+    {
+      "concept_name": "Least Count of a Measuring Instrument",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH1_C9_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the 'least count' of a measuring instrument?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The largest measurement it can make.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The smallest measurement that can be taken accurately with it.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The total number of divisions on its scale.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The error present when the instrument reads zero.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Least count is the smallest value that can be measured by the instrument.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C9_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "A metre rule has 100 cm marked, and 1 cm is divided into 10 parts. What is its least count?",
+          "options": [
+            { "label": "A", "text": "1 cm", "is_correct": false },
+            { "label": "B", "text": "0.1 cm (or 1 mm)", "is_correct": true },
+            { "label": "C", "text": "0.01 cm", "is_correct": false },
+            { "label": "D", "text": "0.001 cm", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "Value of one smallest division = 1 mm = 0.1 cm.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C9_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Two instruments have least counts of 0.1 cm and 0.01 cm. Which statement is a common misconception?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The instrument with LC = 0.01 cm is more precise.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The instrument with LC = 0.1 cm can measure length up to one decimal place of a cm.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The measurement from the instrument with smaller LC is always more accurate, regardless of other errors.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "A smaller least count allows measurement of smaller lengths.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "A smaller LC gives higher precision (more decimal places), but accuracy also depends on systematic errors (like zero error).",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C9_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "A stopwatch has 10 divisions between the 0 and 5 second marks. What is its least count?",
+          "options": [
+            { "label": "A", "text": "0.1 s", "is_correct": false },
+            { "label": "B", "text": "0.5 s", "is_correct": true },
+            { "label": "C", "text": "0.05 s", "is_correct": false },
+            { "label": "D", "text": "1.0 s", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "Value of 10 divisions = 5 s. Value of 1 division = 5/10 = 0.5 s.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C9_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does decreasing the least count of an instrument affect its measurements?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It decreases the precision but increases the range.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It increases the precision (allows measurement of smaller changes) but does not necessarily change the range.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It eliminates all types of errors.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It makes the instrument bulkier and harder to use.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "A smaller least count means the instrument can detect finer differences, increasing the precision of readings.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C9_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is it necessary to know the least count of an instrument before taking a measurement?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To determine the color code of the instrument.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To know the limit of precision and correctly record the measurement up to the appropriate decimal place.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "To calculate the zero error of the instrument.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To decide whether the instrument is working or not.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The least count dictates the uncertainty in the measurement. Readings should be recorded to the last digit that can be reliably estimated.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Vernier Callipers - Principle and Least Count",
+      "concept_type": "principle",
+      "questions": [
+        {
+          "question_id": "CH1_C10_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the principle behind the vernier scale used in vernier callipers?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It uses a screw mechanism to amplify small distances.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It uses the difference in length between one main scale division and one vernier scale division to measure small lengths.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It measures time intervals to calculate length.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It uses the oscillation of a pendulum.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Vernier principle: n vernier divisions = (n-1) main scale divisions, creating a difference (LC) used for precise measurement.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C10_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "If 10 divisions on the vernier scale are equal to 9 mm (9 divisions of 1 mm main scale), what is the least count?",
+          "options": [
+            { "label": "A", "text": "0.1 mm", "is_correct": false },
+            { "label": "B", "text": "0.01 cm", "is_correct": true },
+            { "label": "C", "text": "0.9 mm", "is_correct": false },
+            { "label": "D", "text": "1.0 mm", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "LC = 1 MSD / n = 1 mm / 10 = 0.1 mm = 0.01 cm.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C10_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student calculates the least count as (Length of n vernier divisions) / n. Is this correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Yes, that's the standard formula.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "No, the correct formula is: LC = Value of 1 MSD - Value of 1 VSD, or equivalently, LC = Value of 1 MSD / n.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "No, the formula is (n-1)/n.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "No, LC = (Length of n vernier divisions) * n.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "LC = 1 MSD - 1 VSD. Since n VSD = (n-1) MSD, 1 VSD = (n-1)/n MSD. Therefore, LC = 1 MSD - [(n-1)/n MSD] = (1/n) MSD.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C10_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "A vernier callipers has 1 mm as 1 MSD and 20 divisions on the vernier scale. What is its least count?",
+          "options": [
+            { "label": "A", "text": "0.05 mm", "is_correct": true },
+            { "label": "B", "text": "0.1 mm", "is_correct": false },
+            { "label": "C", "text": "0.01 mm", "is_correct": false },
+            { "label": "D", "text": "0.5 mm", "is_correct": false }
+          ],
+          "correct_label": "A",
+          "key_concept": "LC = 1 mm / 20 = 0.05 mm.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C10_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Comparing two vernier callipers: A has 10 VSD = 9 MSD of 1 mm each. B has 25 VSD = 24 MSD of 0.5 mm each. Which has a smaller (better) least count?",
+          "options": [
+            { "label": "A", "text": "Vernier A", "is_correct": false },
+            { "label": "B", "text": "Vernier B", "is_correct": true },
+            {
+              "label": "C",
+              "text": "Both have the same least count.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Cannot be determined.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "LC_A = 1 mm/10 = 0.1 mm. LC_B = 0.5 mm/25 = 0.02 mm. 0.02 mm < 0.1 mm.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C10_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does increasing the number of divisions on the vernier scale (n) decrease the least count, provided the main scale division remains the same?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because it makes the instrument longer.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because the difference (1 MSD - 1 VSD) becomes smaller as each VSD gets closer in size to the MSD.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because it increases the value of each main scale division.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because it reduces the range of the instrument.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "LC = 1 MSD / n. For a fixed MSD value, increasing n decreases the fraction, thus decreasing the LC and increasing precision.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Vernier Callipers - Zero Error and Its Correction",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH1_C11_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "When is a vernier callipers said to have a 'zero error'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "When its jaws are worn out.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "When the zero marks of the main scale and vernier scale do not coincide when the jaws are in contact.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "When it is used to measure a very small object.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "When the least count is not a round number.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Zero error arises from misalignment of the zero marks at the point of zero measurement (jaws closed).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C11_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In a vernier callipers, when the zero of the vernier is to the right of the zero of the main scale (with jaws closed), the zero error is:",
+          "options": [
+            { "label": "A", "text": "Positive", "is_correct": true },
+            { "label": "B", "text": "Negative", "is_correct": false },
+            { "label": "C", "text": "Zero", "is_correct": false },
+            { "label": "D", "text": "Indeterminate", "is_correct": false }
+          ],
+          "correct_label": "A",
+          "key_concept": "Positive zero error: Vernier zero is ahead of (to the right of) Main Scale zero.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C11_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A vernier callipers has a positive zero error of +0.03 cm. While measuring an object, the observed reading is 2.45 cm. What is the true length?",
+          "options": [
+            { "label": "A", "text": "2.48 cm", "is_correct": false },
+            { "label": "B", "text": "2.45 cm", "is_correct": false },
+            { "label": "C", "text": "2.42 cm", "is_correct": true },
+            { "label": "D", "text": "2.03 cm", "is_correct": false }
+          ],
+          "correct_label": "C",
+          "key_concept": "True reading = Observed reading - Zero error. = 2.45 cm - (+0.03 cm) = 2.42 cm.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C11_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "With jaws closed, the 6th division of the vernier scale coincides with a main scale division. The vernier has 10 divisions and LC = 0.01 cm. What is the zero error?",
+          "options": [
+            { "label": "A", "text": "+0.06 cm", "is_correct": true },
+            { "label": "B", "text": "-0.06 cm", "is_correct": false },
+            { "label": "C", "text": "+0.04 cm", "is_correct": false },
+            { "label": "D", "text": "-0.04 cm", "is_correct": false }
+          ],
+          "correct_label": "A",
+          "key_concept": "Vernier zero is ahead of MS zero. Zero error = + (coinciding division * LC) = + (6 * 0.01) = +0.06 cm.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C11_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the correction for a negative zero error differ from that for a positive zero error?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For negative error, it is added to the observed reading; for positive, it is subtracted.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "For negative error, it is subtracted; for positive, it is added.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both are always subtracted.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both are always added.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "True reading = Observed reading - Zero error. If Zero error is negative (e.g., -0.02 cm), subtracting it means adding its magnitude.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C11_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is it crucial to determine and apply the zero error correction before recording the final measurement?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To increase the least count of the instrument.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To eliminate a systematic error that would otherwise be present in all measurements taken with that instrument, ensuring accuracy.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "To make the instrument look more professional.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It is not crucial; it only affects measurements of very large objects.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Zero error is a systematic error. Correcting it is essential for obtaining the true value of the measured quantity.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Screw Gauge - Principle, Pitch and Least Count",
+      "concept_type": "principle",
+      "questions": [
+        {
+          "question_id": "CH1_C12_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the 'pitch' of a screw gauge?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The number of divisions on the circular scale.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The distance moved by the screw along its axis in one complete rotation of the circular scale.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The least count of the instrument.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The total length of the screw.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Pitch = Linear distance moved per full rotation of the screw.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C12_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "If a screw moves 0.5 mm in one rotation and its circular scale has 100 divisions, what is the least count?",
+          "options": [
+            { "label": "A", "text": "0.5 mm", "is_correct": false },
+            { "label": "B", "text": "0.05 mm", "is_correct": false },
+            { "label": "C", "text": "0.005 mm", "is_correct": true },
+            { "label": "D", "text": "0.001 mm", "is_correct": false }
+          ],
+          "correct_label": "C",
+          "key_concept": "LC = Pitch / No. of circular divisions = 0.5 mm / 100 = 0.005 mm.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C12_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student says, 'If I increase the number of divisions on the circular scale, the pitch of the screw gauge increases.' Is this correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Yes, pitch is directly proportional to the number of divisions.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "No, pitch is a mechanical property of the screw (distance/rotation) and is independent of the number of graduations on the circular scale.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "No, increasing divisions decreases the pitch.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Yes, but only if the least count is kept constant.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Pitch depends on the thread spacing of the screw. The circular scale divisions are marked on the head; changing their number does not alter the pitch.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C12_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "To achieve a least count of 0.001 mm using a screw of pitch 1 mm, how many divisions should the circular scale have?",
+          "options": [
+            { "label": "A", "text": "10", "is_correct": false },
+            { "label": "B", "text": "100", "is_correct": false },
+            { "label": "C", "text": "1000", "is_correct": true },
+            { "label": "D", "text": "50", "is_correct": false }
+          ],
+          "correct_label": "C",
+          "key_concept": "Number of divisions = Pitch / LC = 1 mm / 0.001 mm = 1000.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C12_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Two screw gauges, P and Q, have the same least count. P has a pitch of 0.5 mm and 50 circular divisions. Q has a pitch of 1 mm. How many circular divisions does Q have?",
+          "options": [
+            { "label": "A", "text": "25", "is_correct": false },
+            { "label": "B", "text": "50", "is_correct": false },
+            { "label": "C", "text": "100", "is_correct": true },
+            { "label": "D", "text": "200", "is_correct": false }
+          ],
+          "correct_label": "C",
+          "key_concept": "LC_P = 0.5 mm / 50 = 0.01 mm. For same LC, LC_Q = 0.01 mm = (1 mm) / N => N = 1 / 0.01 = 100.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C12_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is a screw gauge capable of measuring smaller lengths (like the diameter of a wire) more accurately than a vernier callipers?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because it is bigger in size.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because its principle allows for a much smaller least count (e.g., 0.001 cm) compared to a typical vernier (0.01 cm), through a combination of fine pitch and many circular divisions.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because it does not have any zero error.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because it measures area, not length.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The screw mechanism provides a large mechanical advantage, translating a small linear movement into a large rotational movement that can be finely subdivided.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Screw Gauge - Zero Error and Backlash Error",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH1_C13_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In a screw gauge, what does a 'negative zero error' indicate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The circular scale zero is above the base line when the studs are in contact.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "The circular scale zero is below the base line when the studs are in contact.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The screw is moving backwards.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The instrument has no error.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Negative zero error: On closing the studs, the circular scale zero is above (or ahead of) the reference line on the main scale.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C13_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "When the studs of a screw gauge are in contact, the 95th division of the circular scale (with 100 divisions) coincides with the base line. If LC = 0.001 cm, what is the zero error?",
+          "options": [
+            { "label": "A", "text": "+0.005 cm", "is_correct": false },
+            { "label": "B", "text": "-0.005 cm", "is_correct": true },
+            { "label": "C", "text": "+0.095 cm", "is_correct": false },
+            { "label": "D", "text": "-0.095 cm", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "Zero error = - (Total divisions - Coinciding division) * LC = - (100 - 95) * 0.001 = -0.005 cm.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C13_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A screw gauge has a zero error of -0.003 cm. An observed reading for a wire diameter is 0.450 cm. What is the true diameter?",
+          "options": [
+            { "label": "A", "text": "0.453 cm", "is_correct": true },
+            { "label": "B", "text": "0.447 cm", "is_correct": false },
+            { "label": "C", "text": "0.450 cm", "is_correct": false },
+            { "label": "D", "text": "0.003 cm", "is_correct": false }
+          ],
+          "correct_label": "A",
+          "key_concept": "True reading = Observed - Zero error = 0.450 cm - (-0.003 cm) = 0.453 cm.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C13_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "What is 'backlash error' in a screw gauge?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Error due to not applying the zero correction.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Error caused by wear and tear of threads, where the screw does not move immediately when the direction of rotation is reversed.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Error in reading the circular scale.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Error due to the screw being too tight.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Backlash error is a mechanical play in the threads causing a lag during reversal of direction.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C13_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the procedure to avoid backlash error differ from the procedure to account for zero error?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Backlash error is avoided by rotating the screw in one direction only during measurement; zero error is a fixed correction applied to all readings.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Both are avoided by using the ratchet gently.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Backlash error is corrected by subtraction; zero error is avoided by rotation.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no practical difference; they are the same.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Backlash is a procedural error minimized by technique. Zero error is an instrumental error corrected by calculation.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C13_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the ratchet provided in a screw gauge?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To make a clicking sound for fun.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To apply a consistent and gentle pressure on the object, preventing excessive force and personal error, and also to help avoid backlash.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "To lock the circular scale in place permanently.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To measure the pitch of the screw.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The ratchet ensures a standardized contact force, improving accuracy and repeatability.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Simple Pendulum - Definitions and Time Period",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH1_C14_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is one 'oscillation' of a simple pendulum?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The motion from one extreme to the mean position.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "One complete to-and-fro motion about the mean position.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The distance between the two extreme positions.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The number of swings in one second.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "One oscillation is a complete cycle: e.g., O to A to B to O, or A to O to B to A.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C14_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the relationship between time period (T) and frequency (f) of a simple pendulum?",
+          "options": [
+            { "label": "A", "text": "T = f", "is_correct": false },
+            { "label": "B", "text": "T = 1/f", "is_correct": true },
+            { "label": "C", "text": "T = f²", "is_correct": false },
+            { "label": "D", "text": "T = 2πf", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "Frequency is the number of oscillations per second. T = 1/f.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C14_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student measures the time for 20 oscillations (t) and calculates the time period as T = t/20. Is this method valid?",
+          "options": [
+            {
+              "label": "A",
+              "text": "No, you should always measure the time for just one oscillation.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Yes, it reduces the error associated with starting/stopping the stopwatch by spreading it over many oscillations.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "No, because the time period changes with the number of oscillations.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Yes, but only if the pendulum is very long.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Measuring time for multiple oscillations and dividing minimizes reaction time error, as the least count of the stopwatch is often 0.5 s or 1 s.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C14_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "A simple pendulum completes 30 oscillations in 60 seconds. What is its time period and frequency?",
+          "options": [
+            { "label": "A", "text": "T = 2 s, f = 0.5 Hz", "is_correct": true },
+            {
+              "label": "B",
+              "text": "T = 0.5 s, f = 2 Hz",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "T = 60 s, f = 30 Hz",
+              "is_correct": false
+            },
+            { "label": "D", "text": "T = 30 s, f = 2 Hz", "is_correct": false }
+          ],
+          "correct_label": "A",
+          "key_concept": "T = Total time / No. of oscillations = 60 s / 30 = 2 s. f = 1/T = 0.5 Hz.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C14_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the time period of a simple pendulum change if it is taken to a mountain where 'g' is slightly less?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Time period decreases.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Time period increases.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Time period remains unchanged.",
+              "is_correct": false
+            },
+            { "label": "D", "text": "It becomes zero.", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "T ∝ 1/√g. If g decreases, T increases. So a pendulum clock would run slow on a mountain.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C14_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the time period of a simple pendulum independent of the mass of the bob?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because gravity acts equally on all masses (gravitational mass = inertial mass). In the derivation T = 2π√(l/g), mass cancels out.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because a heavier bob has a larger amplitude.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because the string cannot support a very heavy mass.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It is not independent; a heavier bob has a longer time period.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "The restoring force (mg sinθ) and inertia (m) are both proportional to mass, so mass cancels in the equation of motion.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Simple Pendulum - Factors Affecting Time Period and Formula",
+      "concept_type": "law",
+      "questions": [
+        {
+          "question_id": "CH1_C15_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "According to the formula, the time period (T) of a simple pendulum is directly proportional to:",
+          "options": [
+            {
+              "label": "A",
+              "text": "The square root of its effective length (√l).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "The square of its length (l²).",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The mass of the bob (m).",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The amplitude of swing (a).",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "T = 2π √(l/g). Therefore, T ∝ √l.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C15_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a 'seconds' pendulum'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A pendulum that completes one oscillation in 1 second.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A pendulum that has a time period of 2 seconds.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A pendulum used in stopwatches.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A pendulum with a length of 1 metre.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "A seconds' pendulum ticks seconds; its time from one extreme to the other is 1 s, so full period T = 2 s.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C15_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Which factor does NOT affect the time period of a simple pendulum for small amplitudes?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Acceleration due to gravity (g)",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Effective length (l)",
+              "is_correct": false
+            },
+            { "label": "C", "text": "Mass of the bob (m)", "is_correct": true },
+            {
+              "label": "D",
+              "text": "All of the above affect it.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "For a simple pendulum, T is independent of mass and amplitude (for small angles).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C15_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "If the length of a pendulum is increased by a factor of 4, what happens to its time period?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It becomes 4 times.",
+              "is_correct": false
+            },
+            { "label": "B", "text": "It becomes 2 times.", "is_correct": true },
+            { "label": "C", "text": "It becomes half.", "is_correct": false },
+            {
+              "label": "D",
+              "text": "It becomes 1/4 times.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "T ∝ √l. If l becomes 4l, T becomes √4 = 2 times the original.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C15_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Pendulum A has length l, Pendulum B has length 4l. Both are at the same place. Compare their time periods (T_A : T_B).",
+          "options": [
+            { "label": "A", "text": "1 : 2", "is_correct": true },
+            { "label": "B", "text": "2 : 1", "is_correct": false },
+            { "label": "C", "text": "1 : 4", "is_correct": false },
+            { "label": "D", "text": "4 : 1", "is_correct": false }
+          ],
+          "correct_label": "A",
+          "key_concept": "T ∝ √l. √l / √(4l) = √l / (2√l) = 1/2. So T_A : T_B = 1 : 2.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C15_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does the graph of T² vs l for a simple pendulum yield a straight line passing through the origin?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because T² is inversely proportional to l.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because T² is directly proportional to l (T² = (4π²/g) * l), which is the equation of a straight line with slope (4π²/g) and zero intercept.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because T and l are independent of each other.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because the pendulum is not a perfect simple pendulum.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "From T = 2π√(l/g), squaring gives T² = (4π²/g) l. This is of the form y = m x, a straight line through origin.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Measurement of Time Period and Use of Graph",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH1_C16_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In an experiment to find the time period of a simple pendulum, why is the time for 20 oscillations measured instead of for 1 oscillation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To make the experiment longer.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To reduce the percentage error in measuring time due to reaction time of the observer.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because the stopwatch can only measure multiples of 20 seconds.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To increase the amplitude of the pendulum.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Measuring over multiple oscillations minimises the impact of the start/stop error on the calculated time period.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C16_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "On a graph of T² (y-axis) vs l (x-axis) for a simple pendulum, what does the slope represent?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The acceleration due to gravity (g).",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The time period (T).",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The constant (4π²/g).",
+              "is_correct": true
+            },
+            { "label": "D", "text": "The frequency (f).", "is_correct": false }
+          ],
+          "correct_label": "C",
+          "key_concept": "Slope = ΔT²/Δl. From T² = (4π²/g) l, slope = (4π²/g).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C16_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student plots a graph of T vs l and gets a curve. He then plots T² vs l and gets a straight line. He concludes T is proportional to l. What is wrong?",
+          "options": [
+            {
+              "label": "A",
+              "text": "T is proportional to l, so T vs l should be a straight line.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "T is proportional to √l, so T vs l is a curve (square root). T² is proportional to l, so T² vs l is a straight line. His conclusion should be T ∝ √l, not T ∝ l.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Both graphs should be straight lines.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The graph of T vs l should be a straight line passing through the origin.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The straight-line graph confirms T² ∝ l, which implies T ∝ √l.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C16_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "From a T² vs l graph, the slope is found to be 4.0 s²/m. Taking π = 3.14, calculate 'g'.",
+          "options": [
+            { "label": "A", "text": "9.8 m/s²", "is_correct": false },
+            { "label": "B", "text": "9.86 m/s²", "is_correct": true },
+            { "label": "C", "text": "4.0 m/s²", "is_correct": false },
+            { "label": "D", "text": "39.4 m/s²", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "Slope = 4π²/g. So, g = 4π² / slope = (4 * (3.14)²) / 4.0 ≈ (4*9.86)/4.0 = 9.86 m/s².",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C16_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "In the pendulum experiment, if the effective length is measured from the point of suspension to the bottom of the bob instead of the centre of mass, how does it affect the calculated value of 'g' from the graph?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The calculated 'g' will be less than the actual value.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The calculated 'g' will be more than the actual value.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It will not affect the calculated 'g'.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The graph will not be a straight line.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The measured length 'l' is less than the true effective length (centre of mass). Since T² ∝ l, for a given T, the graph will show a smaller l. Slope = ΔT²/Δl will be larger. Since g = 4π²/slope, a larger slope gives a smaller calculated g. Wait, re-evaluate: If measured l is smaller than true l, for the same pendulum, the point (T², l_measured) will lie to the left of the correct line. This would decrease the slope? Let's think carefully. The relationship is T² = (4π²/g) * l_true. If we plot T² vs l_measured where l_measured < l_true, the plotted points will be shifted left. For the same T², the x-coordinate is smaller, so the line connecting them will be steeper (slope = Δy/Δx, Δx is smaller). A steeper slope means a larger slope value. Since g = 4π²/slope, a larger slope gives a smaller 'g'. Hmm, the options say 'more than actual'. Let's test with numbers. Suppose true l=1m, g=10, T²=4. True slope = 4. If measured l=0.9m, point is (4, 0.9). The line through origin and this point has slope = 4/0.9 ≈ 4.44. Calculated g = 4π²/4.44 ≈ 8.88, which is less than 10. So calculated g is less. But option B says 'more'. There's a contradiction in my initial quick answer. Let's re-read the question: '... to the bottom of the bob instead of the centre of mass.' This means the measured length is shorter than the true effective length. As per the calculation above, this leads to an overestimation of the slope and thus an underestimation of g. So the correct effect is that calculated 'g' will be LESS. But my options have B as 'more'. Let's check options: A is 'less', B is 'more'. So according to my reason, A should be correct. However, I need to be sure. Let's think differently: T is constant for a given true length. The formula used is g = 4π² l / T². If we use a smaller l (measured), we calculate a smaller g. Yes. Therefore, the calculated g is less. So the correct choice should be A. But in my initial flow, I mistakenly selected B. I need to correct this. I'll change the correct label to A.",
+          "correct_label": "A",
+          "key_concept": "If the measured length is less than the true effective length, using g_calc = 4π² l_measured / T² gives a value smaller than the true g.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C16_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is it recommended to measure the time for a number of oscillations (like 20) rather than a single oscillation when determining the time period of a pendulum?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To make the pendulum swing faster.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To reduce the relative error in time measurement. The absolute error in starting/stopping the stopwatch is roughly constant. Dividing this error by a larger number (of oscillations) reduces its impact on the calculated time period.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because the time period changes with each oscillation.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To ensure the amplitude remains constant.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The reaction time error (say ±0.5 s) is fixed. If measured over 20 oscillations (total time t), the error in t is ±0.5 s. The error in T (=t/20) becomes ±0.5/20 = ±0.025 s, which is much smaller than if measuring one oscillation (±0.5 s).",
+          "exam_relevance": "high"
+        }
+      ]
+    }
+  ]
+}

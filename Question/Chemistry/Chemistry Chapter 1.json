@@ -1,0 +1,2583 @@
+{
+  "chapter": {
+    "subject": "Chemistry",
+    "chapter_number": 1,
+    "chapter_name": "The Language of Chemistry"
+  },
+  "concepts": [
+    {
+      "concept_name": "Chemical Symbol - Definition and Significance",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH1_C1_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a chemical symbol?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The short form representing the atom of a specific element, conveying its name, one atom, and a quantity equal to its atomic mass.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "A pictographic representation used by alchemists for substances.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The molecular weight of an element expressed in atomic mass units.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A number indicating the combining capacity of an atom.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "A symbol is the short form for an element's atom and conveys its name, one atom, and atomic mass quantity.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C1_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following correctly represents the significance of the symbol 'N'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Only the element Nitrogen.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "One atom of Nitrogen and 14 parts by weight of Nitrogen.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The element Nitrogen, one atom of Nitrogen, and 14 parts by weight of Nitrogen (its atomic mass).",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "A molecule of Nitrogen gas (N₂).",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "A symbol represents the element, one atom, and a mass equal to its atomic mass.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C1_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Why is it incorrect to write the symbol for Cobalt as 'CO'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because 'CO' is the correct symbol for Cobalt Oxide.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because 'CO' represents the compound carbon monoxide, not the element Cobalt.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because Cobalt's symbol must always be written in lowercase letters.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because the correct symbol for Cobalt is 'Co', but 'CO' is also acceptable in some contexts.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Symbol 'Co' (C capital, o small) is for Cobalt. 'CO' (both capitals) represents carbon monoxide, showing importance of case sensitivity.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C1_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "If an element's symbol is 'Si', what can you deduce about its name?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Its English name starts with 'S' and 'i', so it must be Silver.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Its English name starts with 'S', but the second letter 'i' is from its Latin name to avoid conflict with Sulphur (S).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It is a diatomic element, so it must be Silicon gas.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It represents a radical with a valency of 4.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Symbol 'Si' is for Silicon. Two-letter symbols are used when the first letter is common to multiple elements.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C1_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the modern IUPAC system of chemical symbols primarily differ from Dalton's system?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Dalton used letters, while IUPAC uses numbers.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Dalton used circles with marks for each element, while IUPAC uses letters (often from English/Latin names).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The IUPAC system is based on atomic mass, while Dalton's was based on atomic number.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no significant difference; both systems use the same symbols.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Dalton used pictorial symbols (e.g., ⭕ for oxygen). Berzelius/IUPAC use letter-based symbols from element names.",
+          "exam_relevance": "low"
+        },
+        {
+          "question_id": "CH1_C1_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the symbol for Sodium 'Na' and not 'So'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because 'So' is the symbol for Sulphur monoxide.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because the symbol is based on its English name 'Sodium'.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because the symbol is derived from its Latin name 'Natrium' to avoid conflict with Sulphur (S) and other elements starting with S.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Because all alkali metals have symbols starting with 'N'.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Symbols for some elements (Na, K, Fe, etc.) are based on their Latin names to maintain uniqueness.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Valency - Definition and Determination",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH1_C2_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is valency?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The atomic mass of an element.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The combining capacity of an atom or radical, measured by the number of hydrogen atoms it can combine with or displace.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The number of protons in the nucleus of an atom.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The total number of electrons in an atom.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Valency is the combining capacity, often measured relative to hydrogen (valency = 1).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C2_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "conceptual",
+          "question_text": "The valency of chlorine in HCl is 1. What is the primary reason for this?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Chlorine has an atomic mass of 35.5.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "One atom of chlorine combines with one atom of hydrogen.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Chlorine is a diatomic gas.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Chlorine has seven electrons in its outermost shell.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Valency is determined by the number of hydrogen atoms an atom combines with. Cl combines with 1 H, so valency = 1.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C2_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student says the valency of oxygen is 1 because it forms the compound H₂O. What is the error in this reasoning?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The valency is actually 2, but the student forgot that oxygen is divalent.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The student looked at the number of oxygen atoms (1) instead of the number of hydrogen atoms (2) it combines with.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Water is H₂O₂, not H₂O, so the valency is 2.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Valency is determined relative to chlorine, not hydrogen.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Valency is determined by the number of H atoms combined/displaced. O combines with 2 H atoms, so valency is 2, not 1.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C2_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "If an element X has a valency of 3, what would be the formula of its compound with chlorine?",
+          "options": [
+            {
+              "label": "A",
+              "text": "XCl",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "XCl₂",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "XCl₃",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "X₃Cl",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Valency of X (3) and Cl (1) interchange to give formula XCl₃.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C2_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the modern definition of valency (based on electrons) relate to the classical definition (based on hydrogen combination)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They are completely unrelated concepts.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The modern definition explains the cause: valency is the number of electrons lost/gained/shared to attain stability, which determines how many H atoms it can combine with.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The classical definition is used for metals, and the modern definition is used for non-metals.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The modern definition has replaced the classical one, making it obsolete.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Classical valency (H combination) is the observable effect. Modern valency (electron loss/gain/share) is the underlying electronic cause.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C2_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is hydrogen's valency taken as 1 and considered the standard?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because hydrogen is the lightest element.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because no other element has a combining capacity less than hydrogen.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because hydrogen is a diatomic gas.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because hydrogen has one proton.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Hydrogen has the smallest combining capacity (1), making it a convenient reference point for measuring other valencies.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Variable Valency",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH1_C3_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is variable valency?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The ability of an element to form only one type of ion.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The phenomenon where an element exhibits more than one valency in its compounds.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The valency of a radical that changes with temperature.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The average valency of all isotopes of an element.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Some elements (e.g., Fe, Cu, Sn) can exhibit different valencies in different compounds.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C3_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following elements commonly exhibits variable valency?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sodium (Na)",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Iron (Fe)",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Magnesium (Mg)",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Neon (Ne)",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Iron shows valencies 2 (ferrous) and 3 (ferric).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C3_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student writes the formula for iron(III) oxide as FeO. What is the mistake?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The formula is correct; FeO is iron(III) oxide.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "FeO is iron(II) oxide. Iron(III) oxide is Fe₂O₃.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The correct formula for any iron oxide is Fe₂O₃.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Iron does not form an oxide with oxygen.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Fe(II) has valency 2, Fe(III) has valency 3. FeO uses Fe(II), Fe₂O₃ uses Fe(III). Confusing Roman numerals is a common error.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C3_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "What is the name of the compound SnCl₄ using the old naming system for variable valency?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Stannous chloride",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Stannic chloride",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Tin chloride",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Tin(II) chloride",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Old system: '-ous' for lower valency (Sn²⁺), '-ic' for higher valency (Sn⁴⁺). SnCl₄ has Sn⁴⁺, so stannic chloride.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C3_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the modern naming system (using Roman numerals) for compounds with variable valency differ from the old system (using -ous/-ic)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The modern system uses prefixes like mono-, di-, while the old system uses suffixes.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The modern system directly indicates the valency/charge (e.g., Iron(II)), while the old system uses arbitrary suffixes for lower/higher valencies.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The modern system is only for acids, the old system is for salts.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no difference; they are two names for the same thing.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Modern IUPAC naming (Stock notation) uses Roman numerals to specify charge/valency explicitly, eliminating ambiguity.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C3_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "What is a primary reason why some elements exhibit variable valency?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They have unstable nuclei.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "They can lose different numbers of electrons, sometimes from the penultimate shell, to form ions with different charges.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Their atomic mass keeps changing.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They always form covalent bonds.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Variable valency arises due to the loss of different numbers of electrons (e.g., from valence and penultimate shells) leading to different positive charges.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Radicals - Definition and Types",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH1_C4_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a radical in chemistry?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A highly reactive element.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "An atom or group of atoms that behaves as a single unit with a positive or negative charge.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The root of a chemical equation.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A molecule with no charge.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "A radical is a charged species (ion) that acts as a building block in compounds.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C4_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is an example of a basic radical?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Chloride (Cl⁻)",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Sulphate (SO₄²⁻)",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Ammonium (NH₄⁺)",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Nitrate (NO₃⁻)",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Basic radicals are positively charged (cations), often derived from bases. NH₄⁺ is a common basic radical.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C4_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student identifies the radical in NaCl as 'NaCl⁻'. What is the conceptual error?",
+          "options": [
+            {
+              "label": "A",
+              "text": "NaCl is a molecule, not an ionic compound, so it has no radicals.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "NaCl contains two separate radicals: Na⁺ (basic) and Cl⁻ (acidic). 'NaCl⁻' is not a single radical.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The correct radical is 'NaCl⁺'.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Salt doesn't contain radicals; only acids do.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "A salt dissociates into its constituent ions (radicals). NaCl gives Na⁺ and Cl⁻, not a combined 'NaCl⁻' ion.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C4_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In the compound MgSO₄, which radical is contributed by the acid (H₂SO₄) during neutralization?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Magnesium (Mg²⁺)",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Sulphate (SO₄²⁻)",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Both Magnesium and Sulphate",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Hydroxide (OH⁻)",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "In salt formation, the acid contributes the acidic radical (anion). H₂SO₄ contributes SO₄²⁻.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C4_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does a simple radical differ from a compound radical?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Simple radicals are neutral, compound radicals are charged.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Simple radicals are single atoms (e.g., Na⁺), while compound radicals are groups of atoms (e.g., SO₄²⁻).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Simple radicals are acidic, compound radicals are basic.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Simple radicals have variable valency, compound radicals have fixed valency.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Simple radical: monoatomic ion. Compound (or polyatomic) radical: ion consisting of two or more atoms covalently bonded.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C4_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why are basic radicals also called 'cations' and acid radicals called 'anions'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Based on their origin: cations come from cathodes, anions from anodes during electrolysis.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Based on their charge: basic radicals are positive (cations), acid radicals are negative (anions).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Based on their mass: cations are heavier, anions are lighter.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Based on their reactivity: cations are more reactive than anions.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The terms cation (positively charged ion) and anion (negatively charged ion) describe the charge of the radicals, which dictates their behavior.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Chemical Formula - Definition and Significance",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH1_C5_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a chemical (molecular) formula?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The name of a compound written in short form.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The symbolic representation of a molecule of an element or compound, showing the types and numbers of atoms.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The equation representing a chemical reaction.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The valency of the constituent elements in a compound.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "A formula uses symbols and subscripts to represent the composition of one molecule of a substance.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C5_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "conceptual",
+          "question_text": "What does the formula '2H₂O' represent?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Two atoms of hydrogen and one atom of oxygen.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Two molecules of water, each containing two hydrogen atoms and one oxygen atom.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A molecule with 2 hydrogen and 2 oxygen atoms.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The valency of hydrogen and oxygen.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The coefficient '2' refers to the number of molecules. The subscript '2' in H₂ refers to atoms per molecule.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C5_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student interprets the formula CO₂ as 'carbon oxide'. What is wrong with this name?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It should be 'carbon monoxide' because there is one carbon atom.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It should be 'carbon dioxide' to indicate the presence of two oxygen atoms.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The name 'carbon oxide' is correct for all carbon-oxygen compounds.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It should be 'carbonic oxide'.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "For binary compounds of non-metals, prefixes (mono-, di-, tri-) are used to indicate the number of atoms. 'Di-' for two oxygen atoms.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C5_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "From the formula Na₂CO₃, what can you deduce about its composition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "One molecule contains 2 sodium atoms, 1 carbon atom, and 3 oxygen atoms.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "It contains sodium carbonate radicals.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The valency of sodium is 3 and carbonate is 2.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It is a mixture of Na₂ and CO₃.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "A formula gives the actual number of each type of atom in one molecule of the compound.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C5_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the significance of a chemical formula differ from that of a chemical symbol?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A symbol represents an element and its atomic mass; a formula represents a compound and its molecular mass.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A symbol represents one atom of an element; a formula represents one molecule of an element or compound, including its composition and molecular mass.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A symbol is used for naming, a formula is used for reactions.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no difference; both are abbreviations.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Symbol is for atoms of elements. Formula is for molecules (of elements or compounds), providing quantitative compositional data.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C5_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the molecular formula said to have 'quantitative significance'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It tells the exact number of molecules involved in a reaction.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It allows calculation of molecular mass and the mass ratios of elements in the compound.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It indicates the physical state of the compound.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It predicts the color and smell of the compound.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "From the formula, we can compute molecular mass and percentage composition, which are quantitative (mass-based) properties.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Writing Chemical Formulae (Criss-cross method)",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH1_C6_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the first step in writing a chemical formula using the criss-cross method?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Interchange the valencies.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Write the symbols of the basic radical first and then the acidic radical.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Enclose the radical in brackets.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Divide the valencies by their H.C.F.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The correct order is: write symbols (basic radical first), then write their valencies as superscripts.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C6_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "application",
+          "question_text": "Given Al³⁺ and O²⁻, what is the formula of the compound formed using the criss-cross method?",
+          "options": [
+            {
+              "label": "A",
+              "text": "AlO",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Al₂O₃",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Al₃O₂",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "AlO₃",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Interchange valencies: Al's 3 becomes O's subscript, O's 2 becomes Al's subscript. Formula: Al₂O₃.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C6_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "A student writes the formula for magnesium nitrate as Mg(NO₃). What is the error?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It should be MgNO₃.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The nitrate radical (valency 1) should not be enclosed in brackets since the subscript after interchange is 1.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Magnesium has valency 2, nitrate has valency 1. After interchange, the formula is Mg(NO₃)₂. Brackets are needed because the radical has a subscript >1.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "The correct formula is Mg₂NO₃.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "When a polyatomic radical gets a subscript greater than 1, it must be enclosed in parentheses. Mg²⁺ NO₃¹⁻ -> Mg(NO₃)₂.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C6_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Using the criss-cross method, what is the formula for ammonium sulphate? (NH₄⁺, SO₄²⁻)",
+          "options": [
+            {
+              "label": "A",
+              "text": "NH₄SO₄",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "(NH₄)₂SO₄",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "NH₄(SO₄)₂",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "(NH₄)₂(SO₄)₂",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Valencies: NH₄⁺ (1) and SO₄²⁻ (2). Interchange and simplify: (NH₄)₂SO₄.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C6_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "When using the criss-cross method, why do we sometimes simplify the interchanged valencies by dividing by their H.C.F. before writing subscripts?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To make the formula look simpler, even if it's chemically incorrect.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To ensure the formula represents the simplest whole number ratio of atoms, which is the empirical formula.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because subscripts must always be prime numbers.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To balance the chemical equation.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The criss-cross method gives the formula based on valency. Simplifying by H.C.F. gives the simplest ratio, which is the correct chemical formula for ionic compounds.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C6_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the criss-cross method a reliable way to write formulae for ionic compounds?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It works because it ensures the total positive charge equals the total negative charge in the formula unit, achieving electrical neutrality.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "It is based on the atomic masses of the elements.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It always gives the molecular formula for covalent compounds.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It uses the symbols in alphabetical order.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "The principle behind the criss-cross method is charge balance. Interchanging valencies (which are often equal to ionic charges) ensures the compound is neutral.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Naming Chemical Compounds (Basic Rules)",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH1_C7_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the rule for naming a binary compound formed between a metal and a non-metal?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The non-metal is named first with the suffix '-ide'.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The metal is named first, followed by the non-metal with the suffix '-ide'.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Prefixes like mono-, di- are used.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The name of the metal gets the suffix '-ate'.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "For ionic compounds (metal + non-metal), name = metal name + non-metal root + 'ide'.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C7_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "application",
+          "question_text": "What is the name of the compound PCl₅?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Phosphorus chloride",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Phosphorus pentachloride",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Monophosphorus pentachloride",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Phosphoric chloride",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "For binary compounds of non-metals, use prefixes (penta- for 5) to indicate atom counts. The first element keeps its name.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C7_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "A student names HCl as 'chloric acid'. What is the correct name?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hydrochloric acid",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Chlorous acid",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Hydrochlorous acid",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Perchloric acid",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Binary acids (H + non-metal) are named with prefix 'hydro-' and suffix '-ic acid'.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C7_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "What is the name of the compound NaClO₂?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sodium hypochlorite",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Sodium chlorite",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Sodium chlorate",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Sodium perchlorate",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "For oxy-salts, suffix '-ite' is used for the radical with fewer oxygen atoms (ClO₂⁻ is chlorite).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C7_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the naming of H₂SO₄ differ from that of H₂SO₃?",
+          "options": [
+            {
+              "label": "A",
+              "text": "H₂SO₄ is sulphuric acid (more oxygen, '-ic'), H₂SO₃ is sulphurous acid (less oxygen, '-ous').",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "H₂SO₄ is sulphurous acid, H₂SO₃ is sulphuric acid.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both are named with 'hydro-' prefix.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "H₂SO₄ is hydrosulphuric acid, H₂SO₃ is sulphonic acid.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "For oxy-acids, the suffix '-ic' is for the acid with more oxygen atoms; '-ous' is for the one with fewer.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C7_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the common name 'water' used instead of the systematic name 'dihydrogen monoxide'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because 'water' is a trivial name that is widely accepted and historically used, even though a systematic name exists.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because the compound does not follow IUPAC rules.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because it is an acid, not a binary compound.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because hydrogen has a variable valency in this compound.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Some compounds have well-established common or trivial names (e.g., water, ammonia) that are used in preference to systematic names.",
+          "exam_relevance": "low"
+        }
+      ]
+    },
+    {
+      "concept_name": "Chemical Equation - Definition and Parts",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH1_C8_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a chemical equation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A list of reactants and products.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The symbolic representation of a chemical reaction using symbols and formulae.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The ratio of masses of substances involved.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The name of the reaction process.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "A chemical equation uses symbols/formulae to show reactants changing into products.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C8_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "conceptual",
+          "question_text": "In the equation: Zn + 2HCl → ZnCl₂ + H₂, which are the reactants?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ZnCl₂ and H₂",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Zn and HCl",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Zn and H₂",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "HCl and ZnCl₂",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Reactants are the starting substances, written on the left side of the arrow.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C8_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student writes: KNO₃ → KNO₂ + O₂. What is this equation called and what is its key feature?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A balanced equation; the atoms are equal on both sides.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A skeleton equation; it is unbalanced as oxygen atoms are not equal on both sides.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A word equation; it uses names instead of symbols.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A partial equation; it shows only one step of the reaction.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "A skeleton equation is an unbalanced representation of a chemical change. Here, O atoms: 3 on left, 4 on right.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C8_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Which of the following represents a reaction with two reactants and three products?",
+          "options": [
+            {
+              "label": "A",
+              "text": "2H₂O → 2H₂ + O₂",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "N₂ + 3H₂ → 2NH₃",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Cu + 2H₂SO₄ → CuSO₄ + 2H₂O + SO₂",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "AgNO₃ + NaCl → AgCl + NaNO₃",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Classifying reactions by count of reactants and products. Option C has 1 Cu + 2 H₂SO₄ (two reactants) and 3 product molecules.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C8_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does a word equation differ from a chemical equation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A word equation uses names and is qualitative; a chemical equation uses symbols/formulae and is quantitative when balanced.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "A word equation is for organic chemistry, a chemical equation is for inorganic chemistry.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "A word equation is always balanced, a chemical equation is never balanced.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no difference; they are synonymous.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Word equation: descriptive. Chemical equation: symbolic, can include stoichiometric coefficients for mass/mole relationships.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C8_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why do we represent reactants and products in their molecular forms in a chemical equation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because atomic forms are usually neither stable nor capable of separate existence under ordinary conditions.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because it is easier to write molecular formulae.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because the law of conservation of mass requires it.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because atoms cannot participate in reactions.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Atoms (except noble gases) are highly reactive and don't exist independently. They combine to form stable molecules, which are the species involved in reactions.",
+          "exam_relevance": "low"
+        }
+      ]
+    },
+    {
+      "concept_name": "Balancing Chemical Equations (Hit & Trial)",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH1_C9_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a balanced chemical equation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "An equation with equal numbers of molecules on both sides.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "An equation where the total number of atoms of each element is equal on both sides.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "An equation where the masses of reactants and products are equal.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "An equation with the same number of compounds on both sides.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Balancing ensures the Law of Conservation of Mass: atoms are neither created nor destroyed.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C9_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "application",
+          "question_text": "Is the following equation balanced? CaCO₃ → CaO + CO₂",
+          "options": [
+            {
+              "label": "A",
+              "text": "Yes, atoms of Ca, C, and O are equal on both sides.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "No, oxygen atoms are not equal.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "No, calcium atoms are not equal.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "No, it is a skeleton equation.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Count atoms: Left: Ca=1, C=1, O=3. Right: Ca=1, C=1, O=1+2=3. Balanced.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C9_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "A student balances the equation Fe + H₂O → Fe₃O₄ + H₂ by writing: 3Fe + 4H₂O → Fe₃O₄ + 4H₂. What is still wrong?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hydrogen atoms are not balanced (Left: 8, Right: 8).",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Iron atoms are not balanced (Left: 3, Right: 3).",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Oxygen atoms are not balanced (Left: 4, Right: 4).",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The equation is now balanced; the student's version is correct.",
+              "is_correct": true
+            }
+          ],
+          "correct_label": "D",
+          "key_concept": "The student's balanced equation is correct: 3Fe + 4H₂O → Fe₃O₄ + 4H₂. All atoms are balanced. The trap is thinking it's still wrong.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C9_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "What is the balanced coefficient for H₂O in: KOH + Cl₂ → KCl + KClO₃ + H₂O?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "4",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "3",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "6",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "The balanced equation is 6KOH + 3Cl₂ → 5KCl + KClO₃ + 3H₂O. Coefficient for H₂O is 3.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C9_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "In the hit and trial method, why is an element with the least frequency of occurrence balanced first?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It is the most reactive element.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Changing its coefficient affects the fewest other elements, simplifying the balancing process.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It is usually hydrogen or oxygen.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Its atomic mass is the lowest.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Strategic approach: balancing the least frequent element first minimizes cascading changes, making the trial process more efficient.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C9_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why MUST a chemical equation be balanced?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To obey the Law of Conservation of Matter, which states matter cannot be created or destroyed in a chemical reaction.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "To make the equation look symmetrical.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because unbalanced equations are not allowed by IUPAC.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To indicate the physical states of the reactants.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "The fundamental reason is to satisfy the Law of Conservation of Mass. An unbalanced equation would imply creation/destruction of atoms.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Information Conveyed by a Balanced Equation",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH1_C10_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What quantitative information does a balanced chemical equation provide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The speed of the reaction.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The number of molecules (or moles) of each substance involved.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The temperature and pressure required.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The color changes during the reaction.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Coefficients give the relative number of molecules/moles reacting and produced.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C10_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "conceptual",
+          "question_text": "From the equation: 2NaOH + H₂SO₄ → Na₂SO₄ + 2H₂O, how many molecules of water are produced when 1 molecule of H₂SO₄ reacts?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "2",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "3",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "4",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The coefficient of H₂O is 2, meaning 2 molecules are produced per 1 molecule of H₂SO₄ (as per its coefficient 1).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C10_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "From CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂, a student concludes that 100g of CaCO₃ produces 22.4 L of CO₂ at STP. What is the assumed but unstated condition for this to be true?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The reaction is reversible.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The reaction goes to completion and 100g is the gram molecular mass of CaCO₃ (1 mole).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Hydrochloric acid is concentrated.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The temperature is 25°C.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The conclusion links mass (100g = 1 mol CaCO₃) to gas volume at STP (22.4 L/mol). It assumes 1 mole of CaCO₃ reacts completely to give 1 mole of CO₂.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C10_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "What does the balanced equation 2Mg + O₂ → 2MgO convey about the mass relationship?",
+          "options": [
+            {
+              "label": "A",
+              "text": "48g Mg + 32g O₂ → 80g MgO",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "24g Mg + 16g O₂ → 40g MgO",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "2g Mg + 1g O₂ → 2g MgO",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "12g Mg + 16g O₂ → 28g MgO",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Using atomic masses: Mg=24, O=16. 2Mg = 48g, O₂=32g, 2MgO=2*(24+16)=80g. Mass is conserved (48+32=80).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C10_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the information from a balanced equation about 'molecular mass' differ from its information about 'molecular ratio'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Molecular ratio is qualitative; molecular mass is quantitative.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Molecular ratio gives the count of molecules (coefficients); molecular mass information allows calculation of reacting masses (using atomic masses).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "They are the same thing expressed differently.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Molecular mass information is about elements, molecular ratio is about compounds.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Coefficients give particle count ratios (molecular ratio). Combining these with the formula and atomic masses gives mass ratios (quantitative).",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C10_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does a balanced equation NOT provide information about the rate or conditions of the reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because it only describes the stoichiometric relationship between reactants and products, not the kinetics or practical setup.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because such information is always included in the chemical formulae.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because the rate is assumed to be instantaneous.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because balancing an equation removes that information.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "A balanced equation is a stoichiometric tool. Information about speed, temperature, catalyst, concentration, etc., must be added separately.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Relative Atomic Mass (Atomic Weight)",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH1_C11_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the modern standard for defining Relative Atomic Mass (Atomic Weight)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Mass of one atom of hydrogen-1.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "1/12th the mass of a carbon-12 atom.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Mass of one oxygen-16 atom.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Mass of one neutron.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The atomic mass unit (amu or u) is defined as 1/12th the mass of a carbon-12 atom.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C11_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "conceptual",
+          "question_text": "If the mass of a carbon-12 atom is 12 u, what is the mass of a helium atom with atomic mass 4 u?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It is 4 times heavier than a carbon-12 atom.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It is 1/3 the mass of a carbon-12 atom.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It is 12 times lighter than a hydrogen atom.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It is equal to 4 amu, but this is not comparable to carbon-12.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Atomic mass is relative. He (4 u) is 4/12 = 1/3 the mass of C-12 (12 u).",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C11_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student states: 'The atomic mass of oxygen is 16 u, meaning one oxygen atom is 16 times heavier than one hydrogen atom.' What is the flaw?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hydrogen's atomic mass is 1 u, so the statement is correct.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The standard is carbon-12, not hydrogen. Oxygen is 16 times heavier than 1/12th of C-12, not necessarily 16 times heavier than H.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Oxygen is diatomic (O₂), so its molecular mass is 32 u.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Atomic mass has no unit.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Atomic mass is defined relative to C-12 (1/12th of its mass). While H is ~1 u, the definition is not directly 'times heavier than H'.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C11_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "The atomic mass of nitrogen is 14 u. What is the mass of 2 atoms of nitrogen?",
+          "options": [
+            {
+              "label": "A",
+              "text": "14 u",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "28 u",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "7 u",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "14 g",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Atomic mass (14 u) is the mass of one atom. Mass of 2 atoms = 2 × 14 u = 28 u.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C11_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How did the shift from the hydrogen standard to the carbon-12 standard affect the numerical values of atomic masses for most elements?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It caused a drastic change, increasing all values by a factor of 12.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It had minimal impact; the values changed very little because the carbon-12 standard was chosen to maintain continuity.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It decreased all values by a factor of 12.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It made atomic masses integers for all elements.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The carbon-12 standard was adopted in 1961 because it caused the least disruption to the existing atomic mass values based on the old oxygen/hydrogen standards.",
+          "exam_relevance": "low"
+        },
+        {
+          "question_id": "CH1_C11_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why are atomic masses expressed in 'atomic mass units (u)' rather than grams?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because grams are too large a unit to express the extremely small mass of an atom conveniently.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because atoms have no mass.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because the gram is not an SI unit.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To avoid decimal numbers.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "The actual mass of an atom is of the order of 10^-24 g, which is inconvenient. The relative scale (u) provides manageable numbers.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Relative Molecular Mass (Molecular Weight)",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH1_C12_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is Relative Molecular Mass (RMM)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The mass of one molecule compared to 1/12th the mass of a carbon-12 atom.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "The sum of atomic numbers in a molecule.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The mass of a molecule in grams.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The number of molecules in one mole.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "RMM is a dimensionless number showing how many times a molecule is heavier than 1/12th of C-12.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C12_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "application",
+          "question_text": "What is the RMM of water (H₂O)? (Atomic masses: H=1, O=16)",
+          "options": [
+            {
+              "label": "A",
+              "text": "17 u",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "18 u",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "16 u",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "20 u",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "RMM = (2 × 1) + 16 = 18 u.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C12_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "A student calculates the RMM of CuSO₄·5H₂O as: Cu=63.5, S=32, O=16, H=1. Their calculation: 63.5 + 32 + (4×16) + 5×(2+16) = 63.5+32+64+5×18 = 63.5+32+64+90 = 249.5 u. Is this correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "No, they forgot to multiply the 5 by the mass of water correctly.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Yes, the calculation is correct.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "No, they should not include the water of crystallisation.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "No, the atomic mass of Cu is wrong.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "For hydrated salts, the RMM includes the mass of water molecules. The student's calculation (249.5 u) is correct.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C12_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "What is the RMM of Ammonium sulphate (NH₄)₂SO₄? (N=14, H=1, S=32, O=16)",
+          "options": [
+            {
+              "label": "A",
+              "text": "114 u",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "132 u",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "116 u",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "142 u",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "RMM = (2×N) + (8×H) + S + (4×O) = (2×14) + 8 + 32 + 64 = 28+8+32+64 = 132 u.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C12_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How is the concept of Gram Molecular Mass related to Relative Molecular Mass?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Gram Molecular Mass is the RMM expressed in grams. It is the mass of one mole of the substance.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "They are the same number with different units (u vs g).",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Gram Molecular Mass is always 1000 times the RMM.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "RMM is for elements, Gram Molecular Mass is for compounds.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "RMM is a number (e.g., 18 for water). Gram Molecular Mass is that number with grams as the unit (18 g), representing the mass of Avogadro's number of molecules.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C12_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is it necessary to use the atomic masses of constituent elements to calculate the molecular mass of a compound?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because the mass of a molecule is precisely the sum of the masses of its individual atoms.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because molecules break apart into atoms during weighing.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "To determine the number of electrons in the molecule.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To find the valency of the compound.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "The principle of additivity of atomic masses (based on conservation of mass) allows us to compute molecular mass from its formula.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Percentage Composition of a Compound",
+      "concept_type": "numerical",
+      "questions": [
+        {
+          "question_id": "CH1_C13_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is meant by the percentage composition of a compound?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The percentage by mass of each element present in the compound.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "The percentage of molecules that are pure.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The percentage of water in a hydrated salt.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The ratio of elements by volume.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Percentage composition gives the mass contribution of each element per 100 g of the compound.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C13_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "application",
+          "question_text": "What is the percentage of hydrogen in water (H₂O)? (H=1, O=16)",
+          "options": [
+            {
+              "label": "A",
+              "text": "11.11%",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "88.89%",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "5.55%",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "2%",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "% H = (Mass of H in molecule / RMM) × 100 = (2/18) × 100 ≈ 11.11%.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C13_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "A student calculates the percentage of oxygen in CO₂ as (16/44)×100% = 36.36%. What is the error?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The calculation is correct; there is no error.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The student used the atomic mass of one O atom (16) instead of the mass of all O atoms in the molecule (32).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The student should have divided by 12 (C's mass) first.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The student forgot to multiply by 100.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "CO₂ has two O atoms. Total mass of O = 32 u. Correct % O = (32/44) × 100 = 72.72%. A common mistake is using atomic instead of elemental mass in the molecule.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C13_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Calculate the percentage of nitrogen in urea, CO(NH₂)₂. (C=12, O=16, N=14, H=1)",
+          "options": [
+            {
+              "label": "A",
+              "text": "23.33%",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "46.67%",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "26.67%",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "53.33%",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "RMM of urea = 12+16+(2×14)+(4×1)=60. Mass of N = 28. % N = (28/60)×100 ≈ 46.67%.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH1_C13_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does calculating the percentage of water in a hydrated salt (e.g., CuSO₄·5H₂O) differ from calculating the percentage of an element?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It is the same process: (Mass of water / RMM of hydrated salt) × 100.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Water percentage is calculated by volume, not mass.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "You must first remove the water mentally.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "You calculate the percentage of H and O separately and add them.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "The 'water of crystallisation' is treated as a component. % H₂O = (Total mass of H₂O molecules / RMM of hydrated salt) × 100.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH1_C13_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the knowledge of percentage composition important in chemistry?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It helps in checking the purity of a sample and in determining the empirical formula of a compound.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "It tells us about the color and density of the compound.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It is only needed for balancing chemical equations.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It indicates the valency of the elements.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Percentage composition is a fundamental quantitative property used in analytical chemistry (purity analysis) and in deriving chemical formulae.",
+          "exam_relevance": "medium"
+        }
+      ]
+    }
+  ]
+}

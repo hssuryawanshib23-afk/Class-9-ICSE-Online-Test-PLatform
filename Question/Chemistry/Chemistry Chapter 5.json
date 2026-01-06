@@ -1,0 +1,2583 @@
+{
+  "chapter": {
+    "subject": "Chemistry",
+    "chapter_number": 5,
+    "chapter_name": "The Periodic Table"
+  },
+  "concepts": [
+    {
+      "concept_name": "Need for Classification of Elements",
+      "concept_type": "reasoning",
+      "questions": [
+        {
+          "question_id": "CH5_C1_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the primary purpose of classifying elements?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To list elements alphabetically for easy reference.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To study elements in an organized manner and correlate their properties.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "To separate elements based on their economic value.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To group elements by their country of discovery.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Classification organizes study and reveals property relationships.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH5_C1_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is a reason for classifying elements, as mentioned in the chapter?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To make elements look more symmetrical on paper.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It helps in defining the relationship of one element with another.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "To increase the number of elements known.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To prove that all elements are metals.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Classification establishes inter-element relationships.",
+          "exam_relevance": "low"
+        },
+        {
+          "question_id": "CH5_C1_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Why did early classifications based on properties like malleability or ductility fail?",
+          "options": [
+            {
+              "label": "A",
+              "text": "These properties were too difficult to measure accurately with 19th-century tools.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "These properties are constant for all elements, so they couldn't differentiate between them.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "These characteristics varied under differing conditions, and some elements showed both metallic and non-metallic character.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Scientists at that time were not interested in these physical properties.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Early classifications failed due to variable and ambiguous properties.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH5_C1_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "A scientist wants to create a classification system that will stand the test of time. What characteristic should form its basis, according to the historical development in the chapter?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The color of the element's compounds.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A fundamental property of the element that never changes.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The abundance of the element in the Earth's crust.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The year the element was discovered.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "A successful classification must be based on an immutable property.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C1_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the need for classification, as stated in the chapter, differ from simply creating a list of elements?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Classification is just a more colorful way of listing elements.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A list provides raw data, while classification organizes data to reveal patterns, relationships, and allows for predictive generalizations.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Classification is only needed for educational textbooks, while lists are used by research scientists.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no difference; both serve the same purpose.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Classification vs. Listing: Organization for insight vs. simple enumeration.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C1_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Give a reason why scientists moved away from classifying elements as just 'metals' or 'non-metals'.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because the distinction between metals and non-metals was not visually apparent.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because this binary classification was too simplistic, as some elements exhibited characteristics of both, and it didn't correlate properties with a fundamental atomic feature.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because all elements were eventually found to be metals.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because non-metals were considered unimportant for industry.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The metal/non-metal dichotomy was insufficient due to metalloids and lack of predictive power.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Dobereiner's Triads",
+      "concept_type": "law",
+      "questions": [
+        {
+          "question_id": "CH5_C2_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a Dobereiner's triad?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A group of four elements with identical properties.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A group of three elements with similar chemical properties, where the atomic mass of the middle element is roughly the average of the other two.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A horizontal row of eight elements in a table.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The first three elements discovered in history.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Triad: Group of three with similar properties and atomic mass relationship.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C2_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following sets is an example of a Dobereiner's triad?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Helium, Neon, Argon",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Calcium (40), Strontium (~88), Barium (137)",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Carbon, Silicon, Germanium",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Sodium, Magnesium, Aluminium",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Ca-Sr-Ba and Li-Na-K are classic triad examples.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C2_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student calculates the mean atomic mass of Fluorine (19) and Bromine (80) as 49.5. Why does this pose a problem for Dobereiner's triad concept?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It proves that Fluorine and Bromine are not halogens.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It proves that Fluorine is not a halogen and Bromine is halogens.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It confirms the law perfectly, as 49.5 is close to Iodine's mass.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It shows the law had limited application; the mean (49.5) is not close to the atomic mass of the middle halogen, Chlorine (35.5).",
+              "is_correct": true
+            }
+          ],
+          "correct_label": "D",
+          "key_concept": "The triad relationship failed for some families like the first three halogens (F, Cl, Br).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C2_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "If elements A (atomic mass 7), B, and C (atomic mass 39) form a Dobereiner's triad, what should be the approximate atomic mass of element B?",
+          "options": [
+            {
+              "label": "A",
+              "text": "16",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "23",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "32",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "46",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Applying the formula: Atomic mass of B ≈ (Mass of A + Mass of C) / 2.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C2_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How did Dobereiner's approach to classification differ fundamentally from earlier methods based on properties like density?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Dobereiner ignored chemical properties completely.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Dobereiner was the first to successfully classify all known elements.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Dobereiner was the first to clearly relate the properties of an element to its atomic mass, introducing a quantitative basis for classification.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Dobereiner's method was based on the atomic number, not atomic mass.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Dobereiner linked properties to atomic mass, a quantitative and fundamental property.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH5_C2_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why was Dobereiner's law of triads ultimately discarded?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because the concept of atomic mass was proven wrong.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because it could not arrange all known elements into triads, and the relationship did not hold consistently even within known families.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because it was too complicated for scientists to understand.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because it did not group elements with similar properties together.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Discarded due to limited scope and inconsistent application.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Newland's Law of Octaves",
+      "concept_type": "law",
+      "questions": [
+        {
+          "question_id": "CH5_C3_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What does Newland's Law of Octaves state?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Elements should be arranged in order of decreasing atomic mass.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "When elements are arranged by increasing atomic mass, the properties of every eighth element are a repetition of the first.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Elements can be grouped into sets of seven called octaves.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Only eight elements have similar properties.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Law of Octaves: Periodicity after every eighth element (based on atomic mass).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C3_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Newland's classification was inspired by an analogy with:",
+          "options": [
+            {
+              "label": "A",
+              "text": "The colors of the rainbow.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The structure of the atom.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The notes in a musical octave.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "The planets of the solar system.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Musical analogy: eighth note resembles the first.",
+          "exam_relevance": "low"
+        },
+        {
+          "question_id": "CH5_C3_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A major flaw in Newland's Octaves was the placement of Cobalt and Nickel. What was incorrect about it?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They were placed in different groups, even though they have similar properties.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "They were placed in the same slot/column as fluorine and chlorine, which have very different properties.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Their atomic masses were incorrectly calculated.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They were the first and eighth elements, breaking the law.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Forced fitting: Co & Ni placed with dissimilar halogens to maintain the 'eight' pattern.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C3_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "According to Newland's Law, if Lithium is the first element, which element should have similar properties?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The second element, Beryllium.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The seventh element, Nitrogen.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The eighth element, Sodium.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "The sixteenth element, Sulfur.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Applying the octave rule: 1st and (1+7=)8th elements are similar.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH5_C3_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How was the merit of Newland's Law of Octaves different from that of Dobereiner's Triads?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Newland's law worked for all elements, while Triads did not.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Newland's law was based on atomic number, while Triads used atomic mass.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Newland's law, for the first time, showed a distinct periodicity in properties across a wider range of lighter elements, not just in isolated groups of three.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Newland's law focused on physical state, while Triads focused on chemical properties.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Newland introduced broader periodicity; Dobereiner focused on specific triadic groups.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C3_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Give a reason why Newland's Law of Octaves was discarded.",
+          "options": [
+            {
+              "label": "A",
+              "text": "It was only applicable to triads of elements.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It failed with heavier elements (beyond calcium) and could not accommodate newly discovered elements, leading to forced and incorrect placements.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It did not consider the atomic masses of elements.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It grouped noble gases with very reactive metals.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Discarded due to failure beyond light elements and lack of space for new discoveries.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Mendeleev's Periodic Law and Table",
+      "concept_type": "law",
+      "questions": [
+        {
+          "question_id": "CH5_C4_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "State Mendeleev's Periodic Law.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Properties of elements are a periodic function of their atomic numbers.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Properties of elements are a periodic function of their atomic masses.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Elements repeat their properties after every triad.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Elements repeat their properties after every octave.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Mendeleev's Law: Basis is atomic mass.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C4_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In Mendeleev's table, what are the horizontal rows and vertical columns called?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Rows: Groups, Columns: Periods",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Rows: Periods, Columns: Groups",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Rows: Series, Columns: Families",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Rows: Shells, Columns: Orbits",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Structure: Periods (rows), Groups (columns).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C4_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Why was the position of Hydrogen problematic in Mendeleev's table?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Its atomic mass was unknown.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It was the lightest element and didn't fit anywhere.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It resembled both Group I (forming H+) and Group VII (forming H-) elements, so it was given a dual position.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "It was the only non-metal in Group I.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Hydrogen's dual character (electropositive & electronegative) led to ambiguous placement.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C4_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Using Mendeleev's periodic table, predict the formula of the hydride of carbon.",
+          "options": [
+            {
+              "label": "A",
+              "text": "CH",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "CH2",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "CH3",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "CH4",
+              "is_correct": true
+            }
+          ],
+          "correct_label": "D",
+          "key_concept": "Mendeleev used 'R' for group element. For Group IV, hydride is RH4.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C4_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How did Mendeleev's treatment of undiscovered elements represent a significant advance over Newland's Octaves?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Mendeleev ignored undiscovered elements, while Newland predicted them.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Mendeleev left gaps for unknown elements and boldly predicted their properties, turning the table into a predictive tool, whereas Newland's rigid scheme had no space for new elements.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Mendeleev placed undiscovered elements at the end of the table.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There was no difference; both made accurate predictions.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Mendeleev's gaps and predictions were a visionary scientific achievement.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C4_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Give a reason why isotopes posed a problem for Mendeleev's periodic law.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Isotopes have different atomic numbers, so they should be in different groups.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "According to the law (based on atomic mass), isotopes with different masses should occupy different positions, but they are chemically identical and belong in the same place.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Isotopes were unknown during Mendeleev's time, so he couldn't place them.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Isotopes have the same atomic mass, creating duplication in the table.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Isotopes contradicted the atomic mass basis: different masses but same chemistry.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Modern Periodic Law (Atomic Number as Basis)",
+      "concept_type": "law",
+      "questions": [
+        {
+          "question_id": "CH5_C5_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "State the Modern Periodic Law.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Properties of elements are a periodic function of their atomic masses.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Properties of elements are a periodic function of their atomic numbers.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Elements are arranged based on the number of neutrons.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Elements are arranged based on their valency.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Modern Periodic Law: Basis is atomic number.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C5_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Who established that atomic number is the fundamental property for classification?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Dmitri Mendeleev",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Henry Moseley",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "John Newland",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "J.W. Dobereiner",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Henry Moseley's work led to the Modern Periodic Law.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C5_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "The atomic number of an element is defined as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "The number of protons and neutrons in its nucleus.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The number of electrons in its outermost shell.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The number of unit positive charges (protons) in its nucleus.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "The total number of electrons in the atom.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Atomic number = Number of protons = Nuclear charge.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C5_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "How does the Modern Periodic Law resolve the 'anomalous pair' problem of Argon (atomic mass 39.9) and Potassium (atomic mass 39.1)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It ignores atomic mass and places them based on chemical properties alone.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It uses atomic number: Ar (Z=18) comes before K (Z=19), regardless of mass.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It averages their atomic masses to decide the order.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It places them in the same group because they are gases.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Modern law prioritizes atomic number, fixing Mendeleev's mass-based anomalies.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C5_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does using 'atomic number' as the basis for classification solve the 'isotope problem' that existed in Mendeleev's table?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It doesn't solve it; isotopes are still placed separately.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Isotopes have the same atomic number, so they occupy the same position in the table, reflecting their chemical identity.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Isotopes are given fractional atomic numbers to fit in the table.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Isotopes are placed in a separate block at the bottom of the table.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Same atomic number → Same position, resolving the mass-based contradiction.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C5_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the atomic number considered a more fundamental property than atomic mass for classifying elements?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because it is always a whole number and easier to remember.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because it determines the number of electrons and hence the electronic configuration, which governs chemical properties. Atomic mass is an average affected by isotopes.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because it was discovered after atomic mass, making it more modern.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because atomic mass can be zero for some particles.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Atomic number defines electron configuration and identity; atomic mass is secondary and variable.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Structure of Modern Periodic Table (Groups & Periods)",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH5_C6_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In the Modern Periodic Table, what are the vertical columns and horizontal rows called?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Columns: Periods, Rows: Groups",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Columns: Groups, Rows: Periods",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Columns: Series, Rows: Families",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Columns: Blocks, Rows: Shells",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Groups (vertical), Periods (horizontal).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C6_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "How many periods and groups are there in the Modern Periodic Table?",
+          "options": [
+            {
+              "label": "A",
+              "text": "7 periods, 8 groups",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "8 periods, 7 groups",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "7 periods, 18 groups",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "18 periods, 7 groups",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "7 Periods, 18 Groups (IUPAC notation).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C6_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Which period is known as the longest period?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Period 1",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Period 4",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Period 6",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Period 7",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Period 6 has 32 elements, making it the longest.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH5_C6_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "An element has atoms with three electron shells. To which period does it belong?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Period 1",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Period 2",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Period 3",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Period 4",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Period number = Number of electron shells.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C6_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How is the concept of a 'group' in the Modern Table fundamentally different from a 'group' in Mendeleev's table?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Modern groups are horizontal, Mendeleev's were vertical.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "In the Modern Table, all elements in a group have the same number of valence electrons, defining their chemistry. Mendeleev's groups were based primarily on similarity in properties and valency, without knowledge of the underlying electronic cause.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Mendeleev had more groups than the Modern Table.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no difference; both are the same.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Modern groups are defined by valence electrons (electronic configuration), providing the reason for similarity.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C6_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why are lanthanides and actinides placed separately at the bottom of the Modern Periodic Table?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because they are gases and don't fit with solids.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because they are radioactive and dangerous.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "To avoid making the table too wide and to maintain its shape, as placing all of them in Periods 6 and 7 would distort the table's structure.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Because they do not belong to any group.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Separate placement is for convenience and to preserve the table's compact form.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Types of Elements (Representative, Transition, etc.)",
+      "concept_type": "classification",
+      "questions": [
+        {
+          "question_id": "CH5_C7_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Elements of Groups 1, 2, and 13 to 17 are collectively known as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Transition elements",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Inner transition elements",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Representative or normal elements",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Noble gases",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Representative/Normal elements: Groups 1,2,13-17 (s & p-block).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C7_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is a characteristic of transition elements?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They are all gases at room temperature.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "They form colourless ions.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "They exhibit variable valency and often form coloured compounds.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "They are found only in Group 18.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Transition elements: Variable valency, coloured compounds, high m.p./b.p.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C7_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Lanthanides and Actinides are types of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Representative elements.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Transition elements.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Inner transition elements (f-block).",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Noble gases.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Lanthanides & Actinides = Inner transition elements (f-block).",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH5_C7_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Which family of elements is known as 'halogens'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Group 1",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Group 2",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Group 17",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Group 18",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Halogens = Group 17 (Salt formers).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C7_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How do noble gases (Group 18) differ fundamentally from all other groups in terms of reactivity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They are more reactive than alkali metals.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "They have incomplete outermost shells, making them reactive.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "They have stable electronic configurations (duplet or octet), making them chemically inert or unreactive under normal conditions.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "They are only reactive at high temperatures.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Noble gases are inert due to stable electron configurations.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C7_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why are alkali metals (Group 1) and halogens (Group 17) the most reactive elements in their respective types?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because they have the largest atomic sizes.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Alkali metals have one valence electron they can lose easily to achieve stability. Halogens have seven valence electrons and can gain one electron easily to achieve stability. Both groups are just one electron away from a stable noble gas configuration.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because they are found in the middle of the periodic table.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because they are all gases.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "High reactivity due to strong tendency to attain stable noble gas configuration.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Periodic Trends in a Group",
+      "concept_type": "trend",
+      "questions": [
+        {
+          "question_id": "CH5_C8_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What happens to the number of valence electrons as we move down a group?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Increases",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Decreases",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Remains the same",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "First increases then decreases",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Down a group: Valence electrons constant.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C8_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Down a group, the atomic size generally:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Decreases",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Increases",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Remains constant",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Changes unpredictably",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Down a group: Atomic size increases due to addition of shells.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C8_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Moving down Group 17 (Halogens), what happens to reactivity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Reactivity increases.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Reactivity decreases.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Reactivity remains the same.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Reactivity first increases then decreases.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Down Group 17 (non-metals): Reactivity decreases (F > Cl > Br > I).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C8_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In which part of a group would you expect the elements to have the greatest metallic character?",
+          "options": [
+            {
+              "label": "A",
+              "text": "At the top",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "In the middle",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "At the bottom",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Metallic character is same throughout.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Metallic character increases down a group.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C8_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the trend for metallic character down a group compare with the trend for atomic size down the same group?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Both increase down the group.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Both decrease down the group.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Metallic character increases, atomic size decreases.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Metallic character decreases, atomic size increases.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Down a group: Atomic size increases, Metallic character increases.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C8_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Give a reason why elements in the same group have similar chemical properties.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because they have the same number of electron shells.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because they have the same atomic mass.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because they have the same number of valence electrons, leading to similar combining capacity (valency) and chemical behavior.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Because they were discovered at the same time.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Same valence electron configuration causes similar chemical properties.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Periodic Trends in a Period",
+      "concept_type": "trend",
+      "questions": [
+        {
+          "question_id": "CH5_C9_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Moving from left to right across a period, the number of valence electrons:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Increases",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Decreases",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Remains the same",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "First decreases then increases",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Across a period (L to R): Valence electrons increase from 1 to 8.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C9_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Across a period from left to right, the atomic size generally:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Increases",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Decreases",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Remains constant",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "First increases then decreases",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Across a period (L to R): Atomic size decreases due to increasing nuclear pull.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C9_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Moving from left to right in a period, the metallic character of elements:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Increases",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Decreases",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Remains the same",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "First increases then decreases",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Across a period (L to R): Metallic character decreases, non-metallic character increases.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C9_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In the third period, which element is likely to have the smallest atomic size?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sodium (Na)",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Aluminium (Al)",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Chlorine (Cl)",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Argon (Ar)",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Halogens (Group 17) have the smallest atomic size in a period (excluding noble gases).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C9_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the valency with respect to hydrogen change across a period from left to right?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Increases from 1 to 4 and then decreases to 1.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Increases from 1 to 7.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Decreases from 7 to 1.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Remains constant at 1.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Valency (w.r.t H): Increases from 1 (Gr1) to 4 (Gr14), then decreases to 1 (Gr17).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C9_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Give a reason why atomic size decreases across a period from left to right.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because the number of electron shells increases.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because electrons are being added to the same shell while the nuclear charge (number of protons) increases, strengthening the attraction and pulling the electrons closer.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because the atomic mass decreases.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because elements become more metallic.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Increasing nuclear charge with constant shell number leads to greater effective attraction and smaller size.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Study of Specific Groups - Alkali Metals (Group 1)",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH5_C10_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Why are Group 1 elements called 'alkali metals'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because they are found in alkaline soils.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because they react with water to form strong alkalis (hydroxides).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because they are acidic in nature.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because they are inert like alkaline substances.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Alkali metals produce alkalis (MOH) on reaction with water.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C10_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is NOT a characteristic property of alkali metals?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They are soft and can be cut with a knife.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "They are good conductors of heat and electricity.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "They form dipositive ions (M2+).",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "They impart characteristic colours to the flame.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Alkali metals form M+ ions (unipositive), not M2+.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C10_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "How do alkali metals react with water?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They react slowly to produce an acid and hydrogen.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "They react violently to produce an alkali (metal hydroxide) and hydrogen gas.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "They do not react with water at all.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They react to produce a metal oxide and water.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "2M + 2H2O → 2MOH + H2 (Violent reaction).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C10_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "What is the colour imparted to the flame by Sodium and Potassium respectively?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sodium: Crimson red, Potassium: Golden yellow",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Sodium: Golden yellow, Potassium: Pale violet/lilac",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Sodium: Apple green, Potassium: Brick red",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both impart the same golden yellow colour.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Flame colors: Na - Golden yellow, K - Pale violet.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C10_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the reactivity of alkali metals change down the group (from Li to Cs)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Reactivity decreases.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Reactivity increases.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Reactivity remains the same.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Reactivity first increases then decreases.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Down Group 1 (metals): Reactivity increases (Li < Na < K < Rb < Cs).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C10_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why are alkali metals stored under oil or kerosene?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To enhance their shine.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To make them easier to cut.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "To prevent their reaction with oxygen and moisture present in the air, as they are highly reactive.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "To keep them cold.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Storage under oil prevents tarnishing/ reaction with air and water.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Study of Specific Groups - Alkaline Earth Metals (Group 2)",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH5_C11_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Why are Group 2 elements called 'alkaline earth metals'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because their oxides are found in the earth's crust and their hydroxides are weak alkalies.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because they are as reactive as alkali metals.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because they do not react with water.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because they are gaseous in nature.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "'Earth' from occurrence of oxides; 'alkaline' from basic hydroxides.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C11_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is a correct general reaction of an alkaline earth metal (M) with water?",
+          "options": [
+            {
+              "label": "A",
+              "text": "M + 2H2O → M(OH)2 + H2",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "2M + 2H2O → 2MOH + H2",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "M + H2O → MO + H2",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They do not react with water.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "General reaction: M + 2H2O → M(OH)2 + H2 (slower than Group 1).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C11_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Compared to alkali metals (Group 1), alkaline earth metals (Group 2) are:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Softer and have lower melting points.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Harder and have higher melting points.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "More reactive with water.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Found freely in nature due to low reactivity.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Group 2 metals are harder and have higher m.p./b.p. than Group 1.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH5_C11_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "What is the colour imparted to the flame by Calcium?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Brick red",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Crimson",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Apple green",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Golden yellow",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Flame colors: Ca - Brick red, Sr - Crimson, Ba - Apple green.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH5_C11_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How do the ions formed by Group 1 and Group 2 elements differ?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Group 1 forms M+ ions, Group 2 forms M2+ ions.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Group 1 forms M2+ ions, Group 2 forms M+ ions.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both groups form M+ ions.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both groups form M2- ions.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Charge on ion: Group 1: +1, Group 2: +2.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C11_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Give a reason why alkaline earth metals are less reactive than alkali metals.",
+          "options": [
+            {
+              "label": "A",
+              "text": "They have smaller atomic sizes.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "They have higher ionization energies as they need to lose two electrons from a filled inner shell, which requires more energy than losing one electron from alkali metals.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "They have more valence electrons.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They are non-metals.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Higher ionization energy due to greater nuclear attraction for two electrons makes them less reactive.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Study of Specific Groups - Halogens (Group 17)",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH5_C12_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Why are Group 17 elements called 'halogens'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because they are salt-like in appearance.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because they are inert like noble gases.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because they produce salts on reacting with metals (Greek: halo = salt, gens = producer).",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Because they are found in sea water as free elements.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Halogen = Salt former.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C12_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the valency of halogens?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "2",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "3",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "0",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Halogens have 7 valence electrons, valency = 1 (gain one electron).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C12_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Down Group 17, the physical state at room temperature changes from:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Gas to solid",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Solid to gas",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Liquid to gas",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Remains gaseous for all.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "F, Cl (gas) -> Br (liquid) -> I (solid). M.P. and B.P. increase down the group.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C12_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Which halogen is a liquid at room temperature?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Fluorine",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Chlorine",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Bromine",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Iodine",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Bromine is the only liquid non-metal at room temperature.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C12_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the reactivity of halogens change down the group (from F to I)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Reactivity increases.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Reactivity decreases.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Reactivity remains the same.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Reactivity first increases then decreases.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Down Group 17 (non-metals): Reactivity decreases (F > Cl > Br > I).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C12_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Give a reason why halogens are highly reactive non-metals.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because they have large atomic sizes.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because they have low ionization energies.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because they have a strong tendency to gain one electron to achieve a stable noble gas electronic configuration.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Because they are gases.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "High electron affinity/strong electronegativity due to near-complete valence shell.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Study of Specific Groups - Noble Gases (Group 18)",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH5_C13_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Why are Group 18 elements called 'noble gases' or 'inert gases'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because they are highly reactive.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because they are found in noble palaces.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because they have stable electronic configurations (duplet/octet) and are generally unreactive or inert.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Because they form many compounds.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Noble/Inert due to stable electronic configuration and low reactivity.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C13_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which noble gas has a duplet (2 electrons) in its valence shell?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Helium",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Neon",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Argon",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Krypton",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Helium has 2 electrons (K-shell full), others have octet.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C13_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "What is a common use of Helium?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Filling electric bulbs.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "In advertising 'neon' lights.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "In airships and balloons because it is light and non-flammable.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "As a fuel for welding.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Helium: Lighter than air and inert, used in balloons.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH5_C13_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Which noble gas is used to fill electric bulbs to prevent the oxidation of the tungsten filament?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Helium",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Neon",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Argon",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Xenon",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Argon is used in bulbs due to its inertness and abundance.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH5_C13_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the electronic configuration of noble gases explain the high reactivity of alkali metals (Group 1) and halogens (Group 17)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Noble gases have unstable configurations, making others stable.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Alkali metals and halogens are one electron away from a noble gas configuration. Alkali metals lose one electron to attain it, halogens gain one electron to attain it, making them highly reactive.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Noble gases react with alkali metals to form compounds.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no relation.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The drive to achieve stable noble gas configuration is the cause of reactivity for neighboring groups.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH5_C13_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Give a reason why noble gases exist as monoatomic molecules (single atoms).",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because they are gases.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because their atoms have stable electronic configurations and do not need to share or transfer electrons to achieve stability, hence they do not form bonds with other atoms of their own kind.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because they are diatomic but break apart easily.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because they are found in very small amounts in the air.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Stable configuration leads to no bond formation, hence monoatomic nature.",
+          "exam_relevance": "medium"
+        }
+      ]
+    }
+  ]
+}

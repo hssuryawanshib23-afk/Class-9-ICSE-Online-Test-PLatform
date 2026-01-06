@@ -1,0 +1,1593 @@
+{
+  "chapter": {
+    "subject": "Chemistry",
+    "chapter_number": 9,
+    "chapter_name": "Practical Chemistry (Recognition & Identification of Gases, Action of Heat, Hard & Soft Water, Water Pollution)"
+  },
+  "concepts": [
+    {
+      "concept_name": "Hydrogen (H2) - Properties and Tests",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH9_C1_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is the correct definition for hydrogen gas based on its laboratory identification?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A colourless, odourless gas that turns lime water milky.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A colourless, odourless gas that burns with a pale blue flame and produces a pop sound with air.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A greenish-yellow gas with a pungent odour that bleaches litmus.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A colourless gas with a rotten egg smell that turns lead acetate paper black.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Hydrogen gas is colourless, odourless, burns with a pale blue flame, and produces a characteristic 'pop' sound when ignited in air.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C1_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "A colourless, odourless gas is evolved when dilute sulphuric acid is added to zinc granules. The gas burns with a 'pop' sound. Which gas is it?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Carbon dioxide",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Oxygen",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Hydrogen",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Ammonia",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Hydrogen is prepared by the action of dilute acids on metals above hydrogen in the activity series (e.g., Zn, Mg, Fe). The 'pop' sound test is unique to hydrogen.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C1_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student tests a colourless, odourless gas with a burning splint. The splint extinguishes. The student concludes it is hydrogen. Why is this conclusion incorrect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hydrogen always rekindles a glowing splint.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The 'pop' sound test is necessary; a burning splint extinguishing is not a test for hydrogen.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Hydrogen is acidic and would have turned blue litmus red first.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The gas must have been impure; pure hydrogen would have burned.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "A burning splint is brought near hydrogen to hear the 'pop' sound (for a mixture with air) or see it burn (if pure). A splint extinguishing is a test for non-supporter gases like CO2, not a positive test for H2.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C1_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Which of the following reactions CANNOT be used to prepare hydrogen gas in the laboratory?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Zn + 2HCl -> ZnCl2 + H2",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Mg + H2SO4(dil) -> MgSO4 + H2",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Cu + 2HCl -> CuCl2 + H2",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Fe + 2HCl -> FeCl2 + H2",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Hydrogen is prepared by the action of dilute acids on metals ABOVE hydrogen in the reactivity series. Copper is below hydrogen and does not displace it from acids.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C1_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How can you distinguish between hydrogen and oxygen gas using a single chemical test?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Pass both gases through lime water; one turns it milky.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Bring a glowing wooden splinter near each; oxygen rekindles it, hydrogen gives a pop sound.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Test with moist litmus paper; one is acidic, the other is basic.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Bring a burning splinter near each; both support combustion equally.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Oxygen supports combustion (rekindles glowing splinter). Hydrogen, when mixed with air, burns with a 'pop' sound. This is a key distinguishing test.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C1_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the 'pop' sound test for hydrogen performed with a burning splinter and not a glowing splinter?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A glowing splinter is not hot enough to ignite the hydrogen-air mixture.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The test requires an open flame to ignite the hydrogen, which then burns rapidly in air producing the sound.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A glowing splinter would be extinguished by hydrogen, giving a false negative.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Hydrogen itself glows, so a glowing splinter would not be visible.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The 'pop' sound is due to the rapid combustion of hydrogen when an ignition source (burning splinter) is provided. A glowing splinter tests for oxygen, not hydrogen.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Oxygen (O2) - Properties and Tests",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH9_C2_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the key identifying property of oxygen gas?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It is a supporter of combustion.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "It is acidic in nature.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It has a pungent smell.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It turns lime water milky.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Oxygen is a colourless, odourless, neutral gas that supports combustion. It rekindles a glowing splinter.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C2_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "A gas is collected from the heating of mercuric oxide. When a glowing wooden splinter is inserted into the gas jar, it bursts into flames. The gas is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hydrogen",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Carbon dioxide",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Oxygen",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Nitrogen dioxide",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "The gas that rekindles a glowing splinter is oxygen. It is prepared by heating certain metallic oxides like HgO, Pb3O4.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C2_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student states that oxygen gas can be identified because it turns alkaline pyrogallol solution colourless. What is the error?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Oxygen turns pyrogallol dark brown, not colourless.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Pyrogallol is used for carbon dioxide, not oxygen.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The test requires acidified pyrogallol.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Oxygen bleaches pyrogallol.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Oxygen is absorbed by colourless alkaline pyrogallol, turning it dark brown. 'Colourless' is incorrect.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH9_C2_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Which substance, on heating, will produce oxygen gas?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Copper carbonate",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Lead nitrate",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Red lead (Pb3O4)",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Ammonium chloride",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Heavy metallic oxides like Pb3O4, PbO2, and HgO decompose on heating to give oxygen.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C2_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Both hydrogen and oxygen are colourless and odourless. Which test gives a positive result for oxygen but not for hydrogen?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Burning splint produces a pop sound.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Glowing splinter rekindles.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Turns lime water milky.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Turns moist blue litmus red.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The glowing splinter test is unique to oxygen. Hydrogen does not rekindle a glowing splinter.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C2_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is a glowing splinter used to test for oxygen instead of a burning splinter?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A burning splinter would add its own flame, masking the effect.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Oxygen supports combustion; a glowing ember, which is still combustible, will burst into flame in its presence.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A burning splinter produces carbon dioxide which interferes with the test.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Oxygen extinguishes a burning splinter.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "A glowing splinter has combustible material (carbon) at a high temperature. In the presence of oxygen, it reignites, providing a clear visual test.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Carbon Dioxide (CO2) - Properties and Tests",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH9_C3_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which statement correctly defines a key test for carbon dioxide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It turns lime water milky, and the milkiness disappears in excess.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "It turns lime water milky, and the milkiness persists in excess.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It turns lime water green.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It has no effect on lime water.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Carbon dioxide turns lime water (calcium hydroxide) milky due to insoluble calcium carbonate. Excess CO2 forms soluble calcium bicarbonate, clearing the milkiness.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C3_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "A colourless, odourless gas is produced when dilute hydrochloric acid is added to marble chips (CaCO3). The gas turns lime water milky. The gas is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hydrogen",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Oxygen",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Carbon dioxide",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Chlorine",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Carbon dioxide is produced by the action of dilute acids on carbonates. The lime water test is confirmatory.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C3_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student says carbon dioxide can be identified because it turns moist blue litmus paper blue. What is wrong?",
+          "options": [
+            {
+              "label": "A",
+              "text": "CO2 turns moist blue litmus faint red, as it forms carbonic acid.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "CO2 has no effect on litmus paper.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "CO2 turns litmus paper blue only when dry.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "CO2 bleaches litmus paper.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Carbon dioxide dissolves in water to form carbonic acid (H2CO3), which is weakly acidic and turns blue litmus faint red.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C3_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Which of the following will NOT produce carbon dioxide on strong heating?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Zinc carbonate",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Sodium carbonate",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Copper carbonate",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Calcium carbonate",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Sodium carbonate and potassium carbonate are stable and do not decompose on heating to give CO2. Most other metallic carbonates decompose.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C3_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Both carbon dioxide and sulphur dioxide turn lime water milky initially. How can they be distinguished?",
+          "options": [
+            {
+              "label": "A",
+              "text": "By smell: SO2 has a pungent smell, CO2 is odourless.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "By using acidified K2Cr2O7 paper: SO2 turns it green, CO2 has no effect.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "By the pop sound test.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "By testing with glowing splinter.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "SO2 is a reducing agent and decolorizes KMnO4 or turns K2Cr2O7 green. CO2 has no such effect. This is a key distinguishing test.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C3_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does the milkiness disappear when excess carbon dioxide is passed through lime water?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The calcium carbonate precipitate evaporates.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The calcium carbonate reacts with excess CO2 to form soluble calcium hydrogencarbonate.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The carbon dioxide bleaches the white precipitate.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The solution becomes too acidic and dissolves the precipitate.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "CaCO3 (insoluble, milky) + CO2 + H2O -> Ca(HCO3)2 (soluble, clear). This property is unique to CO2 among common acidic gases.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Action of Heat on Salts - Carbonates and Bicarbonates",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH9_C4_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the general observation when most metallic carbonates (except Na2CO3, K2CO3) are heated strongly?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They sublime without a residue.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "They decompose to give the metal oxide and carbon dioxide gas.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "They melt and give off oxygen gas.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They give off ammonia gas.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "General equation: Metal Carbonate -> (heat) -> Metal Oxide + Carbon Dioxide.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C4_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "A light green powder turns black on strong heating and gives off a gas that turns lime water milky. The original substance is most likely:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Copper nitrate",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Copper carbonate",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Zinc carbonate",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Lead carbonate",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Copper carbonate (green) decomposes to black copper oxide and carbon dioxide (turns lime water milky).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C4_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student heats a white powder. It turns yellow when hot and white when cold, and gives off CO2. He concludes it is zinc oxide. What is the mistake?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Zinc oxide is the product (residue), not the original substance being heated.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Zinc oxide does not change colour on heating.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The gas evolved should be oxygen, not CO2.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The original substance should have been blue.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "The student identified the residue (ZnO). The original substance was zinc carbonate, which on heating gives ZnO (yellow hot, white cold) and CO2.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C4_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Which pair of substances will BOTH give off carbon dioxide gas when heated?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Zinc carbonate and Sodium carbonate",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Copper carbonate and Zinc carbonate",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Ammonium chloride and Iodine",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Lead nitrate and Copper nitrate",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Both ZnCO3 and CuCO3 decompose on heating to give metal oxide and CO2. Na2CO3 is stable.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C4_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How would you distinguish between samples of copper carbonate and copper nitrate by heating them in a dry test tube?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Both give black residue, but only carbonate gives a gas turning lime water milky.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Carbonate gives only CO2 (colourless). Nitrate gives reddish-brown NO2 and may give oxygen.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Carbonate sublimes, nitrate decomposes.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Nitrate gives water vapour, carbonate does not.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "CuCO3 -> CuO (black) + CO2 (colourless, turns lime water milky). Cu(NO3)2 -> CuO (black) + NO2 (brown) + O2. The colour of the gas is key.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C4_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does washing soda (Na2CO3.10H2O) give off water vapour on heating, but not carbon dioxide, while copper carbonate gives off CO2?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Washing soda loses water of crystallization first; its anhydrous form (Na2CO3) is stable and does not decompose like other carbonates.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Washing soda contains less carbon than copper carbonate.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The heat provided is insufficient to decompose sodium carbonate.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Copper carbonate is a basic carbonate, while washing soda is a normal carbonate.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Sodium and potassium carbonates do not decompose on heating. They only lose water of crystallization if hydrated. Most other metallic carbonates decompose to oxide and CO2.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Action of Heat on Salts - Nitrates",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH9_C5_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the common product gas (besides oxygen) when heavy metal nitrates like lead nitrate or copper nitrate are heated?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Nitrogen",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Nitrogen dioxide",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Ammonia",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Nitrous oxide",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Nitrates of heavy metals (Pb, Cu, Zn) decompose on heating to give the metal oxide, nitrogen dioxide (brown gas), and oxygen.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C5_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "A white crystalline solid on strong heating gives a cracking sound, a reddish-brown gas, and a yellow residue when hot which turns white on cooling. The solid is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Zinc nitrate",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Lead nitrate",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Ammonium chloride",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Copper carbonate",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Lead nitrate decomposes with a cracking sound, gives brown NO2, and leaves yellow PbO (hot) which turns white (cool).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C5_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student heats sodium nitrate expecting to see brown fumes of nitrogen dioxide. Why won't this happen?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sodium nitrate decomposes to give sodium nitrite and oxygen; it does not produce NO2.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "The heat provided is insufficient.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Sodium nitrate is not a heavy metal nitrate.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The NO2 produced is colourless in this case.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Nitrates of sodium and potassium decompose differently, giving the nitrite and oxygen. NO2 is characteristic of heavy metal nitrates.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C5_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Which observation is correct when copper nitrate crystals are heated?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Blue crystals -> White anhydrous salt -> Black residue, with steamy vapours and brown gas.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "White crystals -> Yellow residue (hot) -> White residue (cold), with colourless gas.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Orange crystals -> Green residue, with nitrogen gas.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Violet crystals sublime.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Hydrated copper nitrate (blue) first loses water (steamy vapours, white Cu(NO3)2), then decomposes to black CuO, brown NO2, and O2.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C5_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How can you distinguish between zinc nitrate and ammonium chloride by heating?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Zinc nitrate leaves a residue, ammonium chloride sublimes completely.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Both give white fumes.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Zinc nitrate gives a pop sound, ammonium chloride does not.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Ammonium chloride gives a brown gas.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Zinc nitrate decomposes to leave a solid residue (ZnO). Ammonium chloride sublimes, leaving no residue. This is a fundamental difference.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C5_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does a glowing splinter burst into flame when introduced into the gas mixture from heated lead nitrate, even though one gas (NO2) is acidic and non-supporter?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The mixture contains oxygen gas, which supports combustion and overrides the effect of NO2.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "NO2 itself is a supporter of combustion.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The heat from the glowing splinter decomposes NO2 into nitrogen and oxygen.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The glowing splinter test is not reliable in the presence of other gases.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Lead nitrate decomposition produces both NO2 and O2. The presence of oxygen (a supporter) causes the glowing splinter to reignite.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Hard Water and Soft Water",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH9_C6_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the defining characteristic of soft water?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It contains chlorides of calcium and magnesium.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It forms lather easily with ordinary soap.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It contains bicarbonates of calcium and magnesium.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It does not form lather with any soap.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Soft water is free from dissolved salts of calcium and magnesium, so it readily forms lather with soap.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C6_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "When ordinary soap is rubbed in two water samples, sample A forms lather easily while sample B forms a scum. Identify the samples.",
+          "options": [
+            {
+              "label": "A",
+              "text": "A is soft water, B is hard water.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "A is temporary hard water, B is permanent hard water.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "A is hard water, B is soft water.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both are different types of hard water.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Soft water lathers easily. Hard water reacts with soap to form insoluble calcium/magnesium stearate (scum), wasting soap.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C6_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student says that boiling can remove permanent hardness caused by calcium sulphate. Why is this incorrect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Boiling only removes temporary hardness caused by bicarbonates. Sulphates require chemical treatment like washing soda.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Calcium sulphate evaporates on boiling.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Boiling makes permanent hardness worse.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Permanent hardness is caused by chlorides, not sulphates.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Temporary hardness is due to bicarbonates, removed by boiling. Permanent hardness is due to chlorides/sulphates, not removed by boiling.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C6_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Which method can soften both temporary and permanent hard water?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Boiling",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Adding washing soda (Na2CO3)",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Using soap",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Filtration without treatment",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Washing soda precipitates calcium/magnesium ions as carbonates (from bicarbonates) or as carbonates (from chlorides/sulphates), removing both types of hardness.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C6_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How can you experimentally distinguish between temporary hard water and permanent hard water?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Boil equal volumes, then filter and test with soap. The one that now lathers easily was temporary hard water.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Test both with soap without any treatment; both will behave identically.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Add washing soda to both; only temporary hard water will show a precipitate.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Test pH; temporary hard water is acidic, permanent is basic.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Boiling removes temporary hardness (precipitates carbonates) but not permanent hardness. The soap test after boiling and filtration distinguishes them.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C6_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why do detergents lather with hard water while ordinary soaps do not?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Calcium and magnesium salts of detergents are soluble in water, so they do not form scum.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Detergents are stronger acids that dissolve the hardness salts.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Soaps contain -COOH group, detergents do not, which prevents reaction with Ca2+ ions.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Detergents contain bleaching agents that remove hardness.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Soap anions (stearate) form insoluble precipitates (scum) with Ca2+/Mg2+. Detergent anions (sulphonate) form soluble salts, thus lathering even in hard water.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Water Pollution - Parameters and Sources",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH9_C7_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What does a high Biological Oxygen Demand (BOD) indicate about a water body?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The water is very clean and pure.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "There is a high level of organic pollution, leading to more oxygen consumption by microbes.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The water has a high concentration of dissolved oxygen.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The water is highly acidic.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "BOD measures oxygen used by microorganisms to decompose organic waste. High BOD = high organic pollution = low dissolved oxygen for aquatic life.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH9_C7_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is a physical indicator of water pollution?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Foul smell",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "pH of 7",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Low BOD",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "High dissolved oxygen",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Foul smell, bad taste, oil/grease on surface, and excessive algae are direct physical/ sensory indicators of pollution.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH9_C7_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student measures the pH of a lake water sample as 6.5 and concludes it is heavily polluted. Is this conclusion necessarily correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "No, pH alone is not conclusive. Slight acidity can be natural. Other parameters (BOD, turbidity) must be checked.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Yes, any pH below 7 indicates severe pollution.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "No, polluted water is always basic, not acidic.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Yes, pure water has a pH of exactly 7.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "While a pH far from 7 (e.g., <4 or >9) indicates pollution, a slight deviation (6.5-8.5) can be normal. Pollution assessment requires multiple parameters.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH9_C7_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Which activity is a source of thermal pollution?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Discharge of hot water from industrial cooling towers into rivers.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Use of detergents for washing clothes.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Run-off from agricultural fields containing fertilizers.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Oil spills from tankers.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Thermal pollution is the harmful increase in water temperature, often from industrial coolant discharge, which reduces dissolved oxygen.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH9_C7_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does pollution from sewage (organic waste) differ from pollution from industrial acids in its effect on dissolved oxygen (DO)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sewage increases BOD, lowering DO. Industrial acids may kill organisms but don't necessarily affect DO directly via BOD.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Both increase DO levels.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Sewage has no effect on DO, industrial acids increase DO.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both decrease DO by the same mechanism.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Organic pollution (sewage) is decomposed by bacteria, which consume oxygen (high BOD, low DO). Chemical pollution (acids) may be toxic but doesn't always involve microbial oxygen consumption.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH9_C7_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is water with high turbidity considered polluted?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Suspended particles block sunlight, reduce photosynthesis in aquatic plants, and can clog respiratory systems of animals.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Turbidity directly increases the pH of water making it toxic.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Turbid water always has low hardness.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It indicates a high concentration of dissolved salts.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Turbidity reduces light penetration, affecting aquatic plant life and oxygen production. It also physically harms aquatic organisms.",
+          "exam_relevance": "low"
+        }
+      ]
+    },
+    {
+      "concept_name": "Flame Test",
+      "concept_type": "identification",
+      "questions": [
+        {
+          "question_id": "CH9_C8_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the purpose of the flame test in practical chemistry?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To identify the acidic radical present in a salt.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To identify the metallic ion (cation) present in a salt based on the colour imparted to a flame.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "To test the pH of a solution.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To determine the water of crystallization in a salt.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The flame test is a qualitative analytical technique used to detect the presence of certain metal ions (e.g., Na+, K+, Ca2+, Cu2+) based on their characteristic flame colours.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C8_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "A salt imparts a persistent golden yellow colour to the Bunsen flame. The cation present is likely:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Potassium",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Sodium",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Calcium",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Copper",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Sodium salts give a persistent golden yellow flame.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C8_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student performs a flame test on a salt and observes a lilac flame. When viewed through a blue glass, the flame appears pink. He concludes it is sodium. What is the error?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sodium's yellow flame is masked/blocked by blue glass. Lilac flame seen through blue glass as pink is characteristic of potassium.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Sodium flame is always violet, not lilac.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The blue glass test is used for calcium, not sodium or potassium.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The student should have used a red glass.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Blue glass absorbs yellow light. It is used to mask the strong yellow of sodium to see the violet/pink of potassium.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C8_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Which sequence of steps is CORRECT for performing a flame test?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Clean Pt wire with conc. HCl -> Heat in flame until colourless -> Dip in acid and sample -> Introduce into flame.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Dip Pt wire in sample -> Heat in flame -> Observe colour immediately.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Heat Pt wire -> Dip in water -> Dip in sample -> Heat again.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Use any wire, dip in sample, and put in the luminous flame.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "The platinum wire must be thoroughly cleaned to remove impurities that could give false colours. The non-luminous (roaring) flame is used for clear observation.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C8_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How can you distinguish between sodium chloride and calcium chloride using only a flame test and a blue glass?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Without glass: Na gives golden yellow, Ca gives brick red. With blue glass: Na flame vanishes/appears colourless, Ca flame appears greenish.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Both give the same colour without glass, but differ with glass.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Sodium flame is violet through blue glass, calcium flame is yellow.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Blue glass is only used for potassium, not for these.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Sodium (yellow) and Calcium (brick red) have distinct colours. Blue glass masks yellow (sodium appears faint/colourless) but allows the calcium greenish hue to be seen.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH9_C8_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is a platinum or nichrome wire used in the flame test and not a copper or iron wire?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Platinum/nichrome is inert and does not impart its own colour to the flame, avoiding interference.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Copper and iron wires are not good conductors of heat.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Platinum wire is cheaper than copper wire.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Copper wire would melt in the Bunsen flame.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "The wire material must not produce a characteristic flame colour that masks the sample's colour. Platinum is ideal due to its high melting point and inertness.",
+          "exam_relevance": "medium"
+        }
+      ]
+    }
+  ]
+}

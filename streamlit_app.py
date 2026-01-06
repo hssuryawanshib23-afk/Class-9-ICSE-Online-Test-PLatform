@@ -16,28 +16,45 @@ from db_connection import get_connection, get_placeholder, USE_POSTGRES
 
 st.set_page_config("Class 9 ICSE Test Platform", layout="wide")
 
-# Chapter name mappings
+# Chapter name mappings - Physics and Chemistry
 CHAPTER_NAMES = {
-    2: "Motion in One Dimension",
-    3: "Laws of Motion",
-    4: "Pressure in Fluids",
-    5: "Upthrust in Fluids and Archimedes' Principle",
-    7: "Reflection of Light",
-    8: "Propagation of Sound Waves",
-    9: "Current Electricity",
-    10: "Magnetism"
+    "Physics": {
+        1: "Measurements and Experimentation",
+        2: "Motion in One Dimension",
+        3: "Laws of Motion",
+        4: "Pressure in Fluids",
+        5: "Upthrust in Fluids and Archimedes' Principle",
+        6: "Heat and Energy",
+        7: "Reflection of Light",
+        8: "Propagation of Sound Waves",
+        9: "Current Electricity",
+        10: "Magnetism"
+    },
+    "Chemistry": {
+        1: "The Language of Chemistry",
+        2: "Chemical Changes and Reactions",
+        3: "Water",
+        4: "Atomic Structure and Chemical Bonding",
+        5: "The Periodic Table",
+        6: "Study of the First Element - Hydrogen",
+        7: "Study of Gas Laws",
+        8: "Atmospheric Pollution",
+        9: "Practical Work"
+    }
 }
 
-def get_concepts_by_chapter():
-    """Get all concepts grouped by chapter"""
+def get_concepts_by_chapter(subject="Physics"):
+    """Get all concepts grouped by chapter for a specific subject"""
     conn = get_connection()
     cur = conn.cursor()
-    cur.execute('''
+    placeholder = get_placeholder()
+    cur.execute(f'''
         SELECT ch.chapter_number, c.id, c.concept_name 
         FROM concepts c 
         JOIN chapters ch ON c.chapter_id = ch.id 
+        WHERE ch.subject = {placeholder}
         ORDER BY ch.chapter_number, c.id
-    ''')
+    ''', (subject,))
     rows = cur.fetchall()
     conn.close()
     
@@ -446,11 +463,20 @@ def create_test_interface():
     # Test metadata
     test_name = st.text_input("Test Name", placeholder="e.g., Chapter 2-5 Practice Test")
     
-    # Chapter selection
+    # Subject selection
+    subject = st.selectbox(
+        "Select Subject",
+        ["Physics", "Chemistry"],
+        help="Choose the subject for this test"
+    )
+    
+    # Chapter selection based on subject
+    available_chapters = list(CHAPTER_NAMES[subject].keys())
     chapters = st.multiselect(
         "Select Chapters",
-        [2, 3, 4, 5, 7, 8, 9, 10],
-        help="Choose which chapters to include"
+        available_chapters,
+        help="Choose which chapters to include",
+        format_func=lambda x: f"Chapter {x}: {CHAPTER_NAMES[subject][x]}"
     )
     
     # Difficulty distribution
@@ -497,7 +523,8 @@ def create_test_interface():
                     easy_pct=easy_pct,
                     medium_pct=medium_pct,
                     hard_pct=hard_pct,
-                    created_by_user_id=st.session_state.user['id']
+                    created_by_user_id=st.session_state.user['id'],
+                    subject=subject
                 )
                 
                 if admin_test_id:
@@ -790,7 +817,7 @@ def get_available_count(chapters, difficulties):
     return total
 
 def show_students_list():
-    """Display list of all students with their mobile numbers"""
+    """Display list of all students with their info"""
     st.subheader("👥 Registered Students")
     
     conn = get_connection()
@@ -799,10 +826,10 @@ def show_students_list():
     
     try:
         cur.execute(f"""
-            SELECT id, username, phone_number 
+            SELECT id, username, phone_number, school_name, class_name, board_name, created_at 
             FROM users 
             WHERE role = {placeholder}
-            ORDER BY username
+            ORDER BY created_at DESC
         """, ('student',))
         students = cur.fetchall()
         
@@ -812,17 +839,20 @@ def show_students_list():
         
         st.success(f"Total Students: {len(students)}")
         
-        # Display as table
+        # Display as detailed cards
         st.markdown("---")
-        for student_id, username, phone in students:
-            col1, col2, col3, col4 = st.columns([2, 2, 1, 1])
+        for student_id, username, phone, school, class_name, board, created_at in students:
+            col1, col2, col3 = st.columns([3, 2, 1])
             with col1:
                 st.write(f"**👤 {username}**")
+                st.caption(f"🏫 {school or 'N/A'} | 📚 Class {class_name or 'N/A'} | 📋 {board or 'N/A'}")
             with col2:
                 st.write(f"📱 {phone}")
+                if created_at:
+                    # Format timestamp
+                    reg_date = created_at.strftime('%d %b %Y, %I:%M %p') if hasattr(created_at, 'strftime') else str(created_at)
+                    st.caption(f"📅 Registered: {reg_date}")
             with col3:
-                st.caption(f"ID: {student_id}")
-            with col4:
                 if st.button("🗑️ Delete", key=f"delete_student_{student_id}", type="secondary"):
                     st.session_state[f'confirm_delete_{student_id}'] = True
                     st.rerun()
@@ -978,9 +1008,14 @@ def signup_page():
     u = st.text_input("Username", key="signup_username")
     p = st.text_input("Phone Number (10 digits - used to prevent duplicate accounts)", key="signup_phone", max_chars=10)
     pw = st.text_input("Password", type="password", key="signup_password")
+    
+    # New mandatory fields
+    school = st.text_input("School Name *", key="signup_school")
+    class_name = st.text_input("Class *", key="signup_class", placeholder="e.g., 9th, 10th")
+    board = st.selectbox("Board *", ["ICSE", "CBSE", "State Board", "Other"], key="signup_board")
 
     if st.button("Create account", key="signup_btn"):
-        if not u or not p or not pw:
+        if not u or not p or not pw or not school or not class_name or not board:
             st.error("❌ All fields are required!")
             return
         
@@ -988,7 +1023,7 @@ def signup_page():
             st.error("❌ Please enter a valid 10-digit phone number")
             return
         
-        user_id = create_user(u, p, pw, "student")
+        user_id = create_user(u, p, pw, "student", school, class_name, board)
         if user_id:
             st.success("✅ Account created! Please login.")
         else:
@@ -1252,15 +1287,23 @@ def custom_test_setup():
     st.subheader("Create Your Custom Test")
     st.warning("⚠️ **Important:** You MUST include at least 40% Hard questions to ensure effective learning. This prevents gaming the system with only easy questions.")
 
-    # Get concepts grouped by chapter
-    concepts_by_chapter = get_concepts_by_chapter()
+    # Subject selection
+    subject = st.selectbox(
+        "📚 Select Subject",
+        ["Physics", "Chemistry"],
+        help="Choose which subject you want to practice"
+    )
+    
+    # Get concepts grouped by chapter for selected subject
+    concepts_by_chapter = get_concepts_by_chapter(subject)
     
     # Create expandable sections for each chapter
     st.markdown("### 📚 Select Concepts to Include")
     selected_concept_ids = []
     
     for ch_num in sorted(concepts_by_chapter.keys()):
-        with st.expander(f"📖 Chapter {ch_num}: {CHAPTER_NAMES.get(ch_num, f'Chapter {ch_num}')}"):
+        chapter_name = CHAPTER_NAMES.get(subject, {}).get(ch_num, f'Chapter {ch_num}')
+        with st.expander(f"📖 Chapter {ch_num}: {chapter_name}"):
             concepts = concepts_by_chapter[ch_num]
             select_all = st.checkbox(f"Select All from Chapter {ch_num}", key=f"select_all_ch{ch_num}")
             

@@ -1,0 +1,2979 @@
+{
+  "chapter": {
+    "subject": "Physics",
+    "chapter_number": 3,
+    "chapter_name": "Laws of Motion"
+  },
+  "concepts": [
+    {
+      "concept_name": "Force - Definition and Effects",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH3_C1_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the primary definition of a force in physics?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A push or pull that changes the state of rest or motion of a body.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "A quantity that only changes the shape of a body.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The rate of change of displacement.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The energy possessed by a body due to its motion.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Force is an external agent that changes the state of rest or motion, or the shape/size of a body.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C1_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is an example where a force changes the size/shape of a body?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A ball rolling on the ground.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Stretching a spring by loading it.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A book lying on a table.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A planet orbiting the sun.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Force can change the dimensions (size/shape) of a non-rigid body.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH3_C1_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A force applied to a rigid body always produces motion. Is this statement correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Yes, force always causes motion in a rigid body.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "No, a force on a rigid body may only cause motion if the net force is non-zero; it does not change its dimensions.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Yes, but only if the force is applied vertically.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "No, a force on a rigid body always changes its shape slightly.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "On a rigid body, a force does not change dimensions but can produce motion if the net force is not zero.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C1_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "A child pushes a toy car from rest, and it starts moving. Which effect of force is demonstrated?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Force changes the shape of the car.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Force changes the state of rest of the car.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Force changes the color of the car.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Force increases the mass of the car.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Force can produce motion in a stationary object.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C1_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the effect of a force differ when applied to a rigid object versus a non-rigid object?",
+          "options": [
+            {
+              "label": "A",
+              "text": "On a rigid object, force changes dimensions; on a non-rigid object, it only produces motion.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "On a rigid object, force can produce motion but not change dimensions; on a non-rigid object, it can change dimensions and/or produce motion.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "There is no difference; force always produces the same effects.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "On a non-rigid object, force only changes shape, never causes motion.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Rigid bodies resist change in dimensions; non-rigid bodies can have their inter-particle spacing changed by force.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH3_C1_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does a force applied to a stationary football cause it to move, but the same force applied to a stationary wall does not cause visible motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The wall has less inertia than the football.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The force on the wall is balanced by the reaction force from the ground/foundation, resulting in zero net force.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The football is non-rigid, while the wall is rigid.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The force applied to the wall is always less due to friction.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Motion occurs only when the net external force is non-zero. The wall is fixed, so external forces balance.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Contact Forces - Types and Examples",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH3_C2_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What are contact forces?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Forces that act between bodies without any physical contact.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Forces that are applied on bodies by making a physical contact.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Forces that are always attractive in nature.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Forces that depend only on mass and distance.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Contact forces require physical contact between the interacting bodies.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C2_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is a contact force?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Gravitational force",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Magnetic force",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Frictional force",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Electrostatic force",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Friction arises when surfaces are in contact and slide or tend to slide.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C2_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Normal reaction force is a contact force that always acts:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Parallel to the surface of contact.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Perpendicular (normal) to the surface of contact.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "In the direction of motion of the body.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Opposite to the gravitational force, regardless of surface orientation.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Normal reaction force is perpendicular to the surface in contact.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH3_C2_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "When you hold a block on your palm to keep it stationary, which contact force balances the weight of the block?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Force of friction",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Tension force",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Normal reaction force from the palm",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Force exerted during collision",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "The normal reaction force from the palm acts upward to balance the downward weight.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C2_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the force of tension in a string differ from the normal reaction force from a table?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Tension acts along the string, normal reaction acts perpendicular to the surface.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Tension is a non-contact force, normal reaction is a contact force.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Tension always acts vertically upwards, normal reaction acts vertically downwards.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Tension depends on mass, normal reaction depends on velocity.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Tension acts along the length of the string, normal reaction is perpendicular to the contact surface.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH3_C2_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does a spring exert a restoring force when compressed or stretched?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because its mass changes.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because it has a tendency to return to its original shape/length, exerting a force opposite to the displacement.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because gravity acts on it more strongly.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because it is always in motion.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "A spring exerts a restoring force proportional to displacement, aiming to restore its original form.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Non-Contact Forces - Types and Properties",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH3_C3_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What are non-contact forces?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Forces that require physical touch between bodies.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Forces experienced by bodies without being physically touched.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Forces that only act during collisions.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Forces that are always repulsive.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Non-contact forces act at a distance without physical contact.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C3_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is a non-contact force?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Frictional force",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Tension in a string",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Gravitational force",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Normal reaction",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Gravitational force acts between masses without contact.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C3_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Which statement about non-contact forces is INCORRECT?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They can be both attractive and repulsive.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Their magnitude depends on the distance of separation.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Gravitational force is always repulsive.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Magnetic force acts between magnetic poles.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Gravitational force is always attractive, while electrostatic and magnetic forces can be attractive or repulsive.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C3_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "A charged comb attracts small bits of paper. Which non-contact force is responsible?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Gravitational force",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Magnetic force",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Electrostatic force",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Nuclear force",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Electrostatic force acts between charged objects.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C3_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the dependence on distance differ between gravitational force and normal contact force?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Both depend inversely on the square of the distance.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Gravitational force depends on distance; normal contact force does not inherently depend on separation distance.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Normal force depends inversely on distance; gravitational force is constant.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Neither depends on distance.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Non-contact forces like gravity vary with distance (inverse square law). Contact forces like normal reaction exist only upon contact and their magnitude is determined by equilibrium, not by a separation formula.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH3_C3_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "If the separation between two masses is reduced to half, why does the gravitational force become four times?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because mass becomes four times.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because force is inversely proportional to the square of the distance (F ∝ 1/r²). Halving r multiplies force by 4.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because the gravitational constant G changes.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because the force becomes attractive.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Newton's law of gravitation: F ∝ 1/r². Force varies inversely with the square of the distance.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Newton's First Law of Motion (Law of Inertia)",
+      "concept_type": "law",
+      "questions": [
+        {
+          "question_id": "CH3_C4_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What does Newton's first law of motion state?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Force equals mass times acceleration.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Every action has an equal and opposite reaction.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "A body remains in its state of rest or uniform motion in a straight line unless acted upon by an external force.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "The rate of change of momentum is proportional to the applied force.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Newton's first law defines inertia: a body resists change in its state of rest or uniform motion.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C4_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "According to Newton's first law, what is needed to change the state of motion of a body?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Inertia",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Mass",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "An external force",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "A change in mass",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "An external force is required to change the state of rest or motion.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C4_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A ball rolling on a perfectly smooth horizontal surface eventually stops. Does this violate Newton's first law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Yes, because no force is applied, so it should roll forever.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "No, because in reality, forces like friction are present which act as an external force.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Yes, because the ball's inertia decreases.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "No, because the first law applies only to objects at rest.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Newton's first law assumes no net external force. In reality, friction is an external force that changes the state of motion.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C4_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "When a moving bus stops suddenly, passengers tend to fall forward. Which property of matter explains this?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Inertia of rest",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Inertia of motion",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Action-reaction pair",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Gravitational pull",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Inertia of motion: the upper body tends to continue moving forward when the bus (lower body contact) stops.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C4_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does Galileo's law of inertia differ from the earlier Aristotelian view of motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Aristotle said a force is needed to start motion but not to maintain it; Galileo said a force is needed for both.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Aristotle said a force is needed to start and maintain motion; Galileo said a force is needed only to change the state of motion.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Both believed force is needed to maintain uniform motion.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Galileo said objects naturally come to rest; Aristotle said they move forever.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Aristotle: continuous force needed for motion. Galileo/Newton: force is needed only to change the state (overcome inertia).",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH3_C4_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does a person jumping out of a moving train need to run in the direction of the train to avoid falling?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To increase friction with the ground.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The lower part of the body comes to rest on touching ground, but the upper part has inertia of motion. Running allows the upper body to gradually reduce its forward motion.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "To decrease the gravitational force acting on them.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To apply an action force on the ground to get a reaction.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Inertia of motion: the body tends to continue moving. Running reduces the relative speed between feet and upper body gradually.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Inertia - Definition, Mass, and Types",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH3_C5_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is inertia?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The force acting on a body.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The property of a body to resist any change in its state of rest or uniform motion.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The acceleration produced in a body.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The velocity of a moving body.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Inertia is the tendency to resist change in state of motion, as per Newton's first law.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C5_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "On what factor does the inertia of a body depend?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Volume",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Shape",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Mass",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Velocity",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Mass is the measure of inertia. Greater mass means greater inertia.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C5_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Two balls, a cricket ball and a tennis ball, are initially at rest. To start motion in them:",
+          "options": [
+            {
+              "label": "A",
+              "text": "A larger force is required for the tennis ball because it has less mass.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A larger force is required for the cricket ball because it has more mass (more inertia).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Same force is required for both as inertia does not affect starting motion.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Force required depends on color, not mass.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "More mass implies more inertia, so a larger force is needed to produce the same acceleration from rest.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C5_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "It is more difficult to stop a loaded trolley than an unloaded one moving with the same speed. Why?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Loaded trolley has less friction.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Loaded trolley has greater inertia due to greater mass.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Loaded trolley has less weight.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Unloaded trolley has more momentum.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Greater mass means greater inertia, resisting change in motion (stopping).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C5_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does 'inertia of rest' differ from 'inertia of motion'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Inertia of rest resists change from rest; inertia of motion resists change from motion.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Inertia of rest depends on velocity; inertia of motion depends on mass.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Inertia of rest is for non-living things; inertia of motion is for living things.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They are the same phenomenon.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Two manifestations of inertia: tendency to remain at rest, and tendency to remain in uniform motion.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH3_C5_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does dust fall off a carpet when it is beaten with a stick?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The stick applies a force directly on the dust.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The carpet moves suddenly, but dust particles due to inertia of rest tend to remain at their place and thus get detached.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Gravity increases on the dust when the carpet is beaten.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The dust has inertia of motion, so it moves with the carpet.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Inertia of rest: dust particles resist change and stay while the carpet moves.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Linear Momentum (p = mv)",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH3_C6_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the linear momentum of a body?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Mass times velocity (p = mv)",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Mass times acceleration",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Force times time",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Velocity divided by mass",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Linear momentum p is the product of mass and velocity.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C6_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the S.I. unit of linear momentum?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Newton (N)",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Joule (J)",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "kg m s⁻¹",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "m s⁻²",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Momentum = mass (kg) × velocity (m/s) = kg m s⁻¹.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C6_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "For a body of constant mass, change in momentum (Δp) is equal to:",
+          "options": [
+            {
+              "label": "A",
+              "text": "m Δv",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "v Δm",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Δm Δv",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "m/v",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "If mass is constant, Δ(mv) = mΔv.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C6_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Two bodies A and B have masses m and 2m respectively. If both have the same velocity v, compare their momentum.",
+          "options": [
+            {
+              "label": "A",
+              "text": "p_A : p_B = 1 : 1",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "p_A : p_B = 1 : 2",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "p_A : p_B = 2 : 1",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "p_A : p_B = 1 : 4",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "p = mv. For same v, p ∝ m. Ratio of masses 1:2 gives momentum ratio 1:2.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C6_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the momentum of a body moving with constant velocity compare to that of a body at rest?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Both have zero momentum.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The moving body has non-zero momentum; the body at rest has zero momentum.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Both have the same non-zero momentum.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Momentum depends on shape, not motion.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Momentum is mass times velocity. Zero velocity implies zero momentum.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH3_C6_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the concept of linear momentum useful in understanding the force needed to stop a moving body?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because force is directly related to change in momentum per unit time (F = Δp/Δt).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because momentum is the same as energy.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because momentum depends only on mass, not velocity.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because stopping distance depends only on momentum.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Newton's second law links force to rate of change of momentum.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Newton's Second Law of Motion (F = ma derivation)",
+      "concept_type": "law",
+      "questions": [
+        {
+          "question_id": "CH3_C7_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What does Newton's second law of motion state?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A body remains in its state unless acted upon.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The rate of change of momentum of a body is directly proportional to the applied force and takes place in the direction of force.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Every action has an equal and opposite reaction.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Force is inversely proportional to acceleration.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Newton's second law: F ∝ Δp/Δt. For constant mass, F = ma.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C7_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "For a body of constant mass, Newton's second law can be written as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "F = m/v",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "F = ma",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "F = mv",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "F = a/m",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "For constant mass, F = m a, where a is acceleration.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C7_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Under what condition does the formula F = ma hold true?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Always, for any body.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Only when the mass of the body remains constant and velocities are much less than the speed of light.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Only when the body is at rest.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Only for non-rigid bodies.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "F = ma is valid for constant mass and non-relativistic speeds (v << c).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C7_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "A force of 10 N acts on a mass of 2 kg. What is the acceleration produced?",
+          "options": [
+            {
+              "label": "A",
+              "text": "20 m s⁻²",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "5 m s⁻²",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "0.2 m s⁻²",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "12 m s⁻²",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Using F = ma, a = F/m = 10 N / 2 kg = 5 m s⁻².",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C7_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the acceleration produced by a given force depend on the mass of the body?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Acceleration is directly proportional to mass (a ∝ m).",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Acceleration is inversely proportional to mass (a ∝ 1/m).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Acceleration is independent of mass.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Acceleration is proportional to the square of mass.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "From F = ma, for constant F, a ∝ 1/m.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C7_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How can Newton's first law be obtained from the second law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "If F = 0, then from F = ma, a = 0, meaning velocity is constant. If initially at rest, it remains at rest; if moving, it continues uniform motion.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "First law is independent and cannot be derived from the second.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "By setting mass to zero.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "By assuming infinite acceleration.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "First law is a special case of the second law when net force F = 0.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Units of Force (Newton and Dyne)",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH3_C8_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the S.I. unit of force?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Joule",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Newton (N)",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Dyne",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Pascal",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The S.I. unit of force is newton (N).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C8_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "How is one newton defined?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Force that gives 1 kg mass an acceleration of 1 m s⁻².",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Force that gives 1 g mass an acceleration of 1 cm s⁻².",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Weight of 1 kg mass on Earth.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Force needed to keep a body moving with constant velocity.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "1 N = 1 kg × 1 m s⁻².",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C8_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "What is the C.G.S. unit of force?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Newton",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Joule",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Dyne",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Erg",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "C.G.S. unit of force is dyne (1 dyne = 1 g × 1 cm s⁻²).",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH3_C8_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "How many dynes are there in one newton?",
+          "options": [
+            {
+              "label": "A",
+              "text": "10³",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "10⁵",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "10⁷",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "10¹⁰",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "1 N = 1 kg m s⁻² = 1000 g × 100 cm s⁻² = 10⁵ g cm s⁻² = 10⁵ dyne.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C8_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the definition of 1 newton differ from the definition of 1 dyne?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1 newton is based on kg and m/s²; 1 dyne is based on g and cm/s².",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "1 newton is a smaller unit than 1 dyne.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "1 dyne is defined using acceleration due to gravity.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no difference; they are the same.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Units differ in the base units of mass (kg vs g) and length (m vs cm).",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH3_C8_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the newton a derived unit in the S.I. system?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because it is defined from the base units of mass (kg), length (m), and time (s) through F = ma.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because it is a fundamental unit like the kilogram.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because it is used only for gravitational force.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because it is defined by the speed of light.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Newton is derived from kg, m, and s (1 N = 1 kg m s⁻²).",
+          "exam_relevance": "low"
+        }
+      ]
+    },
+    {
+      "concept_name": "Applications of Newton's Second Law (Impulse and Safety)",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH3_C9_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "According to Newton's second law, force is equal to:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Change in momentum divided by time (F = Δp/Δt)",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Momentum divided by velocity",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Mass times velocity",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Distance divided by time",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "F = Δp/Δt is the general form of Newton's second law.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C9_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "A cricketer pulls his hands back while catching a ball to:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Increase the force on his hands.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Increase the time of catch, thereby reducing the force.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Decrease the mass of the ball.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Change the direction of the ball.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Increasing Δt reduces the force (F = Δp/Δt) for the same change in momentum.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C9_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A glass vessel falls on a carpet and does not break, but breaks when falling on a hard floor. This is because:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Carpet increases the force by decreasing the stopping time.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Hard floor decreases the stopping time, increasing the force.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Carpet changes the vessel's momentum.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Hard floor is smoother.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Smaller stopping time (hard floor) means larger force for the same Δp.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C9_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "An athlete lands on sand after a high jump to avoid injury because:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sand increases the stopping time, reducing force.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Sand decreases the stopping time.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Sand increases the athlete's mass.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Sand reduces gravity.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Longer impact time reduces the average force experienced (F = mΔv/Δt).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C9_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the concept of impulse (FΔt) relate to catching a fast-moving cricket ball versus a slow-moving ball?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For the same mass, the fast ball has greater Δp, so for a given Δt, the force is larger. Cricketer increases Δt to reduce this force.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Impulse is the same for both balls, so force is the same.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Slow ball has greater impulse, requiring more force.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Impulse depends only on mass, not speed.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Impulse = FΔt = Δp = mΔv. Greater Δv means greater Δp, so to keep F manageable, Δt is increased.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C9_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is it advised to bend your knees when jumping down from a height?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To decrease the time of impact, increasing the force on bones.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To increase the time over which the momentum changes, reducing the average force on the body.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "To decrease the change in momentum.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To increase the gravitational force.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Bending knees increases the duration of deceleration (Δt), reducing the average force (F = Δp/Δt).",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Newton's Third Law of Motion (Action-Reaction)",
+      "concept_type": "law",
+      "questions": [
+        {
+          "question_id": "CH3_C10_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What does Newton's third law of motion state?",
+          "options": [
+            {
+              "label": "A",
+              "text": "F = ma",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To every action, there is an equal and opposite reaction.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A body remains at rest or in uniform motion unless acted upon.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Momentum is conserved.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Newton's third law: forces always occur in pairs equal in magnitude and opposite in direction.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C10_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Action and reaction forces act on:",
+          "options": [
+            {
+              "label": "A",
+              "text": "The same body",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Different bodies",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Sometimes same, sometimes different",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Only rigid bodies",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Action and reaction act on two different interacting bodies.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C10_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "When you push a wall with a force of 10 N, the wall exerts a force on you. What is its magnitude and direction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "10 N in the same direction as your push.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "10 N opposite to the direction of your push.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Less than 10 N opposite to your push.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Zero, because the wall does not move.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Reaction force is equal in magnitude (10 N) and opposite in direction.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C10_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In rocket motion, the action force is the rocket pushing gases backwards. What is the reaction force?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Gases pushing the rocket forward.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Gravity pulling the rocket down.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Air resistance pushing the rocket backwards.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The rocket's weight acting downwards.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Action: rocket on gases (backwards). Reaction: gases on rocket (forwards).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C10_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How do the forces in an action-reaction pair compare to balanced forces on a single body?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Action-reaction act on different bodies; balanced forces act on the same body and can cancel.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Both act on the same body and cancel each other.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Action-reaction forces are never equal; balanced forces are equal.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They are the same concept.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Critical distinction: action-reaction do not cancel as they act on different bodies. Balanced forces on one body sum to zero.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C10_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does a person pushing a wall hard is liable to fall backwards if the wall does not move?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The wall applies a reaction force on the person, pushing them backwards. If friction with ground is insufficient, they move.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "The person's force on the wall is not balanced.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Gravity suddenly increases.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The wall absorbs all force, leaving none for the person.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "The wall exerts an equal and opposite reaction force on the person. If the person's feet cannot provide enough friction to counteract this, they accelerate backwards.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Universal Law of Gravitation",
+      "concept_type": "law",
+      "questions": [
+        {
+          "question_id": "CH3_C11_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What does Newton's law of universal gravitation state?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Force between two masses is directly proportional to the product of masses and inversely proportional to the square of distance.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Force is directly proportional to distance.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Force depends only on mass, not distance.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Gravitational force can be attractive or repulsive.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "F ∝ (m₁ m₂)/r², or F = G (m₁ m₂)/r².",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C11_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the nature of the gravitational force between two masses?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Always repulsive",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Always attractive",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Can be either attractive or repulsive",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Zero for small masses",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Gravitational force is always attractive.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C11_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "If the distance between two masses is doubled, the gravitational force becomes:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Half",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "One-fourth",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Double",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Four times",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "F ∝ 1/r². If r becomes 2r, F becomes F/4.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C11_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "What is the gravitational force between two 1 kg masses 1 m apart? (G = 6.67 × 10⁻¹¹ N m² kg⁻²)",
+          "options": [
+            {
+              "label": "A",
+              "text": "6.67 × 10⁻¹¹ N",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "9.8 N",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "1 N",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "6.67 × 10¹¹ N",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "F = G m₁ m₂ / r² = (6.67e-11 * 1 * 1) / (1)² = 6.67e-11 N.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C11_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the gravitational force between two ordinary objects compare to that between celestial bodies?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It is much smaller for ordinary objects due to small masses, despite the same law.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "It is the same because G is constant.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It is larger for ordinary objects because they are closer.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Gravitational force doesn't act between ordinary objects.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Force is proportional to product of masses. Celestial bodies have enormous masses, making the force significant.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH3_C11_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is G called the universal gravitational constant?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Its value is the same everywhere in the universe and independent of the nature of masses or medium.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Its value changes from planet to planet.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It is only applicable on Earth.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It depends on temperature and pressure.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "G is a fundamental constant with the same value throughout the universe.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Gravity, Acceleration due to Gravity (g)",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH3_C12_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the acceleration due to gravity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The acceleration produced in a freely falling body due to the gravitational force of the earth.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "The force with which the earth attracts a body.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The mass of a body times its velocity.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The rate of change of momentum.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Acceleration due to gravity (g) is the acceleration a body gains when falling freely under earth's gravity.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C12_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the approximate average value of g on the earth's surface?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1.6 m s⁻²",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "9.8 m s⁻²",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "6.67 × 10⁻¹¹ m s⁻²",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "10 m s⁻²",
+              "is_correct": false
+            }
+          ],
+          "key_concept": "The standard average value is 9.8 m s⁻².",
+          "exam_relevance": "high",
+          "correct_label": "B"
+        },
+        {
+          "question_id": "CH3_C12_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Does the acceleration due to gravity (g) depend on the mass of the falling body?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Yes, heavier bodies have a larger g.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "No, g is independent of the mass of the falling body (in vacuum).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Yes, but only for very small masses.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "No, but it depends on the shape of the body.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "In vacuum, all bodies fall with the same acceleration g, independent of their mass (Galileo's finding).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C12_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "If the mass of the earth were doubled, but its radius remained the same, how would g at the surface change?",
+          "options": [
+            {
+              "label": "A",
+              "text": "g would double.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "g would halve.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "g would remain the same.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "g would become four times.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "g = GM/R². If M doubles (R constant), g doubles.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C12_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How is the value of g on the moon's surface different from that on earth, and why?",
+          "options": [
+            {
+              "label": "A",
+              "text": "g_moon ≈ (1/6) g_earth because the moon's mass is smaller and radius is smaller, but mass has a dominant effect in g = GM/R².",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "g_moon is greater than g_earth because the moon is closer to the sun.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "g_moon is zero because there is no atmosphere.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "g_moon is the same as g_earth because G is universal.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "g depends on the mass and radius of the celestial body. Moon's smaller M and R result in g_moon ≈ g_earth / 6.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C12_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does the value of g decrease as we go higher above the earth's surface?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because g = GM/(R+h)², so increasing height h increases the distance from the centre, decreasing g.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because the mass of the earth decreases.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because atmospheric pressure decreases.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because gravitational constant G decreases with height.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "g is inversely proportional to the square of the distance from the earth's centre (R+h).",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Free Fall and Equations of Motion under Gravity",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH3_C13_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is meant by free fall?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Motion of a body under the influence of gravity alone (neglecting air resistance).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Motion with constant velocity.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Motion in any direction.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Motion with zero acceleration.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Free fall is motion under gravity with no other forces (like air resistance).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C13_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "For a body dropped from rest (u=0) under gravity, the distance fallen in time t is given by:",
+          "options": [
+            {
+              "label": "A",
+              "text": "h = (1/2)gt²",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "h = gt",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "h = u t + (1/2)gt²",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "h = u²/(2g)",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Equation of motion: s = ut + (1/2)at². For free fall from rest, u=0, a=g, s=h.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C13_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A stone is thrown vertically upwards. At the highest point of its path:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Its velocity is zero and acceleration is g downwards.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Its velocity is maximum and acceleration is zero.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Its velocity and acceleration are both zero.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Its velocity is zero and acceleration is zero.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "At the highest point, velocity becomes zero momentarily, but acceleration due to gravity (g) still acts downwards.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C13_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "A body is thrown vertically upwards with an initial velocity u. What is the maximum height reached?",
+          "options": [
+            {
+              "label": "A",
+              "text": "u²/(2g)",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "u/g",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "2u/g",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "u²/g",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Using v² = u² - 2gh, with v=0 at top, gives h_max = u²/(2g).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C13_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How do the equations of motion for a body thrown upwards differ from those for a body dropped downwards?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For upward motion, acceleration a = -g; for downward motion (from rest), a = +g. The sign convention changes.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "There is no difference; both use a = +g.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Upward motion has variable g, downward has constant g.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Only downward motion follows equations of motion.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Direction of acceleration (g) relative to chosen positive direction matters. Typically, upward is positive, so a = -g.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C13_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "A ball thrown vertically upwards returns to the thrower's hand after 6 seconds. What is the initial velocity? (Take g = 10 m s⁻²)",
+          "options": [
+            {
+              "label": "A",
+              "text": "Time to rise = 3 s. Using v = u - gt, 0 = u - 10*3, so u = 30 m s⁻¹.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Total time 6 s, so u = 6 * 10 = 60 m s⁻¹.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "u = (1/2)*10*6² = 180 m s⁻¹.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "u = 10 * 6 = 60 m s⁻¹.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Time to reach highest point = half of total time of flight. At top, v=0. Use v = u - gt_rise.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Mass vs Weight",
+      "concept_type": "comparison",
+      "questions": [
+        {
+          "question_id": "CH3_C14_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the mass of a body?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The force of gravity on the body.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The quantity of matter contained in the body.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Its volume times density.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Its weight divided by acceleration.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Mass is a measure of the amount of matter, a scalar, constant everywhere.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C14_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the weight of a body?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Mass times acceleration due to gravity (W = mg).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Mass times velocity.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Volume times density.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The same as its mass.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Weight is the force of gravitational attraction, W = m g.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C14_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Which of the following remains constant for a body regardless of its location on Earth, moon, or in space?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Mass",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Weight",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both mass and weight",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Neither mass nor weight",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Mass is intrinsic and constant; weight depends on local g which varies.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C14_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "A body has a mass of 10 kg on Earth. What is its weight on Earth? (g = 9.8 m s⁻²)",
+          "options": [
+            {
+              "label": "A",
+              "text": "10 N",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "98 N",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "9.8 N",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "0.98 N",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "W = m g = 10 kg × 9.8 m s⁻² = 98 N.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C14_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How do the S.I. units of mass and weight differ?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Mass: kilogram (kg); Weight: newton (N).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Both are measured in kg.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Mass: newton; Weight: kilogram.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both are measured in newton.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Mass is a fundamental quantity (kg). Weight is a force, derived unit (N).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C14_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does the weight of an astronaut on the moon become one-sixth of that on Earth, while their mass remains the same?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because g on moon is 1/6th of g on Earth (W = m g). Mass m is constant.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because mass decreases on the moon.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because gravitational constant G changes on the moon.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because the atmosphere is absent.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Weight is proportional to g. Moon's g is 1/6th of Earth's.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Gravitational Units of Force (kgf, gf)",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH3_C15_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the gravitational unit of force in the M.K.S. system?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Newton",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Kilogram force (kgf)",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Dyne",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Pound",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Kilogram force (kgf) is the gravitational unit in M.K.S./metric system.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH3_C15_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "One kilogram force (1 kgf) is defined as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "The force which gives 1 kg mass an acceleration of 1 m s⁻².",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The force due to gravity on a mass of 1 kg (i.e., 1 kg × g).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Equal to 10 dynes.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The weight of 1 g mass.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "1 kgf = weight of 1 kg mass = 1 kg × g ≈ 9.8 N.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C15_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "What is the approximate relation between kilogram force (kgf) and newton (N)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1 kgf = 1 N",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "1 kgf = 9.8 N",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "1 N = 9.8 kgf",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "1 kgf = 10⁵ N",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Since g ≈ 9.8 m s⁻², 1 kgf ≈ 9.8 N.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C15_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "If a person holds a mass of 5 kg on their palm, what force (in newton) do their muscles need to apply? (g = 10 m s⁻²)",
+          "options": [
+            {
+              "label": "A",
+              "text": "5 N",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "50 N",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "0.5 N",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "10 N",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Force needed to hold = weight = m g = 5 kg × 10 m s⁻² = 50 N.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH3_C15_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the gravitational unit 'gram force (gf)' relate to 'dyne'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1 gf = g dynes, where g ≈ 980 cm s⁻², so 1 gf ≈ 980 dynes.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "1 gf = 1 dyne",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "1 gf = 10⁵ dynes",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "1 dyne = 980 gf",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "1 gf = weight of 1 g = 1 g × g. In CGS, g ≈ 980 cm s⁻², so 1 gf ≈ 980 dynes.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH3_C15_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the statement '1 kgf is approximately 10 N' often used in simple calculations?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because it simplifies calculations by taking g ≈ 10 m s⁻² instead of 9.8 m s⁻².",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because the value of G is 10.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because mass of earth is 10²⁴ kg.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because 1 kg = 10 N by definition.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "It's an approximation for convenience (g ≈ 10 m s⁻²).",
+          "exam_relevance": "medium"
+        }
+      ]
+    }
+  ]
+}

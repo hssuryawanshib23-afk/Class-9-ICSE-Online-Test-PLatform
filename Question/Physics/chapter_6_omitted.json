@@ -1,0 +1,3791 @@
+{
+  "chapter": {
+    "subject": "Physics",
+    "chapter_number": 6,
+    "chapter_name": "Heat and Energy"
+  },
+  "concepts": [
+    {
+      "concept_name": "Heat as a form of energy",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH6_C1_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is heat?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The measure of the total kinetic energy of all molecules in a body.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A form of energy that flows from a hot body to a cold body due to temperature difference.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The amount of energy required to raise the temperature of 1 kg of a substance by 1°C.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The average kinetic energy of the molecules of a body.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Heat is the internal energy of molecules that flows from hot to cold.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C1_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following processes involves the conversion of mechanical energy into heat energy?",
+          "options": [
+            { "label": "A", "text": "Burning of coal", "is_correct": false },
+            {
+              "label": "B",
+              "text": "Rubbing palms together",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Passing electric current through a wire",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Sunlight falling on a solar panel",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Heat can be produced by doing work, i.e., from mechanical energy.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C1_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Which statement about heat is a common misconception?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Heat flows from a body at a higher temperature to one at a lower temperature.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Heat is the total internal energy (kinetic + potential) of molecules.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The amount of heat in a body depends only on its temperature.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "The SI unit of heat is the joule.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Heat content depends on mass, temperature, and material, not just temperature.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C1_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "When you touch a block of ice, your hand feels cold because:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Cold flows from the ice to your hand.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Heat flows from your hand to the ice.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Your hand loses its internal energy completely.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The ice radiates coldness.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Heat flows from the body at a higher temperature (hand) to the body at a lower temperature (ice).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C1_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the concept of 'heat' differ from the concept of 'work' in terms of energy transfer?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Heat is energy transfer due to a force acting through a distance, while work is energy transfer due to temperature difference.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Heat is a form of energy stored in a body, while work is the process of transferring that energy.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Heat is energy transfer due to temperature difference, while work is energy transfer due to a force acting through a distance.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Both heat and work are identical forms of energy and are measured in different units.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Heat and work are two distinct modes of energy transfer.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C1_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is heat considered a form of energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because it can be measured in joules, the unit of energy.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because it can be converted from other forms of energy like mechanical, electrical, or chemical energy.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because it always increases the temperature of a body.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because it is a fundamental property of matter that cannot be created or destroyed.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Heat is produced by the transformation of other forms of energy, establishing it as an energy form itself.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Units of heat and conversion",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH6_C2_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the SI unit of heat?",
+          "options": [
+            { "label": "A", "text": "Calorie (cal)", "is_correct": false },
+            { "label": "B", "text": "Kelvin (K)", "is_correct": false },
+            { "label": "C", "text": "Joule (J)", "is_correct": true },
+            { "label": "D", "text": "Erg", "is_correct": false }
+          ],
+          "correct_label": "C",
+          "key_concept": "The SI unit of heat (and energy) is the joule.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C2_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is a correct conversion factor?",
+          "options": [
+            { "label": "A", "text": "1 cal = 4.186 J", "is_correct": true },
+            { "label": "B", "text": "1 J = 4.186 cal", "is_correct": false },
+            { "label": "C", "text": "1 kcal = 100 J", "is_correct": false },
+            { "label": "D", "text": "1 erg = 1 J", "is_correct": false }
+          ],
+          "correct_label": "A",
+          "key_concept": "1 calorie is approximately equal to 4.186 joules.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C2_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student calculates that 500 J of energy is equivalent to about 2000 cal. What is the error in this calculation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The student has correctly used 1 J = 4 cal.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The student has confused the conversion, using 1 J = 4 cal instead of 1 cal ≈ 4.2 J.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The student has forgotten to convert from kilocalories to calories.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The student has used the conversion for work instead of heat.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Common error: Reversing the calorie-joule relationship (1 cal ≈ 4.2 J, not 1 J ≈ 4 cal).",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C2_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "If a heater supplies 8400 J of heat energy, approximately how many calories of heat is this?",
+          "options": [
+            { "label": "A", "text": "2000 cal", "is_correct": true },
+            { "label": "B", "text": "35000 cal", "is_correct": false },
+            { "label": "C", "text": "8400 cal", "is_correct": false },
+            { "label": "D", "text": "2016 cal", "is_correct": false }
+          ],
+          "correct_label": "A",
+          "key_concept": "Using 1 cal ≈ 4.2 J, 8400 J / 4.2 ≈ 2000 cal.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C2_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the 'calorie', a unit of heat, relate to the 'kilocalorie' often used in food?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1 kilocalorie (C) equals 1000 calories (cal), both measuring heat energy.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "1 kilocalorie equals 1000 joules, while 1 calorie equals 4.2 joules.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The 'calorie' on food labels is actually the same as the physics 'joule'.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The 'calorie' used in physics is larger than the 'Calorie' used in food.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "1 kilocalorie (kcal or Cal) = 1000 calories (cal).",
+          "exam_relevance": "low"
+        },
+        {
+          "question_id": "CH6_C2_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "conceptual",
+          "question_text": "Why is it important to use the SI unit (joule) for heat in scientific contexts?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because the calorie is an outdated unit not based on any standard.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because the joule is part of a coherent system of units (SI) that links all forms of energy (mechanical, electrical, heat).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because the calorie is only used for measuring the energy content of food.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because the joule is a smaller unit, making calculations easier.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The joule provides consistency across all branches of physics within the SI system.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Temperature and its definition",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH6_C3_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is temperature?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The total heat energy contained in a body.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The quantity that determines the direction of heat flow between bodies.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The amount of energy required to melt a substance.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The measure of the speed of molecules in a body.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Temperature determines the direction of heat flow from a hotter to a colder body.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C3_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which instrument is used to measure temperature?",
+          "options": [
+            { "label": "A", "text": "Calorimeter", "is_correct": false },
+            { "label": "B", "text": "Barometer", "is_correct": false },
+            { "label": "C", "text": "Thermometer", "is_correct": true },
+            { "label": "D", "text": "Ammeter", "is_correct": false }
+          ],
+          "correct_label": "C",
+          "key_concept": "Temperature is measured by a thermometer.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C3_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Two bodies at the same temperature are placed in contact. Which statement is a common misconception about this situation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "There will be no net flow of heat between them.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "They must contain the same amount of heat energy.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "They are in thermal equilibrium.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Their molecules have the same average kinetic energy.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Bodies at the same temperature can have different heat contents depending on mass and material.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C3_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "When a metal spoon and a wooden spoon are taken from the same drawer, the metal spoon feels colder. This is because:",
+          "options": [
+            {
+              "label": "A",
+              "text": "The metal spoon is at a lower temperature.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Metal is a better conductor of heat, so it draws heat from your hand faster.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Wood contains more heat energy than metal.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Metal radiates coldness more effectively.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The sensation of hot or cold depends on the rate of heat flow, which is influenced by thermal conductivity.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C3_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How is 'temperature' fundamentally different from 'heat'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Temperature is a form of energy, while heat is a measure of that energy.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Heat is an extensive property (depends on mass), while temperature is an intensive property (independent of mass).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Temperature flows between bodies, while heat is a state of a body.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Heat is measured in joules, while temperature is measured in calories.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Heat is an extensive property; temperature is an intensive property.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C3_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "conceptual",
+          "question_text": "Why does temperature determine the direction of heat flow?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because heat naturally seeks to equalize the temperature of all objects in contact.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because temperature is a measure of the average kinetic energy of molecules; energy flows from a region of higher average KE to lower average KE.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because heat always flows from a body with more molecules to one with fewer molecules.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because it is a fundamental law that cannot be explained.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Temperature relates to average molecular kinetic energy; heat transfer is the redistribution of this energy.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "SI unit and scales of temperature",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH6_C4_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the SI unit of temperature?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Degree Celsius (°C)",
+              "is_correct": false
+            },
+            { "label": "B", "text": "Joule (J)", "is_correct": false },
+            { "label": "C", "text": "Kelvin (K)", "is_correct": true },
+            { "label": "D", "text": "Calorie (cal)", "is_correct": false }
+          ],
+          "correct_label": "C",
+          "key_concept": "The SI base unit of temperature is the kelvin (K).",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C4_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the ice point on the Kelvin scale?",
+          "options": [
+            { "label": "A", "text": "0 K", "is_correct": false },
+            { "label": "B", "text": "273 K", "is_correct": true },
+            { "label": "C", "text": "373 K", "is_correct": false },
+            { "label": "D", "text": "100 K", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "Ice point (0°C) corresponds to 273 K.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C4_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student reads that absolute zero is -273°C and concludes it is 0 K. They then say that 0°C must be 273 K below absolute zero. What is wrong with this statement?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Absolute zero is 0°C, not -273°C.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The size of 1 K and 1°C are different, so the conversion is not a simple addition.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "While 0 K = -273°C, 0°C is 273 K above absolute zero, not below.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Absolute zero is unattainable, so it cannot be related to the Celsius scale.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Common error: Confusing the direction of the scale. 0°C is 273 units above 0 K, not below.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C4_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "A scientific experiment requires a temperature of 300 K. What is this temperature in degrees Celsius?",
+          "options": [
+            { "label": "A", "text": "27°C", "is_correct": true },
+            { "label": "B", "text": "573°C", "is_correct": false },
+            { "label": "C", "text": "0°C", "is_correct": false },
+            { "label": "D", "text": "300°C", "is_correct": false }
+          ],
+          "correct_label": "A",
+          "key_concept": "T(°C) = T(K) - 273. 300 K - 273 = 27°C.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C4_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the Kelvin scale fundamentally differ from the Celsius and Fahrenheit scales?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The Kelvin scale has a different sized degree than the Celsius scale.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The Kelvin scale is an absolute scale where zero represents the theoretical point of zero molecular kinetic energy.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The Kelvin scale is only used for very high temperatures.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The Kelvin scale is based on the properties of water, while others are not.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The Kelvin scale is an absolute thermodynamic scale with its zero at absolute zero.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C4_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "conceptual",
+          "question_text": "Why is the Kelvin scale preferred in scientific work over the Celsius scale?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It gives smaller numbers for everyday temperatures.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It avoids negative numbers in many physical laws (like the gas laws) and represents an absolute measure of thermal energy.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It is easier to convert to Fahrenheit.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It is the only scale that can measure temperature accurately.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Many physical relationships are mathematically simpler when expressed in absolute temperature (Kelvin).",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Thermal expansion (general)",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH6_C5_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is thermal expansion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The increase in mass of a substance on heating.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The increase in the size (length, area, volume) of a substance on heating.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The increase in density of a substance on heating.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The increase in temperature of a substance when work is done on it.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Thermal expansion is the increase in dimensions of a substance when its temperature increases.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C5_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following expands the most for the same rise in temperature?",
+          "options": [
+            { "label": "A", "text": "Solid", "is_correct": false },
+            { "label": "B", "text": "Liquid", "is_correct": false },
+            { "label": "C", "text": "Gas", "is_correct": true },
+            { "label": "D", "text": "All expand equally", "is_correct": false }
+          ],
+          "correct_label": "C",
+          "key_concept": "Gases expand much more than liquids, which expand more than solids for the same temperature rise.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C5_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student states that when a metal ring is heated, the hole in the middle gets smaller because the metal expands into the hole. What is the correct explanation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The hole remains the same size because it is empty space.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The hole gets larger because all dimensions, including the inner diameter, expand uniformly.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The hole gets smaller only if the metal is a poor conductor.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The hole gets smaller if heated slowly, but larger if heated quickly.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "A common misconception is that expansion only happens outward. In reality, a hole in a solid expands as if it were made of the same material.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C5_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Why are gaps left between sections of railway tracks?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To reduce the cost of laying tracks.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To allow for drainage of rainwater.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "To allow for thermal expansion during hot weather, preventing buckling.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "To make it easier to repair a single section.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Providing expansion gaps accommodates the linear expansion of metal rails in summer.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C5_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the thermal expansion of a solid differ from that of a liquid?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Solids only expand in length, while liquids only expand in volume.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Solids have a definite shape, so we consider linear, superficial, and cubical expansion. Liquids have no definite shape, so only cubical (volume) expansion is considered.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Solids contract on heating, while liquids expand.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The expansion of solids is reversible, while that of liquids is not.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The key difference lies in the definiteness of shape, affecting how we describe their expansion.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C5_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "conceptual",
+          "question_text": "Why does thermal expansion occur when a substance is heated?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Heating increases the mass of the molecules, making them take up more space.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Heating increases the potential energy between molecules, pushing them apart.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Heating increases the amplitude of vibration of molecules about their mean positions, increasing the average separation.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Heating creates new molecules, requiring more space.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Increased molecular kinetic energy (vibration/ motion) leads to a larger average intermolecular distance.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Anomalous expansion of water (definition and range)",
+      "concept_type": "definition",
+      "questions": [
+        {
+          "question_id": "CH6_C6_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is meant by the anomalous expansion of water?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Water expands uniformly when heated from any temperature.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Water contracts when cooled from any temperature.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Water expands when cooled from 4°C to 0°C.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Water does not expand or contract with temperature change.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Anomalous expansion refers to water expanding (instead of contracting) when cooled from 4°C to 0°C.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C6_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In which temperature range does water show anomalous expansion?",
+          "options": [
+            { "label": "A", "text": "0°C to 10°C", "is_correct": false },
+            { "label": "B", "text": "0°C to 4°C", "is_correct": false },
+            { "label": "C", "text": "4°C to 10°C", "is_correct": false },
+            { "label": "D", "text": "4°C to 0°C", "is_correct": true }
+          ],
+          "correct_label": "D",
+          "key_concept": "Anomalous expansion occurs specifically when water is cooled from 4°C down to 0°C.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C6_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student says, 'Water contracts on heating from 0°C to 10°C.' What part of this statement is incorrect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Water contracts only from 0°C to 4°C, then expands from 4°C to 10°C. The statement is oversimplified.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Water expands from 0°C to 10°C, so the statement is completely wrong.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Water contracts only from 10°C to 4°C, not from 0°C.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Water's behavior is the same as any other liquid; it always expands on heating.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Common error: Not specifying the exact sub-ranges within 0-10°C. Water contracts from 0-4°C and expands from 4-10°C when heated.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C6_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "What happens to the volume of water when it is heated from 2°C to 6°C?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It increases continuously.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It decreases until 4°C, then increases.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It decreases continuously.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It remains constant.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "From 2°C to 4°C, water contracts. From 4°C to 6°C, it expands.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C6_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the behavior of water from 0°C to 4°C differ from that of a 'normal' substance?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A normal substance contracts on cooling; water also contracts on cooling in this range.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A normal substance expands on heating; water contracts on heating in this range.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A normal substance has maximum density at its freezing point; water has minimum density at 0°C.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both behave identically, as all substances have anomalous expansion.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Water's anomaly: Heating from 0-4°C causes contraction (decrease in volume), opposite to the normal behavior of expansion on heating.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C6_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "conceptual",
+          "question_text": "Why is the expansion of water from 4°C to 0°C considered 'anomalous'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because it happens only in pure water and not in salt water.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because it is a very large expansion compared to other liquids.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because most substances contract when cooled, but water expands when cooled in this specific range.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Because it violates the law of conservation of energy.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "It is anomalous because it contradicts the general rule of contraction on cooling.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Density of water vs. temperature",
+      "concept_type": "principle",
+      "questions": [
+        {
+          "question_id": "CH6_C7_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "At what temperature is the density of water maximum?",
+          "options": [
+            { "label": "A", "text": "0°C", "is_correct": false },
+            { "label": "B", "text": "4°C", "is_correct": true },
+            { "label": "C", "text": "10°C", "is_correct": false },
+            { "label": "D", "text": "100°C", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "The density of water is maximum at 4°C.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C7_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the approximate maximum density of water?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1 g/cm³ or 1000 kg/m³",
+              "is_correct": true
+            },
+            { "label": "B", "text": "0.9 g/cm³", "is_correct": false },
+            { "label": "C", "text": "1.1 g/cm³", "is_correct": false },
+            { "label": "D", "text": "0.96 g/cm³", "is_correct": false }
+          ],
+          "correct_label": "A",
+          "key_concept": "The maximum density of water is 1 g cm⁻³ (or 1000 kg m⁻³) at 4°C.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C7_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student reasons: 'Since ice floats on water, the density of ice must be greater than water at 0°C.' What is the flaw?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ice floats because it is warmer than water.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Ice floats because its density is actually less than that of water at 0°C.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Ice floats because of surface tension, not density.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The density of ice and water at 0°C is the same.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Common error: Assuming a floating object must be denser. Ice is less dense than liquid water at 0°C, a direct result of anomalous expansion.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C7_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "When water is cooled from 10°C to 1°C, what happens to its density?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It decreases continuously.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It increases until 4°C, then decreases.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It increases continuously.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It remains constant until 4°C, then increases.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Density increases as water cools from 10°C to 4°C (normal contraction). Below 4°C, anomalous expansion causes density to decrease.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C7_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How do the graphs of volume vs. temperature and density vs. temperature for water (0-10°C) relate to each other?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They are identical curves.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "They are mirror images; where volume is minimum, density is maximum.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "They are completely independent and show no relation.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They both show a steady increase with temperature.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Density = mass/volume. For a fixed mass, density is inversely proportional to volume.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C7_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "conceptual",
+          "question_text": "Why does the density of water reach a maximum at 4°C?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because the molecular structure of water changes abruptly at this point.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because between 0°C and 4°C, the effect of breaking down the open cage-like structure of ice (increasing density) competes with and overcomes the normal effect of thermal expansion (decreasing density).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because water molecules are packed most tightly at this temperature.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It is an arbitrary point with no specific molecular explanation.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The maximum density is a result of two competing effects: structural rearrangement of hydrogen bonds and normal thermal expansion.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Hope's experiment",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH6_C8_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What does Hope's apparatus demonstrate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The conversion of heat into work.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "That water has maximum density at 4°C.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The relationship between pressure and volume of a gas.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The specific heat capacity of water.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Hope's experiment demonstrates the anomalous expansion of water and that it has maximum density at 4°C.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C8_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In Hope's apparatus, where is the freezing mixture placed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "At the very top of the cylinder.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "At the very bottom of the cylinder.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "In a cylindrical trough surrounding the central part of the cylinder.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Inside the thermometers.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "The freezing mixture is placed in a trough around the middle of the cylinder to cool the central portion.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C8_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student performing Hope's experiment expects both thermometers to cool down simultaneously. Why does this not happen?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because the thermometers are faulty.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because water is a poor conductor of heat, so cooling is slow.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because initially, water above 4°C contracts on cooling, sinks, and cools the bottom first. Later, below 4°C, it expands on cooling, rises, and cools the top.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Because the freezing mixture only cools the top layer.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "The trap is expecting uniform cooling. The sequence is due to the change in density behavior above and below 4°C.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C8_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In Hope's experiment, when the lower thermometer (T2) becomes steady at 4°C, what is the temperature of the upper thermometer (T1) likely doing?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It is also steady at 4°C.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It is starting to fall rapidly from room temperature towards 0°C.",
+              "is_correct": true
+            },
+            { "label": "C", "text": "It is rising.", "is_correct": false },
+            {
+              "label": "D",
+              "text": "It is steady at 0°C.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "When the lower part reaches 4°C, further cooling causes expansion below 4°C; the less dense, cooler water rises, cooling the upper part.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C8_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the cooling process in Hope's experiment differ for water above 4°C and below 4°C?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Above 4°C, cooling causes convection currents that carry cold water downward. Below 4°C, cooling causes convection currents that carry cold water upward.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Above 4°C, cooling is by radiation; below 4°C, it is by conduction.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Above 4°C, water cools uniformly; below 4°C, it does not cool at all.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The process is identical in both ranges because water's properties don't change.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "The direction of convection reverses due to the reversal in density change with temperature.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C8_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is Hope's experiment considered a conclusive demonstration of water's maximum density at 4°C?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It directly measures the mass and volume of water at different temperatures.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It shows that water at 4°C sinks and remains at the bottom, while water at temperatures on either side of 4°C moves away from the cooling zone, indicating 4°C water is densest.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It proves that water freezes from the top down.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It uses advanced equipment to get precise density values.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The experiment uses the principle of convection driven by density differences to isolate the temperature of maximum density.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Consequences: Preservation of aquatic life",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH6_C9_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "How does anomalous expansion of water help preserve aquatic life in winter?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It makes water at the bottom warmer than at the top.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It causes ice to form at the bottom, insulating the top.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It causes ice to form on the surface, insulating the water below which remains at about 4°C.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "It prevents water from freezing at all.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Ice forms on the surface because water below 4°C is less dense and stays atop. This ice layer insulates the water below.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C9_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the expected temperature of water at the bottom of an ice-covered pond?",
+          "options": [
+            { "label": "A", "text": "0°C", "is_correct": false },
+            { "label": "B", "text": "4°C", "is_correct": true },
+            { "label": "C", "text": "Below 0°C", "is_correct": false },
+            {
+              "label": "D",
+              "text": "Same as the air temperature",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Water has maximum density at 4°C, so it sinks to the bottom.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C9_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student thinks, 'If water always contracted on cooling, ponds would freeze from the bottom up, which would be better for fish.' What is the key flaw in assuming this would be 'better'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Fish can survive being frozen.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "If ponds froze from the bottom up, the entire body of water could freeze solid, killing all aquatic life.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Water does contract on cooling, so this is what actually happens.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Freezing from the bottom would not affect the surface temperature.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The anomalous expansion and surface freezing are crucial for creating an insulating layer and preventing the pond from freezing solid.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C9_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Why does ice, being a solid, float on liquid water?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because ice is warmer than water.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because the density of ice is less than the density of water at 0°C.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because of surface tension effects.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because air trapped in ice makes it buoyant.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Anomalous expansion causes water to expand when freezing (0°C to ice), making ice less dense.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C9_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the freezing of a pond (due to anomalous expansion) differ from the freezing of a substance like wax or iron?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ponds freeze from the top down; wax and iron freeze from the outside in or bottom up because they contract on cooling.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Ponds freeze slower because water has a high specific heat.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Ponds freeze completely, while wax only freezes on the surface.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no difference; all substances freeze from the surface.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "The direction of freezing is a direct consequence of whether the solid is denser or less dense than the liquid.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C9_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the ice layer on a pond considered a poor conductor of heat, and how does this aid preservation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ice is a good conductor, so it quickly transfers the cold to the water below.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Ice is a poor conductor. It slows down the transfer of heat from the relatively warmer water below to the cold atmosphere, preventing further freezing.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Ice reflects sunlight, warming the water below.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Ice absorbs heat from the water, causing it to melt and maintain a constant temperature.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The insulating property of ice is as important as its lower density in protecting aquatic life.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Consequences: Bursting of pipes and plant damage",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH6_C10_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Why do water pipes sometimes burst in very cold weather?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The metal contracts and cracks.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Water expands when it freezes into ice, creating enormous pressure.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The pressure from water pumps increases in winter.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Rust weakens the pipes.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Water expands upon freezing (a continuation of anomalous expansion from 4°C to 0°C), generating pressure.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C10_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a common method to protect plants from frost damage related to water expansion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Covering them with plastic sheets.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Watering the field, so the released latent heat during freezing protects the plants.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Spraying them with salt water.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Heating the soil with electric wires.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Watering fields uses the latent heat released during freezing to moderate temperature around plants.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C10_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student thinks pipes burst because the ice inside them contracts and pulls away from the pipe walls, causing a vacuum crack. What is the correct reason?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The student is correct; ice contraction causes bursts.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Pipes burst due to the increased water pressure from municipal supply in winter.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Pipes burst because water expands when it freezes, exerting outward pressure on the pipe walls.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Pipes burst because the metal becomes brittle and cracks under normal pressure.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Common misconception: Ice contracts. Reality: Water expands by about 9% when freezing.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C10_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "A sealed glass bottle completely filled with water at room temperature is placed in a freezer. Why is it likely to crack?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The glass contracts more than water.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The water contracts, creating a vacuum that shatters the glass.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The water expands when cooled below 4°C and especially upon freezing, exerting pressure on the glass.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "The glass becomes brittle at low temperatures.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Anomalous expansion (from 4°C to 0°C) and subsequent freezing expansion in a confined space create high pressure.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C10_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the damaging effect of water expanding in pipes differ from the effect of a metal rod expanding when heated?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Both cause damage by expansion, but water expansion occurs on cooling, while metal expansion occurs on heating.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Water expansion causes contraction of the pipe, while metal expansion causes elongation.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Metal expansion is more forceful and always causes damage, while water expansion is harmless.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no difference; both are examples of thermal expansion causing stress.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "The key difference is the direction of temperature change that causes the expansion (cooling vs. heating).",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C10_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why does the expansion of water in plant capillaries below 4°C cause damage, while the expansion of other liquids in plants might not?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Water is the only liquid found in plants.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Other liquids contract on cooling, relieving pressure. Water expands on cooling in this range, creating internal pressure that can rupture cells.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Water has a lower boiling point, causing vaporization and damage.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Plant cells are specially adapted to handle water expansion but not other liquids.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The anomalous behavior (expansion on cooling) is unique to water and is the direct cause of the damage.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Energy flow in an ecosystem (linear, food chain)",
+      "concept_type": "principle",
+      "questions": [
+        {
+          "question_id": "CH6_C11_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the ultimate source of energy for most ecosystems on Earth?",
+          "options": [
+            { "label": "A", "text": "Geothermal heat", "is_correct": false },
+            { "label": "B", "text": "The Sun", "is_correct": true },
+            {
+              "label": "C",
+              "text": "Chemical energy in plants",
+              "is_correct": false
+            },
+            { "label": "D", "text": "Decaying matter", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "The Sun is the primary source of energy for ecosystems.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C11_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In a food chain, which organisms are the primary producers?",
+          "options": [
+            { "label": "A", "text": "Herbivores", "is_correct": false },
+            { "label": "B", "text": "Carnivores", "is_correct": false },
+            {
+              "label": "C",
+              "text": "Green plants (photosynthetic organisms)",
+              "is_correct": true
+            },
+            { "label": "D", "text": "Decomposers", "is_correct": false }
+          ],
+          "correct_label": "C",
+          "key_concept": "Producers (green plants) convert solar energy into chemical energy.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C11_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student suggests that energy in an ecosystem moves in a cycle, being reused again and again. Why is this incorrect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Energy is destroyed at each trophic level.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Energy flow is linear and unidirectional; it is gradually degraded into heat and lost from the system.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Energy is created at each trophic level.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Energy cycles between plants and animals only.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "A common misconception is the cycling of energy. Matter cycles, but energy flows linearly and is dissipated.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C11_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "In the food chain: Grass → Grasshopper → Frog → Snake, which organism is a secondary consumer?",
+          "options": [
+            { "label": "A", "text": "Grass", "is_correct": false },
+            { "label": "B", "text": "Grasshopper", "is_correct": false },
+            { "label": "C", "text": "Frog", "is_correct": true },
+            { "label": "D", "text": "Snake", "is_correct": false }
+          ],
+          "correct_label": "C",
+          "key_concept": "Primary consumer eats producer (grasshopper). Secondary consumer eats primary consumer (frog).",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C11_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the flow of energy differ from the flow of nutrients in an ecosystem?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Both energy and nutrients flow linearly from producers to consumers.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Energy flows linearly and is dissipated as heat, while nutrients are recycled through decomposition.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Nutrients flow from the sun to producers, while energy is recycled by consumers.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no difference; both are cycles.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "A fundamental ecological principle: Energy flow is one-way; biogeochemical cycles are cyclic.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C11_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is the energy transfer between trophic levels in a food chain inefficient?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because organisms intentionally waste energy.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because a large part of the energy is used by the organism for its own metabolism (respiration) and is lost as heat, and some is not consumed or decays.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because energy is destroyed as it moves up the chain.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because producers absorb only a small fraction of solar energy.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Inefficiency is due to the second law of thermodynamics; energy is degraded into unusable forms at each step.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Laws of thermodynamics in energy flow",
+      "concept_type": "law",
+      "questions": [
+        {
+          "question_id": "CH6_C12_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which law of thermodynamics states that energy can neither be created nor destroyed?",
+          "options": [
+            { "label": "A", "text": "Zeroth Law", "is_correct": false },
+            { "label": "B", "text": "First Law", "is_correct": true },
+            { "label": "C", "text": "Second Law", "is_correct": false },
+            { "label": "D", "text": "Third Law", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "First Law of Thermodynamics: Law of conservation of energy.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C12_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "The gradual decrease of useful energy in a process, often as waste heat, is in accordance with which law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "First Law of Thermodynamics",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Second Law of Thermodynamics",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Law of Conservation of Mass",
+              "is_correct": false
+            },
+            { "label": "D", "text": "Newton's Third Law", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "Second Law deals with entropy and the degradation of energy into less useful forms.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C12_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student argues that since energy is conserved (First Law), we can never run out of useful energy. What principle does this argument ignore?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The law of conservation of mass.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The Second Law, which states that while total energy is constant, the quality of energy degrades, making it less available for useful work.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The fact that energy can be created from matter.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The principle that energy is destroyed in chemical reactions.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Confusing quantity (First Law) with quality/usability (Second Law) of energy.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C12_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "When a car engine burns fuel, only about 25-30% of the energy is used to move the car. The rest is lost mainly as heat. This is an example of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "First Law (energy is transformed).",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Second Law (no energy transfer is 100% efficient; energy is degraded).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Violation of the law of conservation of energy.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Energy being created in the engine.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The inefficiency and production of waste heat exemplify the Second Law.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C12_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How do the First and Second Laws of Thermodynamics together govern energy flow in an ecosystem?",
+          "options": [
+            {
+              "label": "A",
+              "text": "First Law ensures energy is conserved in transfers; Second Law ensures that with each transfer, some energy becomes unusable heat, explaining the linear, degrading flow.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "First Law explains why energy is lost as heat; Second Law explains why energy is created by producers.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Both laws state that energy is recycled within the ecosystem.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "First Law deals with energy quality, Second Law with energy quantity.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "First Law: Quantity constant. Second Law: Quality decreases, direction set.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C12_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is it impossible to have a 100% efficient energy transfer system, like a perfect food chain where all energy from plants goes to herbivores?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because organisms are greedy and hoard energy.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because of the Second Law: In any process, some energy is always transformed into a dispersed, unusable form (like heat) due to respiration, friction, etc.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because the First Law prevents complete transfer.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because energy is lost to space as light.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The Second Law imposes a fundamental limit on efficiency.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Renewable vs. Non-renewable energy sources",
+      "concept_type": "comparison",
+      "questions": [
+        {
+          "question_id": "CH6_C13_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a renewable source of energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A source that is used up quickly and cannot be replaced.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A source that can be replenished naturally in a short period of time.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A source that is only found underground.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A source that produces pollution.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Renewable sources are replenished naturally over relatively short timescales.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C13_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is a non-renewable source of energy?",
+          "options": [
+            { "label": "A", "text": "Wind energy", "is_correct": false },
+            { "label": "B", "text": "Solar energy", "is_correct": false },
+            { "label": "C", "text": "Coal", "is_correct": true },
+            { "label": "D", "text": "Tidal energy", "is_correct": false }
+          ],
+          "correct_label": "C",
+          "key_concept": "Coal is a fossil fuel, formed over millions of years, hence non-renewable.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C13_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Wood is often classified as a renewable source, but its use as a fuel is not advisable. Why?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because it is not truly renewable.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because it takes a very long time to grow back, and large-scale use leads to deforestation, environmental imbalance, and global warming.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because it produces less heat than coal.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because it is a non-conventional source.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The 'renewable' label can be misleading if the renewal rate is much slower than the consumption rate, leading to negative consequences.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C13_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "A remote village has abundant sunlight, steady wind, and a nearby river. Which combination of power sources would be most sustainable for them?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A coal-based power plant.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A diesel generator.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Solar panels, wind turbines, and a small hydro plant.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Imported natural gas.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Utilizing locally available renewable resources promotes sustainability and energy independence.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C13_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How do renewable and non-renewable sources primarily differ in terms of environmental impact over long periods?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Renewable sources have no environmental impact, while non-renewable sources always have a high impact.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Renewable sources are generally cleaner and cause less long-term pollution and climate change, while non-renewable sources (fossil fuels) are major contributors to pollution and greenhouse gases.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Non-renewable sources are better for the environment because they are more efficient.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Both have identical long-term environmental impacts.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "A key distinction is their contribution to pollution, resource depletion, and global warming.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C13_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is it crucial to shift from non-renewable to renewable sources of energy for future energy security?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because renewable sources are always cheaper to set up.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because non-renewable sources are finite and will deplete, causing an energy crisis, while renewable sources are virtually inexhaustible on human timescales.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because renewable sources provide energy only during the day.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because non-renewable sources are difficult to transport.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The core issue is the exhaustibility of fossil fuels versus the perpetual nature of solar-derived and other renewable sources.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Solar energy and solar cells",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH6_C14_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a solar cell?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A device that stores solar energy as heat.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A device that converts solar energy directly into electrical energy.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "A device that uses mirrors to boil water.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A battery charged by the sun.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "A solar cell (photovoltaic cell) converts sunlight directly into electricity.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C14_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What type of current (AC/DC) is produced by a typical solar cell?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Alternating Current (AC)",
+              "is_correct": false
+            },
+            { "label": "B", "text": "Direct Current (DC)", "is_correct": true },
+            { "label": "C", "text": "Both AC and DC", "is_correct": false },
+            {
+              "label": "D",
+              "text": "It does not produce current, only voltage.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Solar cells produce direct current (DC).",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C14_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A common misconception about solar panels is that they work effectively:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Only in direct, bright sunlight and not on cloudy days.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "They produce electricity at night if installed properly.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "They require a lot of maintenance and frequent replacement.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They are only made of metal.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Solar panels cannot produce electricity at night (no sunlight). They require storage batteries for night-time use.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C14_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Solar cells are particularly suitable for use in:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Large coal-fired power plants in cities.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Remote, inaccessible areas where laying power lines is difficult.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Powering heavy industrial machinery continuously.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Areas with constant rain and no sunlight.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "A major advantage of solar cells is decentralization and suitability for remote locations.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C14_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does a solar cell differ fundamentally from a solar power plant (like one using reflectors)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A solar cell converts light to electricity directly (photovoltaic), while a solar power plant uses heat from the sun to generate steam to drive a turbine (thermal).",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "A solar cell produces AC, while a solar plant produces DC.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "A solar cell is large-scale, while a solar plant is for small devices.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no difference; both are the same technology.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Different mechanisms: photovoltaic effect vs. thermal power generation.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C14_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "What is a significant disadvantage of solar cells that limits their widespread adoption as the sole power source?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They cause a lot of air pollution.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "They have high initial cost, low conversion efficiency, and cannot produce power at night without storage, making them intermittent.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "They use up a non-renewable resource (silicon).",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They work only in cold climates.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The main challenges are economic (cost), technological (efficiency), and practical (intermittency).",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Wind energy and its harnessing",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH6_C15_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is wind energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Energy stored in compressed air.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The kinetic energy possessed by moving air.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Heat energy generated by friction in the atmosphere.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Potential energy of air at high altitudes.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Wind energy is the kinetic energy of moving air masses.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C15_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which part of a wind generator rotates to produce electricity?",
+          "options": [
+            { "label": "A", "text": "The tall pillar", "is_correct": false },
+            {
+              "label": "B",
+              "text": "The blades (turbine) connected to the generator's armature",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The magnetic pole pieces",
+              "is_correct": false
+            },
+            { "label": "D", "text": "The electric wires", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "Wind turns the blades, which rotate the armature of a generator within a magnetic field to produce electricity.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C15_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student believes wind energy is a primary source, independent of the sun. Why is this incorrect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Wind is caused by the rotation of the Earth only.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Wind energy is derived from solar energy because winds are caused by uneven heating of the Earth's surface by the sun.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Wind is caused by geothermal energy.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Wind is a non-renewable resource formed underground.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Most renewable sources (except geothermal/tidal) are indirect forms of solar energy.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C15_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Wind farms are best located in:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Densely forested areas.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Valleys with no air movement.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Coastal areas or open plains where wind speed is high and steady for long periods.",
+              "is_correct": true
+            },
+            { "label": "D", "text": "Urban city centers.", "is_correct": false }
+          ],
+          "correct_label": "C",
+          "key_concept": "Location is critical for wind energy viability; consistent, strong winds are needed.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C15_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the working principle of a wind generator compare to that of a hydroelectric generator?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Both use the kinetic energy of a moving fluid (air/water) to rotate a turbine, which then rotates the armature of a generator.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Wind generators use potential energy, while hydro generators use kinetic energy.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Wind generators produce DC, while hydro generators produce AC.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They work on completely different principles; one uses magnetism, the other uses chemistry.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Both are examples of converting the kinetic energy of a natural flow into rotational mechanical energy, then electrical energy.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C15_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "What is a major limitation of wind energy that prevents it from being the sole solution to energy needs?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It produces toxic waste.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It is intermittent (wind doesn't blow all the time), requires large land areas for wind farms, and is location-specific.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "It is too efficient, producing more energy than we can use.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The technology is secret and not available to all countries.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Intermittency and land use are significant practical constraints.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Hydroelectric energy",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH6_C16_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is hydroelectric power?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Electricity produced from the heat inside the Earth.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Electricity produced from the energy of flowing or falling water.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Electricity produced by burning hydrogen.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Electricity produced from ocean tides.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Hydroelectric power harnesses the energy of moving water.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C16_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In a hydroelectric plant, what does the potential energy of stored water primarily convert into before becoming electricity?",
+          "options": [
+            { "label": "A", "text": "Chemical energy", "is_correct": false },
+            {
+              "label": "B",
+              "text": "Kinetic energy of flowing water",
+              "is_correct": true
+            },
+            { "label": "C", "text": "Nuclear energy", "is_correct": false },
+            { "label": "D", "text": "Sound energy", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "Potential energy → Kinetic energy of water → Kinetic energy of turbine → Electrical energy.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C16_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student claims that hydroelectric power is a non-renewable source because dams silt up and reservoirs have a finite life. While this is a practical issue, why is hydropower still classified as renewable?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because the water cycle, powered by the sun, continuously replenishes the water source.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Because dams are made of concrete which is renewable.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Because it does not use any fuel.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because the classification is based on cost, not sustainability.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "The energy source (flowing water) is renewed by the solar-powered water cycle, even if the infrastructure has a lifespan.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C16_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "What is an important additional benefit of large dams built for hydroelectric power?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They increase air pollution.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "They help in flood control and irrigation.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "They permanently stop the river's flow.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They make the surrounding area colder.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Dams often serve multiple purposes: power generation, irrigation, flood control.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C16_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does a 'run-of-the-river' hydro scheme differ from a large dam-based hydro plant?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Run-of-the-river uses a small diversion weir and has minimal water storage, causing less environmental disruption than a large reservoir dam.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Run-of-the-river is more polluting.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Large dams are only for irrigation, not electricity.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no difference; both terms mean the same.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Run-of-the-river is a smaller-scale, less intrusive form of hydropower.",
+          "exam_relevance": "low"
+        },
+        {
+          "question_id": "CH6_C16_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "What is a significant environmental disadvantage of large hydroelectric projects?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They release greenhouse gases.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "They cause large-scale ecological disruption: submergence of land, loss of forests and wildlife, displacement of people, and changes in downstream river ecology.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "They consume large amounts of fossil fuels to operate.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They produce radioactive waste.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The environmental and social costs of large dams are major drawbacks.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Nuclear energy (basic principle)",
+      "concept_type": "principle",
+      "questions": [
+        {
+          "question_id": "CH6_C17_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the primary process used in nuclear power plants to produce energy?",
+          "options": [
+            { "label": "A", "text": "Nuclear fusion", "is_correct": false },
+            { "label": "B", "text": "Nuclear fission", "is_correct": true },
+            {
+              "label": "C",
+              "text": "Chemical combustion",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Radioactive decay (alpha/beta)",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Current nuclear power plants use controlled nuclear fission.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C17_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which element is commonly used as fuel in nuclear fission reactors?",
+          "options": [
+            { "label": "A", "text": "Carbon", "is_correct": false },
+            { "label": "B", "text": "Uranium-235", "is_correct": true },
+            { "label": "C", "text": "Helium", "is_correct": false },
+            {
+              "label": "D",
+              "text": "Plutonium (only in bombs)",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Uranium-235 is a common fissile isotope used in reactors.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C17_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Many people think nuclear power plants produce energy by burning uranium like coal. What is the fundamental difference?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Nuclear plants use chemical reactions, while coal plants use physical reactions.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Nuclear fission involves splitting heavy nuclei, releasing energy from mass conversion (E=mc²). Combustion is a chemical reaction involving electron rearrangement.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "There is no difference; both are oxidation reactions.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Coal produces more energy per kilogram than uranium.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Confusing nuclear (intra-nuclear) with chemical (inter-atomic) energy release.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C17_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "What is the purpose of control rods (e.g., cadmium) in a nuclear reactor?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To start the chain reaction.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To absorb excess neutrons and control the rate of the chain reaction.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "To cool the reactor core.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To generate electricity directly.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Control rods regulate the fission chain reaction by absorbing neutrons.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C17_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does nuclear fission for power generation differ from its use in an atom bomb?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The reactor uses fusion, the bomb uses fission.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "In a reactor, the chain reaction is controlled and sustained at a steady rate. In a bomb, it is uncontrolled and rapid, causing an explosion.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Reactors use plutonium, bombs use uranium.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "There is no difference; both are equally dangerous.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Control vs. lack of control of the neutron chain reaction is the key difference.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C17_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "What is the most serious disadvantage of nuclear energy that raises safety and environmental concerns?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It produces greenhouse gases.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It produces highly radioactive waste that is dangerous for thousands of years and is difficult to dispose of safely. There is also risk of accidents releasing radiation.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The fuel is very bulky and hard to transport.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It is an inefficient way to boil water.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Radioactive waste management and the potential for catastrophic accidents are the primary concerns.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Energy degradation",
+      "concept_type": "principle",
+      "questions": [
+        {
+          "question_id": "CH6_C18_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is meant by 'degradation of energy'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Energy being converted from one useful form to another.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The gradual decrease in the total amount of energy in the universe.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The conversion of useful energy into less useful, often dispersed forms (like heat) that cannot be easily recovered for work.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "The increase in the quality of energy.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Energy degradation is the transformation of energy into forms that are less available for doing useful work.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C18_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "In an electric bulb, what is the major form of 'degraded' energy?",
+          "options": [
+            { "label": "A", "text": "Light energy", "is_correct": false },
+            { "label": "B", "text": "Sound energy", "is_correct": false },
+            { "label": "C", "text": "Heat energy", "is_correct": true },
+            { "label": "D", "text": "Chemical energy", "is_correct": false }
+          ],
+          "correct_label": "C",
+          "key_concept": "Most of the electrical energy in an incandescent bulb is degraded into heat, not light.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C18_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student says, 'When a car stops using its brakes, its kinetic energy is destroyed.' According to the principle of energy degradation, what really happens?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The energy is destroyed, as the student said.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The kinetic energy is converted into potential energy stored in the brakes.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The kinetic energy is converted into heat and sound energy due to friction, which is dissipated into the surroundings.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "The energy is transferred to the road.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "Energy is not destroyed but degraded into forms that are not easily usable for motion.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C18_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "Why is the efficiency of any machine always less than 100%?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because of manufacturing defects.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because some input energy is always degraded into unuseful forms like heat due to friction, sound, etc.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because energy is lost to gravity.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because the law of conservation of energy does not apply to machines.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The Second Law and energy degradation explain why perfect efficiency is impossible.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C18_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does 'energy conservation' (saving energy) differ from the 'law of conservation of energy' in physics?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They mean the same thing.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Energy conservation (saving) means reducing the waste of high-quality useful energy (like electricity) to slow down its degradation. The law states the total quantity remains constant.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The law of conservation is about saving energy, while energy conservation is a physics principle.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "One is for electricity, the other is for heat.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "One is a practical goal (preserving useful energy), the other is a fundamental law (total energy constant).",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C18_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Explain how the concept of energy degradation is linked to the need for a continuous input of solar energy into Earth's ecosystems.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Solar energy is not subject to degradation.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "As energy flows through an ecosystem, it is progressively degraded into heat and lost. Solar energy continuously replenishes this high-quality energy, preventing the system from running down.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Solar energy causes degradation, so we should avoid it.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Ecosystems recycle energy perfectly, so no input is needed.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Solar input compensates for the continuous degradation of energy, sustaining life processes.",
+          "exam_relevance": "medium"
+        }
+      ]
+    },
+    {
+      "concept_name": "Greenhouse effect (basic mechanism)",
+      "concept_type": "principle",
+      "questions": [
+        {
+          "question_id": "CH6_C19_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is the greenhouse effect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The trapping of ultraviolet radiation by the ozone layer.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The process by which certain gases in the atmosphere trap heat radiated from the Earth's surface, warming it.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The effect of green plants on the atmosphere.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The cooling of the Earth due to pollution.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Greenhouse effect: Atmospheric gases trap infrared radiation, warming the planet.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C19_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which of the following is a major greenhouse gas?",
+          "options": [
+            { "label": "A", "text": "Oxygen (O₂)", "is_correct": false },
+            { "label": "B", "text": "Nitrogen (N₂)", "is_correct": false },
+            {
+              "label": "C",
+              "text": "Carbon dioxide (CO₂)",
+              "is_correct": true
+            },
+            { "label": "D", "text": "Hydrogen (H₂)", "is_correct": false }
+          ],
+          "correct_label": "C",
+          "key_concept": "CO₂ is a primary greenhouse gas, along with methane, water vapor, and CFCs.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C19_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A common misconception is that the greenhouse effect is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "A natural process essential for life on Earth.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Always harmful and caused solely by human activity.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Caused by the reflection of sunlight by ice.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The same as the hole in the ozone layer.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The natural greenhouse effect is beneficial; the problem is the 'enhanced' effect due to human activities increasing gas concentrations.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C19_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "What would be the approximate average temperature of Earth's surface without the natural greenhouse effect?",
+          "options": [
+            { "label": "A", "text": "About 15°C", "is_correct": false },
+            { "label": "B", "text": "About -18°C", "is_correct": true },
+            { "label": "C", "text": "About 100°C", "is_correct": false },
+            { "label": "D", "text": "About 33°C", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "Without greenhouse gases, Earth would be about 33°C colder, making it inhospitable.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C19_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How does the greenhouse effect differ from the principle of a solar heater (e.g., in a car on a sunny day)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They are identical; both trap visible light.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "A solar heater traps visible light which heats surfaces directly. The greenhouse effect involves atmosphere being transparent to visible light but opaque to the infrared re-radiated from the warmed surface.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The greenhouse effect works only at night.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "A solar heater uses gases, while the greenhouse effect uses glass.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "The key is the selective transparency of the atmosphere (or glass) to different wavelengths.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C19_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why are carbon dioxide levels in the atmosphere increasing, leading to an enhanced greenhouse effect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Due to increased photosynthesis by plants.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Primarily due to human activities like burning fossil fuels (coal, oil, gas), deforestation, and industrial processes.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Due to natural volcanic activity only.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because the oceans are releasing stored CO₂.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Anthropogenic (human-caused) emissions are the main driver of the rapid increase in CO₂ concentrations.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Global warming (causes and impacts)",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH6_C20_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is global warming?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The natural cycle of ice ages and warm periods.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "The long-term increase in Earth's average surface temperature due to human-enhanced greenhouse effect.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "The warming of oceans during summer.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The urban heat island effect in cities.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Global warming refers to the observed and projected rise in global average temperature.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C20_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "Which human activity is a major contributor to global warming?",
+          "options": [
+            { "label": "A", "text": "Planting trees", "is_correct": false },
+            { "label": "B", "text": "Using solar panels", "is_correct": false },
+            {
+              "label": "C",
+              "text": "Burning coal for electricity",
+              "is_correct": true
+            },
+            { "label": "D", "text": "Recycling paper", "is_correct": false }
+          ],
+          "correct_label": "C",
+          "key_concept": "Combustion of fossil fuels releases CO₂, the main greenhouse gas from human activity.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C20_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "Some people confuse global warming with ozone layer depletion. What is the correct relationship?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They are the same phenomenon.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Ozone depletion causes global warming.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "They are separate environmental issues. Global warming is caused by greenhouse gases. Ozone depletion is caused by CFCs and affects UV radiation reaching Earth.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Global warming fixes the ozone hole.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "C",
+          "key_concept": "A common confusion. Different gases, different mechanisms, different consequences.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C20_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "What is a major impact of global warming on polar regions?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Increased snowfall and glacier growth.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Rapid melting of glaciers and ice caps, leading to sea-level rise.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Formation of new polar deserts.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Decrease in ocean temperatures.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Polar amplification: Polar regions warm faster than the global average, accelerating ice melt.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C20_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How do the predicted impacts of global warming on agriculture vary between low-latitude and high-latitude regions?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Both will see increased crop yields.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Low-latitude regions may face reduced yields due to heat and drought stress, while some high-latitude regions may initially see increased yields due to longer growing seasons.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Both will see decreased yields equally.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Agriculture will not be affected.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Impacts are not uniform; they vary by region, creating winners and losers.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C20_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is sea-level rise a critical consequence of global warming?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because it makes the ocean water denser.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because it threatens coastal communities, infrastructure, and ecosystems through increased flooding, erosion, and storm surges.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because it increases the salt content of drinking water globally.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Because it will stop all ocean currents.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Sea-level rise has profound socio-economic and environmental impacts on densely populated coastal areas.",
+          "exam_relevance": "high"
+        }
+      ]
+    },
+    {
+      "concept_name": "Ways to minimise global warming",
+      "concept_type": "application",
+      "questions": [
+        {
+          "question_id": "CH6_C21_Q1",
+          "form": "definition",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What is a primary technological measure to reduce global warming?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Increase the use of air conditioners.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Switch from fossil fuel power plants to renewable energy sources (solar, wind).",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Build more coal-based industries.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Use more diesel vehicles.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Transitioning to clean energy reduces greenhouse gas emissions at the source.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C21_Q2",
+          "form": "identification",
+          "difficulty": "easy",
+          "thinking_type": "recall",
+          "question_text": "What does 'reforestation' aim to achieve in combating global warming?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Increase the temperature.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Absorb more atmospheric carbon dioxide through photosynthesis.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Provide more land for agriculture.",
+              "is_correct": false
+            },
+            { "label": "D", "text": "Reduce wind speed.", "is_correct": false }
+          ],
+          "correct_label": "B",
+          "key_concept": "Trees act as carbon sinks, removing CO₂ from the atmosphere.",
+          "exam_relevance": "high"
+        },
+        {
+          "question_id": "CH6_C21_Q3",
+          "form": "trap",
+          "difficulty": "medium",
+          "thinking_type": "conceptual",
+          "question_text": "A student suggests that using more nuclear power is the perfect solution to global warming as it produces no CO₂. What significant drawback does this overlook?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Nuclear power plants are very expensive to build.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "They produce radioactive waste which poses long-term safety and disposal challenges.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "They produce large amounts of methane.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They cannot generate electricity at night.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "While low-carbon, nuclear energy has other serious environmental and safety concerns.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C21_Q4",
+          "form": "application",
+          "difficulty": "medium",
+          "thinking_type": "application",
+          "question_text": "What is the purpose of a 'carbon tax'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To tax people for breathing out CO₂.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "To provide a financial incentive for industries to reduce their carbon emissions by making pollution costly.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "To fund more fossil fuel exploration.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To subsidize the price of petrol.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Carbon tax is an economic instrument to internalize the environmental cost of emissions.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C21_Q5",
+          "form": "comparison",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "How do 'technological' measures differ from 'policy' measures in minimizing global warming?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Technological measures (e.g., renewable energy, electric vehicles) involve new hardware and systems. Policy measures (e.g., carbon tax, education) involve government rules, economic tools, and social initiatives to drive change.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Technological measures are only for rich countries, policy measures are for poor countries.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Technological measures increase emissions, policy measures reduce them.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They are the same thing with different names.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "A",
+          "key_concept": "Solutions require both technological innovation and supportive policies/behavioral changes.",
+          "exam_relevance": "medium"
+        },
+        {
+          "question_id": "CH6_C21_Q6",
+          "form": "reason",
+          "difficulty": "hard",
+          "thinking_type": "analytical",
+          "question_text": "Why is controlling population growth considered an important long-term measure against global warming?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because more people inherently cause more pollution, regardless of lifestyle.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Because a larger population increases the total demand for energy, resources, and land (often leading to deforestation), thereby increasing greenhouse gas emissions if not met sustainably.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Because people exhale CO₂, so fewer people means less CO₂.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Population growth has no link to global warming.",
+              "is_correct": false
+            }
+          ],
+          "correct_label": "B",
+          "key_concept": "Population is a multiplier of per capita consumption and emissions, making it a fundamental driver of environmental impact.",
+          "exam_relevance": "medium"
+        }
+      ]
+    }
+  ]
+}
