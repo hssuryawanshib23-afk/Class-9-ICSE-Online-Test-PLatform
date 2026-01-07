@@ -1078,14 +1078,129 @@ def login_page():
     u = st.text_input("Username", key="login_username")
     p = st.text_input("Password", type="password", key="login_password")
 
-    if st.button("Login", key="login_btn"):
-        user = login(u, p)
-        if user:
-            st.session_state.user = user
-            st.session_state.page = "setup"
+    col1, col2 = st.columns(2)
+    with col1:
+        if st.button("Login", key="login_btn", use_container_width=True):
+            user = login(u, p)
+            if user:
+                st.session_state.user = user
+                st.session_state.page = "setup"
+                st.rerun()
+            else:
+                st.error("❌ Invalid username or password")
+    
+    with col2:
+        if st.button("🔑 Forgot Password?", key="forgot_password_btn", use_container_width=True):
+            st.session_state.page = "forgot_password"
             st.rerun()
-        else:
-            st.error("❌ Invalid username or password")
+
+
+def forgot_password_page():
+    """Handle password reset with phone number verification"""
+    st.title("🔑 Reset Password")
+    st.markdown("Verify your identity to reset your password")
+    
+    # Step 1: Enter username and phone number for verification
+    if not st.session_state.get("password_reset_verified", False):
+        st.markdown("### Step 1: Verify Your Identity")
+        username = st.text_input("Enter your Username", key="reset_username")
+        phone = st.text_input("Enter your Registered Phone Number", key="reset_phone", max_chars=10)
+        
+        if st.button("Verify", key="verify_btn", type="primary"):
+            if not username or not phone:
+                st.error("❌ Please fill in both fields")
+                return
+            
+            if not phone.isdigit() or len(phone) != 10:
+                st.error("❌ Please enter a valid 10-digit phone number")
+                return
+            
+            # Verify username and phone match
+            conn = get_connection()
+            cur = conn.cursor()
+            placeholder = get_placeholder()
+            
+            cur.execute(f"""
+                SELECT id, username 
+                FROM users 
+                WHERE username = {placeholder} AND phone_number = {placeholder}
+            """, (username, phone))
+            
+            result = cur.fetchone()
+            conn.close()
+            
+            if result:
+                st.session_state.password_reset_verified = True
+                st.session_state.reset_user_id = result[0]
+                st.session_state.reset_username = result[1]
+                st.success("✅ Identity verified! Now set your new password.")
+                st.rerun()
+            else:
+                st.error("❌ Username and phone number don't match. Please check and try again.")
+        
+        if st.button("← Back to Login", key="back_to_login"):
+            st.session_state.page = "login"
+            st.rerun()
+    
+    # Step 2: Set new password
+    else:
+        st.markdown(f"### Step 2: Set New Password for **{st.session_state.reset_username}**")
+        new_password = st.text_input("New Password", type="password", key="new_password")
+        confirm_password = st.text_input("Confirm New Password", type="password", key="confirm_password")
+        
+        if st.button("Reset Password", key="reset_password_btn", type="primary"):
+            if not new_password or not confirm_password:
+                st.error("❌ Please fill in both password fields")
+                return
+            
+            if new_password != confirm_password:
+                st.error("❌ Passwords don't match!")
+                return
+            
+            if len(new_password) < 4:
+                st.error("❌ Password must be at least 4 characters long")
+                return
+            
+            # Update password in database
+            import hashlib
+            hashed_password = hashlib.sha256(new_password.encode()).hexdigest()
+            
+            conn = get_connection()
+            cur = conn.cursor()
+            placeholder = get_placeholder()
+            
+            try:
+                cur.execute(f"""
+                    UPDATE users 
+                    SET password_hash = {placeholder}
+                    WHERE id = {placeholder}
+                """, (hashed_password, st.session_state.reset_user_id))
+                
+                conn.commit()
+                conn.close()
+                
+                # Clear reset session variables
+                st.session_state.password_reset_verified = False
+                st.session_state.reset_user_id = None
+                st.session_state.reset_username = None
+                
+                st.success("✅ Password reset successful! Please login with your new password.")
+                st.balloons()
+                time.sleep(2)
+                st.session_state.page = "login"
+                st.rerun()
+                
+            except Exception as e:
+                conn.rollback()
+                conn.close()
+                st.error(f"❌ Error resetting password: {e}")
+        
+        if st.button("← Cancel", key="cancel_reset"):
+            st.session_state.password_reset_verified = False
+            st.session_state.reset_user_id = None
+            st.session_state.reset_username = None
+            st.session_state.page = "login"
+            st.rerun()
 
 def signup_page():
     st.title("Signup")
@@ -1935,11 +2050,15 @@ def result_page():
 
 # ================= ROUTER =================
 if st.session_state.user is None:
-    t1, t2 = st.tabs(["Login", "Signup"])
-    with t1:
-        login_page()
-    with t2:
-        signup_page()
+    # Check if on forgot password page
+    if st.session_state.get("page") == "forgot_password":
+        forgot_password_page()
+    else:
+        t1, t2 = st.tabs(["Login", "Signup"])
+        with t1:
+            login_page()
+        with t2:
+            signup_page()
 else:
     if st.session_state.user["role"] == "admin":
         admin_page()
