@@ -1101,10 +1101,10 @@ def forgot_password_page():
     st.markdown("Verify your identity to reset your password")
     
     # Step 1: Enter username and phone number for verification
-    if not st.session_state.get("password_reset_verified", False):
+    if not st.session_state.get("pwd_reset_verified", False):
         st.markdown("### Step 1: Verify Your Identity")
-        username = st.text_input("Enter your Username", key="reset_username")
-        phone = st.text_input("Enter your Registered Phone Number", key="reset_phone", max_chars=10)
+        username = st.text_input("Enter your Username", key="reset_username_input")
+        phone = st.text_input("Enter your Registered Phone Number", key="reset_phone_input", max_chars=10)
         
         if st.button("Verify", key="verify_btn", type="primary"):
             if not username or not phone:
@@ -1130,9 +1130,9 @@ def forgot_password_page():
             conn.close()
             
             if result:
-                st.session_state.password_reset_verified = True
-                st.session_state.reset_user_id = result[0]
-                st.session_state.reset_username = result[1]
+                st.session_state.pwd_reset_verified = True
+                st.session_state.pwd_reset_user_id = result[0]
+                st.session_state.pwd_reset_username = result[1]
                 st.success("✅ Identity verified! Now set your new password.")
                 st.rerun()
             else:
@@ -1144,7 +1144,7 @@ def forgot_password_page():
     
     # Step 2: Set new password
     else:
-        st.markdown(f"### Step 2: Set New Password for **{st.session_state.reset_username}**")
+        st.markdown(f"### Step 2: Set New Password for **{st.session_state.pwd_reset_username}**")
         new_password = st.text_input("New Password", type="password", key="new_password")
         confirm_password = st.text_input("Confirm New Password", type="password", key="confirm_password")
         
@@ -1174,15 +1174,15 @@ def forgot_password_page():
                     UPDATE users 
                     SET password_hash = {placeholder}
                     WHERE id = {placeholder}
-                """, (hashed_password, st.session_state.reset_user_id))
+                """, (hashed_password, st.session_state.pwd_reset_user_id))
                 
                 conn.commit()
                 conn.close()
                 
                 # Clear reset session variables
-                st.session_state.password_reset_verified = False
-                st.session_state.reset_user_id = None
-                st.session_state.reset_username = None
+                st.session_state.pwd_reset_verified = False
+                st.session_state.pwd_reset_user_id = None
+                st.session_state.pwd_reset_username = None
                 
                 st.success("✅ Password reset successful! Please login with your new password.")
                 st.balloons()
@@ -1196,9 +1196,9 @@ def forgot_password_page():
                 st.error(f"❌ Error resetting password: {e}")
         
         if st.button("← Cancel", key="cancel_reset"):
-            st.session_state.password_reset_verified = False
-            st.session_state.reset_user_id = None
-            st.session_state.reset_username = None
+            st.session_state.pwd_reset_verified = False
+            st.session_state.pwd_reset_user_id = None
+            st.session_state.pwd_reset_username = None
             st.session_state.page = "login"
             st.rerun()
 
