@@ -1709,16 +1709,16 @@
             {
               "label": "C",
               "text": "Chlorine (Cl)",
-              "is_correct": true
+              "is_correct": false
             },
             {
               "label": "D",
               "text": "Argon (Ar)",
-              "is_correct": false
+              "is_correct": true
             }
           ],
-          "correct_label": "C",
-          "key_concept": "Halogens (Group 17) have the smallest atomic size in a period (excluding noble gases).",
+          "correct_label": "D",
+          "key_concept": "Noble gases (Group 18) have the smallest atomic size in a period due to maximum effective nuclear charge.",
           "exam_relevance": "high"
         },
         {
