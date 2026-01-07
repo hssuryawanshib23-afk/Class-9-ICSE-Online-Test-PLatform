@@ -1358,9 +1358,9 @@ def check_and_prompt_profile_completion():
 
 
 def custom_test_setup():
-    """Test setup with concept-based selection and flexible difficulty distribution (minimum 40% hard)"""
+    """Test setup with concept-based selection and flexible difficulty distribution (minimum 34% hard)"""
     st.subheader("Create Your Custom Test")
-    st.warning("⚠️ **Important:** You MUST include at least 40% Hard questions to ensure effective learning. This prevents gaming the system with only easy questions.")
+    st.warning("⚠️ **Important:** You MUST include at least 34% Hard questions to ensure effective learning. This prevents gaming the system with only easy questions.")
 
     # Subject selection
     subject = st.selectbox(
@@ -1442,7 +1442,7 @@ def custom_test_setup():
     
     # Difficulty distribution with constraints
     st.markdown("### ⚡ Difficulty Distribution")
-    st.caption("Choose your difficulty mix (Hard must be at least 40%)")
+    st.caption("Choose your difficulty mix (Hard must be at least 34%)")
     
     col1, col2, col3 = st.columns(3)
     
@@ -1451,7 +1451,7 @@ def custom_test_setup():
     with col2:
         medium_pct = st.slider("🟡 Medium %", 0, 60, 30, step=5, key="medium_slider")
     with col3:
-        hard_pct = st.slider("🔴 Hard %", 40, 100, 40, step=5, key="hard_slider")
+        hard_pct = st.slider("🔴 Hard %", 34, 100, 40, step=5, key="hard_slider")
     
     total_pct = easy_pct + medium_pct + hard_pct
     
@@ -1460,8 +1460,8 @@ def custom_test_setup():
         st.error(f"❌ Total percentage must equal 100% (currently {total_pct}%)")
         return
     
-    if hard_pct < 40:
-        st.error(f"❌ Hard questions must be at least 40% (currently {hard_pct}%)")
+    if hard_pct < 34:
+        st.error(f"❌ Hard questions must be at least 34% (currently {hard_pct}%)")
         return
     
     # Show breakdown
@@ -1473,7 +1473,7 @@ def custom_test_setup():
     
     st.info(f"📊 Your test will have: {easy_count} Easy + {medium_count} Medium + {hard_count} Hard = {total} Total")
 
-    if st.button("Start Test", key="start_test_btn", disabled=(total_pct != 100 or hard_pct < 40)):
+    if st.button("Start Test", key="start_test_btn", disabled=(total_pct != 100 or hard_pct < 34)):
         # Use new function with custom difficulty distribution for concepts
         questions = generate_test_from_concepts(
             concept_ids=selected_concept_ids,
