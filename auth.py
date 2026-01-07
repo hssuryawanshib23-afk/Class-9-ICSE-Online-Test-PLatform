@@ -1,5 +1,11 @@
 import bcrypt
 from db_connection import get_connection, get_placeholder, get_last_insert_id, USE_POSTGRES
+import random
+
+
+def generate_numeric_recovery_code():
+    """Generate 8-digit unique numeric recovery code"""
+    return str(random.randint(10000000, 99999999))
 
 
 def create_user(username, phone_number, password, role="student", school_name=None, class_name=None, board_name=None):
@@ -17,28 +23,29 @@ def create_user(username, phone_number, password, role="student", school_name=No
         return None  # Phone number already exists
 
     hashed = bcrypt.hashpw(password.encode(), bcrypt.gensalt())
+    recovery_code = generate_numeric_recovery_code()
 
     # Handle RETURNING for PostgreSQL vs lastrowid for SQLite
     # Decode hash to string for storage
     if USE_POSTGRES:
         cur.execute(
-            f"""INSERT INTO users (username, phone_number, password_hash, role, school_name, class_name, board_name, created_at) 
-               VALUES ({placeholder}, {placeholder}, {placeholder}, {placeholder}, {placeholder}, {placeholder}, {placeholder}, CURRENT_TIMESTAMP) 
+            f"""INSERT INTO users (username, phone_number, password_hash, role, school_name, class_name, board_name, recovery_code, created_at) 
+               VALUES ({placeholder}, {placeholder}, {placeholder}, {placeholder}, {placeholder}, {placeholder}, {placeholder}, {placeholder}, CURRENT_TIMESTAMP) 
                RETURNING id""",
-            (username, phone_number, hashed.decode('utf-8'), role, school_name, class_name, board_name)
+            (username, phone_number, hashed.decode('utf-8'), role, school_name, class_name, board_name, recovery_code)
         )
         user_id = cur.fetchone()[0]
     else:
         cur.execute(
-            f"""INSERT INTO users (username, phone_number, password_hash, role, school_name, class_name, board_name, created_at) 
-               VALUES ({placeholder}, {placeholder}, {placeholder}, {placeholder}, {placeholder}, {placeholder}, {placeholder}, datetime('now'))""",
-            (username, phone_number, hashed.decode('utf-8'), role, school_name, class_name, board_name)
+            f"""INSERT INTO users (username, phone_number, password_hash, role, school_name, class_name, board_name, recovery_code, created_at) 
+               VALUES ({placeholder}, {placeholder}, {placeholder}, {placeholder}, {placeholder}, {placeholder}, {placeholder}, {placeholder}, datetime('now'))""",
+            (username, phone_number, hashed.decode('utf-8'), role, school_name, class_name, board_name, recovery_code)
         )
         user_id = cur.lastrowid
 
     conn.commit()
     conn.close()
-    return user_id
+    return {"user_id": user_id, "recovery_code": recovery_code}
 
 
 def login(username, password):

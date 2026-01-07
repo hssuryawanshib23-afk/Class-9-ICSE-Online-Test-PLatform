@@ -1096,35 +1096,59 @@ def login_page():
 
 
 def forgot_password_page():
-    """Handle password reset with phone number verification"""
+    """Handle password reset with phone number OR recovery code verification"""
     st.title("🔑 Reset Password")
     st.markdown("Verify your identity to reset your password")
     
-    # Step 1: Enter username and phone number for verification
+    # Step 1: Choose verification method
     if not st.session_state.get("pwd_reset_verified", False):
         st.markdown("### Step 1: Verify Your Identity")
+        
+        verification_method = st.radio(
+            "Choose verification method:",
+            ["Phone Number", "Recovery Code"],
+            key="verification_method"
+        )
+        
         username = st.text_input("Enter your Username", key="reset_username_input")
-        phone = st.text_input("Enter your Registered Phone Number", key="reset_phone_input", max_chars=10)
+        
+        if verification_method == "Phone Number":
+            verifier = st.text_input("Enter your Registered Phone Number", key="reset_phone_input", max_chars=10)
+            verify_label = "Phone Number"
+        else:
+            verifier = st.text_input("Enter your 8-digit Recovery Code", key="reset_code_input", max_chars=8)
+            verify_label = "Recovery Code"
         
         if st.button("Verify", key="verify_btn", type="primary"):
-            if not username or not phone:
+            if not username or not verifier:
                 st.error("❌ Please fill in both fields")
                 return
             
-            if not phone.isdigit() or len(phone) != 10:
-                st.error("❌ Please enter a valid 10-digit phone number")
-                return
-            
-            # Verify username and phone match
+            # Verify username and phone/code match
             conn = get_connection()
             cur = conn.cursor()
             placeholder = get_placeholder()
             
-            cur.execute(f"""
-                SELECT id, username 
-                FROM users 
-                WHERE username = {placeholder} AND phone_number = {placeholder}
-            """, (username, phone))
+            if verification_method == "Phone Number":
+                if not verifier.isdigit() or len(verifier) != 10:
+                    st.error("❌ Please enter a valid 10-digit phone number")
+                    return
+                
+                cur.execute(f"""
+                    SELECT id, username 
+                    FROM users 
+                    WHERE username = {placeholder} AND phone_number = {placeholder}
+                """, (username, verifier))
+            else:
+                if not verifier.isdigit() or len(verifier) != 8:
+                    st.error("❌ Recovery code must be 8 digits")
+                    return
+                
+                cur.execute(f"""
+                    SELECT id, username 
+                    FROM users 
+                    WHERE username = {placeholder} AND recovery_code = {placeholder}
+                """, (username, verifier))
             
             result = cur.fetchone()
             conn.close()
@@ -1133,10 +1157,10 @@ def forgot_password_page():
                 st.session_state.pwd_reset_verified = True
                 st.session_state.pwd_reset_user_id = result[0]
                 st.session_state.pwd_reset_username = result[1]
-                st.success("✅ Identity verified! Now set your new password.")
+                st.success(f"✅ Identity verified using {verify_label}! Now set your new password.")
                 st.rerun()
             else:
-                st.error("❌ Username and phone number don't match. Please check and try again.")
+                st.error(f"❌ Username and {verify_label} don't match. Please check and try again.")
         
         if st.button("← Back to Login", key="back_to_login"):
             st.session_state.page = "login"
@@ -1223,9 +1247,22 @@ def signup_page():
             st.error("❌ Please enter a valid 10-digit phone number")
             return
         
-        user_id = create_user(u, p, pw, "student", school, class_name, board)
-        if user_id:
-            st.success("✅ Account created! Please login.")
+        result = create_user(u, p, pw, "student", school, class_name, board)
+        if result:
+            st.success("✅ Account created successfully!")
+            st.balloons()
+            
+            # Show recovery code prominently
+            st.warning("⚠️ **IMPORTANT: Save Your Recovery Code**")
+            st.info(f"🔑 **Your Recovery Code: `{result['recovery_code']}`**")
+            st.markdown("""
+            **You'll need this code to reset your password if you forget it.**
+            - Take a screenshot or write it down
+            - You can view it anytime in your profile after login
+            """)
+            
+            if st.button("Continue to Login", key="continue_login"):
+                st.rerun()
         else:
             st.error("❌ This phone number is already registered. Please use a different number or login.")
 
@@ -1466,6 +1503,204 @@ def show_history_test_details(attempt_id, test_type):
 
 
 # ================= SETUP =================
+def student_profile_page():
+    """Student profile with recovery code and editable fields"""
+    st.subheader("👤 My Profile")
+    
+    user_id = st.session_state.user['id']
+    conn = get_connection()
+    cur = conn.cursor()
+    placeholder = get_placeholder()
+    
+    # Get current user data
+    cur.execute(f"""
+        SELECT username, phone_number, school_name, class_name, board_name, recovery_code, created_at
+        FROM users
+        WHERE id = {placeholder}
+    """, (user_id,))
+    
+    username, phone, school, class_name, board, recovery_code, created_at = cur.fetchone()
+    conn.close()
+    
+    # Profile display with default avatar
+    col1, col2 = st.columns([1, 3])
+    
+    with col1:
+        # Default avatar
+        st.markdown("""
+        <div style='text-align: center;'>
+            <div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); 
+                        width: 120px; height: 120px; border-radius: 50%; 
+                        display: flex; align-items: center; justify-content: center;
+                        font-size: 48px; color: white; font-weight: bold;
+                        margin: 0 auto;'>
+                {}
+            </div>
+        </div>
+        """.format(username[0].upper()), unsafe_allow_html=True)
+    
+    with col2:
+        st.markdown(f"### {username}")
+        st.caption(f"📱 {phone}")
+        st.caption(f"📅 Joined: {format_timestamp(created_at)}")
+    
+    st.markdown("---")
+    
+    # Recovery Code Section
+    st.markdown("### 🔑 Recovery Code")
+    st.info(f"**Your Recovery Code: `{recovery_code}`**")
+    st.caption("Use this code to reset your password if you forget it. Keep it safe!")
+    
+    st.markdown("---")
+    
+    # Editable Profile Fields
+    st.markdown("### ✏️ Edit Profile")
+    
+    with st.form("profile_edit_form"):
+        new_school = st.text_input("School Name", value=school)
+        new_class = st.text_input("Class", value=class_name)
+        new_board = st.selectbox("Board", ["ICSE", "CBSE", "State Board", "Other"], 
+                                  index=["ICSE", "CBSE", "State Board", "Other"].index(board) if board in ["ICSE", "CBSE", "State Board", "Other"] else 0)
+        
+        if st.form_submit_button("💾 Update Profile", type="primary"):
+            conn = get_connection()
+            cur = conn.cursor()
+            
+            try:
+                cur.execute(f"""
+                    UPDATE users
+                    SET school_name = {placeholder}, class_name = {placeholder}, board_name = {placeholder}
+                    WHERE id = {placeholder}
+                """, (new_school, new_class, new_board, user_id))
+                
+                conn.commit()
+                conn.close()
+                st.success("✅ Profile updated successfully!")
+                time.sleep(1)
+                st.rerun()
+            except Exception as e:
+                conn.rollback()
+                conn.close()
+                st.error(f"❌ Error updating profile: {e}")
+
+
+def leaderboard_page():
+    """Leaderboard showing student rankings based on accuracy and performance"""
+    st.subheader("🏆 Leaderboard")
+    
+    # Filter options
+    col1, col2 = st.columns([1, 3])
+    
+    with col1:
+        board_filter = st.selectbox(
+            "Filter by Board",
+            ["All Boards", "ICSE", "CBSE", "State Board", "Other"],
+            key="leaderboard_board_filter"
+        )
+    
+    with col2:
+        st.caption("📊 Rankings based on: Accuracy, Tests Attempted, and Difficulty Level")
+    
+    conn = get_connection()
+    cur = conn.cursor()
+    placeholder = get_placeholder()
+    
+    try:
+        # Build query based on filter
+        if board_filter == "All Boards":
+            board_condition = ""
+            board_params = ()
+        else:
+            board_condition = f"AND u.board_name = {placeholder}"
+            board_params = (board_filter,)
+        
+        # Get leaderboard data
+        query = f"""
+            WITH user_stats AS (
+                SELECT 
+                    u.id,
+                    u.username,
+                    u.school_name,
+                    u.class_name,
+                    u.board_name,
+                    COUNT(DISTINCT ta.id) as custom_tests,
+                    COUNT(DISTINCT ata.attempt_id) as admin_tests,
+                    COALESCE(AVG(CASE WHEN ta.total_questions > 0 THEN (ta.score * 100.0 / ta.total_questions) ELSE 0 END), 0) as custom_accuracy,
+                    COALESCE(AVG(ata.percentage), 0) as admin_accuracy,
+                    COUNT(DISTINCT CASE WHEN q.difficulty = 'hard' AND r.is_correct = 1 THEN r.id END) as hard_correct
+                FROM users u
+                LEFT JOIN test_attempts ta ON u.id = ta.student_id
+                LEFT JOIN admin_test_attempts ata ON u.id = ata.user_id
+                LEFT JOIN responses r ON ta.id = r.attempt_id
+                LEFT JOIN questions q ON r.question_id = q.id
+                WHERE u.role = 'student' {board_condition}
+                GROUP BY u.id, u.username, u.school_name, u.class_name, u.board_name
+            )
+            SELECT 
+                username,
+                school_name,
+                class_name,
+                board_name,
+                (custom_tests + admin_tests) as total_tests,
+                ROUND((custom_accuracy + admin_accuracy) / 2, 2) as overall_accuracy,
+                hard_correct
+            FROM user_stats
+            WHERE (custom_tests + admin_tests) > 0
+            ORDER BY overall_accuracy DESC, total_tests DESC, hard_correct DESC
+            LIMIT 50
+        """
+        
+        cur.execute(query, board_params)
+        results = cur.fetchall()
+        conn.close()
+        
+        if not results:
+            st.info("No test data available yet. Be the first to take a test!")
+            return
+        
+        st.success(f"Showing Top {len(results)} Students" + (f" - {board_filter}" if board_filter != "All Boards" else ""))
+        
+        # Display leaderboard
+        for rank, (username, school, class_name, board, total_tests, accuracy, hard_correct) in enumerate(results, 1):
+            # Medal for top 3
+            if rank == 1:
+                medal = "🥇"
+                color = "#FFD700"
+            elif rank == 2:
+                medal = "🥈"
+                color = "#C0C0C0"
+            elif rank == 3:
+                medal = "🥉"
+                color = "#CD7F32"
+            else:
+                medal = f"#{rank}"
+                color = "#555555"
+            
+            with st.container():
+                col1, col2, col3, col4 = st.columns([1, 3, 2, 2])
+                
+                with col1:
+                    st.markdown(f"<h2 style='color: {color}; margin: 0;'>{medal}</h2>", unsafe_allow_html=True)
+                
+                with col2:
+                    st.markdown(f"**{username}**")
+                    st.caption(f"🏫 {school or 'N/A'} | 📚 Class {class_name or 'N/A'} | 📋 {board or 'N/A'}")
+                
+                with col3:
+                    st.metric("Accuracy", f"{accuracy}%")
+                    st.caption(f"📝 {total_tests} tests")
+                
+                with col4:
+                    st.metric("Hard Qs", f"{hard_correct}")
+                    st.caption("✅ Correct")
+                
+                st.markdown("---")
+    
+    except Exception as e:
+        st.error(f"❌ Error loading leaderboard: {e}")
+        conn.close()
+
+
 def setup_page():
     st.title("Student Dashboard")
     
@@ -1473,8 +1708,8 @@ def setup_page():
     if check_and_prompt_profile_completion():
         return  # Stop here until profile is completed
     
-    # Add tabs for custom test, admin tests, and history
-    tab1, tab2, tab3 = st.tabs(["🎯 Create Custom Test", "📋 Take Admin Test", "📊 My Test History"])
+    # Add tabs for custom test, admin tests, history, profile, and leaderboard
+    tab1, tab2, tab3, tab4, tab5 = st.tabs(["🎯 Create Custom Test", "📋 Take Admin Test", "📊 My Test History", "👤 My Profile", "🏆 Leaderboard"])
     
     with tab1:
         custom_test_setup()
@@ -1484,6 +1719,12 @@ def setup_page():
     
     with tab3:
         show_student_history()
+    
+    with tab4:
+        student_profile_page()
+    
+    with tab5:
+        leaderboard_page()
 
 
 def check_and_prompt_profile_completion():
