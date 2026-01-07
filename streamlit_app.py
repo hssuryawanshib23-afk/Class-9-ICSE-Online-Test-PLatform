@@ -470,14 +470,90 @@ def create_test_interface():
         help="Choose the subject for this test"
     )
     
-    # Chapter selection based on subject
-    available_chapters = list(CHAPTER_NAMES[subject].keys())
-    chapters = st.multiselect(
-        "Select Chapters",
-        available_chapters,
-        help="Choose which chapters to include",
-        format_func=lambda x: f"Chapter {x}: {CHAPTER_NAMES[subject][x]}"
+    # Selection mode: Chapters or Concepts
+    selection_mode = st.radio(
+        "📌 Selection Mode",
+        ["Select by Chapters", "Select by Concepts"],
+        help="Choose entire chapters or specific concepts"
     )
+    
+    selected_concept_ids = []
+    chapters = []
+    
+    if selection_mode == "Select by Chapters":
+        # Chapter selection based on subject
+        available_chapters = list(CHAPTER_NAMES[subject].keys())
+        chapters = st.multiselect(
+            "Select Chapters",
+            available_chapters,
+            help="Choose which chapters to include",
+            format_func=lambda x: f"Chapter {x}: {CHAPTER_NAMES[subject][x]}"
+        )
+        
+        # Get all concept IDs from selected chapters
+        if chapters:
+            conn = get_connection()
+            cur = conn.cursor()
+            placeholder = get_placeholder()
+            chapter_placeholders = ",".join([placeholder] * len(chapters))
+            cur.execute(f"""
+                SELECT c.id
+                FROM concepts c
+                JOIN chapters ch ON c.chapter_id = ch.id
+                WHERE ch.chapter_number IN ({chapter_placeholders})
+                AND ch.subject_name = {placeholder}
+            """, tuple(chapters) + (subject,))
+            selected_concept_ids = [row[0] for row in cur.fetchall()]
+            conn.close()
+    
+    else:  # Select by Concepts
+        # Get concepts grouped by chapter for selected subject
+        concepts_by_chapter = get_concepts_by_chapter(subject)
+        
+        if not concepts_by_chapter:
+            st.error(f"⚠️ No concepts found for {subject}. Database connection issue!")
+        else:
+            st.info(f"✓ Found {len(concepts_by_chapter)} chapters for {subject}")
+        
+        # Create expandable sections for each chapter
+        st.markdown("### 📚 Select Concepts to Include")
+        
+        for ch_num in sorted(concepts_by_chapter.keys()):
+            chapter_name = CHAPTER_NAMES.get(subject, {}).get(ch_num, f'Chapter {ch_num}')
+            with st.expander(f"📖 Chapter {ch_num}: {chapter_name}"):
+                concepts = concepts_by_chapter[ch_num]
+                select_all = st.checkbox(f"Select All from Chapter {ch_num}", key=f"admin_select_all_ch{ch_num}")
+                
+                # If select all is checked, add all concepts from this chapter
+                if select_all:
+                    for concept_id, concept_name in concepts:
+                        selected_concept_ids.append(concept_id)
+                        st.checkbox(concept_name, value=True, disabled=True, key=f"admin_concept_{concept_id}")
+                else:
+                    # Otherwise, show individual checkboxes
+                    for concept_id, concept_name in concepts:
+                        if st.checkbox(concept_name, value=False, key=f"admin_concept_{concept_id}"):
+                            selected_concept_ids.append(concept_id)
+    
+    # Validation for concepts
+    if not selected_concept_ids:
+        st.info("📚 Please select at least one chapter or concept to create a test")
+        return
+    
+    # Get available questions for selected concepts
+    conn = get_connection()
+    cur = conn.cursor()
+    placeholder = get_placeholder()
+    concept_placeholders = ",".join([placeholder] * len(selected_concept_ids))
+    cur.execute(f"""
+        SELECT COUNT(*)
+        FROM questions
+        WHERE concept_id IN ({concept_placeholders})
+    """, tuple(selected_concept_ids))
+    available_questions = cur.fetchone()[0]
+    conn.close()
+    
+    st.info(f"📊 Available questions from selection: {available_questions}")
     
     # Difficulty distribution
     st.markdown("### ⚡ Difficulty Distribution")
@@ -499,9 +575,19 @@ def create_test_interface():
     # Test parameters
     col1, col2 = st.columns(2)
     with col1:
-        total_questions = st.number_input("Total Questions", 5, 100, 30, help="Total number of questions in the test")
+        total_questions = st.number_input(
+            "Total Questions", 
+            5, 
+            min(100, available_questions), 
+            min(30, available_questions), 
+            help="Total number of questions in the test"
+        )
     with col2:
         duration = st.number_input("Duration (minutes)", 5, 180, 60, help="Time limit for the test")
+    
+    if available_questions == 0:
+        st.warning("⚠️ No questions available for selected concepts/chapters")
+        return
     
     # Show breakdown
     if total_questions > 0:
@@ -512,19 +598,20 @@ def create_test_interface():
         st.info(f"📊 Question Breakdown: {easy_count} Easy + {medium_count} Medium + {hard_count} Hard = {total_questions} Total")
     
     # Create test button
-    if st.button("🚀 Create Test", type="primary", disabled=(total_pct != 100 or not chapters or not test_name)):
+    if st.button("🚀 Create Test", type="primary", disabled=(total_pct != 100 or not selected_concept_ids or not test_name)):
         with st.spinner("Creating test..."):
             try:
                 admin_test_id = create_admin_test(
                     test_name=test_name,
-                    chapters=chapters,
+                    chapters=chapters if selection_mode == "Select by Chapters" else [],
                     total_questions=total_questions,
                     duration_minutes=duration,
                     easy_pct=easy_pct,
                     medium_pct=medium_pct,
                     hard_pct=hard_pct,
                     created_by_user_id=st.session_state.user['id'],
-                    subject=subject
+                    subject=subject,
+                    concept_ids=selected_concept_ids
                 )
                 
                 if admin_test_id:
@@ -580,7 +667,7 @@ def manage_tests_interface():
             with col1:
                 st.markdown(f"**Chapters:** {chapters}")
                 st.markdown(f"**Difficulty:** 🟢 {easy}% Easy, 🟡 {med}% Medium, 🔴 {hard}% Hard")
-                st.markdown(f"**Created by:** {creator} on {str(created_at)[:16]}")
+                st.markdown(f"**Created by:** {creator} on {format_timestamp(created_at)}")
                 st.markdown(f"**Attempts:** {attempts} | **Avg Score:** {avg_score or 0}%")
             
             with col2:
@@ -677,7 +764,7 @@ def show_test_results(test_id, test_name, total_questions):
                 with col1:
                     st.markdown(f"**Score:** {score}/{total_questions}")
                     st.markdown(f"**Percentage:** {percentage}%")
-                    st.markdown(f"**Attempted:** {str(attempted_at)[:16]}")
+                    st.markdown(f"**Attempted:** {format_timestamp(attempted_at)}")
                 
                 with col2:
                     # Get weak concepts/chapters
@@ -849,9 +936,7 @@ def show_students_list():
             with col2:
                 st.write(f"📱 {phone}")
                 if created_at:
-                    # Format timestamp
-                    reg_date = created_at.strftime('%d %b %Y, %I:%M %p') if hasattr(created_at, 'strftime') else str(created_at)
-                    st.caption(f"📅 Registered: {reg_date}")
+                    st.caption(f"📅 Registered: {format_timestamp(created_at)}")
             with col3:
                 if st.button("🗑️ Delete", key=f"delete_student_{student_id}", type="secondary"):
                     st.session_state[f'confirm_delete_{student_id}'] = True
@@ -1514,7 +1599,7 @@ def admin_test_selection():
         with st.expander(f"📝 {name}"):
             st.markdown(f"**Questions:** {total_q} | **Duration:** {duration} minutes")
             st.markdown(f"**Difficulty:** 🟢 {easy}% Easy, 🟡 {med}% Medium, 🔴 {hard}% Hard")
-            st.markdown(f"**Created by:** {creator} on {str(created_at)[:10]}")
+            st.markdown(f"**Created by:** {creator} on {format_timestamp(created_at)}")
             
             # Check if student has already attempted
             conn = get_connection()
@@ -1578,8 +1663,36 @@ def test_page():
         )
         st.session_state.answers[q["id"]] = choice
 
+    # Check for unanswered questions
+    unanswered = []
+    for i, q in enumerate(st.session_state.test, 1):
+        if not st.session_state.answers.get(q["id"]):
+            unanswered.append(i)
+
     if st.button("Submit Test", key="submit_test_btn"):
-        submit_test(auto=False)
+        if unanswered:
+            st.session_state.show_submit_confirmation = True
+            st.session_state.unanswered_questions = unanswered
+            st.rerun()
+        else:
+            submit_test(auto=False)
+    
+    # Show confirmation dialog if there are unanswered questions
+    if st.session_state.get("show_submit_confirmation", False):
+        with st.container():
+            st.warning("⚠️ You have unanswered questions!")
+            st.markdown(f"**Unanswered Questions:** {', '.join([f'Q{q}' for q in st.session_state.unanswered_questions])}")
+            st.info("You can scroll up to answer them or submit anyway.")
+            
+            col1, col2 = st.columns(2)
+            with col1:
+                if st.button("📝 Go Back to Review", key="review_btn", use_container_width=True):
+                    st.session_state.show_submit_confirmation = False
+                    st.rerun()
+            with col2:
+                if st.button("✅ Submit Anyway", key="submit_anyway_btn", type="primary", use_container_width=True):
+                    st.session_state.show_submit_confirmation = False
+                    submit_test(auto=False)
 
     # heartbeat rerun (Streamlit limitation)
     time.sleep(0.5)

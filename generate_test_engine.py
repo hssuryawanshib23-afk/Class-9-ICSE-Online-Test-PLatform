@@ -216,18 +216,19 @@ def generate_test(chapters, difficulties, total_questions):
 
 
 def create_admin_test(test_name, chapters, total_questions, duration_minutes, 
-                      easy_pct, medium_pct, hard_pct, created_by_user_id, subject="Physics"):
+                      easy_pct, medium_pct, hard_pct, created_by_user_id, subject="Physics", concept_ids=None):
     """
     Create an admin test with pre-generated questions.
     
     Args:
         test_name: str - Name of the test
-        chapters: list[int] - Chapter numbers
+        chapters: list[int] - Chapter numbers (used if concept_ids is None)
         total_questions: int - Total questions
         duration_minutes: int - Test duration
         easy_pct, medium_pct, hard_pct: int - Difficulty percentages
         created_by_user_id: int - Admin user ID
         subject: str - Subject name (default "Physics")
+        concept_ids: list[int] - Specific concept IDs (overrides chapters if provided)
     
     Returns:
         int - admin_test_id or None if failed
@@ -237,9 +238,16 @@ def create_admin_test(test_name, chapters, total_questions, duration_minutes,
     
     try:
         # Generate questions with difficulty distribution
-        questions = generate_test_with_difficulty_cap(
-            chapters, total_questions, easy_pct, medium_pct, hard_pct, subject
-        )
+        if concept_ids:
+            # Use concept-based generation
+            questions = generate_test_from_concepts(
+                concept_ids, total_questions, easy_pct, medium_pct, hard_pct
+            )
+        else:
+            # Use chapter-based generation
+            questions = generate_test_with_difficulty_cap(
+                chapters, total_questions, easy_pct, medium_pct, hard_pct, subject
+            )
         
         if questions is None:
             conn.close()
