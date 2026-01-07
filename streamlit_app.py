@@ -913,7 +913,7 @@ def show_students_list():
     
     try:
         cur.execute(f"""
-            SELECT id, username, phone_number, school_name, class_name, board_name, created_at 
+            SELECT id, username, phone_number, school_name, class_name, board_name, recovery_code, created_at 
             FROM users 
             WHERE role = {placeholder}
             ORDER BY created_at DESC
@@ -928,13 +928,14 @@ def show_students_list():
         
         # Display as detailed cards
         st.markdown("---")
-        for student_id, username, phone, school, class_name, board, created_at in students:
+        for student_id, username, phone, school, class_name, board, recovery_code, created_at in students:
             col1, col2, col3 = st.columns([3, 2, 1])
             with col1:
                 st.write(f"**👤 {username}**")
                 st.caption(f"🏫 {school or 'N/A'} | 📚 Class {class_name or 'N/A'} | 📋 {board or 'N/A'}")
             with col2:
                 st.write(f"📱 {phone}")
+                st.write(f"🔑 Recovery: `{recovery_code or 'N/A'}`")
                 if created_at:
                     st.caption(f"📅 Registered: {format_timestamp(created_at)}")
             with col3:
