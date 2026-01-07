@@ -1248,7 +1248,7 @@ def signup_page():
             return
         
         result = create_user(u, p, pw, "student", school, class_name, board)
-        if result:
+        if result and isinstance(result, dict):
             st.success("✅ Account created successfully!")
             st.balloons()
             
