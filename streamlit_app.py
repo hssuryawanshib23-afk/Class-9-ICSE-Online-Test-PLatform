@@ -83,7 +83,7 @@ def admin_page():
     st.title("📊 Admin Dashboard")
     
     # Create tabs for different admin functions
-    tab1, tab2, tab3, tab4, tab5 = st.tabs(["📈 Statistics", "📝 Create Test", "🗂️ Manage Tests", "👥 Students", "🔐 Settings"])
+    tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs(["📈 Statistics", "📝 Create Test", "🗂️ Manage Tests", "👥 Students", "🏆 Leaderboard", "🔐 Settings"])
     
     with tab1:
         show_admin_statistics()
@@ -98,6 +98,9 @@ def admin_page():
         show_students_list()
     
     with tab5:
+        leaderboard_page()
+    
+    with tab6:
         admin_settings()
 
 
@@ -1187,8 +1190,8 @@ def forgot_password_page():
                 return
             
             # Update password in database
-            import hashlib
-            hashed_password = hashlib.sha256(new_password.encode()).hexdigest()
+            import bcrypt
+            hashed_password = bcrypt.hashpw(new_password.encode(), bcrypt.gensalt()).decode('utf-8')
             
             conn = get_connection()
             cur = conn.cursor()
@@ -1626,8 +1629,10 @@ def leaderboard_page():
                     u.board_name,
                     COUNT(DISTINCT ta.id) as custom_tests,
                     COUNT(DISTINCT ata.attempt_id) as admin_tests,
-                    COALESCE(AVG(CASE WHEN ta.total_questions > 0 THEN (ta.score * 100.0 / ta.total_questions) ELSE 0 END), 0) as custom_accuracy,
-                    COALESCE(AVG(ata.percentage), 0) as admin_accuracy,
+                    COALESCE(SUM(ta.score), 0) as custom_score,
+                    COALESCE(SUM(ta.total_questions), 0) as custom_total,
+                    COALESCE(SUM(ata.score), 0) as admin_score,
+                    COALESCE(SUM(ata.total_questions), 0) as admin_total,
                     COUNT(DISTINCT CASE WHEN q.difficulty = 'hard' AND r.is_correct = 1 THEN r.id END) as hard_correct
                 FROM users u
                 LEFT JOIN test_attempts ta ON u.id = ta.student_id
@@ -1643,7 +1648,13 @@ def leaderboard_page():
                 class_name,
                 board_name,
                 (custom_tests + admin_tests) as total_tests,
-                ROUND((custom_accuracy + admin_accuracy) / 2, 2) as overall_accuracy,
+                ROUND(
+                    CASE 
+                        WHEN (custom_total + admin_total) > 0 
+                        THEN ((custom_score + admin_score) * 100.0 / (custom_total + admin_total))
+                        ELSE 0 
+                    END, 2
+                ) as overall_accuracy,
                 hard_correct
             FROM user_stats
             WHERE (custom_tests + admin_tests) > 0
@@ -1889,11 +1900,11 @@ def custom_test_setup():
     col1, col2, col3 = st.columns(3)
     
     with col1:
-        easy_pct = st.slider("🟢 Easy %", 0, 60, 30, step=5, key="easy_slider")
+        easy_pct = st.slider("🟢 Easy %", 0, 60, 30, step=1, key="easy_slider")
     with col2:
-        medium_pct = st.slider("🟡 Medium %", 0, 60, 30, step=5, key="medium_slider")
+        medium_pct = st.slider("🟡 Medium %", 0, 60, 30, step=1, key="medium_slider")
     with col3:
-        hard_pct = st.slider("🔴 Hard %", 34, 100, 40, step=5, key="hard_slider")
+        hard_pct = st.slider("🔴 Hard %", 34, 100, 40, step=1, key="hard_slider")
     
     total_pct = easy_pct + medium_pct + hard_pct
     
@@ -2050,6 +2061,7 @@ def test_page():
                 if st.button("✅ Submit Anyway", key="submit_anyway_btn", type="primary", use_container_width=True):
                     st.session_state.show_submit_confirmation = False
                     submit_test(auto=False)
+                    st.rerun()
 
     # heartbeat rerun (Streamlit limitation)
     time.sleep(0.5)
