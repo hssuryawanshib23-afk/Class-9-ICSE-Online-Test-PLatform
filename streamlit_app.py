@@ -504,7 +504,7 @@ def create_test_interface():
                 FROM concepts c
                 JOIN chapters ch ON c.chapter_id = ch.id
                 WHERE ch.chapter_number IN ({chapter_placeholders})
-                AND ch.subject_name = {placeholder}
+                AND ch.subject = {placeholder}
             """, tuple(chapters) + (subject,))
             selected_concept_ids = [row[0] for row in cur.fetchall()]
             conn.close()
