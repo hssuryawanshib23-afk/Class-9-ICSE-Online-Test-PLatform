@@ -6,5 +6,5 @@ toolbarMode = "minimal"
 enableCORS = false
 
 [ui]
-hideTopBar = false
+hideTopBar = true
 hideSidebarNav = false
