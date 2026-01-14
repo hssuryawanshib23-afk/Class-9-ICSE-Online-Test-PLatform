@@ -1,0 +1,51 @@
+===============================================
+HOW TO ADD QUESTIONS TO JSON FILES
+===============================================
+
+LOCATION: Question/[Subject]/[Subject] Chapter [X].json
+
+STRUCTURE:
+----------
+Each question belongs to a concept inside the "concepts" array.
+
+EXAMPLE - Adding a question to Biology Chapter 1:
+--------------------------------------------------
+
+{
+  "question_id": "CH1_C5_Q7",                    // Pattern: CH[chapter]_C[concept#]_Q[question#]
+  "form": "application",                         // Options: definition, identification, reasoning, application, trap
+  "difficulty": "medium",                        // Options: easy, medium, hard
+  "thinking_type": "analytical",                 // Options: recall, conceptual, analytical, application
+  "question_text": "Which branch studies the relationship between organisms and their environment?",
+  "options": [
+    {"label": "A", "text": "Taxonomy", "is_correct": false},
+    {"label": "B", "text": "Ecology", "is_correct": true},
+    {"label": "C", "text": "Morphology", "is_correct": false},
+    {"label": "D", "text": "Physiology", "is_correct": false}
+  ],
+  "correct_label": "B",                          // Must match the correct option label
+  "key_concept": "Ecology studies organism-environment relationships.",
+  "exam_relevance": "high"                       // Options: high, medium, low
+}
+
+RULES:
+------
+1. Always use 4 options (A, B, C, D)
+2. Only ONE option should have "is_correct": true
+3. correct_label must match the correct option's label
+4. question_id must be unique across all chapters
+5. Add comma after previous question, no comma after last question
+
+QUICK CHECKLIST:
+---------------
+☑ Unique question_id
+☑ 4 options with labels A, B, C, D
+☑ Exactly 1 correct answer
+☑ correct_label matches correct option
+☑ Proper commas between questions
+
+RUN VALIDATION:
+--------------
+python questions_validation_script.py
+
+This checks for errors in all question files.
