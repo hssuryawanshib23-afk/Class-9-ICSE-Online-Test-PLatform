@@ -1,0 +1,10 @@
+[client]
+showErrorDetails = false
+toolbarMode = "minimal"
+
+[server]
+enableCORS = false
+
+[ui]
+hideTopBar = false
+hideSidebarNav = false
