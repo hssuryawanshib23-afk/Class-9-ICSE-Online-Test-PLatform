@@ -1658,7 +1658,7 @@ def leaderboard_page():
                 hard_correct
             FROM user_stats
             WHERE (custom_tests + admin_tests) > 0
-            ORDER BY overall_accuracy DESC, total_tests DESC, hard_correct DESC
+            ORDER BY hard_correct DESC, overall_accuracy DESC, total_tests DESC
             LIMIT 50
         """
         
@@ -1689,14 +1689,13 @@ def leaderboard_page():
                 color = "#555555"
             
             with st.container():
-                col1, col2, col3, col4 = st.columns([1, 3, 2, 2])
+                col1, col2, col3, col4 = st.columns([1, 4, 2, 2])
                 
                 with col1:
                     st.markdown(f"<h2 style='color: {color}; margin: 0;'>{medal}</h2>", unsafe_allow_html=True)
                 
                 with col2:
                     st.markdown(f"**{username}**")
-                    st.caption(f"🏫 {school or 'N/A'} | 📚 Class {class_name or 'N/A'} | 📋 {board or 'N/A'}")
                 
                 with col3:
                     st.metric("Accuracy", f"{accuracy}%")
