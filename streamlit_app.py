@@ -469,7 +469,7 @@ def create_test_interface():
     # Subject selection
     subject = st.selectbox(
         "Select Subject",
-        ["Physics", "Chemistry"],
+        ["Biology", "Physics", "Chemistry"],
         help="Choose the subject for this test"
     )
     
@@ -1817,7 +1817,7 @@ def custom_test_setup():
     # Subject selection
     subject = st.selectbox(
         "📚 Select Subject",
-        ["Physics", "Chemistry"],
+        ["Biology", "Physics", "Chemistry"],
         help="Choose which subject you want to practice"
     )
     
@@ -2003,6 +2003,9 @@ def admin_test_selection():
 
 # ================= TEST =================
 def test_page():
+    # Scroll to top when test starts
+    st.markdown('<script>window.scrollTo(0, 0);</script>', unsafe_allow_html=True)
+    
     st.title("Test")
 
     elapsed = int(time.time() - st.session_state.start_time)
@@ -2014,9 +2017,27 @@ def test_page():
 
     st.warning(f"⏳ Time left: {remaining//60}:{remaining%60:02d}")
 
-    for i, q in enumerate(st.session_state.test, 1):
+    # Initialize current page
+    if "current_page" not in st.session_state:
+        st.session_state.current_page = 0
+    
+    # Pagination settings
+    questions_per_page = 5
+    total_questions = len(st.session_state.test)
+    total_pages = (total_questions + questions_per_page - 1) // questions_per_page
+    
+    # Calculate question range for current page
+    start_idx = st.session_state.current_page * questions_per_page
+    end_idx = min(start_idx + questions_per_page, total_questions)
+    
+    # Page indicator
+    st.info(f"📄 Page {st.session_state.current_page + 1} of {total_pages} | Questions {start_idx + 1}-{end_idx} of {total_questions}")
+    
+    # Display questions for current page
+    for i in range(start_idx, end_idx):
+        q = st.session_state.test[i]
         # Don't show difficulty during test
-        st.markdown(f"**Q{i}. {q['text']}**")
+        st.markdown(f"**Q{i+1}. {q['text']}**")
 
         labels = [o[0] for o in q["options"]]
         label_map = {o[0]: o[1] for o in q["options"]}
@@ -2029,14 +2050,38 @@ def test_page():
             key=f"q_{q['id']}"
         )
         st.session_state.answers[q["id"]] = choice
-
+        st.markdown("---")
+    
+    # Navigation buttons
+    col1, col2, col3 = st.columns([1, 2, 1])
+    
+    with col1:
+        if st.session_state.current_page > 0:
+            if st.button("⬅️ Previous", use_container_width=True):
+                st.session_state.current_page -= 1
+                st.rerun()
+    
+    with col2:
+        # Show answered status
+        answered = sum(1 for q in st.session_state.test if st.session_state.answers.get(q["id"]))
+        st.info(f"📝 Answered: {answered}/{total_questions}")
+    
+    with col3:
+        if st.session_state.current_page < total_pages - 1:
+            if st.button("Next ➡️", use_container_width=True):
+                st.session_state.current_page += 1
+                st.rerun()
+    
+    # Submit button (show on last page or always)
+    st.markdown("---")
+    
     # Check for unanswered questions
     unanswered = []
     for i, q in enumerate(st.session_state.test, 1):
         if not st.session_state.answers.get(q["id"]):
             unanswered.append(i)
 
-    if st.button("Submit Test", key="submit_test_btn"):
+    if st.button("📤 Submit Test", key="submit_test_btn", type="primary", use_container_width=True):
         if unanswered:
             st.session_state.show_submit_confirmation = True
             st.session_state.unanswered_questions = unanswered
