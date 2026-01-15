@@ -18,6 +18,27 @@ st.set_page_config("Class 9 ICSE Test Platform", layout="wide")
 
 # Chapter name mappings - Physics and Chemistry
 CHAPTER_NAMES = {
+    "Biology": {
+        1: "Introducing Biology (Scope and Branches)",
+        2: "Cell - The Unit of Life",
+        3: "Tissues: Plant and Animal Tissues",
+        4: "The Flower",
+        5: "Pollination and Fertilization",
+        6: "Seed: Structure and Germination",
+        7: "Respiration in Plants",
+        8: "Five Kingdom Classification",
+        9: "Economic Importance of Bacteria and Fungi",
+        10: "Nutrition",
+        11: "Digestive System",
+        12: "Skeleton, Movement and Locomotion",
+        13: "Skin: The Jack of All Trades",
+        14: "The Respiratory System",
+        15: "Hygiene: A Key to Healthy Life",
+        16: "Diseases: Cause and Control",
+        17: "Aids to Health",
+        18: "Health Organizations",
+        19: "Waste Generation and Management"
+    },
     "Physics": {
         1: "Measurements and Experimentation",
         2: "Motion in One Dimension",
