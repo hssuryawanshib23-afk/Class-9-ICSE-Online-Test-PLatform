@@ -611,6 +611,8 @@ def create_test_interface():
     
     if available_questions == 0:
         st.warning("⚠️ No questions available for selected concepts/chapters")
+        if subject == "Biology":
+            st.info("💡 Biology questions may not be loaded yet. Run: `python insert_all_chapters.py`")
         return
     
     # Show breakdown
@@ -1946,7 +1948,16 @@ def custom_test_setup():
     
     st.info(f"📊 Your test will have: {easy_count} Easy + {medium_count} Medium + {hard_count} Hard = {total} Total")
 
-    if st.button("Start Test", key="start_test_btn", disabled=(total_pct != 100 or hard_pct < 34)):
+    # Validation warnings
+    can_start = True
+    if total_pct != 100:
+        st.error(f"❌ Total percentage must equal 100% (currently {total_pct}%)")
+        can_start = False
+    if hard_pct < 34:
+        st.error(f"❌ Hard questions must be at least 34% (currently {hard_pct}%)")
+        can_start = False
+    
+    if st.button("Start Test", key="start_test_btn", type="primary", disabled=not can_start):
         # Use new function with custom difficulty distribution for concepts
         questions = generate_test_from_concepts(
             concept_ids=selected_concept_ids,
