@@ -1922,11 +1922,11 @@ def custom_test_setup():
     col1, col2, col3 = st.columns(3)
     
     with col1:
-        easy_pct = st.slider("🟢 Easy %", 0, 60, 30, step=1, key="easy_slider")
+        easy_pct = st.number_input("🟢 Easy %", 0, 60, 30, step=1, key="easy_slider")
     with col2:
-        medium_pct = st.slider("🟡 Medium %", 0, 60, 30, step=1, key="medium_slider")
+        medium_pct = st.number_input("🟡 Medium %", 0, 60, 30, step=1, key="medium_slider")
     with col3:
-        hard_pct = st.slider("🔴 Hard %", 34, 100, 40, step=1, key="hard_slider")
+        hard_pct = st.number_input("🔴 Hard %", 34, 100, 40, step=1, key="hard_slider")
     
     total_pct = easy_pct + medium_pct + hard_pct
     
@@ -2137,11 +2137,12 @@ def test_page():
                 if st.button("✅ Submit Anyway", key="submit_anyway_btn", type="primary", use_container_width=True):
                     st.session_state.show_submit_confirmation = False
                     submit_test(auto=False)
-                    st.rerun()
+                    return  # Stop execution here
 
-    # heartbeat rerun (Streamlit limitation)
-    time.sleep(0.5)
-    st.rerun()
+    # heartbeat rerun (Streamlit limitation) - but not if submitting
+    if not st.session_state.get("page") == "result":
+        time.sleep(0.5)
+        st.rerun()
 
 def submit_test(auto=False):
     score = 0
