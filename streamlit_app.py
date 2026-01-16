@@ -2,6 +2,13 @@ import streamlit as st
 import time
 from datetime import datetime
 import pytz
+from io import BytesIO
+from reportlab.lib.pagesizes import letter, A4
+from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
+from reportlab.lib.units import inch
+from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle, PageBreak
+from reportlab.lib import colors
+from reportlab.lib.enums import TA_CENTER, TA_LEFT
 
 from auth import login, create_user
 from generate_test_engine import (
@@ -597,7 +604,7 @@ def create_test_interface():
         st.success(f"✅ Distribution: {easy_pct}% Easy, {medium_pct}% Medium, {hard_pct}% Hard")
     
     # Test parameters
-    col1, col2 = st.columns(2)
+    col1, col2, col3 = st.columns(3)
     with col1:
         total_questions = st.number_input(
             "Total Questions", 
@@ -608,6 +615,9 @@ def create_test_interface():
         )
     with col2:
         duration = st.number_input("Duration (minutes)", 5, 180, 60, help="Time limit for the test")
+    with col3:
+        st.markdown("<br>", unsafe_allow_html=True)
+        allow_retake = st.checkbox("🔁 Allow Retake", value=False, help="Allow students to take this test multiple times")
     
     if available_questions == 0:
         st.warning("⚠️ No questions available for selected concepts/chapters")
@@ -637,7 +647,8 @@ def create_test_interface():
                     hard_pct=hard_pct,
                     created_by_user_id=st.session_state.user['id'],
                     subject=subject,
-                    concept_ids=selected_concept_ids
+                    concept_ids=selected_concept_ids,
+                    allow_retake=allow_retake
                 )
                 
                 if admin_test_id:
@@ -2000,10 +2011,19 @@ def admin_test_selection():
             st.markdown(f"**Difficulty:** 🟢 {easy}% Easy, 🟡 {med}% Medium, 🔴 {hard}% Hard")
             st.markdown(f"**Created by:** {creator} on {format_timestamp(created_at)}")
             
-            # Check if student has already attempted
+            # Check if student has already attempted and if retakes are allowed
             conn = get_connection()
             cur = conn.cursor()
             placeholder = get_placeholder()
+            
+            # Get test settings
+            cur.execute(f"""
+                SELECT allow_retake FROM admin_tests
+                WHERE admin_test_id = {placeholder}
+            """, (test_id,))
+            allow_retake = cur.fetchone()[0] if cur.rowcount > 0 else False
+            
+            # Get attempt count
             cur.execute(f"""
                 SELECT COUNT(*) FROM admin_test_attempts
                 WHERE admin_test_id = {placeholder} AND user_id = {placeholder}
@@ -2014,20 +2034,27 @@ def admin_test_selection():
             col1, col2 = st.columns([3, 1])
             with col1:
                 if attempts_count > 0:
-                    st.info(f"✅ You've attempted this test {attempts_count} time(s)")
+                    if allow_retake:
+                        st.info(f"✅ Attempted {attempts_count} time(s) | 🔄 Retakes allowed")
+                    else:
+                        st.success(f"✅ You've completed this test ({attempts_count} attempt)")
             with col2:
-                if st.button(f"Start Test", key=f"start_admin_test_{test_id}", type="primary"):
-                    # Load admin test
-                    questions = get_admin_test_questions(test_id)
-                    
-                    st.session_state.test = questions
-                    st.session_state.test_type = "admin"  # Track test type
-                    st.session_state.admin_test_id = test_id  # Store admin test ID
-                    st.session_state.start_time = time.time()
-                    st.session_state.answers = {}
-                    st.session_state.duration = duration * 60
-                    st.session_state.page = "test"
-                    st.rerun()
+                # Show button only if no attempts OR retakes are allowed
+                if attempts_count == 0 or allow_retake:
+                    if st.button(f"Start Test", key=f"start_admin_test_{test_id}", type="primary"):
+                        # Load admin test
+                        questions = get_admin_test_questions(test_id)
+                        
+                        st.session_state.test = questions
+                        st.session_state.test_type = "admin"  # Track test type
+                        st.session_state.admin_test_id = test_id  # Store admin test ID
+                        st.session_state.start_time = time.time()
+                        st.session_state.answers = {}
+                        st.session_state.duration = duration * 60
+                        st.session_state.page = "test"
+                        st.rerun()
+                else:
+                    st.caption("🚫 Already completed")
 
 
 # ================= OLD SETUP (REMOVED) =================
@@ -2303,6 +2330,211 @@ def save_test_attempt(score, total_questions):
     finally:
         conn.close()
 
+def generate_pdf_report():
+    """Generate a PDF report of the test results"""
+    buffer = BytesIO()
+    doc = SimpleDocTemplate(buffer, pagesize=A4, rightMargin=30, leftMargin=30, topMargin=30, bottomMargin=18)
+    
+    # Container for the 'Flowable' objects
+    elements = []
+    
+    # Define styles
+    styles = getSampleStyleSheet()
+    title_style = ParagraphStyle(
+        'CustomTitle',
+        parent=styles['Heading1'],
+        fontSize=24,
+        textColor=colors.HexColor('#1f77b4'),
+        spaceAfter=30,
+        alignment=TA_CENTER
+    )
+    
+    heading_style = ParagraphStyle(
+        'CustomHeading',
+        parent=styles['Heading2'],
+        fontSize=16,
+        textColor=colors.HexColor('#2ca02c'),
+        spaceAfter=12,
+        spaceBefore=12
+    )
+    
+    normal_style = styles['Normal']
+    
+    # Get test data
+    score = st.session_state.score
+    total = len(st.session_state.test)
+    percentage = round((score / total) * 100, 2)
+    
+    # Calculate time taken
+    if hasattr(st.session_state, 'start_time'):
+        time_taken = int(time.time() - st.session_state.start_time)
+        minutes = time_taken // 60
+        seconds = time_taken % 60
+    else:
+        minutes, seconds = 0, 0
+    
+    # Title
+    elements.append(Paragraph("🎯 Test Analytics & Results", title_style))
+    elements.append(Spacer(1, 0.2*inch))
+    
+    # Performance Overview
+    elements.append(Paragraph("Performance Overview", heading_style))
+    
+    grade = "A+" if percentage >= 90 else "A" if percentage >= 80 else "B" if percentage >= 70 else "C" if percentage >= 60 else "D" if percentage >= 50 else "F"
+    accuracy = f"{percentage}%"
+    
+    performance_data = [
+        ['Metric', 'Value'],
+        ['Score', f'{score}/{total}'],
+        ['Percentage', f'{percentage}%'],
+        ['Grade', grade],
+        ['Time Taken', f'{minutes}m {seconds}s'],
+        ['Accuracy', accuracy]
+    ]
+    
+    perf_table = Table(performance_data, colWidths=[2.5*inch, 2.5*inch])
+    perf_table.setStyle(TableStyle([
+        ('BACKGROUND', (0, 0), (-1, 0), colors.grey),
+        ('TEXTCOLOR', (0, 0), (-1, 0), colors.whitesmoke),
+        ('ALIGN', (0, 0), (-1, -1), 'CENTER'),
+        ('FONTNAME', (0, 0), (-1, 0), 'Helvetica-Bold'),
+        ('FONTSIZE', (0, 0), (-1, 0), 12),
+        ('BOTTOMPADDING', (0, 0), (-1, 0), 12),
+        ('BACKGROUND', (0, 1), (-1, -1), colors.beige),
+        ('GRID', (0, 0), (-1, -1), 1, colors.black)
+    ]))
+    
+    elements.append(perf_table)
+    elements.append(Spacer(1, 0.3*inch))
+    
+    # Difficulty Breakdown
+    elements.append(Paragraph("Difficulty-wise Analysis", heading_style))
+    
+    # Calculate difficulty stats
+    easy_correct = easy_total = medium_correct = medium_total = hard_correct = hard_total = 0
+    
+    for q in st.session_state.test:
+        difficulty = q.get("difficulty", "").lower()
+        selected_label = st.session_state.answers.get(q["id"])
+        is_correct = False
+        
+        if selected_label:
+            for opt in q["options"]:
+                if opt[0] == selected_label and opt[2]:
+                    is_correct = True
+                    break
+        
+        if difficulty == "easy":
+            easy_total += 1
+            if is_correct:
+                easy_correct += 1
+        elif difficulty == "medium":
+            medium_total += 1
+            if is_correct:
+                medium_correct += 1
+        elif difficulty == "hard":
+            hard_total += 1
+            if is_correct:
+                hard_correct += 1
+    
+    diff_data = [['Difficulty', 'Correct', 'Total', 'Accuracy']]
+    
+    if easy_total > 0:
+        easy_acc = round((easy_correct / easy_total) * 100, 1)
+        diff_data.append(['Easy', str(easy_correct), str(easy_total), f'{easy_acc}%'])
+    
+    if medium_total > 0:
+        medium_acc = round((medium_correct / medium_total) * 100, 1)
+        diff_data.append(['Medium', str(medium_correct), str(medium_total), f'{medium_acc}%'])
+    
+    if hard_total > 0:
+        hard_acc = round((hard_correct / hard_total) * 100, 1)
+        diff_data.append(['Hard', str(hard_correct), str(hard_total), f'{hard_acc}%'])
+    
+    diff_table = Table(diff_data, colWidths=[1.5*inch, 1.5*inch, 1.5*inch, 1.5*inch])
+    diff_table.setStyle(TableStyle([
+        ('BACKGROUND', (0, 0), (-1, 0), colors.grey),
+        ('TEXTCOLOR', (0, 0), (-1, 0), colors.whitesmoke),
+        ('ALIGN', (0, 0), (-1, -1), 'CENTER'),
+        ('FONTNAME', (0, 0), (-1, 0), 'Helvetica-Bold'),
+        ('FONTSIZE', (0, 0), (-1, 0), 11),
+        ('BOTTOMPADDING', (0, 0), (-1, 0), 12),
+        ('BACKGROUND', (0, 1), (-1, -1), colors.lightblue),
+        ('GRID', (0, 0), (-1, -1), 1, colors.black)
+    ]))
+    
+    elements.append(diff_table)
+    elements.append(Spacer(1, 0.3*inch))
+    
+    # Insights
+    elements.append(Paragraph("Insights & Recommendations", heading_style))
+    
+    insights_text = ""
+    
+    # Strengths
+    if easy_total > 0 and easy_correct / easy_total >= 0.8:
+        insights_text += "✓ Strong grasp of fundamental concepts (Easy questions).<br/>"
+    if medium_total > 0 and medium_correct / medium_total >= 0.7:
+        insights_text += "✓ Good understanding of moderate complexity topics.<br/>"
+    if hard_total > 0 and hard_correct / hard_total >= 0.6:
+        insights_text += "✓ Excellent problem-solving skills on challenging questions!<br/>"
+    
+    insights_text += "<br/>"
+    
+    # Weaknesses
+    if easy_total > 0 and easy_correct / easy_total < 0.6:
+        insights_text += "⚠ Focus on strengthening basic fundamentals.<br/>"
+    if medium_total > 0 and medium_correct / medium_total < 0.5:
+        insights_text += "⚠ Need more practice on moderate difficulty topics.<br/>"
+    if hard_total > 0 and hard_correct / hard_total < 0.4:
+        insights_text += "⚠ Work on advanced problem-solving techniques.<br/>"
+    
+    elements.append(Paragraph(insights_text, normal_style))
+    elements.append(Spacer(1, 0.3*inch))
+    
+    # Question Review
+    elements.append(PageBreak())
+    elements.append(Paragraph("Question-by-Question Review", heading_style))
+    
+    for i, q in enumerate(st.session_state.test, 1):
+        selected_label = st.session_state.answers.get(q["id"])
+        
+        # Find correct answer
+        correct_label = None
+        for opt in q["options"]:
+            if opt[2]:  # is_correct
+                correct_label = opt[0]
+                break
+        
+        is_correct = selected_label == correct_label
+        result_icon = "✓" if is_correct else "✗"
+        result_color = colors.green if is_correct else colors.red
+        
+        # Question text
+        q_text = f"<b>Q{i}. {q['text']}</b> [{result_icon}]"
+        elements.append(Paragraph(q_text, normal_style))
+        elements.append(Spacer(1, 0.1*inch))
+        
+        # Options
+        for opt in q["options"]:
+            opt_label, opt_text, is_opt_correct = opt
+            prefix = ""
+            
+            if opt_label == selected_label:
+                prefix = "➤ Your answer: "
+            if is_opt_correct:
+                prefix += "✓ Correct: "
+            
+            opt_line = f"{prefix}{opt_label}. {opt_text}"
+            elements.append(Paragraph(opt_line, normal_style))
+        
+        elements.append(Spacer(1, 0.2*inch))
+    
+    # Build PDF
+    doc.build(elements)
+    buffer.seek(0)
+    return buffer
+
 # ================= RESULT =================
 def result_page():
     st.title("🎯 Test Analytics & Results")
@@ -2411,44 +2643,60 @@ def result_page():
     
     with col1:
         st.markdown("#### 📊 Score Distribution")
-        import pandas as pd
-        chart_data = pd.DataFrame({
-            'Result': ['Correct', 'Incorrect'],
-            'Count': [score, total - score]
-        })
-        st.bar_chart(chart_data.set_index('Result'))
+        import matplotlib.pyplot as plt
+        
+        fig, ax = plt.subplots(figsize=(5, 4))
+        categories = ['Correct', 'Incorrect']
+        values = [score, total - score]
+        colors = ['#28a745', '#dc3545']  # Green for correct, Red for incorrect
+        
+        ax.bar(categories, values, color=colors)
+        ax.set_ylabel('Number of Questions')
+        ax.set_title('Correct vs Incorrect')
+        
+        for i, v in enumerate(values):
+            ax.text(i, v + 0.5, str(v), ha='center', fontweight='bold')
+        
+        st.pyplot(fig)
     
     with col2:
         st.markdown("#### 🎯 Difficulty Breakdown")
         if easy_total > 0 or medium_total > 0 or hard_total > 0:
-            diff_data = pd.DataFrame({
-                'Difficulty': [],
-                'Correct': [],
-                'Incorrect': []
-            })
+            import numpy as np
+            
+            difficulties = []
+            correct_counts = []
+            incorrect_counts = []
             
             if easy_total > 0:
-                diff_data = pd.concat([diff_data, pd.DataFrame({
-                    'Difficulty': ['Easy'],
-                    'Correct': [easy_correct],
-                    'Incorrect': [easy_total - easy_correct]
-                })], ignore_index=True)
+                difficulties.append('Easy')
+                correct_counts.append(easy_correct)
+                incorrect_counts.append(easy_total - easy_correct)
             
             if medium_total > 0:
-                diff_data = pd.concat([diff_data, pd.DataFrame({
-                    'Difficulty': ['Medium'],
-                    'Correct': [medium_correct],
-                    'Incorrect': [medium_total - medium_correct]
-                })], ignore_index=True)
+                difficulties.append('Medium')
+                correct_counts.append(medium_correct)
+                incorrect_counts.append(medium_total - medium_correct)
             
             if hard_total > 0:
-                diff_data = pd.concat([diff_data, pd.DataFrame({
-                    'Difficulty': ['Hard'],
-                    'Correct': [hard_correct],
-                    'Incorrect': [hard_total - hard_correct]
-                })], ignore_index=True)
+                difficulties.append('Hard')
+                correct_counts.append(hard_correct)
+                incorrect_counts.append(hard_total - hard_correct)
             
-            st.bar_chart(diff_data.set_index('Difficulty'))
+            fig, ax = plt.subplots(figsize=(5, 4))
+            x = np.arange(len(difficulties))
+            width = 0.35
+            
+            ax.bar(x - width/2, correct_counts, width, label='Correct', color='#28a745')
+            ax.bar(x + width/2, incorrect_counts, width, label='Incorrect', color='#dc3545')
+            
+            ax.set_ylabel('Number of Questions')
+            ax.set_title('Difficulty-wise Performance')
+            ax.set_xticks(x)
+            ax.set_xticklabels(difficulties)
+            ax.legend()
+            
+            st.pyplot(fig)
     
     st.markdown("---")
     
@@ -2520,12 +2768,16 @@ def result_page():
                 label, text, is_correct_opt = opt
                 
                 if label == selected and is_correct_opt:
+                    # Student selected correct answer - show only in green
                     st.success(f"✅ **{label}. {text}** ← Your answer (Correct!)")
                 elif label == selected and not is_correct_opt:
+                    # Student selected wrong answer - show in red
                     st.error(f"❌ **{label}. {text}** ← Your answer (Incorrect)")
-                elif is_correct_opt:
+                elif is_correct_opt and not is_correct:
+                    # Show correct answer only if student got it wrong or didn't answer
                     st.info(f"✓ **{label}. {text}** ← Correct answer")
                 else:
+                    # Other options - show normally
                     st.markdown(f"{label}. {text}")
             
             st.markdown("---")
@@ -2543,16 +2795,80 @@ def result_page():
     
     st.markdown("---")
     
+    # PDF Download Button
+    st.markdown("### 📄 Export Results")
+    col_pdf1, col_pdf2, col_pdf3 = st.columns([1, 2, 1])
+    with col_pdf2:
+        try:
+            pdf_buffer = generate_pdf_report()
+            st.download_button(
+                label="📥 Download PDF Report",
+                data=pdf_buffer,
+                file_name=f"test_results_{datetime.now().strftime('%Y%m%d_%H%M%S')}.pdf",
+                mime="application/pdf",
+                type="primary",
+                use_container_width=True
+            )
+        except Exception as e:
+            st.error(f"Error generating PDF: {e}")
+    
+    st.markdown("---")
+    
     # Action buttons
-    col1, col2 = st.columns(2)
+    # Check if this is an admin test that allows retakes OR a custom test
+    show_retake = False
+    if st.session_state.get("test_type") == "admin" and st.session_state.get("admin_test_id"):
+        # Check if retakes are allowed for this admin test
+        conn = get_connection()
+        cur = conn.cursor()
+        placeholder = get_placeholder()
+        cur.execute(f"""
+            SELECT allow_retake FROM admin_tests
+            WHERE admin_test_id = {placeholder}
+        """, (st.session_state.admin_test_id,))
+        result = cur.fetchone()
+        conn.close()
+        if result and result[0]:
+            show_retake = True
+    elif st.session_state.get("test_type") != "admin":
+        # Custom tests can always be retaken
+        show_retake = True
+    
+    if show_retake:
+        col1, col2, col3 = st.columns(3)
+    else:
+        col1, col2, col3 = st.columns([1, 1, 0.01])
+    
     with col1:
         if st.button("📊 Take Another Test", key="new_test_btn", type="primary"):
             st.session_state.page = "setup"
             st.rerun()
+    
     with col2:
         if st.button("🏠 Back to Dashboard", key="back_dashboard_btn"):
             st.session_state.page = "setup"
             st.rerun()
+    
+    with col3:
+        if show_retake:
+            if st.button("🔄 Retake This Test", key="retake_test_btn", type="secondary"):
+                # Reload the same test
+                if st.session_state.get("test_type") == "admin":
+                    # Reload admin test
+                    questions = get_admin_test_questions(st.session_state.admin_test_id)
+                    st.session_state.test = questions
+                else:
+                    # For custom tests, we need to regenerate
+                    # Store the last test parameters if available
+                    st.warning("To retake a custom test, please create a new one with the same settings.")
+                    st.stop()
+                
+                # Reset test state
+                st.session_state.start_time = time.time()
+                st.session_state.answers = {}
+                st.session_state.current_page = 0
+                st.session_state.page = "test"
+                st.rerun()
 
 # ================= ROUTER =================
 if st.session_state.user is None:

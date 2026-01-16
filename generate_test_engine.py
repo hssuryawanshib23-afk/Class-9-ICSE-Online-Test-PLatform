@@ -216,7 +216,7 @@ def generate_test(chapters, difficulties, total_questions):
 
 
 def create_admin_test(test_name, chapters, total_questions, duration_minutes, 
-                      easy_pct, medium_pct, hard_pct, created_by_user_id, subject="Physics", concept_ids=None):
+                      easy_pct, medium_pct, hard_pct, created_by_user_id, subject="Physics", concept_ids=None, allow_retake=False):
     """
     Create an admin test with pre-generated questions.
     
@@ -229,6 +229,7 @@ def create_admin_test(test_name, chapters, total_questions, duration_minutes,
         created_by_user_id: int - Admin user ID
         subject: str - Subject name (default "Physics")
         concept_ids: list[int] - Specific concept IDs (overrides chapters if provided)
+        allow_retake: bool - Allow students to take the test multiple times (default False)
     
     Returns:
         int - admin_test_id or None if failed
@@ -264,25 +265,25 @@ def create_admin_test(test_name, chapters, total_questions, duration_minutes,
             query = """
                 INSERT INTO admin_tests 
                 (test_name, created_by, total_questions, duration_minutes,
-                 easy_percentage, medium_percentage, hard_percentage, chapters, is_active)
-                VALUES ({}, {}, {}, {}, {}, {}, {}, {}, true)
+                 easy_percentage, medium_percentage, hard_percentage, chapters, is_active, allow_retake)
+                VALUES ({}, {}, {}, {}, {}, {}, {}, {}, true, {})
                 RETURNING admin_test_id
-            """.format(*([placeholder] * 8))
+            """.format(*([placeholder] * 9))
             
             cur.execute(query, (test_name, created_by_user_id, total_questions, duration_minutes,
-                  easy_pct, medium_pct, hard_pct, chapters_str))
+                  easy_pct, medium_pct, hard_pct, chapters_str, allow_retake))
             admin_test_id = cur.fetchone()[0]
         else:
             # SQLite without RETURNING
             query = """
                 INSERT INTO admin_tests 
                 (test_name, created_by, total_questions, duration_minutes,
-                 easy_percentage, medium_percentage, hard_percentage, chapters, is_active)
-                VALUES ({}, {}, {}, {}, {}, {}, {}, {}, 1)
-            """.format(*([placeholder] * 8))
+                 easy_percentage, medium_percentage, hard_percentage, chapters, is_active, allow_retake)
+                VALUES ({}, {}, {}, {}, {}, {}, {}, {}, 1, {})
+            """.format(*([placeholder] * 9))
             
             cur.execute(query, (test_name, created_by_user_id, total_questions, duration_minutes,
-                  easy_pct, medium_pct, hard_pct, chapters_str))
+                  easy_pct, medium_pct, hard_pct, chapters_str, 1 if allow_retake else 0))
             admin_test_id = cur.lastrowid
         
         # Link questions to this test
