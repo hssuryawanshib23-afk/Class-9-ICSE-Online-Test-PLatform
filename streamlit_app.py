@@ -2406,39 +2406,49 @@ def result_page():
         else:
             st.metric("🔴 Hard", "N/A")
     
-    st.markdown("---")
+    # Visual Charts
+    col1, col2 = st.columns(2)
     
-    # ========== CONCEPT-WISE BREAKDOWN ==========
-    st.markdown("### 🎓 Concept-wise Analysis")
+    with col1:
+        st.markdown("#### 📊 Score Distribution")
+        import pandas as pd
+        chart_data = pd.DataFrame({
+            'Result': ['Correct', 'Incorrect'],
+            'Count': [score, total - score]
+        })
+        st.bar_chart(chart_data.set_index('Result'))
     
-    # Group questions by concepts
-    concept_performance = {}
-    for q in st.session_state.test:
-        concept = q.get('concept', 'General')
-        qid = q["id"]
-        selected = st.session_state.answers.get(qid)
-        is_correct = any(opt[0] == selected and opt[2] for opt in q["options"])
-        
-        if concept not in concept_performance:
-            concept_performance[concept] = {'correct': 0, 'total': 0}
-        
-        concept_performance[concept]['total'] += 1
-        if is_correct:
-            concept_performance[concept]['correct'] += 1
-    
-    # Display concept breakdown
-    for concept, stats in sorted(concept_performance.items(), key=lambda x: x[1]['correct']/x[1]['total'], reverse=True):
-        correct = stats['correct']
-        total = stats['total']
-        pct = round((correct / total) * 100)
-        
-        col1, col2 = st.columns([3, 1])
-        with col1:
-            st.write(f"**{concept}**")
-            st.progress(pct / 100)
-        with col2:
-            status = "✅" if pct >= 70 else "⚠️" if pct >= 50 else "❌"
-            st.write(f"{status} {correct}/{total} ({pct}%)")
+    with col2:
+        st.markdown("#### 🎯 Difficulty Breakdown")
+        if easy_total > 0 or medium_total > 0 or hard_total > 0:
+            diff_data = pd.DataFrame({
+                'Difficulty': [],
+                'Correct': [],
+                'Incorrect': []
+            })
+            
+            if easy_total > 0:
+                diff_data = pd.concat([diff_data, pd.DataFrame({
+                    'Difficulty': ['Easy'],
+                    'Correct': [easy_correct],
+                    'Incorrect': [easy_total - easy_correct]
+                })], ignore_index=True)
+            
+            if medium_total > 0:
+                diff_data = pd.concat([diff_data, pd.DataFrame({
+                    'Difficulty': ['Medium'],
+                    'Correct': [medium_correct],
+                    'Incorrect': [medium_total - medium_correct]
+                })], ignore_index=True)
+            
+            if hard_total > 0:
+                diff_data = pd.concat([diff_data, pd.DataFrame({
+                    'Difficulty': ['Hard'],
+                    'Correct': [hard_correct],
+                    'Incorrect': [hard_total - hard_correct]
+                })], ignore_index=True)
+            
+            st.bar_chart(diff_data.set_index('Difficulty'))
     
     st.markdown("---")
     
@@ -2519,6 +2529,17 @@ def result_page():
                     st.markdown(f"{label}. {text}")
             
             st.markdown("---")
+    
+    st.markdown("---")
+    
+    # Words of empathy
+    st.markdown("### 💙 A Message for You")
+    if percentage >= 80:
+        st.info("You're doing amazing! Every correct answer shows your dedication. Keep believing in yourself.")
+    elif percentage >= 60:
+        st.info("Progress isn't always perfect, and that's okay. You're learning and growing with every attempt. Be proud of how far you've come.")
+    else:
+        st.info("Remember, every expert was once a beginner. Don't be too hard on yourself—mistakes are proof you're trying. You've got this!")
     
     st.markdown("---")
     
