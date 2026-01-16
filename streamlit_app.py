@@ -2483,8 +2483,6 @@ def result_page():
     
     # ========== DETAILED REVIEW ==========
     with st.expander("📋 Question-by-Question Review", expanded=False):
-    # ========== DETAILED REVIEW ==========
-    with st.expander("📋 Question-by-Question Review", expanded=False):
         for i, q in enumerate(st.session_state.test, 1):
             qid = q["id"]
             selected = st.session_state.answers.get(qid)
