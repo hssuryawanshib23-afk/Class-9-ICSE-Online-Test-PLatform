@@ -2305,68 +2305,224 @@ def save_test_attempt(score, total_questions):
 
 # ================= RESULT =================
 def result_page():
-    st.title("Test Results")
+    st.title("🎯 Test Analytics & Results")
     
     score = st.session_state.score
     total = len(st.session_state.test)
     percentage = round((score / total) * 100, 2)
     
-    # Overall score display
-    col1, col2, col3 = st.columns(3)
+    # Calculate time taken
+    if hasattr(st.session_state, 'start_time'):
+        time_taken = int(time.time() - st.session_state.start_time)
+        minutes = time_taken // 60
+        seconds = time_taken % 60
+    else:
+        minutes, seconds = 0, 0
+    
+    # ========== PERFORMANCE OVERVIEW ==========
+    st.markdown("### 📊 Performance Overview")
+    
+    col1, col2, col3, col4 = st.columns(4)
     with col1:
-        st.metric("📝 Score", f"{score}/{total}")
+        st.metric("Score", f"{score}/{total}", delta=f"{percentage}%")
     with col2:
-        st.metric("📊 Percentage", f"{percentage}%")
+        grade = "A+" if percentage >= 90 else "A" if percentage >= 80 else "B" if percentage >= 70 else "C" if percentage >= 60 else "D" if percentage >= 50 else "F"
+        grade_color = "🟢" if percentage >= 70 else "🟡" if percentage >= 50 else "🔴"
+        st.metric("Grade", f"{grade_color} {grade}")
     with col3:
-        emoji = "🌟" if percentage >= 80 else "✅" if percentage >= 60 else "⚠️" if percentage >= 40 else "❌"
-        st.metric("Grade", emoji)
+        st.metric("Time Taken", f"{minutes}m {seconds}s")
+    with col4:
+        accuracy = percentage
+        st.metric("Accuracy", f"{accuracy}%")
+    
+    # Progress bar
+    st.progress(percentage / 100)
+    
+    # Performance message
+    if percentage >= 90:
+        st.success("🌟 Outstanding! You've mastered this topic!")
+    elif percentage >= 75:
+        st.success("✅ Excellent work! You have a strong understanding.")
+    elif percentage >= 60:
+        st.info("👍 Good job! A bit more practice will make you perfect.")
+    elif percentage >= 40:
+        st.warning("📚 Keep practicing! Review the concepts you missed.")
+    else:
+        st.error("💪 Don't give up! Focus on understanding the fundamentals.")
     
     st.markdown("---")
     
-    # Detailed question breakdown
-    st.subheader("📋 Question-by-Question Review")
+    # ========== DIFFICULTY-WISE ANALYSIS ==========
+    st.markdown("### 📈 Difficulty-wise Performance")
     
-    for i, q in enumerate(st.session_state.test, 1):
+    # Calculate difficulty breakdown
+    easy_correct = easy_total = 0
+    medium_correct = medium_total = 0
+    hard_correct = hard_total = 0
+    
+    for q in st.session_state.test:
+        difficulty = q.get('difficulty', 'medium')
         qid = q["id"]
         selected = st.session_state.answers.get(qid)
         
-        # Find correct answer
-        correct_option = None
-        is_correct = False
+        is_correct = any(opt[0] == selected and opt[2] for opt in q["options"])
         
-        for opt in q["options"]:
-            if opt[2]:  # is_correct flag
-                correct_option = opt
-            if opt[0] == selected and opt[2]:
-                is_correct = True
+        if difficulty == 'easy':
+            easy_total += 1
+            if is_correct:
+                easy_correct += 1
+        elif difficulty == 'medium':
+            medium_total += 1
+            if is_correct:
+                medium_correct += 1
+        elif difficulty == 'hard':
+            hard_total += 1
+            if is_correct:
+                hard_correct += 1
+    
+    col1, col2, col3 = st.columns(3)
+    
+    with col1:
+        if easy_total > 0:
+            easy_pct = round((easy_correct / easy_total) * 100)
+            st.metric("🟢 Easy", f"{easy_correct}/{easy_total}", delta=f"{easy_pct}%")
+            st.progress(easy_pct / 100)
+        else:
+            st.metric("🟢 Easy", "N/A")
+    
+    with col2:
+        if medium_total > 0:
+            medium_pct = round((medium_correct / medium_total) * 100)
+            st.metric("🟡 Medium", f"{medium_correct}/{medium_total}", delta=f"{medium_pct}%")
+            st.progress(medium_pct / 100)
+        else:
+            st.metric("🟡 Medium", "N/A")
+    
+    with col3:
+        if hard_total > 0:
+            hard_pct = round((hard_correct / hard_total) * 100)
+            st.metric("🔴 Hard", f"{hard_correct}/{hard_total}", delta=f"{hard_pct}%")
+            st.progress(hard_pct / 100)
+        else:
+            st.metric("🔴 Hard", "N/A")
+    
+    st.markdown("---")
+    
+    # ========== CONCEPT-WISE BREAKDOWN ==========
+    st.markdown("### 🎓 Concept-wise Analysis")
+    
+    # Group questions by concepts
+    concept_performance = {}
+    for q in st.session_state.test:
+        concept = q.get('concept', 'General')
+        qid = q["id"]
+        selected = st.session_state.answers.get(qid)
+        is_correct = any(opt[0] == selected and opt[2] for opt in q["options"])
         
-        # Display question with result indicator
-        result_emoji = "✅" if is_correct else "❌"
-        difficulty = q.get('difficulty', 'medium')
-        diff_badge = "🟢" if difficulty == "easy" else "🔴" if difficulty == "hard" else "🟡"
+        if concept not in concept_performance:
+            concept_performance[concept] = {'correct': 0, 'total': 0}
         
-        with st.container():
-            st.markdown(f"### {result_emoji} Question {i} {diff_badge} {difficulty.title()}")
-            st.markdown(f"**{q['text']}**")
+        concept_performance[concept]['total'] += 1
+        if is_correct:
+            concept_performance[concept]['correct'] += 1
+    
+    # Display concept breakdown
+    for concept, stats in sorted(concept_performance.items(), key=lambda x: x[1]['correct']/x[1]['total'], reverse=True):
+        correct = stats['correct']
+        total = stats['total']
+        pct = round((correct / total) * 100)
+        
+        col1, col2 = st.columns([3, 1])
+        with col1:
+            st.write(f"**{concept}**")
+            st.progress(pct / 100)
+        with col2:
+            status = "✅" if pct >= 70 else "⚠️" if pct >= 50 else "❌"
+            st.write(f"{status} {correct}/{total} ({pct}%)")
+    
+    st.markdown("---")
+    
+    # ========== STRENGTHS & WEAKNESSES ==========
+    st.markdown("### 💡 Insights & Recommendations")
+    
+    col1, col2 = st.columns(2)
+    
+    with col1:
+        st.markdown("#### 💪 Strengths")
+        strengths = []
+        if hard_total > 0 and hard_pct >= 70:
+            strengths.append("✓ Strong grasp of difficult concepts")
+        if percentage >= 80:
+            strengths.append("✓ Excellent overall understanding")
+        if easy_total > 0 and easy_pct >= 90:
+            strengths.append("✓ Solid foundation in basics")
+        
+        if strengths:
+            for strength in strengths:
+                st.success(strength)
+        else:
+            st.info("Keep practicing to build your strengths!")
+    
+    with col2:
+        st.markdown("#### 📚 Areas to Improve")
+        weaknesses = []
+        if hard_total > 0 and hard_pct < 50:
+            weaknesses.append("• Focus on challenging topics")
+        if medium_total > 0 and medium_pct < 60:
+            weaknesses.append("• Review intermediate concepts")
+        if percentage < 60:
+            weaknesses.append("• Revisit fundamental concepts")
+        
+        if weaknesses:
+            for weakness in weaknesses:
+                st.warning(weakness)
+        else:
+            st.success("Excellent! Keep up the great work!")
+    
+    st.markdown("---")
+    
+    # ========== DETAILED REVIEW ==========
+    with st.expander("📋 Question-by-Question Review", expanded=False):
+    # ========== DETAILED REVIEW ==========
+    with st.expander("📋 Question-by-Question Review", expanded=False):
+        for i, q in enumerate(st.session_state.test, 1):
+            qid = q["id"]
+            selected = st.session_state.answers.get(qid)
+            
+            # Find correct answer
+            correct_option = None
+            is_correct = False
+            
+            for opt in q["options"]:
+                if opt[2]:  # is_correct flag
+                    correct_option = opt
+                if opt[0] == selected and opt[2]:
+                    is_correct = True
+            
+            # Display question with result indicator
+            result_emoji = "✅" if is_correct else "❌"
+            difficulty = q.get('difficulty', 'medium')
+            diff_badge = "🟢" if difficulty == "easy" else "🔴" if difficulty == "hard" else "🟡"
+            
+            st.markdown(f"**{result_emoji} Q{i}** {diff_badge} *{difficulty.title()}*")
+            st.markdown(f"{q['text']}")
             
             # Show all options with indicators
             for opt in q["options"]:
                 label, text, is_correct_opt = opt
                 
                 if label == selected and is_correct_opt:
-                    # Correct answer selected
                     st.success(f"✅ **{label}. {text}** ← Your answer (Correct!)")
                 elif label == selected and not is_correct_opt:
-                    # Wrong answer selected
                     st.error(f"❌ **{label}. {text}** ← Your answer (Incorrect)")
                 elif is_correct_opt:
-                    # Show correct answer
                     st.info(f"✓ **{label}. {text}** ← Correct answer")
                 else:
-                    # Other options
                     st.markdown(f"{label}. {text}")
             
             st.markdown("---")
+    
+    st.markdown("---")
     
     # Action buttons
     col1, col2 = st.columns(2)
