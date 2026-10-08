@@ -51,10 +51,10 @@ git push -u origin main
 
 ```toml
 [postgres]
-host = "ep-late-bonus-a12sc43w-pooler.ap-southeast-1.aws.neon.tech"
+host = "your-endpoint-pooler.region.aws.neon.tech"
 database = "neondb"
 user = "neondb_owner"
-password = "npg_N1WsLrbnM5iX"
+password = "your-neon-password"
 port = "5432"
 ```
 

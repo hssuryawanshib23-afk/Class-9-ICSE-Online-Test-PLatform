@@ -5,12 +5,17 @@ Run this to create a fresh admin account
 import bcrypt
 import psycopg2
 
-# Your Neon.tech credentials
-HOST = "ep-late-bonus-a12sc43w-pooler.ap-southeast-1.aws.neon.tech"
-DATABASE = "neondb"
-USER = "neondb_owner"
-PASSWORD = "npg_N1WsLrbnM5iX"
-PORT = "5432"
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+# Credentials come from environment variables (or a local .env), never from source
+HOST = os.environ["POSTGRES_HOST"]
+DATABASE = os.environ["POSTGRES_DATABASE"]
+USER = os.environ["POSTGRES_USER"]
+PASSWORD = os.environ["POSTGRES_PASSWORD"]
+PORT = os.getenv("POSTGRES_PORT", "5432")
 
 print("\n" + "="*60)
 print("Create New Admin Account")

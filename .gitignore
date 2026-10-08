@@ -24,3 +24,12 @@ database/*.db
 # OS
 .DS_Store
 Thumbs.db
+
+# Secrets / local config
+.env
+.env.*
+!.env.example
+
+# Local data and vector index artifacts
+*.db
+*.sqlite3

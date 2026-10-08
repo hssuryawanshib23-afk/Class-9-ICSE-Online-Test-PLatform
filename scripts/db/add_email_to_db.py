@@ -11,7 +11,7 @@ print("\nEnter your PostgreSQL connection details:")
 print("(Find these in your Neon.tech dashboard)")
 print()
 
-host = input("Host: ").strip() or "ep-late-bonus-a12sc43w-pooler.ap-southeast-1.aws.neon.tech"
+host = input("Host: ").strip()
 database = input("Database: ").strip() or "neondb"
 user = input("User: ").strip() or "neondb_owner"
 password = input("Password: ").strip()
