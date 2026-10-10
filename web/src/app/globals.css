@@ -1,0 +1,60 @@
+@import "tailwindcss";
+
+:root {
+  --background: #fbfaff;
+  --foreground: #14122b;
+  --muted: #6b6a85;
+  --card: #ffffff;
+  --border: #e6e4f5;
+  --brand: #5b3df5;
+  --brand-2: #8b5cf6;
+  --accent: #ffb703;
+  --good: #16a34a;
+  --bad: #dc2626;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0d0b1e;
+    --foreground: #f2f0ff;
+    --muted: #9a98b8;
+    --card: #16133a;
+    --border: #2a2658;
+  }
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-card: var(--card);
+  --color-border: var(--border);
+  --color-brand: var(--brand);
+  --color-brand-2: var(--brand-2);
+  --color-accent: var(--accent);
+  --color-good: var(--good);
+  --color-bad: var(--bad);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-geist-sans), system-ui, sans-serif;
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0) rotate(var(--r, 0deg)); }
+  50% { transform: translateY(-14px) rotate(var(--r, 0deg)); }
+}
+@keyframes drift {
+  0% { transform: translate(0, 0) scale(1); }
+  100% { transform: translate(30px, -20px) scale(1.15); }
+}
+.float { animation: float 6s ease-in-out infinite; }
+.drift { animation: drift 9s ease-in-out infinite alternate; }
+
+@media (prefers-reduced-motion: reduce) {
+  .float, .drift { animation: none; }
+}
