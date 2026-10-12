@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useActionState } from "react";
 import { login } from "@/app/actions/auth";
 import { AuthShell, buttonCls, inputCls } from "@/components/AuthShell";
+import { PasswordField } from "@/components/PasswordField";
 
 export default function LoginPage() {
   const [state, action, pending] = useActionState(login, undefined);
@@ -21,11 +22,7 @@ export default function LoginPage() {
           <input id="username" name="username" autoComplete="username" defaultValue={state?.values?.username} className={inputCls} />
           {state?.errors?.username && <p className="mt-1 text-sm text-bad">{state.errors.username[0]}</p>}
         </div>
-        <div>
-          <label htmlFor="password" className="mb-1.5 block text-sm font-medium">Password</label>
-          <input id="password" name="password" type="password" autoComplete="current-password" className={inputCls} />
-          {state?.errors?.password && <p className="mt-1 text-sm text-bad">{state.errors.password[0]}</p>}
-        </div>
+        <PasswordField autoComplete="current-password" error={state?.errors?.password?.[0]} />
         <button type="submit" disabled={pending} className={buttonCls}>
           {pending ? "Logging in…" : "Log in"}
         </button>

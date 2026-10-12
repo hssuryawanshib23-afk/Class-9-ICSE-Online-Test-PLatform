@@ -4,13 +4,14 @@ import Link from "next/link";
 import { useActionState } from "react";
 import { signup } from "@/app/actions/auth";
 import { AuthShell, buttonCls, inputCls } from "@/components/AuthShell";
+import { PasswordField } from "@/components/PasswordField";
 
 const FIELDS = [
   { name: "username", label: "Username", type: "text", auto: "username", required: true },
   { name: "phone_number", label: "Mobile number", type: "tel", auto: "tel-national", required: true },
-  { name: "password", label: "Password", type: "password", auto: "new-password", required: true },
-  { name: "school_name", label: "School (optional)", type: "text", auto: "organization", required: false },
 ] as const;
+
+const SCHOOL = { name: "school_name", label: "School (optional)", type: "text", auto: "organization", required: false } as const;
 
 export default function SignupPage() {
   const [state, action, pending] = useActionState(signup, undefined);
@@ -38,7 +39,15 @@ export default function SignupPage() {
         {FIELDS.map((f) => (
           <div key={f.name}>
             <label htmlFor={f.name} className="mb-1.5 block text-sm font-medium">{f.label}</label>
-            <input id={f.name} name={f.name} type={f.type} autoComplete={f.auto} required={f.required} defaultValue={f.name === "password" ? undefined : state?.values?.[f.name]} className={inputCls} />
+            <input id={f.name} name={f.name} type={f.type} autoComplete={f.auto} required={f.required} defaultValue={state?.values?.[f.name]} className={inputCls} />
+            {state?.errors?.[f.name] && <p className="mt-1 text-sm text-bad">{state.errors[f.name]![0]}</p>}
+          </div>
+        ))}
+        <PasswordField autoComplete="new-password" showStrength error={state?.errors?.password?.[0]} />
+        {[SCHOOL].map((f) => (
+          <div key={f.name}>
+            <label htmlFor={f.name} className="mb-1.5 block text-sm font-medium">{f.label}</label>
+            <input id={f.name} name={f.name} type={f.type} autoComplete={f.auto} required={f.required} defaultValue={state?.values?.[f.name]} className={inputCls} />
             {state?.errors?.[f.name] && <p className="mt-1 text-sm text-bad">{state.errors[f.name]![0]}</p>}
           </div>
         ))}
