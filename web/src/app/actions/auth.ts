@@ -78,14 +78,24 @@ export async function signup(_prev: FormState, formData: FormData): Promise<Form
   }
 
   const hash = await bcrypt.hash(d.password, 12);
-  // 12-digit code from a CSPRNG (the Streamlit app used 8 digits via random.randint).
-  const recoveryCode = String(randomInt(0, 1_000_000_000_000)).padStart(12, "0");
+  // users.recovery_code is varchar(8) in production, so keep 8 digits but draw them from a CSPRNG
+  // (the Streamlit app used random.randint, which is not cryptographically secure).
+  const recoveryCode = String(randomInt(0, 100_000_000)).padStart(8, "0");
 
-  const rows = await query<{ id: number }>(
-    `INSERT INTO users (username, phone_number, password_hash, role, school_name, class_name, board_name, recovery_code, created_at)
-     VALUES ($1, $2, $3, 'student', $4, $5, $6, $7, CURRENT_TIMESTAMP) RETURNING id`,
-    [d.username, d.phone_number, hash, d.school_name ?? null, d.class_name ?? null, d.board_name ?? null, recoveryCode],
-  );
+  let rows: { id: number }[];
+  try {
+    rows = await query<{ id: number }>(
+      `INSERT INTO users (username, phone_number, password_hash, role, school_name, class_name, board_name, recovery_code, created_at)
+       VALUES ($1, $2, $3, 'student', $4, $5, $6, $7, CURRENT_TIMESTAMP) RETURNING id`,
+      [d.username, d.phone_number, hash, d.school_name ?? null, d.class_name ?? null, d.board_name ?? null, recoveryCode],
+    );
+  } catch (err) {
+    // Two signups with the same phone number racing past the check above.
+    if ((err as { code?: string }).code === "23505") {
+      return { message: "That username or phone number cannot be used. Try different details.", values };
+    }
+    throw err;
+  }
 
   await createSession(rows[0].id);
   // Shown once on the dashboard; passed through the redirect would leak it into URLs/logs, so use a re-render.
