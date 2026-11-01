@@ -1,7 +1,6 @@
 import Link from "next/link";
-import { redirect } from "next/navigation";
 import { AppHeader } from "@/components/AppHeader";
-import { getSession } from "@/lib/session";
+import { requireStudent } from "@/lib/guards";
 import { getStudentStats, getSubjectSummaries, type StudentStats, type SubjectSummary } from "@/lib/stats";
 
 // Reads the session on every request, so it cannot be prerendered.
@@ -25,8 +24,7 @@ function scoreColor(p: number) {
 }
 
 export default async function DashboardPage() {
-  const user = await getSession();
-  if (!user) redirect("/login");
+  const user = await requireStudent();
 
   let stats: StudentStats | null = null;
   let subjects: SubjectSummary[] = [];
@@ -38,7 +36,7 @@ export default async function DashboardPage() {
 
   return (
     <>
-      <AppHeader username={user.username} />
+      <AppHeader username={user.username} role={user.role} />
       <main className="mx-auto w-full max-w-5xl px-6 py-10">
         <section className="relative overflow-hidden rounded-3xl bg-gradient-to-br from-[#2a1a8f] via-brand to-brand-2 p-8 text-white shadow-xl shadow-brand/20 sm:p-10">
           <div className="drift absolute -top-16 -right-10 h-64 w-64 rounded-full bg-accent/30 blur-3xl" />
@@ -107,9 +105,10 @@ export default async function DashboardPage() {
               {stats.recent.map((r) => {
                 const p = r.total ? (r.score / r.total) * 100 : 0;
                 return (
-                  <li key={r.id} className="flex items-center gap-4 px-5 py-4">
+                  <li key={`${r.type}-${r.id}`}>
+                    <Link href={`/history/${r.type}/${r.id}`} className="flex items-center gap-4 px-5 py-4 transition hover:bg-background">
                     <div className="min-w-0 flex-1">
-                      <p className="text-sm text-muted">{dateFmt.format(r.at)}</p>
+                      <p className="truncate text-sm"><span className="font-medium">{r.name}</span> <span className="text-muted">· {dateFmt.format(r.at)}</span></p>
                       <div className="mt-2 h-2 overflow-hidden rounded-full bg-border">
                         <div className={`h-full rounded-full ${scoreColor(p)}`} style={{ width: `${p}%` }} />
                       </div>
@@ -118,6 +117,7 @@ export default async function DashboardPage() {
                       {r.score}/{r.total}
                       <span className="ml-2 text-sm font-normal text-muted">{Math.round(p)}%</span>
                     </p>
+                    </Link>
                   </li>
                 );
               })}

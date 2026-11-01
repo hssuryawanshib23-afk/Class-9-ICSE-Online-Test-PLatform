@@ -2,10 +2,10 @@
 
 import { useActionState, useMemo, useState } from "react";
 import { startCustomTest } from "@/app/actions/tests";
+import { availability, ConceptPicker, type ChapterData } from "@/components/ConceptPicker";
 import { splitCounts } from "@/lib/difficulty";
 
-export type ConceptData = { id: number; name: string; easy: number; medium: number; hard: number };
-export type ChapterData = { number: number; name: string; concepts: ConceptData[] };
+export type { ChapterData } from "@/components/ConceptPicker";
 
 const field =
   "w-full rounded-xl border border-border bg-card px-3 py-2.5 text-base outline-none focus:border-brand focus:ring-4 focus:ring-brand/15";
@@ -13,24 +13,13 @@ const field =
 export function PracticeBuilder({ chapters }: { chapters: ChapterData[] }) {
   const [state, action, pending] = useActionState(startCustomTest, undefined);
   const [selected, setSelected] = useState<Set<number>>(new Set());
-  const [open, setOpen] = useState<number | null>(chapters[0]?.number ?? null);
   const [total, setTotal] = useState(20);
   const [duration, setDuration] = useState(30);
   const [easy, setEasy] = useState(30);
   const [medium, setMedium] = useState(30);
   const hard = 100 - easy - medium;
 
-  const avail = useMemo(() => {
-    const a = { easy: 0, medium: 0, hard: 0 };
-    for (const ch of chapters)
-      for (const c of ch.concepts)
-        if (selected.has(c.id)) {
-          a.easy += c.easy;
-          a.medium += c.medium;
-          a.hard += c.hard;
-        }
-    return a;
-  }, [chapters, selected]);
+  const avail = useMemo(() => availability(chapters, selected), [chapters, selected]);
 
   const availableTotal = avail.easy + avail.medium + avail.hard;
   const need = splitCounts(total, easy, medium);
@@ -59,63 +48,7 @@ export function PracticeBuilder({ chapters }: { chapters: ChapterData[] }) {
 
   return (
     <form action={action} className="mt-8 grid gap-8 lg:grid-cols-[1.4fr_1fr]">
-      <section aria-label="Concepts" className="space-y-3">
-        {chapters.map((ch) => {
-          const ids = ch.concepts.map((c) => c.id);
-          const count = ids.filter((id) => selected.has(id)).length;
-          const isOpen = open === ch.number;
-          return (
-            <div key={ch.number} className="overflow-hidden rounded-2xl border border-border bg-card">
-              <button
-                type="button"
-                onClick={() => setOpen(isOpen ? null : ch.number)}
-                aria-expanded={isOpen}
-                className="flex w-full items-center justify-between gap-3 px-5 py-4 text-left"
-              >
-                <span>
-                  <span className="text-sm text-muted">Chapter {ch.number}</span>
-                  <span className="block font-semibold">{ch.name}</span>
-                </span>
-                <span className="flex items-center gap-3 text-sm">
-                  {count > 0 && <span className="rounded-full bg-brand/10 px-2.5 py-0.5 font-medium text-brand">{count} selected</span>}
-                  <span aria-hidden>{isOpen ? "−" : "+"}</span>
-                </span>
-              </button>
-              {isOpen && (
-                <div className="border-t border-border px-5 py-4">
-                  <label className="mb-3 flex items-center gap-3 font-medium">
-                    <input
-                      type="checkbox"
-                      className="h-4 w-4 accent-[var(--brand)]"
-                      checked={count === ids.length}
-                      onChange={(e) => toggle(ids, e.target.checked)}
-                    />
-                    Select all
-                  </label>
-                  <ul className="space-y-2">
-                    {ch.concepts.map((c) => (
-                      <li key={c.id}>
-                        <label className="flex items-start gap-3">
-                          <input
-                            type="checkbox"
-                            name="concept"
-                            value={c.id}
-                            className="mt-1 h-4 w-4 accent-[var(--brand)]"
-                            checked={selected.has(c.id)}
-                            onChange={(e) => toggle([c.id], e.target.checked)}
-                          />
-                          <span className="flex-1">{c.name}</span>
-                          <span className="text-sm text-muted tabular-nums">{c.easy + c.medium + c.hard} Q</span>
-                        </label>
-                      </li>
-                    ))}
-                  </ul>
-                </div>
-              )}
-            </div>
-          );
-        })}
-      </section>
+      <ConceptPicker chapters={chapters} selected={selected} onToggle={toggle} />
 
       <aside className="h-fit space-y-5 rounded-2xl border border-border bg-card p-6 lg:sticky lg:top-20">
         <h2 className="text-lg font-bold">Test settings</h2>

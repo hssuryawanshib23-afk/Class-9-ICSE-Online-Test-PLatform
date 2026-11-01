@@ -23,6 +23,7 @@ export default function LoginPage() {
           {state?.errors?.username && <p className="mt-1 text-sm text-bad">{state.errors.username[0]}</p>}
         </div>
         <PasswordField autoComplete="current-password" error={state?.errors?.password?.[0]} />
+        <p className="-mt-2 text-right text-sm"><Link href="/forgot-password" className="font-medium text-brand">Forgot password?</Link></p>
         <button type="submit" disabled={pending} className={buttonCls}>
           {pending ? "Logging in…" : "Log in"}
         </button>

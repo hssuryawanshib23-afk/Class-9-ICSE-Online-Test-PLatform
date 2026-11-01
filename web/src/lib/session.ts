@@ -14,7 +14,14 @@ function key() {
   return new TextEncoder().encode(secret);
 }
 
-export type SessionUser = { id: number; username: string; role: string };
+export type SessionUser = {
+  id: number;
+  username: string;
+  role: string;
+  school_name: string | null;
+  class_name: string | null;
+  board_name: string | null;
+};
 
 export async function createSession(userId: number) {
   const token = await new SignJWT({})
@@ -50,7 +57,7 @@ export async function getSession(): Promise<SessionUser | null> {
     const id = Number(payload.sub);
     if (!Number.isInteger(id)) return null;
     const rows = await query<SessionUser>(
-      "SELECT id, username, role FROM users WHERE id = $1",
+      "SELECT id, username, role, school_name, class_name, board_name FROM users WHERE id = $1",
       [id],
     );
     return rows[0] ?? null;

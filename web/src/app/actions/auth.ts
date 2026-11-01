@@ -5,15 +5,19 @@ import { headers } from "next/headers";
 import { redirect } from "next/navigation";
 import bcrypt from "bcryptjs";
 import * as z from "zod";
+import { BOARD_OPTIONS } from "@/lib/boards";
 import { query } from "@/lib/db";
 import { createSession, destroySession } from "@/lib/session";
 import { clearFailures, isLocked, recordFailure } from "@/lib/throttle";
+import { passwordRule } from "@/lib/validation";
 
 export type FormState =
   | {
       errors?: Record<string, string[] | undefined>;
       message?: string;
       recoveryCode?: string;
+      // Shown once to an admin after resetting a student's password.
+      tempPassword?: string;
       // Echoed back so React 19's post-action form reset does not wipe what the user typed. Never the password.
       values?: Record<string, string>;
     }
@@ -30,15 +34,10 @@ const SignupSchema = z.object({
     .max(30, "At most 30 characters")
     .regex(/^[A-Za-z0-9_.-]+$/, "Letters, numbers, . _ - only"),
   phone_number: z.string().trim().regex(/^[6-9]\d{9}$/, "Enter a 10-digit mobile number"),
-  password: z
-    .string()
-    .min(8, "At least 8 characters")
-    .max(72, "At most 72 characters")
-    .regex(/[A-Za-z]/, "Include a letter")
-    .regex(/\d/, "Include a number"),
-  school_name: z.string().trim().max(255).optional(),
-  class_name: z.string().trim().max(50).optional(),
-  board_name: z.string().trim().max(100).optional(),
+  password: passwordRule,
+  school_name: z.string().trim().min(1, "Enter your school").max(255),
+  class_name: z.string().trim().min(1, "Enter your class").max(50),
+  board_name: z.enum(BOARD_OPTIONS, { error: "Choose a board" }),
 });
 
 const LoginSchema = z.object({
@@ -60,9 +59,9 @@ export async function signup(_prev: FormState, formData: FormData): Promise<Form
     username: formData.get("username"),
     phone_number: formData.get("phone_number"),
     password: formData.get("password"),
-    school_name: formData.get("school_name") || undefined,
-    class_name: formData.get("class_name") || undefined,
-    board_name: formData.get("board_name") || undefined,
+    school_name: formData.get("school_name"),
+    class_name: formData.get("class_name"),
+    board_name: formData.get("board_name"),
   });
   const values = echo(formData, ["username", "phone_number", "school_name", "class_name", "board_name"]);
   if (!parsed.success) return { errors: z.flattenError(parsed.error).fieldErrors, values };
@@ -87,7 +86,7 @@ export async function signup(_prev: FormState, formData: FormData): Promise<Form
     rows = await query<{ id: number }>(
       `INSERT INTO users (username, phone_number, password_hash, role, school_name, class_name, board_name, recovery_code, created_at)
        VALUES ($1, $2, $3, 'student', $4, $5, $6, $7, CURRENT_TIMESTAMP) RETURNING id`,
-      [d.username, d.phone_number, hash, d.school_name ?? null, d.class_name ?? null, d.board_name ?? null, recoveryCode],
+      [d.username, d.phone_number, hash, d.school_name, d.class_name, d.board_name, recoveryCode],
     );
   } catch (err) {
     // Two signups with the same phone number racing past the check above.

@@ -1,8 +1,7 @@
-import { redirect } from "next/navigation";
 import { startAdminTest } from "@/app/actions/tests";
 import { AppHeader } from "@/components/AppHeader";
 import { query } from "@/lib/db";
-import { getSession } from "@/lib/session";
+import { requireStudent } from "@/lib/guards";
 
 // Reads the session on every request, so it cannot be prerendered.
 export const instant = false;
@@ -24,8 +23,7 @@ type AdminTest = {
 const dateFmt = new Intl.DateTimeFormat("en-IN", { day: "numeric", month: "short", year: "numeric", timeZone: "Asia/Kolkata" });
 
 export default async function TestsPage() {
-  const user = await getSession();
-  if (!user) redirect("/login");
+  const user = await requireStudent();
 
   const tests = await query<AdminTest>(
     `SELECT t.admin_test_id, t.test_name, t.total_questions, t.duration_minutes,
@@ -41,7 +39,7 @@ export default async function TestsPage() {
 
   return (
     <>
-      <AppHeader username={user.username} />
+      <AppHeader username={user.username} role={user.role} />
       <main className="mx-auto w-full max-w-5xl px-6 py-10">
         <p className="text-sm font-medium text-brand">Tests</p>
         <h1 className="mt-1 text-3xl font-bold tracking-tight">Tests from your teachers</h1>

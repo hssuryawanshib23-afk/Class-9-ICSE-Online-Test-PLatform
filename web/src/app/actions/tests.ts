@@ -3,6 +3,7 @@
 import { redirect } from "next/navigation";
 import * as z from "zod";
 import { query } from "@/lib/db";
+import { requireStudent } from "@/lib/guards";
 import { getSession } from "@/lib/session";
 import { deadlineMs, finalizeSession, loadSession, saveAnswers } from "@/lib/sessions";
 import { generateFromConcepts, withOptionOrder } from "@/lib/testEngine";
@@ -20,14 +21,8 @@ const CustomSchema = z
   })
   .refine((d) => d.easy + d.medium + d.hard === 100, { message: "Difficulty must add up to 100%" });
 
-async function requireUser() {
-  const user = await getSession();
-  if (!user) redirect("/login");
-  return user;
-}
-
 export async function startCustomTest(_prev: StartState, formData: FormData): Promise<StartState> {
-  const user = await requireUser();
+  const user = await requireStudent();
 
   const parsed = CustomSchema.safeParse({
     concepts: formData.getAll("concept"),
@@ -56,7 +51,7 @@ export async function startCustomTest(_prev: StartState, formData: FormData): Pr
 }
 
 export async function startAdminTest(formData: FormData) {
-  const user = await requireUser();
+  const user = await requireStudent();
   const adminTestId = Number(formData.get("admin_test_id"));
   if (!Number.isInteger(adminTestId)) redirect("/tests");
 
@@ -105,7 +100,7 @@ export async function autosaveAnswers(sessionId: string, answers: Record<string,
 }
 
 export async function submitTest(sessionId: string, answers: Record<string, string>) {
-  const user = await requireUser();
+  const user = await requireStudent();
   const s = await loadSession(sessionId, user.id);
   if (!s) redirect("/dashboard");
   await finalizeSession(sessionId, user.id, answers);

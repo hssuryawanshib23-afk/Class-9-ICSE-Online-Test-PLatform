@@ -1,15 +1,14 @@
 import { redirect } from "next/navigation";
 import { TestRunner, type RunnerQuestion } from "@/components/TestRunner";
 import { query } from "@/lib/db";
-import { getSession } from "@/lib/session";
+import { requireStudent } from "@/lib/guards";
 import { deadlineMs, finalizeSession, isPastGrace, loadSession, nowMs } from "@/lib/sessions";
 
 // Reads the session on every request, so it cannot be prerendered.
 export const instant = false;
 
 export default async function TestPage({ params }: PageProps<"/test/[id]">) {
-  const user = await getSession();
-  if (!user) redirect("/login");
+  const user = await requireStudent();
 
   const { id } = await params;
   const s = await loadSession(id, user.id);

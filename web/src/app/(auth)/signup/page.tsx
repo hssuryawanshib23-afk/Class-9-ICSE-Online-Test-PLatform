@@ -5,13 +5,14 @@ import { useActionState } from "react";
 import { signup } from "@/app/actions/auth";
 import { AuthShell, buttonCls, inputCls } from "@/components/AuthShell";
 import { PasswordField } from "@/components/PasswordField";
+import { BOARD_OPTIONS } from "@/lib/boards";
 
 const FIELDS = [
   { name: "username", label: "Username", type: "text", auto: "username", required: true },
   { name: "phone_number", label: "Mobile number", type: "tel", auto: "tel-national", required: true },
 ] as const;
 
-const SCHOOL = { name: "school_name", label: "School (optional)", type: "text", auto: "organization", required: false } as const;
+const SCHOOL = { name: "school_name", label: "School", type: "text", auto: "organization", required: true } as const;
 
 export default function SignupPage() {
   const [state, action, pending] = useActionState(signup, undefined);
@@ -54,16 +55,13 @@ export default function SignupPage() {
         <div className="grid grid-cols-2 gap-4">
           <div>
             <label htmlFor="class_name" className="mb-1.5 block text-sm font-medium">Class</label>
-            <select id="class_name" name="class_name" defaultValue={state?.values?.class_name ?? "9"} className={inputCls}>
-              <option value="9">9</option>
-              <option value="10">10</option>
-            </select>
+            <input id="class_name" name="class_name" defaultValue={state?.values?.class_name ?? "9"} className={inputCls} />
+            {state?.errors?.class_name && <p className="mt-1 text-sm text-bad">{state.errors.class_name[0]}</p>}
           </div>
           <div>
             <label htmlFor="board_name" className="mb-1.5 block text-sm font-medium">Board</label>
             <select id="board_name" name="board_name" defaultValue={state?.values?.board_name ?? "ICSE"} className={inputCls}>
-              <option value="ICSE">ICSE</option>
-              <option value="CBSE">CBSE</option>
+              {BOARD_OPTIONS.map((b) => <option key={b} value={b}>{b}</option>)}
             </select>
           </div>
         </div>

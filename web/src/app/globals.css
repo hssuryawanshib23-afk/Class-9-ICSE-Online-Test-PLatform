@@ -58,3 +58,8 @@ body {
 @media (prefers-reduced-motion: reduce) {
   .float, .drift { animation: none; }
 }
+
+/* Room for the fixed bottom tab bar on phones. */
+@media (max-width: 639px) {
+  body { padding-bottom: calc(4.25rem + env(safe-area-inset-bottom)); }
+}
