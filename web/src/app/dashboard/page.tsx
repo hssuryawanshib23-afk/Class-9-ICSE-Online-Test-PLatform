@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { redirect } from "next/navigation";
 import { AppHeader } from "@/components/AppHeader";
 import { getSession } from "@/lib/session";
@@ -75,16 +76,20 @@ export default async function DashboardPage() {
           {subjects.map((s) => {
             const style = SUBJECT_STYLE[s.subject] ?? SUBJECT_STYLE.Physics;
             return (
-              <article key={s.subject} className={`rounded-2xl bg-gradient-to-br ${style.grad} p-6 text-white shadow-lg`}>
+              <Link
+                key={s.subject}
+                href={`/practice?subject=${encodeURIComponent(s.subject)}`}
+                className={`block rounded-2xl bg-gradient-to-br ${style.grad} p-6 text-white shadow-lg transition hover:-translate-y-0.5 hover:shadow-xl`}
+              >
                 <div className="flex items-start justify-between gap-3">
                   <span className="grid h-12 w-12 shrink-0 place-items-center rounded-2xl bg-white/20 text-2xl">{style.icon}</span>
-                  <span className="rounded-full bg-white/20 px-3 py-1 text-right text-xs font-medium">Practice opening soon</span>
+                  <span className="rounded-full bg-white/20 px-3 py-1 text-right text-xs font-medium">Start practice →</span>
                 </div>
                 <h3 className="mt-5 text-2xl font-bold">{s.subject}</h3>
                 <p className="mt-1 text-white/80">
                   {s.chapters} chapters · {s.questions.toLocaleString("en-IN")} questions
                 </p>
-              </article>
+              </Link>
             );
           })}
         </section>

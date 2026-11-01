@@ -1,4 +1,4 @@
-import { Pool, type QueryResultRow } from "pg";
+import { Pool, type PoolClient, type QueryResultRow } from "pg";
 
 const globalForPg = globalThis as unknown as { pgPool?: Pool };
 
@@ -19,4 +19,20 @@ export async function query<T extends QueryResultRow = QueryResultRow>(
 ): Promise<T[]> {
   const res = await pool().query<T>(text, params);
   return res.rows;
+}
+
+/** Runs fn inside a transaction on a dedicated connection; rolls back on any error. */
+export async function withTx<T>(fn: (client: PoolClient) => Promise<T>): Promise<T> {
+  const client = await pool().connect();
+  try {
+    await client.query("BEGIN");
+    const out = await fn(client);
+    await client.query("COMMIT");
+    return out;
+  } catch (err) {
+    await client.query("ROLLBACK").catch(() => {});
+    throw err;
+  } finally {
+    client.release();
+  }
 }

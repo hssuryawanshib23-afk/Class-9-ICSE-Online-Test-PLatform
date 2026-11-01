@@ -1,12 +1,16 @@
 import { logout } from "@/app/actions/auth";
+import { NavLinks } from "@/components/NavLinks";
 
 export function AppHeader({ username }: { username: string }) {
   return (
     <header className="sticky top-0 z-10 border-b border-border bg-background/80 backdrop-blur">
       <div className="mx-auto flex max-w-5xl items-center justify-between px-6 py-3">
-        <div className="flex items-center gap-3 font-semibold tracking-tight">
-          <span className="grid h-9 w-9 place-items-center rounded-xl bg-brand text-white">✦</span>
-          ICSE Ace
+        <div className="flex items-center gap-6">
+          <div className="flex items-center gap-3 font-semibold tracking-tight">
+            <span className="grid h-9 w-9 place-items-center rounded-xl bg-brand text-white">✦</span>
+            <span className="hidden sm:inline">ICSE Ace</span>
+          </div>
+          <NavLinks />
         </div>
         <div className="flex items-center gap-3">
           <span className="hidden items-center gap-2 rounded-full border border-border bg-card py-1 pr-3 pl-1 text-sm sm:flex">

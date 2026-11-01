@@ -4,8 +4,12 @@ The app is one Next.js project. It talks directly to your Neon Postgres, so ther
 Your existing Streamlit app keeps running untouched until you decide to switch.
 
 ## 1. One-time database step (safe, additive)
-Open the Neon SQL editor and run `migrations/001_login_attempts.sql`.
-It only creates a new table (`login_attempts`) used for login throttling. The Streamlit app never touches it.
+Open the Neon SQL editor and run, in order:
+1. `migrations/001_login_attempts.sql` (new table `login_attempts`, used for login throttling)
+2. `migrations/002_test_sessions.sql` (new table `test_sessions`, holds tests in progress)
+
+Both only create new tables; no existing table is changed and the Streamlit app never touches them.
+Do this before the first deploy, otherwise login lockout and starting a test will fail.
 
 ## 2. Deploy on Vercel
 1. Go to vercel.com, sign in with GitHub, click **Add New → Project**, and import this repository.
